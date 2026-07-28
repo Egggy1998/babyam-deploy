@@ -1,0 +1,82 @@
+{
+  "path": "safety/car-safety/child-car-seats-taxis-rideshare-buses",
+  "title": "Ghế xe trẻ em trên taxi, dịch vụ gọi xe và xe buýt",
+  "subtitle": "Luật về ghế xe trẻ em trên taxi, dịch vụ gọi xe và xe buýt khác nhau giữa các bang và vùng lãnh thổ ở Úc. Bài viết giải thích các quy định và biện pháp an toàn.",
+  "sections": [
+    {
+      "h": "Luật ở Úc về ghế xe trẻ em trên taxi, xe gọi qua app và xe buýt",
+      "blocks": [
+        {"t": "p", "text": "Ở Úc, có những luật về việc sử dụng ghế xe trẻ em trên taxi, dịch vụ gọi xe (rideshare) và xe buýt. Các luật này khác nhau giữa các bang và vùng lãnh thổ."}
+      ]
+    },
+    {
+      "h": "Ghế xe trẻ em trên taxi",
+      "blocks": []
+    },
+    {
+      "h": "Luật ở tất cả các bang và vùng lãnh thổ trừ New South Wales",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Taxi phải có ít nhất một điểm neo ghế xe trẻ em, mặc dù không bắt buộc phải cung cấp ghế xe.",
+          "Tất cả taxi có thể tiếp cận cho xe lăn đều phải cung cấp ghế xe.",
+          "Trẻ dưới 7 tuổi phải ngồi ở hàng ghế thứ hai và dùng ghế xe nếu có sẵn.",
+          "Trẻ dưới một tuổi có thể ngồi trên đùi một hành khách từ 16 tuổi trở lên nếu không có ghế xe.",
+          "Trẻ từ 1 đến 7 tuổi phải đeo dây an toàn người lớn loại đai ngang đùi và đai chéo vai được cài đúng cách nếu không có ghế xe."
+        ]}
+      ]
+    },
+    {
+      "h": "Luật ở New South Wales",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Trẻ dưới một tuổi phải dùng ghế xe.",
+          "Trẻ từ 1 đến 7 tuổi phải ngồi ở hàng ghế thứ hai và dùng ghế xe nếu có sẵn.",
+          "Trẻ từ 1 đến 7 tuổi phải đeo dây an toàn người lớn loại đai ngang đùi và đai chéo vai được cài đúng cách nếu không có ghế xe."
+        ]}
+      ]
+    },
+    {
+      "h": "Biện pháp an toàn bổ sung",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Dùng ghế xe trẻ em của riêng bạn. Chỉ cần báo trước cho dịch vụ taxi.",
+          "Cho trẻ từ 12 tuổi trở xuống ngồi ở hàng ghế thứ hai."
+        ]},
+        {"t": "p", "text": "Luôn an toàn nhất khi con dùng ghế xe khi di chuyển bằng taxi. Lên kế hoạch cho chuyến đi có thể giúp ích cho việc này. Nếu bạn không thể dùng ghế xe của riêng mình, bạn có thể tìm trên mạng một dịch vụ taxi có cung cấp ghế xe. Nếu taxi cung cấp một ghế xe phù hợp và đã được phê duyệt, con bạn phải dùng nó."}
+      ]
+    },
+    {
+      "h": "Ghế xe trẻ em trên dịch vụ gọi xe",
+      "blocks": []
+    },
+    {
+      "h": "Luật ở hầu hết các bang và vùng lãnh thổ của Úc",
+      "blocks": [
+        {"t": "p", "text": "Ở hầu hết các bang và vùng lãnh thổ, các luật áp dụng cho xe riêng cũng áp dụng cho dịch vụ gọi xe."},
+        {"t": "p", "text": "Điều này nghĩa là mọi trẻ dưới 7 tuổi phải ngồi trong ghế xe trẻ em đúng kích cỡ và được lắp đặt, điều chỉnh để vừa vặn và cài đặt đúng cách."},
+        {"t": "p", "text": "Một số dịch vụ gọi xe có cung cấp ghế xe với một khoản phí thêm. Nếu bạn dùng một dịch vụ không cung cấp ghế xe, hãy dùng ghế của riêng mình. Nếu bạn cần đi cùng con mà không có ghế xe, dịch vụ có thể từ chối chở bạn và con."}
+      ]
+    },
+    {
+      "h": "Luật ở Queensland và Western Australia",
+      "blocks": [
+        {"t": "p", "text": "Ở Queensland và Western Australia, các luật áp dụng cho taxi cũng áp dụng cho dịch vụ gọi xe."}
+      ]
+    },
+    {
+      "h": "Ghế xe trẻ em trên xe buýt",
+      "blocks": [
+        {"t": "p", "text": "Xe buýt là phương tiện có hơn 12 chỗ ngồi, bao gồm cả tài xế. Trẻ không bắt buộc phải dùng ghế xe trẻ em trên xe buýt, nhưng việc này được khuyến nghị."},
+        {"t": "p", "text": "Xe buýt không bắt buộc phải có điểm neo ghế xe và không phải cung cấp hay lắp đặt ghế xe. Nếu bạn muốn con dùng ghế xe trên xe buýt, hãy kiểm tra xem xe buýt có điểm neo không. Bạn sẽ phải tự cung cấp và lắp đặt ghế xe."},
+        {"t": "p", "text": "Ở tất cả các bang và vùng lãnh thổ, các luật áp dụng cho xe riêng cũng áp dụng cho xe buýt vận tải cộng đồng và xe van chở khách có 12 chỗ ngồi trở xuống."},
+        {"t": "p", "text": "Luật giao thông cho các loại phương tiện khác nhau ở từng bang và vùng lãnh thổ có thể thay đổi theo thời gian. Bạn nên cập nhật luật giao thông ở bang hoặc vùng lãnh thổ của mình. Điều này sẽ đảm bảo bạn và con luôn an toàn khi di chuyển."}
+      ]
+    },
+    {
+      "h": "Trẻ khuyết tật, có bệnh lý hoặc nhu cầu khác",
+      "blocks": [
+        {"t": "p", "text": "Nếu con bạn bị khuyết tật, có bệnh lý hoặc nhu cầu khác và dùng ghế xe trẻ em được điều chỉnh hoặc dành riêng cho mục đích đặc biệt, bạn nên liên hệ với dịch vụ taxi, gọi xe hoặc xe buýt để hỏi cách họ có thể đáp ứng nhu cầu di chuyển của con một cách an toàn."}
+      ]
+    }
+  ]
+}

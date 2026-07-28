@@ -1,0 +1,58 @@
+{
+  "path": "parenting-in-pictures/shoelaces",
+  "title": "Cách buộc dây giày: dạy trẻ từng bước",
+  "subtitle": "Hướng dẫn từng bước phương pháp 'tai thỏ' giúp trẻ học buộc dây giày một cách dễ dàng.",
+  "sections": [
+    {
+      "h": "Cách buộc dây giày: tạo nút thắt đầu tiên",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Buộc dây giày là một kỹ năng quan trọng khi mặc quần áo. Phương pháp 'tai thỏ' là một cách buộc dây giày phổ biến. Bước đầu tiên là cầm một sợi dây vào mỗi tay."
+        },
+        {
+          "t": "p",
+          "text": "Bắt chéo sợi dây đen lên trên sợi dây đỏ ở giữa hai sợi dây."
+        },
+        {
+          "t": "p",
+          "text": "Lấy đầu sợi dây đen đặt lên trên sợi dây đỏ. Sau đó luồn nó xuống dưới sợi dây đỏ."
+        }
+      ]
+    },
+    {
+      "h": "Cách buộc dây giày: tạo 'tai thỏ'",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Giữ hai đầu sợi dây đỏ và dây đen rồi kéo chặt để tạo nút thắt. Nút thắt phải nằm gần thân giày."
+        },
+        {
+          "t": "p",
+          "text": "Lấy sợi dây đen tạo thành một vòng nhỏ, hay còn gọi là 'tai thỏ'. Tai thỏ đen này phải có một đuôi dài."
+        },
+        {
+          "t": "p",
+          "text": "Lấy sợi dây đỏ tạo thành một vòng nhỏ, hay còn gọi là 'tai thỏ'. Tai thỏ đỏ này phải có một đuôi dài."
+        }
+      ]
+    },
+    {
+      "h": "Cách buộc dây giày: thắt nút hai 'tai thỏ'",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bắt chéo phần giữa tai thỏ đen lên trên phần giữa tai thỏ đỏ."
+        },
+        {
+          "t": "p",
+          "text": "Lấy phần đầu tai thỏ đỏ đặt lên trên tai thỏ đen. Sau đó luồn nó qua lỗ hổng bên dưới."
+        },
+        {
+          "t": "p",
+          "text": "Đút ngón tay vào hai đầu vòng tai thỏ rồi giữ chặt và kéo căng. Bạn đã thắt xong hai vòng thành nút. Dây giày đã được buộc xong."
+        }
+      ]
+    }
+  ]
+}

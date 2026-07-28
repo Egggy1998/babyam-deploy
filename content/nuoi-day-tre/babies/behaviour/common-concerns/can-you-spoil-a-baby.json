@@ -1,0 +1,42 @@
+{
+ "path": "behaviour/common-concerns/can-you-spoil-a-baby",
+ "title": "Bạn có thể làm hư em bé không?",
+ "subtitle": "Vì sao đáp ứng nhu cầu của bé không hề làm bé hư",
+ "sections": [
+  {
+   "h": "Bạn có thể làm hư em bé không?",
+   "blocks": [
+    {"t": "p", "text": "Câu trả lời cho câu hỏi này là \"Không!\""},
+    {"t": "p", "text": "Nếu bé quấy khóc hoặc cáu kỉnh, có thể là vì bé lạnh hoặc đói, tã bẩn, đang đau hoặc cần được vỗ về. Hoặc đơn giản là bé muốn biết bạn đang ở gần. Bé phụ thuộc vào bạn và những người chăm sóc khác để được đáp ứng những gì cần cho sự phát triển khỏe mạnh."},
+    {"t": "p", "text": "Nếu bạn bình tĩnh và nhất quán đáp lại những lời gọi đòi chú ý của bé, bằng cách giải quyết nhu cầu của bé hoặc chỉ đơn giản là có mặt bên bé, bé sẽ nhanh chóng học được rằng có thể tin tưởng bạn sẽ đáp ứng nhu cầu của mình. Và điều này giúp bé trở nên an toàn và tự tin theo thời gian."},
+    {"t": "p", "text": "Những em bé có mối quan hệ nhất quán và nuôi dưỡng yêu thương từ sớm trong đời sẽ hình thành sự gắn bó an toàn với người chăm sóc. Những em bé này thường ứng phó với căng thẳng tốt hơn khi lớn lên. Trẻ cũng có xu hướng hòa thuận hơn với những đứa trẻ khác. Và trẻ có nhiều khả năng khỏe mạnh hơn cả về thể chất lẫn cảm xúc khi trưởng thành."},
+    {"t": "p", "text": "Những người lớn khác cũng có thể góp phần chăm sóc và đáp ứng nhu cầu của bé. Và việc gắn kết với nhiều hơn một người giúp bé học về sự tin tưởng và gần gũi với mọi người. Vì vậy, hãy cứ nhờ giúp đỡ và nghỉ ngơi đôi chút khi cần."}
+   ]
+  },
+  {
+   "h": "Vì sao bạn không thể làm hư em bé",
+   "blocks": [
+    {"t": "p", "text": "Em bé cần rất nhiều sự chú ý."},
+    {"t": "p", "text": "Bạn có thể lo lắng, hoặc người khác có thể bảo bạn, rằng nếu cho bé quá nhiều sự chú ý thì sẽ làm bé hư. Nhưng em bé còn quá nhỏ để tự giải quyết vấn đề của mình. Vì vậy, không nên phớt lờ bé khi bé đang cáu kỉnh."},
+    {"t": "p", "text": "Cho nên, bạn sẽ không tạo ra thói quen xấu khi đáp ứng nhu cầu của bé."}
+   ]
+  },
+  {
+   "h": "Giấc ngủ của bé: điều cần biết",
+   "blocks": [
+    {"t": "p", "text": "Nếu bé không chịu yên và bạn lo lắng về việc cho bé quá nhiều sự chú ý, bạn nên biết những điều cần kỳ vọng về giấc ngủ của trẻ sơ sinh và trẻ nhỏ."},
+    {"t": "p", "text": "Trẻ nhỏ ngủ 14-17 giờ trong mỗi 24 giờ, nhưng có thể ngủ thành những giấc ngắn. Trong vài tuần đầu, khi bạn và bé đang làm quen với nhau, bạn có thể áp dụng các kỹ thuật dỗ ngủ có đáp ứng để giúp bé học cách ngủ lâu hơn trong tương lai."},
+    {"t": "p", "text": "Với giấc ngủ và thời gian thức của bé, điều quan trọng là linh hoạt và đi theo nhịp của bé, bao gồm cả việc vỗ về bé khi bé cần."},
+    {"t": "p", "text": "Các tín hiệu và ngôn ngữ cơ thể của bé sẽ giúp bạn hiểu được bé muốn ngủ, muốn bú hay muốn tương tác với bạn. Việc hiểu các tín hiệu của bé cần luyện tập, và sẽ có những lúc bạn không biết bé muốn gì. Những phản ứng ấm áp và nhẹ nhàng từ bạn luôn giúp bé cảm thấy an toàn."}
+   ]
+  },
+  {
+   "h": "Việc bú của bé: điều cần biết",
+   "blocks": [
+    {"t": "p", "text": "Nếu bạn cảm thấy bé khóc đòi bú liên tục, có lẽ bạn đúng. Trong những ngày đầu, trẻ thường cần bú mỗi 2-4 giờ. Đáp ứng và cho bé những gì bé cần là điều then chốt."},
+    {"t": "p", "text": "Bạn sẽ yên tâm khi biết rằng hầu hết các bé sẽ hình thành một nếp bú trong vài tuần đầu đời. Theo thời gian, bé học cách bú phần lớn vào ban ngày và bú ít hơn vào ban đêm, nên mọi thứ sẽ dần dễ dàng hơn."},
+    {"t": "p", "text": "Một giờ bú bình yên và vui vẻ là cơ hội tuyệt vời để bạn gắn kết với bé và xây dựng mối quan hệ ấm áp, tin cậy vốn rất quan trọng cho sự phát triển của bé."}
+   ]
+  }
+ ]
+}

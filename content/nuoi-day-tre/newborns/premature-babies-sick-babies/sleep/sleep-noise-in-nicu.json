@@ -1,0 +1,26 @@
+{
+  "path": "premature-babies-sick-babies/sleep/sleep-noise-in-nicu",
+  "title": "Tiếng ồn trong NICU và giấc ngủ của bé bị bệnh hoặc sinh non",
+  "subtitle": "Tiếng ồn ảnh hưởng đến giấc ngủ của bé và cách giảm tiếng ồn",
+  "sections": [
+    {"h": "Tiếng ồn trong NICU ảnh hưởng đến giấc ngủ của bé bị bệnh hoặc sinh non thế nào", "blocks": [
+      {"t":"p","text":"Khoa hồi sức sơ sinh (NICU) có thể là một nơi ồn ào. Nhân viên cố gắng hết sức để giữ yên tĩnh và tuân theo các hướng dẫn nhằm giảm thiểu tiếng ồn. Nhưng đôi khi tiếng ồn trong NICU có thể vượt quá mức lý tưởng, điều này có thể gây căng thẳng, khó chịu và ảnh hưởng đến giấc ngủ của bé bị bệnh hoặc sinh non."},
+      {"t":"p","text":"Nếu có quá nhiều tiếng ồn, bé bị bệnh hoặc sinh non có thể không ngủ được lâu hoặc ngon giấc, hoặc tiếng ồn có thể liên tục đánh thức bé."},
+      {"t":"p","text":"Một điều khác có thể khiến bé không ngủ ngon là bị đánh thức để điều trị y tế."},
+      {"t":"p","text":"Khi bé ngủ ngon và bình tĩnh, điều đó tốt cho sức khỏe, sự tăng trưởng và phát triển của bé."},
+      {"t":"p","text":"Bé bị bệnh hoặc sinh non có thể nhắm mắt, quay đi khỏi bạn hoặc trở nên bồn chồn để phản ứng với tiếng ồn. Điều này có thể giúp bé trong môi trường ồn ào, nhưng cũng có thể cản trở sự gắn kết với bé. Vì vậy, hãy tận dụng những lúc bé tỉnh táo và thư thái để trò chuyện với bé."}
+    ]},
+    {"h": "Giữ yên tĩnh trong NICU", "blocks": [
+      {"t":"p","text":"Các khoa hồi sức sơ sinh (NICU) được xây dựng và bố trí nội thất để giảm thiểu tiếng ồn."},
+      {"t":"p","text":"Ví dụ, đôi khi thảm được sử dụng vì nó hấp thụ tiếng ồn, dù phải làm sạch bằng máy hút bụi gây ồn. Khăn giấy kéo rời thường được dùng thay cho khăn giấy xé, và hộp nhựa có thể được dùng thay cho hộp kim loại. Có thể đặt những tấm phủ có đệm lên trên lồng ấp."},
+      {"t":"p","text":"Nhân viên cũng nỗ lực để giảm tiếng ồn. Ví dụ, họ luôn cố gắng đóng cửa nhỏ trên lồng ấp một cách nhẹ nhàng, thường xuyên loại bỏ nước khỏi máy thở để giảm tiếng sủi bọt, phản ứng nhanh với chuông báo, và mở bao bì ở xa lồng ấp."},
+      {"t":"p","text":"Một số NICU có lồng ấp hoặc máy đứng riêng để đo tiếng ồn và cảnh báo nhân viên cùng gia đình khi mức tiếng ồn quá cao. Và một số NICU dùng nút bịt tai để che tai bé trong một số thủ thuật hoặc vào những thời điểm nhất định trong ngày hay đêm."},
+      {"t":"p","text":"Các NICU cũng có thể có những khoảng thời gian yên tĩnh mỗi ngày."}
+    ]},
+    {"h": "Bạn có thể làm gì để giúp giảm tiếng ồn trong NICU", "blocks": [
+      {"t":"p","text":"Bên cạnh việc tương tác nhẹ nhàng với bé bị bệnh hoặc sinh non, bạn có thể lưu ý đến mức tiếng ồn trong khoa hồi sức sơ sinh (NICU)."},
+      {"t":"p","text":"Nếu bạn thấy quá ồn, bạn có thể hỏi nhân viên về cách cùng nhau giảm mức tiếng ồn."},
+      {"t":"p","text":"Bạn cũng có thể cố gắng không nói chuyện với người khác ngang qua nóc lồng ấp của bé hoặc dùng nóc lồng ấp làm kệ để đồ. Và bạn hoàn toàn có thể đề nghị mọi người tránh ra xa, nói nhỏ hơn, hoặc nói chuyện bên ngoài nếu bạn nghĩ họ đang làm phiền bé."}
+    ]}
+  ]
+}

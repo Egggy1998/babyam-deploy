@@ -1,0 +1,58 @@
+{
+ "path": "parenting-in-pictures/personal-hygiene",
+ "title": "Vệ sinh cá nhân cho bé: qua hình ảnh",
+ "subtitle": "Hướng dẫn dạy con các thói quen vệ sinh cá nhân hằng ngày.",
+ "sections": [
+  {
+   "h": "Rửa tay và tắm rửa",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rửa tay giúp ngăn ngừa lây lan vi khuẩn. Hãy dạy con rửa tay sau khi hắt hơi, ho hoặc xì mũi, trước khi chạm vào thức ăn, sau khi đi vệ sinh, sau khi ở nơi công cộng, và sau khi tiếp xúc với người ốm."
+    },
+    {
+     "t": "p",
+     "text": "Tắm hoặc tắm vòi sen thường xuyên giúp con sạch sẽ và khỏe mạnh. Tắm vào cuối ngày cũng có thể là một phần của thói quen trước giờ đi ngủ. Hãy làm cho giờ tắm vui vẻ với các trò chơi và đồ chơi. Đừng bao giờ để con một mình trong bồn tắm."
+    },
+    {
+     "t": "p",
+     "text": "Sau khi tắm, hãy nhẹ nhàng lau khô người con bằng khăn tắm hoặc khăn mềm. Lau khô khắp cơ thể con. Lau khô trước khi mặc quần áo có thể giúp ngăn ngừa hăm da. Trong thời tiết ấm hơn, con có thể để cơ thể tự khô trước khi mặc đồ."
+    }
+   ]
+  },
+  {
+   "h": "Vệ sinh bộ phận sinh dục và đi vệ sinh",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rửa nhẹ nhàng âm hộ của con khi tắm hoặc tắm vòi sen. Rửa từ trước ra sau để giảm nguy cơ nhiễm trùng đường tiết niệu. Âm đạo tự làm sạch – đừng đưa bất cứ thứ gì vào trong."
+    },
+    {
+     "t": "p",
+     "text": "Rửa dương vật và bìu của con giống như cách bạn rửa các bộ phận khác trên cơ thể. Dạy con thường xuyên vệ sinh đầu dương vật. Tránh vệ sinh bên trong bao quy đầu cho đến khi nó tự tuột xuống một cách dễ dàng."
+    },
+    {
+     "t": "p",
+     "text": "Dạy con lau mông bằng giấy vệ sinh. Ban đầu bạn có thể phải giúp con lau. Hãy hướng dẫn con dùng bao nhiêu giấy bằng cách đếm số ô. Con luôn phải lau từ trước ra sau."
+    }
+   ]
+  },
+  {
+   "h": "Vệ sinh răng và mũi",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đánh răng hai lần mỗi ngày, một lần vào buổi sáng và một lần trước khi đi ngủ. Hãy hỏi nha sĩ xem con có cần dùng chỉ nha khoa không."
+    },
+    {
+     "t": "p",
+     "text": "Con nên xì mũi nhẹ nhàng khi bị nghẹt mũi – điều này giúp thở dễ hơn. Bỏ giấy đã dùng vào thùng rác. Rửa tay sau khi xì mũi."
+    },
+    {
+     "t": "p",
+     "text": "Dạy con che mũi và miệng bằng khăn giấy, tay áo hoặc khuỷu tay khi hắt hơi hoặc ho. Bỏ giấy đã dùng vào thùng rác. Rửa tay sau khi hắt hơi hoặc ho."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "play-learning/low-cost-play-ideas/collage-activity-for-children-2-6-years",
+  "title": "Hoạt động cắt dán cho trẻ: 2-6 tuổi",
+  "subtitle": "Cắt dán là hoạt động thủ công đơn giản giúp trẻ phát triển kỹ năng vận động tinh, nhận biết màu sắc và chất liệu.",
+  "sections": [
+    {
+      "h": "Cắt dán: vì sao tốt cho trẻ",
+      "blocks": [
+        {"t": "p", "text": "Cắt dán là một hoạt động thủ công đơn giản, gồm việc dán những vật như lá cây hay ảnh chụp lên một tờ giấy."},
+        {"t": "p", "text": "Làm tranh cắt dán giúp trẻ xây dựng kỹ năng vận động tinh. Đây cũng là cách thú vị để phát triển nhận thức của trẻ về màu sắc và chất liệu. Và nếu bạn trò chuyện với trẻ về bức tranh cắt dán, nó còn giúp phát triển ngôn ngữ cho trẻ."}
+      ]
+    },
+    {
+      "h": "Bạn cần gì cho hoạt động cắt dán",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Giấy",
+          "Keo hoặc hồ dán",
+          "Kéo",
+          "Một bộ sưu tập các vật để cắt dán"
+        ]},
+        {"t": "p", "text": "Vật để cắt dán là bất cứ thứ gì có thể dính lên giấy! Bạn có thể thử:"},
+        {"t": "ul", "items": [
+          "tranh ảnh cắt ra từ tạp chí hoặc tờ rơi",
+          "mẩu giấy vụn, ruy băng hay vải",
+          "kim tuyến, nhũ, dây kim tuyến hoặc giấy bạc",
+          "vật tự nhiên như lá, lông vũ và cát",
+          "dây xù (pipe-cleaner), kẹp giấy, que kem hoặc cúc áo."
+        ]},
+        {"t": "p", "text": "Sao bạn không giữ một \"hộp đồ vặt\" gồm các vật liệu và đồ tái chế để cắt dán và làm các hoạt động thủ công khác? Chỉ cần đảm bảo những \"món đồ vặt\" này an toàn - hãy cẩn thận với nguy cơ hóc nghẹn và nguy cơ ngạt thở hoặc siết cổ."}
+      ]
+    },
+    {
+      "h": "Cách làm tranh cắt dán",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Làm việc trên bàn, và để các vật cắt dán trong khay hoặc hộp nhựa. Việc này giúp bạn kiểm soát được sự bừa bộn.",
+          "Hãy để trẻ dẫn dắt. Trẻ có thể muốn tạo một bức tranh bằng đồ cắt dán - ví dụ, dán lá và giấy để làm thành một khu rừng. Hoặc trẻ chỉ muốn dán các vật thành một họa tiết đẹp. Hãy để trẻ chọn, và khen ngợi trẻ thật nhiều.",
+          "Ngồi bên trẻ trong lúc trẻ sáng tạo. Trò chuyện về những gì trẻ đang làm và đặt câu hỏi. Ví dụ, \"Mẹ thích cách con dùng dải ruy băng xanh làm bầu trời\", hoặc \"Đó là nhà mình đi nghỉ năm ngoái phải không?\" Bạn thậm chí có thể tự làm một bức tranh cắt dán của riêng mình."
+        ]}
+      ]
+    },
+    {
+      "h": "Điều chỉnh hoạt động cắt dán cho trẻ ở các độ tuổi hoặc khả năng khác nhau",
+      "blocks": [
+        {"t": "p", "text": "Trẻ nhỏ hơn có thể chỉ dán được vài món để tạo thành bức tranh. Trẻ có lẽ chưa dùng được kéo, và có thể cần bạn giúp với keo dán. Hãy khen ngợi mọi nỗ lực của trẻ. Khả năng tập trung của trẻ có thể ngắn, nên hãy dọn mọi thứ đi khi thấy trẻ có vẻ đã chơi đủ."},
+        {"t": "p", "text": "Nhiều họa sĩ nổi tiếng cũng dùng kỹ thuật cắt dán. Bạn có thể tìm trên mạng hình ảnh các tác phẩm cắt dán để truyền cảm hứng cho trẻ lớn hơn."},
+        {"t": "p", "text": "Bạn có thể tìm thêm ý tưởng điều chỉnh hoạt động này từ các bài viết của chúng tôi về chơi đùa với trẻ tự kỷ và chơi đùa với trẻ khuyết tật. Tất cả đều có thể điều chỉnh để phù hợp với những trẻ có thế mạnh và khả năng đa dạng."}
+      ]
+    }
+  ]
+}

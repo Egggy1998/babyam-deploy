@@ -1,0 +1,121 @@
+{
+  "path": "safety/poisons/medicines-that-can-poison",
+  "title": "Thuốc và ngộ độc: giữ trẻ an toàn",
+  "subtitle": "Cách cất giữ, cho uống và sử dụng thuốc an toàn để phòng ngừa ngộ độc thuốc ở trẻ.",
+  "sections": [
+    {
+      "h": "Về những loại thuốc có thể gây ngộ độc cho trẻ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Hầu hết các loại thuốc kê đơn và thuốc không kê đơn đều có thể gây độc cho trẻ nếu trẻ dùng quá nhiều hoặc thuốc được dùng không đúng cách."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn nghĩ một đứa trẻ mình đang chăm sóc bị ngộ độc thuốc, hãy giữ bình tĩnh. Gom phần thuốc còn lại, mang theo thuốc hoặc bao bì của nó và bế trẻ đến chỗ điện thoại, rồi gọi Trung tâm Thông tin Chất độc theo số 131 126. Đừng chờ triệu chứng – hãy gọi ngay. Đừng xử trí ngộ độc cho đến khi bạn đã được Trung tâm Thông tin Chất độc tư vấn. Nếu trẻ ngừng phản ứng, ngừng thở hoặc lả đi, hãy gọi xe cấp cứu số 000."
+        }
+      ]
+    },
+    {
+      "h": "Cất giữ thuốc an toàn: chìa khóa để phòng ngừa ngộ độc",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Ngộ độc thường xảy ra khi thuốc được để ở nơi trẻ có thể lấy được."
+        },
+        {
+          "t": "p",
+          "text": "Việc cất thuốc lên cao trong tủ có khóa là rất cần thiết. Nếu có thể, tủ nên cao ít nhất 1,5 m và có khóa chống trẻ mở. Và khi cần dùng thuốc, hãy cất lại vào tủ ngay sau khi dùng. Không bao giờ để thuốc ở nơi trẻ có thể lấy được."
+        },
+        {
+          "t": "p",
+          "text": "Đây là thêm vài mẹo để cất giữ thuốc an toàn:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Giữ tất cả thuốc trong vỏ gốc của chúng.",
+            "Hãy nhờ dược sĩ lắp nắp chống trẻ mở cho các chai thuốc nếu chúng chưa có. Nhưng hãy nhớ rằng nắp chống trẻ mở không phải là không thể mở. Bạn vẫn cần cất những loại thuốc này lên cao trong tủ có khóa.",
+            "Luôn đậy nắp chai đúng cách và ngay sau khi dùng.",
+            "Dùng hộp có khóa cho những loại thuốc cần cất trong tủ lạnh.",
+            "Dọn tủ thuốc thường xuyên. Mang trả những thuốc không dùng đến và hết hạn cho dược sĩ địa phương để thải bỏ an toàn.",
+            "Để riêng cốc đong và ống nhỏ giọt dùng cho thuốc khỏi các dụng cụ nhà bếp khác.",
+            "Tráng các vỏ thuốc rỗng bằng nước trước khi vứt đi hoặc tái chế."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Khi trẻ cần uống thuốc: phòng ngừa ngộ độc thuốc",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con cần uống thuốc, việc phòng ngừa ngộ độc bao gồm kiểm tra để con dùng đúng thuốc, đúng liều lượng, vào đúng thời điểm."
+        },
+        {
+          "t": "p",
+          "text": "Những mẹo sau có thể giúp ích:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nếu con cần uống thuốc, hãy đọc kỹ nhãn, liều dùng và hướng dẫn. Kiểm tra lại mọi thứ trước khi cho con uống.",
+            "Nếu bạn không chắc cho uống bao nhiêu hoặc trong bao lâu, hãy hỏi bác sĩ hoặc dược sĩ. Bạn cũng có thể gọi 1300 MEDICINE, từ 9 giờ sáng đến 5 giờ chiều, thứ Hai đến thứ Sáu, để nói chuyện với dược sĩ có đăng ký hành nghề.",
+            "Kiểm tra để chắc chắn bạn cho con dùng đúng thuốc, nhất là khi con dùng nhiều loại thuốc khác nhau hoặc khi nhiều trẻ trong nhà cùng uống thuốc.",
+            "Nếu có người khác thường xuyên cho con uống thuốc, hãy lập một 'hệ thống kiểm tra' để tránh cho con uống liều đôi. Ghi lại thời gian và liều mỗi lần cho con uống thuốc. Giữ thông tin này cùng với thuốc.",
+            "Đảm bảo bất kỳ ai không thường xuyên cho con uống thuốc đều có đủ thông tin để cho uống đúng cách. Điều này bao gồm những người như người trông trẻ, giáo viên mầm non và những người khác.",
+            "Tránh bị xao nhãng khi cho con uống thuốc. Nếu được, hãy có một nề nếp cho việc cho uống hoặc uống thuốc. Và luôn giám sát trong khi con đang uống thuốc.",
+            "Khi cho con uống thuốc, hãy cẩn thận để các trẻ khác không với tới thuốc."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Sử dụng thuốc an toàn khi có trẻ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Những mẹo chung về sử dụng thuốc an toàn sau có thể giúp bạn phòng ngừa ngộ độc thuốc:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tránh uống thuốc trước mặt con, vì con có thể bắt chước nếu lấy được thuốc.",
+            "Gọi thuốc bằng tên đúng của nó. Điều này tốt hơn việc gọi chúng là 'kẹo đặc biệt', vì cách gọi đó có thể khiến con nhầm lẫn và bị cám dỗ nếm thử.",
+            "Để túi xách ngoài tầm với của con và đề nghị khách đến nhà cũng làm vậy, vì túi có thể chứa thuốc. Hãy cẩn thận khi đến thăm người khác, kể cả người lớn tuổi. Họ có thể không quen có trẻ xung quanh và để thuốc trong tầm với dễ dàng. Hãy kiểm tra để chắc chắn con không lấy được thuốc của họ."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Những loại thuốc nguy hiểm",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Một số loại thuốc thông thường có thể gây hại và thậm chí gây tử vong cho con là:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "thuốc chống co giật",
+            "thuốc chống trầm cảm",
+            "thuốc kháng histamine",
+            "aspirin",
+            "thuốc điều trị rối loạn tăng động giảm chú ý (ADHD), như methylphenidate và clonidine",
+            "thuốc cảm cúm",
+            "thuốc tiểu đường",
+            "tinh dầu như dầu khuynh diệp và dầu tràm trà",
+            "thuốc trị gút và viêm khớp",
+            "thuốc tim mạch và huyết áp",
+            "viên sắt",
+            "ibuprofen",
+            "morphine và các thuốc giảm đau mạnh khác",
+            "liệu pháp thay thế nicotine",
+            "paracetamol",
+            "thuốc ngủ."
+          ]
+        }
+      ]
+    }
+  ]
+}

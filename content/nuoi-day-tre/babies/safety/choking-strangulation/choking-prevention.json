@@ -1,0 +1,104 @@
+{
+  "path": "safety/choking-strangulation/choking-prevention",
+  "title": "Nguy cơ và cách phòng ngừa hóc nghẹn ở trẻ",
+  "subtitle": "Danh sách các vật và thực phẩm dễ gây hóc nghẹn, cùng các mẹo phòng ngừa khi cho trẻ ăn và trong sinh hoạt hằng ngày.",
+  "sections": [
+    {
+      "h": "Nguy cơ hóc nghẹn",
+      "blocks": [
+        { "t": "p", "text": "Hóc nghẹn xảy ra khi đường thở của trẻ bị tắc bởi một vật gì đó. Bất kỳ vật nào nhỏ hơn đồng xu 20 xu đều có thể làm tắc đường thở và là nguy cơ gây hóc nghẹn cho trẻ." },
+        { "t": "p", "text": "Sau đây là những ví dụ về nguy cơ hóc nghẹn đối với trẻ sơ sinh và trẻ nhỏ." },
+        { "t": "p", "text": "<strong>Thực phẩm dễ gây hóc nghẹn</strong>" },
+        { "t": "ul", "items": [
+          "Kẹo cao su",
+          "Hạt và hột của trái cây",
+          "Thức ăn cứng như bánh quy giòn và bánh bắp",
+          "Xúc xích và lạp xưởng",
+          "Kẹo và kẹo dẻo marshmallow",
+          "Thịt cắt miếng và xương, kể cả xương gà hoặc cá",
+          "Các loại hạt, bao gồm cả hạt bắp rang",
+          "Vỏ trái cây và rau củ như táo, đào, nho và cà chua",
+          "Rau củ sống như cà rốt, đậu Hà Lan và lá xà lách",
+          "Thức ăn tròn như quả mọng, bắp, nho, ô liu và cà chua bi",
+          "Thức ăn nhiều xơ dai như cần tây và dứa",
+          "Viên thuốc và vitamin dạng nhai"
+        ] },
+        { "t": "p", "text": "<strong>Vật dụng trong nhà dễ gây hóc nghẹn</strong>" },
+        { "t": "ul", "items": [
+          "Tiền xu",
+          "Giấy bạc",
+          "Trang sức",
+          "Đinh vít, đinh ghim và kim băng",
+          "Nam châm nhỏ, kể cả nam châm nhỏ có lực hút mạnh",
+          "Pin nhỏ, kể cả pin cúc áo (pin nút)",
+          "Nắp bút và nắp bút lông"
+        ] },
+        { "t": "p", "text": "<strong>Đồ chơi và các bộ phận đồ chơi dễ gây hóc nghẹn</strong>" },
+        { "t": "ul", "items": [
+          "Hạt cườm và nút",
+          "Bút sáp và bút chì",
+          "Viên bi",
+          "Các mảnh nhựa",
+          "Bóng bàn",
+          "Mắt của thú nhồi bông",
+          "Bóng bay chưa thổi hoặc đã vỡ"
+        ] },
+        { "t": "p", "text": "<strong>Các nguy cơ khác</strong>" },
+        { "t": "ul", "items": [
+          "Quả châu hoặc đèn trang trí Giáng sinh",
+          "Vật trong vườn như sỏi đá",
+          "Nhãn dán – ví dụ, nhãn dán trên trái cây"
+        ] }
+      ]
+    },
+    {
+      "h": "Phòng ngừa hóc nghẹn khi trẻ ăn: mẹo nhỏ",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo sau có thể giúp bảo vệ con khỏi hóc nghẹn khi đang ăn." },
+        { "t": "p", "text": "<strong>Nơi trẻ ăn</strong>" },
+        { "t": "ul", "items": [
+          "Luôn trông chừng con để có thể phản ứng nhanh nếu con bị hóc.",
+          "Đảm bảo con ngồi khi ăn. Con dễ bị hóc hơn nếu vừa ăn vừa nằm, vừa chạy nhảy hay chơi đùa.",
+          "Ngồi cùng con khi con ăn và trò chuyện hoặc giúp con vui. Như vậy con sẽ ít muốn đứng dậy chạy lung tung.",
+          "Tránh cho con bú bình khi nằm trên giường. Trẻ ngủ thiếp đi khi đang bú bình có thể hít sữa vào phổi và bị hóc."
+        ] },
+        { "t": "p", "text": "<strong>Những gì trẻ ăn</strong>" },
+        { "t": "ul", "items": [
+          "Cho đến khi con nhai tốt, hãy cho con ăn thức ăn cắt nhỏ cỡ hạt đậu hoặc nhỏ hơn. Bất cứ thứ gì lớn hơn đều khó để trẻ nhỏ ăn an toàn.",
+          "Cắt các thức ăn hình trụ như xúc xích hoặc nho theo chiều dọc thành đôi, rồi thành tư.",
+          "Không cho con ăn nguyên hạt hoặc các loại hạt cứng tương tự cho đến khi con được 4 tuổi.",
+          "Lọc bỏ xương khỏi thịt và cá. Cân nhắc dùng thịt xay thay thế.",
+          "Lấy bỏ hột khỏi các loại quả như ô liu và cherry.",
+          "Nấu chín, bào nhỏ hoặc nghiền nhuyễn các thức ăn cứng, đặc biệt là trái cây và rau củ cứng như cà rốt và táo.",
+          "Gọt bỏ vỏ các loại quả như táo, đào và nho."
+        ] },
+        { "t": "p", "text": "<strong>Cách trẻ ăn</strong>" },
+        { "t": "ul", "items": [
+          "Không cho con ăn khi con đang khóc. Con sẽ không thể nhai và nuốt thức ăn đúng cách nếu đang khóc.",
+          "Khuyến khích con nhai kỹ thức ăn. Nếu con nhai và nuốt đúng cách và ăn từ tốn, điều này sẽ giảm nguy cơ hóc nghẹn."
+        ] },
+        { "t": "p", "text": "Bạn đã biết phải làm gì khi trẻ bị hóc chưa? Bài viết về sơ cứu hóc nghẹn và các hướng dẫn minh họa về sơ cứu hóc nghẹn cho trẻ sơ sinh cũng như cho trẻ em và thanh thiếu niên sẽ hướng dẫn bạn từng bước." }
+      ]
+    },
+    {
+      "h": "Phòng ngừa hóc nghẹn quanh nhà: mẹo nhỏ",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo sau có thể giúp bảo vệ con khỏi hóc nghẹn trong nhà:" },
+        { "t": "ul", "items": [
+          "Cố gắng để các vật nhỏ ngoài tầm với. Tính tò mò khiến trẻ cho những thứ kỳ lạ vào miệng. Hãy kiểm tra sàn nhà xem có vật nhỏ nào không bằng cách cúi xuống ngang tầm trẻ và quan sát xung quanh.",
+          "Luôn tuân theo khuyến nghị độ tuổi ghi trên đồ chơi. Dùng đồ chơi chắc chắn, bền, tránh đồ chơi có bộ phận nhỏ, bộ phận dễ vỡ hoặc bề mặt giòn dễ vỡ. Kiểm tra đồ chơi xem có bị lộ ruột bông, lỏng ốc vít hay nút không.",
+          "Tránh mua đồ chơi dùng pin cúc áo. Kiểm tra ngăn pin của các đồ vật trong nhà để chắc chắn chúng được vặn chặt bằng ốc vít. Để pin cúc áo rời hoặc đồ vật có pin cúc áo không được khóa chặt ngoài tầm với và trong hộp chống mở dành cho trẻ.",
+          "Để đồ chơi của trẻ nhỏ và của anh chị lớn trong các hộp riêng. Khuyến khích anh chị lớn cất các đồ chơi nhỏ ngoài tầm với. Những thứ này có thể là Lego, quần áo búp bê, hạt cườm, phụ kiện xe và những thứ tương tự."
+        ] },
+        { "t": "p", "text": "Nếu trẻ nuốt hoặc hít phải thức ăn, chất lỏng hay dị vật và chúng đi vào phổi, trẻ có thể bị ho hoặc viêm phổi kéo dài không khỏi. Hãy tìm trợ giúp y tế nếu bạn nghĩ con có thể đã nuốt hoặc hít phải thức ăn, chất lỏng hay dị vật." }
+      ]
+    },
+    {
+      "h": "Những trẻ có nguy cơ hóc nghẹn cao hơn",
+      "blocks": [
+        { "t": "p", "text": "Trẻ dưới 4 tuổi có nguy cơ hóc nghẹn cao hơn, nhưng trẻ lớn hơn cũng có thể bị hóc." },
+        { "t": "p", "text": "Trẻ khuyết tật hoặc mắc bệnh mạn tính cũng có thể có nguy cơ hóc nghẹn cao hơn các trẻ khác. Trẻ dễ bị hóc hơn nếu mắc các tình trạng như bại não, động kinh, khuyết tật trí tuệ hoặc bệnh trào ngược dạ dày-thực quản. Nếu con bạn mắc một trong những tình trạng này, hãy trao đổi với bác sĩ về cách phòng tránh hóc nghẹn tốt nhất." }
+      ]
+    }
+  ]
+}

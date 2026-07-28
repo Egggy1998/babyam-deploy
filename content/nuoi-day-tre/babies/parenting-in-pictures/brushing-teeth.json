@@ -1,0 +1,54 @@
+{
+  "path": "parenting-in-pictures/brushing-teeth",
+  "title": "Đánh răng cho trẻ: hướng dẫn bằng hình ảnh",
+  "subtitle": "Cách bắt đầu và các bước đánh răng cho trẻ để giữ răng miệng khỏe mạnh.",
+  "sections": [
+    {
+      "h": "Về răng của trẻ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Răng sữa có thể mọc theo bất kỳ thứ tự nào. Cả 20 chiếc răng sữa thường mọc đủ trước 3 tuổi. Hãy bắt đầu vệ sinh răng cho trẻ ngay khi răng nhú lên."
+        },
+        {
+          "t": "p",
+          "text": "32 chiếc răng vĩnh viễn mọc trong khoảng từ 6 đến 20 tuổi. Vệ sinh răng và nướu cho trẻ hai lần mỗi ngày, một lần vào buổi sáng và một lần vào buổi tối trước khi đi ngủ."
+        }
+      ]
+    },
+    {
+      "h": "Đánh răng: bắt đầu",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Dùng bàn chải nhỏ, lông mềm dành cho trẻ. Dưới 18 tháng tuổi, chỉ dùng nước để vệ sinh răng. Từ 18 tháng đến 5 tuổi, dùng một lượng kem đánh răng ít fluoride bằng hạt đậu. Từ 5 tuổi, dùng một lượng kem đánh răng fluoride dành cho người lớn bằng hạt đậu."
+        },
+        {
+          "t": "p",
+          "text": "Ngồi hoặc đứng phía sau trẻ ở nơi có ánh sáng tốt, lý tưởng là trước gương. Bạn sẽ nhìn được vào miệng trẻ, và trẻ cũng thấy được bạn đang làm gì. Với em bé và trẻ mới biết đi, sẽ dễ hơn nếu cho trẻ ngồi hoặc thậm chí nằm trên đùi bạn."
+        },
+        {
+          "t": "p",
+          "text": "Dùng tay còn lại để đỡ cằm trẻ. Bảo trẻ há miệng và nói “a”. Kiểm tra xem có dấu hiệu sâu răng không, như đường trắng hoặc đốm nâu trên răng sát nướu. Kiểm tra mảng bám trên răng quanh viền nướu."
+        }
+      ]
+    },
+    {
+      "h": "Đánh răng: các bước",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Dùng những chuyển động tròn nhỏ, nhẹ nhàng chải tất cả các mặt của từng chiếc răng và nướu. Chải tới lui trên mọi mặt nhai. Chải trong 2 phút."
+        },
+        {
+          "t": "p",
+          "text": "Khi chải xong, trẻ nên nhổ phần kem đánh răng còn lại ra, nhưng không cần súc miệng. Rửa sạch bàn chải và đặt ở nơi sạch sẽ cho khô."
+        },
+        {
+          "t": "p",
+          "text": "Tránh cho trẻ ăn thức ăn hoặc đồ uống nhiều đường. Đừng cho trẻ bú bình sữa mẹ hoặc sữa công thức khi đi ngủ. Luôn lấy bình ra sau khi cho bú."
+        }
+      ]
+    }
+  ]
+}

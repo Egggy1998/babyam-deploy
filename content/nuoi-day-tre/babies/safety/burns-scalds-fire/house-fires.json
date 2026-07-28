@@ -1,0 +1,115 @@
+{
+  "path": "safety/burns-scalds-fire/house-fires",
+  "title": "Danh sách kiểm tra an toàn phòng cháy tại nhà",
+  "subtitle": "Danh sách kiểm tra giúp bạn giảm nguy cơ cháy nổ quanh nhà, cùng hướng dẫn về thiết bị báo khói, bình chữa cháy, chăn chữa cháy và kế hoạch thoát hiểm.",
+  "sections": [
+    {
+      "h": "Danh sách kiểm tra an toàn phòng cháy tại nhà",
+      "blocks": [
+        {"t": "p", "text": "Danh sách kiểm tra an toàn phòng cháy tại nhà này có thể giúp bạn giảm nguy cơ cháy nổ quanh nhà."},
+        {"t": "p", "text": "<strong>Lò nướng BBQ</strong>"},
+        {"t": "ul", "items": [
+          "Trước khi nhóm lò nướng, kiểm tra hạn sử dụng của bình gas.",
+          "Kiểm tra các đầu nối ống của bình gas đã chặt, không bị rò rỉ, và ống còn trong tình trạng tốt, không có dấu hiệu nứt, hư hỏng hay mòn.",
+          "Đừng bao giờ đổ chất lỏng dễ cháy lên lò nướng BBQ.",
+          "Tắt lò nướng BBQ khi đã nấu xong."
+        ]},
+        {"t": "p", "text": "<strong>Thiết bị điện</strong>"},
+        {"t": "ul", "items": [
+          "Rút phích cắm thiết bị điện khi không dùng và để ngoài tầm với của trẻ.",
+          "Thay ngay các thiết bị điện bị lỗi hoặc đã cũ mòn và các thiết bị có dây sờn.",
+          "Nếu bạn cần thêm ổ cắm điện, hãy nhờ thợ điện lắp đặt. Tránh dùng ổ cắm nối hoặc phích chia.",
+          "Đảm bảo có luồng khí lưu thông quanh máy sấy quần áo. Để máy sấy hoàn tất chu trình 'làm nguội'. Vệ sinh bộ lọc xơ vải của máy sấy mỗi lần dùng.",
+          "Đừng để bàn ủi nằm úp mặt xuống trên cầu là."
+        ]},
+        {"t": "p", "text": "<strong>Nhà bếp</strong>"},
+        {"t": "ul", "items": [
+          "Đừng để việc nấu nướng trên bếp lò không có người trông. Nấu nướng không có người trông là nguyên nhân phổ biến nhất gây cháy bếp.",
+          "Nếu chiên ngập dầu hoặc dùng chảo wok, hãy đảm bảo ngọn lửa không thể bén vào dầu mỡ, và để mắt đến nhiệt độ của dầu.",
+          "Luôn giám sát trẻ trong bếp, hoặc giữ trẻ ngoài bếp ở một khu vực chơi an toàn khi bạn đang nấu nướng."
+        ]},
+        {"t": "p", "text": "<strong>Bếp lửa hở và máy sưởi</strong>"},
+        {"t": "ul", "items": [
+          "Quây kín bếp lửa hở, bếp sưởi bụng nồi, lò gas hoặc máy sưởi điện bằng một tấm chắn. Bạn có thể cố định tấm chắn bằng cách gắn vào tường.",
+          "Dọn trống không gian quanh máy sưởi. Bất cứ thứ gì có thể bắt lửa – như rèm, quần áo, chăn ga, đồ chơi của trẻ và củi dự trữ – đều không nên nằm trong phạm vi 1 m từ máy sưởi hoặc lò sưởi.",
+          "Tắt máy sưởi ngay tại nguồn điện khi không dùng. Nếu bạn có lò sưởi, hãy dập lửa trước khi đi ngủ hoặc ra khỏi nhà.",
+          "Dạy trẻ nhỏ tránh xa máy sưởi và lò sưởi kể cả khi chúng không hoạt động."
+        ]},
+        {"t": "p", "text": "<strong>Hút thuốc và hút thuốc lá điện tử (vaping)</strong>"},
+        {"t": "ul", "items": [
+          "Giữ diêm và bật lửa tránh xa trẻ nhỏ.",
+          "Đừng bao giờ để điếu thuốc đang cháy không có người trông.",
+          "Đảm bảo dập tắt thuốc lá trước khi vứt bỏ.",
+          "Bỏ tàn thuốc vào thùng rác thay vì gạt tàn. Nếu dùng gạt tàn, hãy chọn loại có thành sâu, và đổ ra thùng rác ngoài trời thường xuyên.",
+          "Kiểm tra đồ nội thất xem có tàn thuốc và tro không trước khi đi ngủ.",
+          "Đừng bao giờ hút thuốc trên giường.",
+          "Chỉ dùng bộ sạc vape để sạc vape, và thay pin nếu chúng bị ướt hoặc hư hỏng.",
+          "Đừng bao giờ để vape sạc không có người trông vào ban đêm."
+        ]},
+        {"t": "p", "text": "Nên có một công tắc an toàn điện (safety switch) trên bảng điện. Theo luật, mọi ngôi nhà mới đều phải có các công tắc này. Một số bang và vùng lãnh thổ có thêm các yêu cầu về công tắc an toàn điện, vì vậy bạn nên kiểm tra luật nơi mình sống. Chỉ thợ điện có giấy phép mới được lắp đặt công tắc an toàn điện."}
+      ]
+    },
+    {
+      "h": "Thiết bị báo khói: chìa khóa của an toàn phòng cháy tại nhà",
+      "blocks": [
+        {"t": "p", "text": "Thiết bị báo khói rất thiết yếu cho an toàn phòng cháy tại nhà. Theo luật, mọi ngôi nhà ở Úc đều phải có thiết bị báo khói."},
+        {"t": "p", "text": "Thiết bị báo khói đưa ra cảnh báo sớm khi có hỏa hoạn và cho bạn cơ hội thoát ra khỏi nhà đến nơi an toàn."},
+        {"t": "p", "text": "<strong>Nên dùng loại thiết bị báo khói nào</strong> Thiết bị báo khói quang điện (photoelectric) được khuyến nghị. Ở một số bang, luật quy định nhà phải có loại báo khói này. Để biết thông tin về loại và vị trí lắp thiết bị báo khói theo yêu cầu ở bang hoặc vùng lãnh thổ của bạn, hãy truy cập trang web của cơ quan cứu hỏa địa phương."},
+        {"t": "p", "text": "Cũng nên để các thiết bị báo khói, kể cả loại quang điện, được kết nối liên thông với nhau. Trong một hệ thống liên thông, khi một thiết bị kêu thì tất cả đều kêu. Điều này cho mọi người thêm thời gian để thoát ra."},
+        {"t": "p", "text": "<strong>Nên đặt thiết bị báo khói ở đâu</strong> Lắp thiết bị báo khói ngay bên ngoài các khu vực ngủ trong nhà để chuông kêu trước khi khói lan đến những người đang ngủ. Nhưng hãy lưu ý rằng trẻ em, đặc biệt là trẻ dưới 5 tuổi, không phải lúc nào cũng nghe thấy chuông báo khói. Để bảo vệ thêm, bạn cũng có thể lắp một thiết bị báo khói trong phòng ngủ của con và trong phòng ngủ của những người ngủ đóng cửa."},
+        {"t": "p", "text": "Nhà nhiều tầng và căn hộ nên có thiết bị báo khói ở tất cả các tầng, kể cả ngay bên ngoài các phòng ngủ và gần lối đi dùng để thoát ra khỏi tòa nhà."},
+        {"t": "p", "text": "<strong>Cách bảo trì thiết bị báo khói</strong> Chỉ những thiết bị báo khói hoạt động tốt mới cứu được mạng người. Dưới đây là cách giữ thiết bị báo khói luôn hoạt động tốt:"},
+        {"t": "ul", "items": [
+          "Thay pin thiết bị báo khói mỗi năm một lần, vào cùng một thời điểm mỗi năm.",
+          "Kiểm tra thiết bị mỗi tháng bằng cách nhấn nút kiểm tra và lắng nghe tiếng bíp.",
+          "Giữ thiết bị không bám bụi. Vệ sinh ít nhất mỗi năm một lần.",
+          "Thay thiết bị báo khói mỗi 10 năm."
+        ]}
+      ]
+    },
+    {
+      "h": "Bình chữa cháy và chăn chữa cháy",
+      "blocks": [
+        {"t": "p", "text": "Để an toàn phòng cháy tại nhà, rất nên có một bình chữa cháy và chăn chữa cháy đạt Tiêu chuẩn Úc. Bạn có thể mua chúng tại các cửa hàng đồ kim khí. Hãy đặt chúng gần lối ra/vào bếp và bất kỳ nơi nào có khả năng xảy ra cháy."},
+        {"t": "p", "text": "Đừng bao giờ dùng nước để dập lửa do dầu, điện hoặc mỡ."},
+        {"t": "p", "text": "<strong>Sử dụng bình chữa cháy</strong> Bình chữa cháy bột khô 1 kg phù hợp với hầu hết các đám cháy nhỏ trong gia đình."},
+        {"t": "p", "text": "Đọc hướng dẫn sử dụng bình chữa cháy trước khi bạn cần dùng. Cũng nên thỉnh thoảng lắc bình để ngăn bột bị lắng xuống."},
+        {"t": "p", "text": "Hãy dùng bình chữa cháy nếu bạn:"},
+        {"t": "ul", "items": [
+          "có thể dập tắt đám cháy nhanh chóng",
+          "không đặt tính mạng vào nguy hiểm khi ở gần đám cháy",
+          "biết chắc mọi người khác đã rời khỏi khu vực",
+          "biết bình chữa cháy của bạn phù hợp để dập loại đám cháy bạn đang đối mặt."
+        ]},
+        {"t": "p", "text": "Sau khi đã dùng bình chữa cháy, hãy gọi 000 và yêu cầu dịch vụ cứu hỏa để lính cứu hỏa kiểm tra. Ví dụ, đám cháy có thể đã lan vào trần nhà mà bạn không hề hay biết."},
+        {"t": "p", "text": "Lưu ý rằng bình chữa cháy gia dụng được thiết kế chỉ dùng một lần, vì vậy hãy thay bình càng sớm càng tốt sau khi sử dụng."},
+        {"t": "p", "text": "<strong>Sử dụng chăn chữa cháy</strong> Đọc hướng dẫn sử dụng chăn trước khi bạn cần dùng."},
+        {"t": "p", "text": "Dưới đây là khi nào và cách dùng chăn chữa cháy:"},
+        {"t": "ul", "items": [
+          "Dùng chăn chữa cháy để dập tắt đám cháy do mỡ nấu ăn, hoặc quấn quanh người nếu quần áo họ bắt lửa.",
+          "Nếu một cái nồi đang cháy, đừng ném chăn lên trên. Thay vào đó, hãy cẩn thận đặt chăn phủ lên nồi và đám cháy.",
+          "Tắt nguồn nhiệt và để chăn phủ trên nồi. Đừng lấy chăn ra – lính cứu hỏa sẽ làm việc này.",
+          "Gọi 000 để gọi dịch vụ cứu hỏa."
+        ]},
+        {"t": "p", "text": "Khuyến nghị rằng bạn chỉ nên dùng bình chữa cháy hoặc chăn chữa cháy nếu bạn cảm thấy đủ khả năng về thể chất và tinh thần để sử dụng thiết bị một cách an toàn."}
+      ]
+    },
+    {
+      "h": "Chuẩn bị và luyện tập cho an toàn phòng cháy tại nhà",
+      "blocks": [
+        {"t": "p", "text": "Những hướng dẫn sau đây có thể giúp bạn và gia đình giữ an toàn nếu có hỏa hoạn trong nhà:"},
+        {"t": "ul", "items": [
+          "Gọi 000 và yêu cầu dịch vụ cứu hỏa trong trường hợp khẩn cấp. Nắm rõ địa chỉ nhà bạn và ngã tư gần nhất.",
+          "Thường xuyên luyện tập kế hoạch thoát hiểm tại nhà cùng con và gia đình. Chọn một điểm tập hợp bên ngoài nhà và đảm bảo mọi người đều biết phải tập trung ở đó.",
+          "Luyện tập động tác 'dừng lại, nằm xuống, che mặt và lăn' (stop, drop, cover and roll) phòng khi quần áo của trẻ bắt lửa.",
+          "Luyện tập động tác thoát hiểm 'bò sát đất và đi, đi, đi' (crawl down low and go) để bò bên dưới lớp khói và khí độc.",
+          "Đảm bảo mỗi phòng trong nhà có 2 lối thoát.",
+          "Đừng bao giờ khóa chốt kép (deadlock) các cửa khi bạn đang ở nhà.",
+          "Trong trường hợp có hỏa hoạn, hãy trông chừng trẻ thật sát sao khi đã ra ngoài để đảm bảo chúng không chạy ngược lại vào nhà.",
+          "Nếu có người bị bỏng, hãy tiến hành sơ cứu bỏng ngay lập tức."
+        ]},
+        {"t": "p", "text": "Hít phải khói là nguyên nhân tử vong hàng đầu trong các vụ cháy. Nếu có hỏa hoạn trong nhà, hãy làm theo kế hoạch thoát hiểm. Như vậy bạn có thể thoát ra nhanh chóng và tránh hít phải quá nhiều khói."}
+      ]
+    }
+  ]
+}

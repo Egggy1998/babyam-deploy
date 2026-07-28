@@ -1,0 +1,32 @@
+{
+  "path": "videos/shopping-together",
+  "title": "Đi mua thực phẩm lành mạnh cùng con",
+  "subtitle": "Cho con cùng đi chợ, chọn và mua thực phẩm là cách giúp con học cách ăn uống lành mạnh ngay từ đầu.",
+  "sections": [
+    {
+      "h": "Cùng con đi mua thực phẩm",
+      "blocks": [
+        { "t": "p", "text": "Tamlin (mẹ của Allanah và Jensen): Cho các con tham gia vào việc mua, chuẩn bị và chọn thực phẩm nghĩa là các con được học hỏi ngay từ những bước đầu tiên." },
+        { "t": "p", "text": "Eugene (bố của Allanah và Jensen): Nào, mình có gì ở đây nhỉ? Mình có ít màu vàng, ít màu cam." },
+        { "t": "p", "text": "Jensen: Màu đen." },
+        { "t": "p", "text": "Allanah: Mình có ít màu xanh lá." },
+        { "t": "p", "text": "Eugene: Cái này màu đen. Đó là quả cà tím, màu xanh lá nè." },
+        { "t": "p", "text": "Allanah: Mình có ít màu đỏ, màu vàng." },
+        { "t": "p", "text": "Eugene: Mình có màu vàng. Mình có màu xanh lá." },
+        { "t": "p", "text": "Tamlin: Mình có đủ các màu rồi. Mình có đủ các màu của cầu vồng." },
+        { "t": "p", "text": "Eugene: Được rồi. Vậy nghĩa là mình có một số thực phẩm rất lành mạnh ở đây." },
+        { "t": "p", "text": "Tamlin: Khi ở đó, con còn được tập đếm một chút nữa." },
+        { "t": "p", "text": "Eugene: Lani đi học mấy ngày nào? Con đi học 5 ngày trong tuần. Vậy mình cần ít nhất 5 phần cho con." },
+        { "t": "p", "text": "Tamlin: Con còn được trò chuyện về màu sắc." },
+        { "t": "p", "text": "Eugene: Khi chúng hơi đỏ một chút thì sẽ ngọt hơn." },
+        { "t": "p", "text": "Tamlin: Vậy là Lani đếm số táo của mình, còn Jensen thì cho mình biết bé thích nho màu nào." },
+        { "t": "p", "text": "Eugene: Còn mấy quả này thì sao? Đây là loại nho mà con đang tìm đấy. Con muốn loại đen thẫm phải không?" },
+        { "t": "p", "text": "Tamlin: Bốn, năm. Vậy 5 với 5 là mấy nào?" },
+        { "t": "p", "text": "Allanah: Mười." },
+        { "t": "p", "text": "Tamlin: Tổng cộng đấy. Làm tốt lắm. Giỏi quá. Được rồi, con đưa tiền cho cô bán hàng nhé? Đây Lani, mình có hai loại khác nhau trong này đấy." },
+        { "t": "p", "text": "Người bán hàng: Được rồi. Đây là tiền thối. Cảm ơn nhé. 3,40 đô la và túi của con đây. Cảm ơn." },
+        { "t": "p", "text": "Tamlin: Cảm ơn cô. Con xách được không? Con bỏ vào xe đẩy giúp mẹ nhé? Được, giỏi lắm. Nào, tiếp theo mình mua gì đây?" }
+      ]
+    }
+  ]
+}

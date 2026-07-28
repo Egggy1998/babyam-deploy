@@ -1,0 +1,49 @@
+{
+  "path": "health-daily-care/hygiene-keeping-clean/umbilical-care",
+  "title": "Chăm sóc cuống rốn và rốn cho trẻ sơ sinh",
+  "subtitle": "Những điều cần biết, cách vệ sinh cuống rốn và khi nào cần lo lắng",
+  "sections": [
+    {"h": "Cuống rốn và rốn của bé: những điều cần biết", "blocks": [
+      {"t":"p","text":"Sau khi bé chào đời, dây rốn được kẹp và cắt. Phần dây rốn vẫn còn dính vào bé chính là cuống rốn. Thường thì chiếc kẹp vẫn còn gắn trên cuống rốn."},
+      {"t":"p","text":"Trong vài ngày đầu sau sinh, cuống rốn sẽ sẫm màu hơn, teo lại và cuối cùng rụng đi cùng với chiếc kẹp. Phần còn lại chính là rốn của bé. Đôi khi quá trình này mất 1-2 tuần."},
+      {"t":"p","text":"Trong khi cuống rốn đang khô lại và ngay sau khi nó rụng, bạn có thể nhận thấy một chút dịch rỉ ra quanh rốn bé. Dịch này có thể trong, dính hoặc hơi nâu, và có thể để lại vết trên quần áo hoặc tã của bé. Dịch cũng có thể hơi có mùi. Đây là một phần của quá trình lành."}
+    ]},
+    {"h": "Khi nào cần lo lắng về cuống rốn hoặc rốn của bé", "blocks": [
+      {"t":"p","text":"Bạn nên đưa bé đến gặp bác sĩ gia đình hoặc y tá sức khỏe trẻ em và gia đình nếu cuống rốn vẫn chưa rụng sau hơn 2 tuần."},
+      {"t":"p","text":"Cũng hãy đến gặp bác sĩ gia đình hoặc y tá nếu vùng quanh cuống rốn:"},
+      {"t":"ul","items":[
+        "đỏ hoặc đổi màu",
+        "có mùi hôi",
+        "ấm và đau khi chạm vào."
+      ]},
+      {"t":"p","text":"Hãy đến gặp bác sĩ gia đình càng sớm càng tốt nếu bạn vẫn thấy dịch dính nhiều ngày sau khi cuống rốn đã rụng, nếu vùng rốn của bé trở nên nóng, đỏ, đổi màu hoặc sưng, hoặc nếu bé lờ đờ hay có dấu hiệu không khỏe. Nếu bé bị sốt, hãy đưa bé đến khoa cấp cứu bệnh viện."}
+    ]},
+    {"h": "Cách vệ sinh và chăm sóc cuống rốn và rốn", "blocks": [
+      {"t":"p","text":"Bạn có thể nhẹ nhàng rửa cuống rốn và vùng rốn của bé trong lúc tắm hoặc khi khu vực này dính nước tiểu hay phân."}
+    ]},
+    {"h": "Vệ sinh cuống rốn", "blocks": [
+      {"t":"ul","items":[
+        "Luôn rửa tay trước khi vệ sinh cuống rốn.",
+        "Dùng nước và một chiếc khăn lau mềm sạch hoặc bông gòn để làm sạch cuống rốn. Có thể dùng sữa tắm dịu nhẹ cho bé.",
+        "Đừng dùng dung dịch sát khuẩn, khăn tẩm cồn hoặc các loại kem.",
+        "Sau khi làm sạch, nhẹ nhàng vỗ cho vùng quanh cuống rốn khô bằng khăn hoặc vải mềm sạch."
+      ]}
+    ]},
+    {"h": "Chăm sóc cuống rốn và rốn", "blocks": [
+      {"t":"ul","items":[
+        "Nếu tã che phủ cuống rốn, hãy gấp mép trên của tã xuống và ra xa khỏi cuống rốn. Việc này giúp cuống rốn khô tự nhiên.",
+        "Đừng bao giờ tự ý kéo giật cuống rốn ra, ngay cả khi trông có vẻ nó đã sẵn sàng rụng.",
+        "Sau khi cuống rốn rụng, hãy giữ vùng này sạch và khô cho đến khi lành hoàn toàn."
+      ]}
+    ]},
+    {"h": "U hạt rốn là gì?", "blocks": [
+      {"t":"p","text":"Sau khi cuống rốn rụng, một số bé có thể xuất hiện một cục u nhỏ màu hồng, đỏ hoặc đổi màu ở vùng rốn. Đây gọi là u hạt rốn (umbilical granuloma)."},
+      {"t":"p","text":"Đôi khi cục u này có thể rỉ ra một lượng nhỏ dịch màu vàng hoặc trong. Hãy giữ vùng này sạch và khô."},
+      {"t":"p","text":"U hạt rốn có thể tự khỏi, nhưng bạn nên cho bác sĩ gia đình hoặc y tá sức khỏe trẻ em và gia đình xem cục u này."}
+    ]},
+    {"h": "Thoát vị rốn là gì?", "blocks": [
+      {"t":"p","text":"Nếu bé xuất hiện một khối phồng hoặc sưng gần rốn, đó có thể là thoát vị rốn. Thoát vị rốn thường dễ thấy hơn khi bé khóc hoặc rặn đi ngoài. Tình trạng này thường không nguy hiểm và không gây đau cho bé."},
+      {"t":"p","text":"Thoát vị rốn thường tự khỏi trong khoảng từ 3 đến 5 tuổi. Bạn nên cho bác sĩ gia đình hoặc y tá sức khỏe trẻ em và gia đình xem khối phồng này."}
+    ]}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "path": "sleep/settling-routines/newborn-sleep-routines",
+  "title": "Nếp ngủ của trẻ sơ sinh: hướng dẫn cho cha mẹ",
+  "subtitle": "Xây dựng nếp ăn, chơi, ngủ linh hoạt theo nhu cầu của bé",
+  "sections": [
+    {"h": "Vì sao việc đáp ứng nhu cầu của trẻ sơ sinh lại quan trọng", "blocks": [
+      {"t":"p","text":"Khi bạn đáp ứng nhu cầu của trẻ sơ sinh bằng tình yêu thương, sự ấm áp và quan tâm, bạn trở thành một người đặc biệt, đáng tin cậy trong cuộc đời bé. Khi trẻ sơ sinh nhận được những gì bé cần từ bạn, như một nụ cười, một cái chạm hay một cái ôm, bé cảm thấy thế giới là nơi an toàn để chơi, học và khám phá."},
+      {"t":"p","text":"Sự gắn kết giữa bạn và trẻ sơ sinh là một phần thiết yếu cho sự phát triển và an lành của bé."}
+    ]},
+    {"h": "Trẻ sơ sinh cần gì: ăn, chơi và ngủ", "blocks": [
+      {"t":"p","text":"Những tháng đầu đời của bé là thời gian để bạn làm quen với bé và tìm hiểu nhu cầu ngủ, ăn, chơi và dỗ ngủ của bé."},
+      {"t":"p","text":"Hầu hết trẻ sơ sinh dành phần lớn thời gian để ngủ, bé ngủ 14-17 giờ mỗi 24 giờ. Trẻ sơ sinh thường ngủ thành những giấc ngắn 2-3 giờ giữa các cữ bú, cả ngày lẫn đêm."},
+      {"t":"p","text":"Ngoài ra, trẻ sơ sinh thường cần bú mỗi 2-3 giờ. Và bé cần sự quan tâm của bạn cả ngày lẫn đêm."},
+      {"t":"p","text":"Việc chơi của trẻ sơ sinh có thể chỉ là một cái ôm nhẹ nhàng hoặc một khoảng thời gian duỗi người và đạp chân trên tấm chăn. Bạn có thể thấy khoảng 10-20 phút chơi là đủ. Một số trẻ sơ sinh vui vẻ chơi lâu hơn thế."},
+      {"t":"p","text":"Bạn có thể thấy rằng một nếp sinh hoạt rất đơn giản, linh hoạt gồm ăn, chơi và ngủ dường như giúp ích cho bé. Nó cũng có thể giúp bạn cảm thấy chủ động hơn. Nhưng đây không phải lúc để lo lắng về việc đưa bé vào bất kỳ nếp sinh hoạt hay lịch trình cứng nhắc nào."},
+      {"t":"p","text":"Trẻ sơ sinh thường cần được giúp đỡ để dỗ vào giấc ngủ. Bạn có thể dùng cách dỗ ngủ đáp ứng để giúp bé chìm vào giấc ngủ."}
+    ]},
+    {"h": "Cách xây dựng nếp ăn, chơi, ngủ đáp ứng", "blocks": [
+      {"t":"p","text":"Với việc ngủ và bú của trẻ sơ sinh, mấu chốt là linh hoạt và đi theo dẫn dắt của bé. Những tín hiệu và ngôn ngữ cơ thể của bé sẽ giúp bạn hiểu bé muốn ngủ, muốn bú hay muốn tương tác với bạn. Hoàn toàn ổn khi bạn làm theo những gì cảm thấy phù hợp ở thời điểm đó."},
+      {"t":"p","text":"Cũng hoàn toàn ổn khi cố gắng làm mọi việc theo một trình tự tương tự nếu điều đó phù hợp với bạn và bé. Ví dụ, đây là một nếp sinh hoạt đơn giản gồm ăn, chơi, ngủ có thể trông như thế nào:"},
+      {"t":"ul","items":[
+        "Cho bé bú khi bé thức dậy.",
+        "Thay tã cho bé.",
+        "Nói chuyện, chơi, ôm ấp và tương tác với bé.",
+        "Đặt bé xuống để ngủ lại."
+      ]},
+      {"t":"p","text":"Nếu bạn thử kiểu nếp sinh hoạt này, điều quan trọng vẫn là quan sát tín hiệu của bé và đáp ứng."},
+      {"t":"p","text":"Ví dụ, bé có thể có dấu hiệu mệt ngay sau khi bú. Điều này có nghĩa là đã đến lúc bé ngủ, ngay cả khi bạn và bé chưa có nhiều thời gian để chơi."},
+      {"t":"p","text":"Hoặc bé có thể có dấu hiệu đói sau khi chơi. Trong trường hợp này, cứ cho bé bú thêm một cữ trước khi dỗ bé ngủ. Bé sẽ ngủ ngon hơn khi bụng đã no."},
+      {"t":"p","text":"Hoặc thỉnh thoảng bé có thể có một giấc ngủ dài bất thường. Điều đó cũng ổn. Trừ khi bác sĩ hoặc điều dưỡng chăm sóc sức khỏe trẻ em và gia đình dặn khác đi, bạn không cần đánh thức bé để cho bú."},
+      {"t":"p","text":"Và vào ban đêm, lựa chọn tốt nhất có thể là dỗ bé ngủ lại ngay sau khi bú, thay vì cố chơi với bé."}
+    ]},
+    {"h": "Nếu bạn không thể nhận ra bé cần gì thì sao?", "blocks": [
+      {"t":"p","text":"Có những lúc thật khó để biết trẻ sơ sinh cần gì. Ví dụ, bạn đã thử cho bú hoặc đặt bé xuống ngủ, nhưng bé vẫn có vẻ bồn chồn."},
+      {"t":"p","text":"Nếu bé đang khóc, trước tiên hãy kiểm tra xem bé có bị ốm, bị đau hay khó chịu không. Nếu không và bé cũng đã bú trong vòng 2 giờ qua, thì ôm ấp và vỗ về là điều nên làm. Ví dụ, bạn có thể thử bế bé trong vòng tay với đầu bé áp gần ngực bạn."},
+      {"t":"p","text":"Bé sẽ cảm thấy an toàn và yên tâm khi bạn tương tác với bé theo cách ấm áp, yêu thương và đáp ứng. Bạn không thể làm hư bé khi bế, ôm ấp hay nói chuyện với bé."},
+      {"t":"p","text":"Nếu bé khóc nhiều, điều rất quan trọng là chăm sóc bản thân. Chỉ cần 5 phút đọc sách, đi dạo quanh khu nhà hoặc thiền cũng có thể cho bạn một khoảng nghỉ nếu bạn đang cảm thấy căng thẳng, lo lắng hay tức giận. Hoặc đôi khi sẽ hữu ích khi nhờ một người khác thay phiên một lúc. Nếu có thể, hãy nhờ bạn đời, một người bạn hoặc người thân giúp đỡ."}
+    ]}
+  ]
+}

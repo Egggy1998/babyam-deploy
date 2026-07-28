@@ -1,0 +1,138 @@
+{
+  "path": "health-daily-care/hygiene-keeping-clean/bathing-a-newborn",
+  "title": "Tắm cho trẻ sơ sinh",
+  "subtitle": "Hướng dẫn từng bước cách tắm an toàn và giúp bé thích thú với giờ tắm",
+  "sections": [
+    {"h": "Bao lâu nên tắm cho trẻ sơ sinh một lần", "blocks": [
+      {"t":"p","text":"Tắm 2-3 lần một tuần là đủ để giữ cho bé sơ sinh sạch sẽ. Nhưng nếu bạn và bé thích giờ tắm, bé có thể tắm mỗi ngày một lần. Tắm nhiều hơn mức này có thể làm khô da bé."},
+      {"t":"p","text":"Khoảng 5-10 phút là đủ cho một lần tắm trẻ sơ sinh. Điều này đặc biệt quan trọng nếu da bé khô hoặc nhạy cảm."}
+    ]},
+    {"h": "Khi nào nên tắm cho trẻ sơ sinh", "blocks": [
+      {"t":"p","text":"Bạn có thể tắm cho bé vào bất kỳ thời điểm nào trong ngày. Hãy cố chọn lúc bạn thư giãn và ít có khả năng bị gián đoạn."},
+      {"t":"p","text":"Nếu việc tắm giúp bé thư giãn, bạn có thể dùng nó như một cách dỗ bé vào giấc ngủ buổi tối."}
+    ]},
+    {"h": "Tắm cho trẻ sơ sinh ở đâu", "blocks": [
+      {"t":"p","text":"Bạn có thể tắm cho bé trong chậu tắm dành cho trẻ hoặc thậm chí trong bồn rửa sạch. Bạn có thể tắm cho bé ở bất kỳ phòng nào ấm áp, an toàn và sạch sẽ, không nhất thiết phải là phòng tắm."},
+      {"t":"p","text":"Bạn cũng có thể tắm vòi sen cùng bé. Hãy giữ mặt bé tránh xa dòng nước chảy xuống và đảm bảo dùng nước ấm, không nóng."}
+    ]},
+    {"h": "Cách chuẩn bị để tắm cho trẻ sơ sinh", "blocks": []},
+    {"h": "1. Chuẩn bị những thứ cần thiết", "blocks": [
+      {"t":"ul","items":[
+        "Đảm bảo mọi thứ bạn cần đều trong tầm tay, ví dụ khăn tắm, khăn lau, sữa tắm dịu nhẹ cho bé, kem hoặc thuốc mỡ, quần áo sạch và tã sạch.",
+        "Tránh dùng xà phòng vì sẽ làm khô da bé. Thay vào đó, bạn có thể dùng sữa tắm dịu nhẹ cho bé nếu cần.",
+        "Để điện thoại ở chế độ im lặng để không làm bạn phân tâm khi tắm cho bé."
+      ]}
+    ]},
+    {"h": "2. Chuẩn bị chậu tắm", "blocks": [
+      {"t":"ul","items":[
+        "Đặt chậu tắm ở nơi vững chắc và ở độ cao mà bạn có thể thoải mái giữ bé, chẳng hạn như trên bàn bếp.",
+        "Tháo đồng hồ và trang sức rồi rửa tay."
+      ]}
+    ]},
+    {"h": "3. Đổ nước vào chậu", "blocks": [
+      {"t":"ul","items":[
+        "Chỉ dùng vừa đủ lượng nước ấm để tắm cho bé.",
+        "Nếu tắm cho bé ở xa vòi nước, hãy dùng bình để mang nước đến chậu.",
+        "Nếu tắm cho bé trong bồn rửa, hãy xả nước lạnh qua vòi một chút trước khi khóa lại.",
+        "Đừng thêm nước trong khi bé đang ở trong chậu."
+      ]}
+    ]},
+    {"h": "4. Kiểm tra nhiệt độ nước", "blocks": [
+      {"t":"ul","items":[
+        "Kiểm tra để chắc chắn nhiệt độ nước an toàn. Nhiệt độ nên ở mức 37-38°C.",
+        "Dùng cổ tay hoặc khuỷu tay để thử nhiệt độ nếu bạn không có nhiệt kế. Nước nên ấm dễ chịu, không nóng."
+      ]}
+    ]},
+    {"h": "Cách tắm cho trẻ sơ sinh", "blocks": []},
+    {"h": "1. Rửa mặt cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Trước khi cởi đồ cho bé, hãy lau mí mắt bé (từ khóe mắt trong ra khóe mắt ngoài) bằng bông gòn hoặc khăn lau mềm nhúng nước ấm. Vắt bớt nước thừa. Dùng miếng bông gòn mới hoặc phần khăn sạch cho mỗi lần lau.",
+        "Rửa toàn bộ khuôn mặt bé. Đừng cho bất cứ thứ gì vào tai hoặc mũi bé.",
+        "Cởi đồ cho bé, tháo tã sau cùng."
+      ]}
+    ]},
+    {"h": "2. Đặt bé vào chậu tắm", "blocks": [
+      {"t":"ul","items":[
+        "Dùng một cánh tay đỡ đầu và vai bé, tay còn lại đỡ thân bé.",
+        "Nhẹ nhàng hạ bé vào chậu, chân xuống trước.",
+        "Luôn giữ bé thật chắc mọi lúc."
+      ]}
+    ]},
+    {"h": "3. Tắm cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Tắm cho bé bằng khăn lau mềm và nước ấm. Dùng sữa tắm dịu nhẹ cho bé nếu cần.",
+        "Trước tiên rửa sạch cổ và thân bé. Lau sạch các nếp gấp trên cơ thể.",
+        "Rửa bộ phận sinh dục và mông bé sau cùng, luôn lau từ trước ra sau."
+      ]}
+    ]},
+    {"h": "Tùy chọn: gội đầu cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Gội đầu cho bé một hoặc hai lần một tuần. Tốt nhất nên làm việc này sau khi đã tắm xong phần còn lại của cơ thể, để đầu bé không bị lạnh.",
+        "Trong khi đỡ bé trong chậu, hãy nhẹ nhàng vốc nước lên đầu bé và lau đầu bằng khăn sạch. Bạn không cần dùng dầu gội."
+      ]},
+      {"t":"p","text":"Một lựa chọn khác là gội và lau khô đầu bé trước khi tắm, trong khi bé đang được quấn trong khăn."},
+      {"t":"p","text":"Trẻ có thể chết đuối chỉ trong vài giây ở mực nước rất nông. Đừng bao giờ để bé một mình trong chậu tắm, ngay cả khi bạn dùng ghế tắm hoặc nôi tắm. Đừng bao giờ giao cho trẻ lớn hơn hay anh chị của bé trông chừng. Nếu bạn bị điện thoại hay việc khác làm gián đoạn, hãy bế bé ra khỏi chậu tắm."}
+    ]},
+    {"h": "Cách lau khô và mặc đồ cho bé sau khi tắm", "blocks": []},
+    {"h": "1. Bế bé ra khỏi chậu tắm", "blocks": [
+      {"t":"ul","items":[
+        "Trong khi đỡ đầu và cổ bé, hãy nhấc bé ra khỏi chậu rồi đặt bé nằm ngửa trên một chiếc khăn sạch, khô và mềm.",
+        "Nếu có thể, hãy lau khô bé trên sàn để bé không thể bị ngã.",
+        "Nếu bạn thay đồ cho bé trên bề mặt cao như bàn, hãy luôn giữ một tay trên người bé."
+      ]}
+    ]},
+    {"h": "2. Lau khô cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Quấn bé trong một chiếc khăn mềm.",
+        "Vỗ nhẹ cho bé khô.",
+        "Lau khô các nếp gấp da của bé, bao gồm nách, bẹn, dưới cằm, quanh cổ và sau tai."
+      ]}
+    ]},
+    {"h": "3. Thoa kem khi cần và mặc đồ cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Nếu da bé khô, hãy thoa kem dưỡng ẩm không mùi lên da bé.",
+        "Thoa một lớp kem chống hăm dày như kẽm oxit (zinc paste) lên vùng quấn tã.",
+        "Đừng dùng phấn rôm hoặc phấn em bé gốc bột bắp lên da bé.",
+        "Mặc đồ cho bé, mặc tã trước tiên."
+      ]}
+    ]},
+    {"h": "4. Hoàn tất", "blocks": [
+      {"t":"ul","items":[
+        "Đặt bé ở nơi an toàn, như cũi hoặc nôi.",
+        "Tháo nước trong chậu và rút nút bịt khỏi chậu tắm."
+      ]},
+      {"t":"p","text":"Tắm cho bé cần luyện tập, vì vậy hãy cố thư giãn và làm từ từ. Bạn có thể bắt đầu bằng việc tắm cho bé khi có người khác ở bên giúp đỡ. Nếu lo sợ bị tuột tay khi giữ bé, bạn có thể làm chậu tắm bớt trơn bằng cách lót một chiếc tã vải sạch hoặc khăn."}
+    ]},
+    {"h": "Cách giúp bé thích thú với giờ tắm", "blocks": [
+      {"t":"p","text":"Một số bé sơ sinh thích được ở trong chậu tắm, còn một số bé cần thời gian để quen dần."},
+      {"t":"p","text":"Để giúp bé thích giờ tắm, bạn có thể thử nhẹ nhàng đặt tay lên bụng bé. Bạn cũng có thể đặt một chiếc khăn ấm, ẩm lên ngực và bụng bé. Điều này có thể giúp bé cảm thấy an toàn và yên tâm trong chậu tắm."},
+      {"t":"p","text":"Nếu bé không thích giờ tắm, bạn có thể tắm nhanh hơn hoặc tắm thưa hơn."},
+      {"t":"p","text":"Để biết thêm thông tin, hãy xem hướng dẫn minh họa của chúng tôi về cách tắm cho trẻ sơ sinh."}
+    ]},
+    {"h": "Cách giữ bé sạch sẽ giữa các lần tắm: tắm \"đầu và đuôi\"", "blocks": [
+      {"t":"p","text":"Vào những ngày bé không tắm, bạn có thể làm vệ sinh cho bé theo kiểu \"top and tail\" (đầu và đuôi)."},
+      {"t":"p","text":"Tắm \"đầu và đuôi\" là khi bạn chỉ làm sạch những phần sau của bé:"},
+      {"t":"ul","items":[
+        "mắt và mặt",
+        "bàn tay",
+        "mông và bộ phận sinh dục."
+      ]},
+      {"t":"p","text":"Bạn có thể để nguyên hầu hết quần áo của bé khi tắm \"đầu và đuôi\". Hoặc bạn có thể cởi đồ và quấn bé trong một chiếc khăn mềm."}
+    ]},
+    {"h": "Làm sạch mắt và mặt cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Bắt đầu bằng việc lau mí mắt bé (từ khóe mắt trong ra khóe mắt ngoài) bằng bông gòn hoặc khăn lau mềm nhúng nước ấm. Dùng miếng bông gòn mới hoặc phần khăn sạch cho mỗi lần lau.",
+        "Rửa toàn bộ khuôn mặt bé.",
+        "Đừng cho bất cứ thứ gì vào tai hoặc mũi bé."
+      ]}
+    ]},
+    {"h": "Làm sạch bàn tay, mông và bộ phận sinh dục cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Dùng bông gòn mới hoặc một chiếc khăn lau khác cùng nước ấm.",
+        "Dùng sữa tắm dịu nhẹ cho bé nếu cần.",
+        "Làm sạch bộ phận sinh dục và mông bé sau cùng. Luôn lau từ trước ra sau, giống như khi thay tã."
+      ]},
+      {"t":"p","text":"Tắm \"đầu và đuôi\" nghĩa là bạn có thể tập trung vào những vùng thực sự cần làm sạch, và bé vẫn giữ ấm trong quần áo hoặc được quấn khăn trong lúc bạn làm."}
+    ]}
+  ]
+}

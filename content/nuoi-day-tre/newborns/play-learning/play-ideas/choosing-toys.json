@@ -1,0 +1,77 @@
+{
+  "path": "play-learning/play-ideas/choosing-toys",
+  "title": "Cách chọn đồ chơi tốt cho trẻ",
+  "subtitle": "Chọn đồ chơi phù hợp lứa tuổi, an toàn và phù hợp giá trị gia đình",
+  "sections": [
+    {"h": "Đồ chơi tốt nhất cho trẻ là gì?", "blocks": [
+      {"t":"p","text":"Chơi là cách trẻ học hỏi, và trẻ học tốt nhất khi hứng thú với điều mình đang làm."},
+      {"t":"p","text":"Điều này có nghĩa là những đồ chơi tốt nhất là những món cho phép trẻ theo đuổi sở thích riêng và dẫn dắt cuộc chơi của mình. Miễn là đồ chơi khơi gợi sự hứng thú của trẻ, chúng có thể là gần như bất cứ thứ gì: bóng, đồ xếp hình, khối gỗ, búp bê làm từ vật liệu tự nhiên, rối tất và nhiều thứ khác nữa."},
+      {"t":"p","text":"Vì vậy, khi chọn đồ chơi cho con, tốt nhất nên bắt đầu bằng việc nghĩ xem con đang hứng thú với điều gì."},
+      {"t":"p","text":"Thư viện đồ chơi là một cách tuyệt vời để liên tục mang đến cho con những món đồ chơi mới lạ. Hầu hết thư viện đồ chơi thu phí thành viên, nhưng bạn có thể mượn đồ chơi miễn phí. Bạn cũng có thể đọc thêm về đồ chơi tự làm và các hoạt động miễn phí cho trẻ."}
+    ]},
+    {"h": "Cách chọn đồ chơi phù hợp với lứa tuổi", "blocks": [
+      {"t":"p","text":"Nhiều đồ chơi có thông tin về độ tuổi trên bao bì. Thông tin này có thể hữu ích, nhưng nó chỉ là một hướng dẫn cho việc chơi. Sở thích cùng mức độ khả năng và kỹ năng của con sẽ giúp bạn hình dung rõ hơn nên chọn gì."},
+      {"t":"p","text":"Dưới đây là những gợi ý để thu hút trẻ ở các độ tuổi khác nhau."}
+    ]},
+    {"h": "Trẻ sơ sinh", "blocks": [
+      {"t":"p","text":"Chơi với trẻ sơ sinh là sự tương tác với bạn hoặc những người chăm sóc khác. Bé thích ngắm khuôn mặt bạn, lắng nghe giọng nói của bạn và đơn giản là được ở bên bạn. Điều này có nghĩa là những đồ chơi tốt nhất cho bé là những món bạn chơi cùng bé. Ví dụ, hãy thử:"},
+      {"t":"ul","items":[
+        "ngắm một chiếc đồ chơi treo nôi có màu sắc rực rỡ",
+        "nghe một món đồ chơi nhạc lên dây cót",
+        "với tới một cái lúc lắc",
+        "chạm vào những vật có kết cấu bề mặt khác nhau."
+      ]}
+    ]},
+    {"h": "Trẻ tập đi", "blocks": [
+      {"t":"p","text":"Trẻ tập đi thích chơi với hộp, khối xếp hình, kẹp phơi đồ, xô và các loại hộp đựng, cùng quần áo để hóa trang."},
+      {"t":"p","text":"Trẻ tập đi cũng thích những nhạc cụ đơn giản mà chúng có thể lắc và gõ, ví dụ một cái trống làm từ chiếc nồi úp ngược và một chiếc thìa gỗ."}
+    ]},
+    {"h": "Trẻ mẫu giáo và trẻ đến tuổi đi học", "blocks": [
+      {"t":"p","text":"Trẻ lớn hơn thường thích những đồ chơi và vật liệu chơi cho phép chúng khám phá, giải quyết vấn đề và sử dụng trí tưởng tượng cùng các giác quan. Có thể bao gồm vật liệu để:"},
+      {"t":"ul","items":[
+        "gấp máy bay giấy",
+        "làm trang phục",
+        "nấu nướng."
+      ]},
+      {"t":"p","text":"Các trò xếp hình hoặc trò chơi khuyến khích trẻ lớn hơn chơi cùng người khác cũng là những lựa chọn tốt. Và trẻ lớn hơn có thể thích những đồ chơi hoặc trò chơi từ các nền văn hóa đa dạng."}
+    ]},
+    {"h": "Cách chọn đồ chơi an toàn cho trẻ", "blocks": [
+      {"t":"p","text":"Thông tin về độ tuổi trên bao bì đồ chơi có thể quan trọng đối với sự an toàn. Ví dụ, thông tin này có thể cho biết khi nào đồ chơi có những chi tiết nhỏ mà trẻ có thể nuốt phải."},
+      {"t":"p","text":"Bạn cũng có thể đánh giá độ an toàn của đồ chơi bằng cách kiểm tra xem đồ chơi có đạt tiêu chuẩn an toàn của Úc hay không. Hãy tìm nhãn Tiêu chuẩn (Standards) trên sản phẩm và bao bì, hoặc kiểm tra trang web của nhà sản xuất."},
+      {"t":"p","text":"Và khi chọn đồ chơi với sự an toàn trong tâm trí, đừng bao giờ cho trẻ chơi với những đồ chơi hoặc vật dụng trong nhà có:"},
+      {"t":"ul","items":[
+        "chi tiết nhỏ, có thể gây sặc nghẹn nếu nuốt phải",
+        "dây, ruy băng hoặc dây thun dài, có thể siết cổ",
+        "pin cúc áo, có thể gây ngộ độc nếu nuốt phải",
+        "nam châm nhỏ có lực hút mạnh, có thể gây sặc nghẹn hoặc tổn thương nội tạng nếu nuốt phải",
+        "sơn độc hại hoặc vật liệu độc hại."
+      ]},
+      {"t":"p","text":"Bạn cũng nên xem đồ chơi được làm từ gì. Ví dụ, nếu có thể, hãy chọn đồ chơi nhồi bông làm từ vật liệu hữu cơ và đồ chơi cao su làm từ 100% cao su tự nhiên."}
+    ]},
+    {"h": "Còn đồ chơi vũ khí, búp bê \"gợi cảm\" và đồ chơi nhựa thì sao?", "blocks": [
+      {"t":"p","text":"Một số gia đình thấy rằng có những đồ chơi nhất định không phù hợp với giá trị gia đình mình, ví dụ đồ chơi vũ khí, búp bê có hình dáng cơ thể người lớn hoặc \"gợi cảm\", hay những đồ chơi nhựa dùng một lần dễ vứt bỏ."},
+      {"t":"p","text":"Nếu con bạn thích những loại đồ chơi này, sẽ hữu ích nếu bạn trò chuyện với con về giá trị của gia đình. Ví dụ, \"Súng có thể khiến người ta sợ hãi và bị thương rất nặng. Không ai trong gia đình mình có súng cả\". Việc cấm đoán hoặc từ chối mua những đồ chơi này có thể khiến con càng muốn có chúng hơn."},
+      {"t":"p","text":"Và nếu bạn không muốn người lớn khác tặng con những đồ chơi nhất định làm quà, hãy giải thích cảm nhận của bạn một cách ngắn gọn và bình tĩnh."}
+    ]},
+    {"h": "Đồ chơi vũ khí", "blocks": [
+      {"t":"p","text":"Nếu con bạn chơi hoặc tự làm đồ chơi vũ khí và bạn lo lắng, bạn nên quan sát xem con đang chơi với món đồ đó như thế nào. Ví dụ, con có thể dùng đồ chơi súng như một khẩu súng nước để bắn vào mục tiêu chứ không phải vào người hay thú cưng. Điều này có thể chấp nhận được."},
+      {"t":"p","text":"Nhưng nếu con dùng đồ chơi vũ khí một cách hung hăng với những trẻ khác, điều đó có thể khiến các bé khác sợ hãi và không muốn chơi với con. Sẽ hữu ích nếu bạn hướng con đến những cách chơi thân thiện hơn. Ví dụ, \"Sao con và bé May-Ling không cùng một đội và giả vờ cả hai đang chiến đấu với quái vật nhỉ?\""},
+      {"t":"p","text":"Trẻ thường hay làm súng đồ chơi từ những vật thường ngày như cành cây. Bạn có thể không thích điều này, nhưng một khẩu súng làm từ cành cây không có sức mạnh giống như một khẩu súng đồ chơi thật. Súng làm từ cành cây chỉ là một biểu tượng, và trẻ ít có khả năng dùng nó để dọa người khác. Bạn cũng có thể hướng con sang trò chơi khác bằng cách nói điều gì đó như, \"Con còn có thể biến những cành cây này thành gì nữa nào?\""}
+    ]},
+    {"h": "Búp bê trông gợi cảm", "blocks": [
+      {"t":"p","text":"Một số búp bê nữ đi kèm trang phục gợi cảm như váy siêu ngắn, tất lưới và giày cao gót. Điều này có thể tạo nên một hình ảnh về phụ nữ mà bạn có thể không thoải mái. Ví dụ, những loại búp bê này có thể gửi đến trẻ thông điệp rằng nếu là con gái thì việc trông \"gợi cảm\" là điều quan trọng."},
+      {"t":"p","text":"Bạn nên quan sát xem con chơi với búp bê như thế nào. Nếu bạn lo lắng, bạn có thể tìm những búp bê có nét trẻ thơ hơn."}
+    ]},
+    {"h": "Đồ chơi nhựa", "blocks": [
+      {"t":"p","text":"Nếu con muốn một món đồ chơi nhựa mới nhưng giá trị bảo vệ môi trường lại quan trọng với bạn, bạn có thể thử gắn kết giá trị gia đình với cách con sử dụng đồ chơi trong cuộc sống hằng ngày."},
+      {"t":"p","text":"Ví dụ, thay vì mua món đồ chơi, bạn có thể giúp con làm đồ chơi từ những thứ có sẵn trong nhà. Bạn cũng có thể trò chuyện với con về việc đây là một ví dụ của tái chế."},
+      {"t":"p","text":"Cách tiếp cận \"quan sát và chờ xem\" có thể là cách tốt nhất để quyết định bạn cảm thấy thế nào về việc con chơi với đồ chơi vũ khí, búp bê gợi cảm hay món đồ chơi nhựa mới nhất. Đó có thể chỉ là một giai đoạn con đang trải qua và sẽ tự qua đi. Nhưng nếu điều đó khiến bạn lo lắng, bạn có thể gợi ý con chơi món khác."}
+    ]},
+    {"h": "Cách ứng phó với quảng cáo đồ chơi", "blocks": [
+      {"t":"p","text":"Nhiều đồ chơi được quảng bá bằng các quảng cáo và hoạt động tiếp thị nhắm vào trẻ em."},
+      {"t":"p","text":"Đồ chơi được quảng cáo thường được thiết kế để cổ vũ một kiểu chơi nhất định dựa trên một bộ phim hoặc chương trình truyền hình. Những đồ chơi này có thể hạn chế lựa chọn chơi của con. Điều này có thể xảy ra nếu con chỉ chơi những đồ chơi đó để bắt chước những gì diễn ra trong chương trình truyền hình, thay vì dùng trí tưởng tượng của mình."},
+      {"t":"p","text":"Thay vì mua cho con một món đồ chơi được quảng cáo, bạn có thể khuyến khích con vẽ một bức tranh về món đồ chơi đó hoặc tự làm món đồ chơi từ vật liệu tự nhiên."},
+      {"t":"p","text":"Nếu nhà bạn có ít đồ chơi hơn, trẻ có thể khám phá những món đồ đó một cách trọn vẹn và nghĩ ra những cách sáng tạo để sử dụng chúng. Và nếu bạn tình cờ có nhiều đồ chơi, bạn có thể luân phiên chúng bằng cách thỉnh thoảng cất bớt một số món đi."}
+    ]}
+  ]
+}

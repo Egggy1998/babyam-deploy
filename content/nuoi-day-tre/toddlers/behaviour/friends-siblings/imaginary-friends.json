@@ -1,0 +1,55 @@
+{
+  "path": "behaviour/friends-siblings/imaginary-friends",
+  "title": "Bạn tưởng tượng và trẻ nhỏ",
+  "subtitle": "Bạn tưởng tượng là một phần lành mạnh trong sự phát triển của trẻ. Tìm hiểu vì sao chúng xuất hiện, có ý nghĩa gì và khi nào cần lưu tâm.",
+  "sections": [
+    {
+      "h": "Bạn tưởng tượng là gì?",
+      "blocks": [
+        { "t": "p", "text": "Bạn tưởng tượng là những người bạn không có thật mà trẻ tự tạo ra trong trí tưởng tượng của mình." },
+        { "t": "p", "text": "Chúng có đủ mọi hình dạng và kích cỡ. Chúng có thể dựa trên ai đó con đã quen, một nhân vật trong truyện hoặc thậm chí là một con thú nhồi bông. Đôi khi chúng hoàn toàn xuất phát từ trí tưởng tượng của con. Phần lớn chúng mang hình dáng con người, nhưng cũng có thể là động vật." },
+        { "t": "p", "text": "Những người bạn này có thể luôn ở bên con, hoặc thoắt đến thoắt đi. Chúng có thể chỉ tồn tại ở những nơi nhất định như nhà chòi đồ chơi hay bên bàn ăn. Và chúng có thể xuất hiện rồi biến mất mà không có lý do rõ ràng." }
+      ]
+    },
+    {
+      "h": "Bạn tưởng tượng xuất hiện khi nào và kéo dài bao lâu?",
+      "blocks": [
+        { "t": "p", "text": "Trẻ chỉ mới 2 tuổi rưỡi đã có thể có bạn tưởng tượng. Con có thể có một hoặc nhiều bạn tưởng tượng." },
+        { "t": "p", "text": "Trẻ thường ngừng chơi với những người bạn tưởng tượng khi sẵn sàng bước tiếp. Bạn tưởng tượng thường gắn bó với con trong vài tháng, nhưng cũng có thể là một phần trong cuộc sống của con suốt vài năm." }
+      ]
+    },
+    {
+      "h": "Vì sao trẻ có bạn tưởng tượng?",
+      "blocks": [
+        { "t": "p", "text": "Bạn tưởng tượng của con có thể là ai đó:" },
+        { "t": "ul", "items": [
+          "ở bên cạnh cho con đỡ cô đơn",
+          "chơi cùng con",
+          "lắng nghe và ủng hộ con",
+          "chấp nhận con đúng như con vốn là",
+          "làm được những điều con không làm được",
+          "đặc biệt và chỉ thuộc về riêng con."
+        ]},
+        { "t": "p", "text": "Con là người quyết định bạn tưởng tượng nói gì, làm gì và người bạn đặc biệt ấy được 'chơi' với ai. Đây cũng có thể là một phần sức hút của người bạn này." },
+        { "t": "p", "text": "Bạn tưởng tượng cho phép trẻ khám phá một thế giới giả tưởng do chính mình tạo ra. Thực tế, những trẻ có bạn tưởng tượng có thể giàu trí tưởng tượng hơn và thường thích chơi giả tưởng cũng như những câu chuyện kỳ diệu hơn." },
+        { "t": "p", "text": "Cách con chơi hoặc nói về những người bạn này có thể cho bạn biết rất nhiều về cảm xúc của con. Bạn tưởng tượng giúp bạn hiểu thêm về thế giới nội tâm của con cũng như những điều con thích, không thích và sở thích của con." },
+        { "t": "p", "text": "Trẻ có bạn tưởng tượng có thể hòa đồng hơn và bớt nhút nhát hơn những trẻ khác, đồng thời có thể thể hiện nhiều sự đồng cảm hơn khi chơi với bạn bè." }
+      ]
+    },
+    {
+      "h": "Khi bạn tưởng tượng gây ra rắc rối",
+      "blocks": [
+        { "t": "p", "text": "Dưới đây là một số gợi ý cho những lúc bạn tưởng tượng của con trở nên khó xử lý." },
+        { "t": "p", "text": "<strong>Làm việc giúp bạn tưởng tượng.</strong> Có thể bạn sẽ bị yêu cầu giữ cửa, chuẩn bị đồ ăn vặt hay dọn giường cho bạn tưởng tượng của con. Thay vì tự làm, hãy khuyến khích con giữ cửa, dọn một chỗ ngồi cho người bạn ấy ở bàn ăn hoặc dọn giường. Như vậy bạn vừa chấp nhận người bạn tưởng tượng vừa tận dụng cơ hội để phát triển kỹ năng cho con." },
+        { "t": "p", "text": "<strong>Nói chuyện qua bạn tưởng tượng.</strong> Một số trẻ cứ khăng khăng phải hỏi ý kiến bạn tưởng tượng của mình mọi lúc — ví dụ, 'Con phải hỏi Sammy trước đã'. Con cũng có thể nhờ bạn nói với người bạn ấy thay vì nói trực tiếp với con. Nếu thấy bực mình, hãy thử nói với con: 'Mẹ muốn nghe con nghĩ gì — chứ không phải Sammy nghĩ gì'." },
+        { "t": "p", "text": "<strong>Đổ lỗi cho bạn tưởng tượng.</strong> Đôi khi trẻ làm hoặc nói điều không nên rồi đổ lỗi cho bạn tưởng tượng. Bạn có thể xử lý bằng cách nói rõ ràng với con rằng người bạn tưởng tượng không thể làm việc đó. Sau đó áp dụng một hệ quả phù hợp, chẳng hạn yêu cầu con dọn dẹp đống bừa bộn." }
+      ]
+    },
+    {
+      "h": "Khi nào cần lo lắng về bạn tưởng tượng",
+      "blocks": [
+        { "t": "p", "text": "Với một số rất ít trẻ, bạn tưởng tượng có thể là dấu hiệu của những vấn đề khác. Nếu bạn lo lắng về bạn tưởng tượng của con — ví dụ, nếu con vừa trải qua một sự kiện sang chấn hoặc người bạn tưởng tượng có biểu hiện ác ý, độc địa — hãy tham khảo ý kiến bác sĩ hoặc một chuyên gia y tế khác." }
+      ]
+    }
+  ]
+}

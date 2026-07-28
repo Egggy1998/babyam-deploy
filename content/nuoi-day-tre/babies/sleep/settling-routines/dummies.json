@@ -1,0 +1,125 @@
+{
+  "path": "sleep/settling-routines/dummies",
+  "title": "Ti giả: ưu điểm, nhược điểm và mẹo dùng",
+  "subtitle": "Cân nhắc lợi và hại của ti giả, cách chọn và sử dụng ti giả an toàn cho bé.",
+  "sections": [
+    {
+      "h": "Ti giả có ưu và nhược điểm gì?",
+      "blocks": []
+    },
+    {
+      "h": "Ưu điểm của việc dùng ti giả",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Mút ti giả có thể giúp một số bé dỗ ngủ. Việc mút dường như có tác dụng xoa dịu và làm dịu bé.",
+            "Khi bé dùng ti giả cho mỗi giấc ngủ, ti giả có thể giảm nguy cơ hội chứng đột tử ở trẻ sơ sinh (SIDS)."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Nhược điểm của việc dùng ti giả",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Không phải bé nào cũng thích ti giả.",
+            "Nếu cho dùng ti giả trong 4-6 tuần đầu đời, việc dùng ti giả có thể cản trở việc cho con bú, lượng sữa và tăng cân của bé.",
+            "Việc dùng ti giả có liên quan đến tỷ lệ viêm tai giữa cao hơn ở bé trên 10 tháng tuổi.",
+            "Dùng ti giả kéo dài, đặc biệt sau 3-4 tuổi, làm tăng nguy cơ mắc các vấn đề về răng sau này – ví dụ, răng của trẻ mọc lệch.",
+            "Nếu bé chưa đủ lớn để tự tìm và đặt lại ti giả vào miệng trong đêm, bé có thể khóc đòi giúp.",
+            "Trẻ sơ sinh và trẻ tập đi có thể trở nên phụ thuộc vào ti giả mới ngủ được.",
+            "Trẻ sơ sinh và trẻ tập đi có thể rất bực bội khi ti giả bị mất hoặc thất lạc.",
+            "Ti giả có thể ảnh hưởng đến giao tiếp vì trẻ sơ sinh và trẻ tập đi phải lấy ra mới nói được."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cuối cùng, con sẽ phải từ bỏ ti giả. Những trẻ đã dùng ti giả một thời gian thường rất gắn bó với nó. Bài viết của chúng tôi về việc bỏ ti giả có những mẹo cai ti giả cho bé khi cả bạn và bé đã sẵn sàng."
+        }
+      ]
+    },
+    {
+      "h": "Cách chọn ti giả",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Ti giả có nhiều hình dạng khác nhau. Cách tốt nhất để tìm loại phù hợp với bé là thử nghiệm. Nhưng hãy đảm bảo ti giả bạn chọn tuân thủ Tiêu chuẩn Úc AS 2432:2015. Bạn có thể xem chi tiết AS 2432:2015 tại Product Safety Australia – tiêu chuẩn bắt buộc về ti giả và dây ti giả cho bé."
+        }
+      ]
+    },
+    {
+      "h": "Mẹo giúp bạn chọn ti giả cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Tìm loại liền một khối với núm mềm. Ti giả làm 2 phần có thể bung ra và trở thành nguy cơ hóc nghẹn.",
+            "Kiểm tra để bạn có thể dễ dàng cầm vòng hoặc tay cầm của ti giả, để rút ra nhanh nếu nó bị kẹt trong miệng bé.",
+            "Tìm loại có tấm chắn cứng cáp với ít nhất 2 lỗ thông khí. Kiểm tra tấm chắn rộng hơn 3,5 cm để bé không thể đưa cả ti giả vào miệng.",
+            "Kiểm tra không có khe hở hay lỗ nào để chất lỏng lọt vào núm trong lúc rửa.",
+            "Nếu bé dưới 6 tháng tuổi, hãy chọn loại ti giả có thể tiệt trùng an toàn mà không bị hỏng.",
+            "Kiểm tra nhãn để chắc chắn chọn đúng cỡ cho độ tuổi của bé. Hầu hết ti giả được dán nhãn cho bé dưới hoặc trên 6 tháng.",
+            "Nếu cho bé bú bình, hãy cân nhắc chọn ti giả cùng thương hiệu với bình sữa. Núm thường giống nhau."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Khi nào nên cho dùng ti giả",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đang cho con bú, tốt nhất nên cho dùng ti giả sau khi việc cho con bú đã ổn định – khoảng 4-6 tuần."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn cho con bú bình, bạn có thể cho dùng ti giả ngay từ khi mới sinh."
+        },
+        {
+          "t": "p",
+          "text": "Không cần cho dùng ti giả nếu bé có vẻ không hứng thú. Những bé không dùng ti giả có thể mút ngón tay hoặc ngón cái thay thế."
+        }
+      ]
+    },
+    {
+      "h": "Cách sử dụng ti giả",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Đây là những mẹo thực tế cho việc dùng ti giả hằng ngày:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nếu bạn đang cho con bú, chỉ đưa ti giả khi bạn chắc chắn bé không đói – ví dụ, sau hoặc giữa các cữ bú. Điều này giúp đảm bảo việc mút ti giả không cản trở việc cho con bú.",
+            "Kiểm tra ti giả thường xuyên xem có bị mòn hay hư hỏng không. Thay ti giả nếu nó bị vỡ hoặc mòn. Bé có thể hóc nghẹn vì bất kỳ mảnh rời nào.",
+            "Để sẵn vài ti giả dự phòng. Điều này hữu ích nếu bé làm rơi hoặc mất ti giả.",
+            "Đừng nhúng ti giả vào đồ uống ngọt hay thức ăn ngọt như mứt hoặc siro. Việc này có thể gây sâu răng.",
+            "Cân nhắc dạy bé tự dùng ti giả khi bé được 8 tháng tuổi trở lên. Điều này hữu ích nếu bé làm mất ti giả trong lúc ngủ.",
+            "Nếu bé bị nấm miệng, hãy bỏ ti giả của bé và thay bằng cái mới mỗi tuần. Ngay cả khi được rửa kỹ, ti giả vẫn có thể giữ lại các nhiễm nấm như nấm miệng."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dây ti giả dùng để gắn ti giả vào quần áo của bé. Nếu bạn muốn dùng dây ti giả, hãy kiểm tra nó đạt Tiêu chuẩn Úc AS 2432:2015. Và đảm bảo dây ngắn hơn 22 cm, không bị rách hay đứt, và không có bộ phận nào có thể rơi ra, như hạt cườm hoặc đồ trang trí. Đừng dùng dây buộc hay dây xích tự chế để gắn ti giả vào tay, cổ hoặc cũi của bé. Điều này giúp bạn tránh nguy cơ hóc nghẹn và siết cổ cho bé."
+        }
+      ]
+    },
+    {
+      "h": "Cách bảo quản ti giả",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bé dưới 6 tháng tuổi nên dùng ti giả đã được tiệt trùng. Có nhiều cách để tiệt trùng dụng cụ bú bình, và bạn cũng có thể dùng những cách này để tiệt trùng ti giả."
+        },
+        {
+          "t": "p",
+          "text": "Từ khoảng 6 tháng tuổi, bé sẽ đề kháng với nhiễm trùng tốt hơn. Điều này nghĩa là bạn chỉ cần rửa ti giả bằng xà phòng và nước, thay vì tiệt trùng."
+        }
+      ]
+    }
+  ]
+}

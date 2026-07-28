@@ -1,0 +1,130 @@
+{
+  "path": "safety/equipment-furniture/safe-baby-furniture",
+  "title": "Danh sách kiểm tra đồ nội thất an toàn cho bé",
+  "subtitle": "Cách chọn đồ nội thất an toàn cho bé: cũi và nệm, ghế ăn, bàn thay đồ, cổng và rào chắn an toàn, cùng các đồ nội thất khác như ghế nằm, xe tập đi và xích đu.",
+  "sections": [
+    {
+      "h": "Chọn đồ nội thất an toàn cho bé",
+      "blocks": [
+        { "t": "p", "text": "Có một số việc bạn có thể làm để chọn đồ nội thất an toàn cho bé:" },
+        { "t": "ul", "items": [
+          "Kiểm tra với Sở Bảo vệ Người tiêu dùng hoặc Sở Thương mại Công bằng tại tiểu bang/vùng lãnh thổ của bạn để có thông tin mới nhất về an toàn cho trẻ em và bé. Bạn cũng có thể kiểm tra với ACCC Product Safety.",
+          "Tham khảo ACCC Product Safety – Keep baby safe.",
+          "Mua, thuê hoặc nhận đồ dùng đạt Tiêu chuẩn Úc (AS) hoặc Tiêu chuẩn Úc/New Zealand (AS/NZS). Điều này cho thấy sản phẩm được sản xuất theo các tiêu chuẩn chất lượng tốt và, khi cần, tuân thủ các tiêu chuẩn an toàn bắt buộc của Úc. Bạn có thể tìm nhãn Tiêu chuẩn Úc hoặc kiểm tra với nhà sản xuất hay nơi bán.",
+          "Lưu ý rằng nhiều đồ dùng cho bé không có Tiêu chuẩn Úc/New Zealand. Trong những trường hợp đó, bạn có thể kiểm tra xem đồ dùng có đạt Tiêu chuẩn châu Âu, Anh hay Mỹ không."
+        ] },
+        { "t": "p", "text": "Sau khi chọn và mua đồ nội thất hay đồ dùng an toàn cho bé, điều quan trọng là tuân theo hướng dẫn của nhà sản xuất để lắp đặt và sử dụng an toàn. Và bạn vẫn cần trông chừng con để đảm bảo con không nghĩ ra những cách dùng đồ nội thất sáng tạo nhưng có thể không an toàn!" }
+      ]
+    },
+    {
+      "h": "Đồ nội thất cũ an toàn cho bé",
+      "blocks": [
+        { "t": "p", "text": "Bạn bè và người thân có thể tặng bạn đồ nội thất cũ cho bé, hoặc bạn có thể tìm được đồ cũ trên mạng. Vì sự an toàn của con, điều quan trọng là kiểm tra đồ nội thất trước khi mua, mượn hay nhận." },
+        { "t": "p", "text": "Nói chung, đồ nội thất cần chắc chắn và vững vàng. Mọi phanh hay thiết bị khóa phải còn hoạt động tốt. Không được có bề mặt thô ráp, cạnh sắc, mảng sơn bong tróc hay bộ phận lồi ra như ốc vít." },
+        { "t": "p", "text": "Đồ nội thất cũng phải đạt các tiêu chuẩn an toàn liên quan và đi kèm hướng dẫn đầy đủ để bạn lắp đặt và sử dụng đúng cách." },
+        { "t": "p", "text": "Hãy cẩn thận khi mua đồ nội thất cũ trên mạng. Khó kiểm tra được độ an toàn của một sản phẩm cũ nếu bạn không thể tận mắt nhìn, sờ hoặc thử nghiệm." }
+      ]
+    },
+    {
+      "h": "Cũi, cũi gấp và nệm",
+      "blocks": [
+        { "t": "p", "text": "Một chiếc cũi hoặc cũi gấp an toàn sẽ đạt các tiêu chuẩn sau:" },
+        { "t": "ul", "items": [
+          "Tiêu chuẩn An toàn về Sản phẩm Tiêu dùng (Sản phẩm Ngủ cho Trẻ sơ sinh) 2024",
+          "Tiêu chuẩn Thông tin về Sản phẩm Tiêu dùng (Sản phẩm cho Trẻ sơ sinh) 2024."
+        ] },
+        { "t": "p", "text": "Để biết thêm thông tin về các tiêu chuẩn này, hãy truy cập ACCC Product Safety – Infant sleep products mandatory standards." },
+        { "t": "p", "text": "Nệm cũi và cũi gấp an toàn là loại chắc, phẳng, bằng, vừa khít và sạch sẽ. Không có tiêu chuẩn bắt buộc chung cho nệm, nhưng có một Tiêu chuẩn Úc/New Zealand tự nguyện về độ chắc của nệm – AS/NZS 8811.1:2013." },
+        { "t": "p", "text": "Bé luôn nên ngủ nằm ngửa, trên một mặt phẳng chắc, phẳng và bằng, trong không gian thông thoáng, không quá nóng và không có khói thuốc. Bạn có thể đọc thêm trong các bài viết về môi trường ngủ an toàn và cũi, cũi gấp, nệm an toàn." }
+      ]
+    },
+    {
+      "h": "Ghế ăn",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo sau có thể giúp bạn chọn ghế ăn an toàn:" },
+        { "t": "ul", "items": [
+          "Kiểm tra xem ghế ăn có đạt Tiêu chuẩn Úc AS 4684 không, đặc biệt nếu bạn mua ghế mới. Tìm nhãn Tiêu chuẩn Úc hoặc kiểm tra với nhà sản xuất hay nơi bán.",
+          "Tìm ghế ăn chắc chắn và vững vàng, có dây đai 5 điểm – tức là dây đai có các quai qua vai, qua hông và giữa hai chân.",
+          "Nếu ghế ăn có bánh xe, hãy đảm bảo có thể khóa bánh xe.",
+          "Nếu ghế ăn gập được, hãy đảm bảo có thể khóa chắc chắn vào vị trí.",
+          "Nếu bạn dùng loại ghế móc vào lưng ghế người lớn, hãy đảm bảo nó chống trượt và mặt ghế bằng phẳng.",
+          "Tìm thiết kế đơn giản – sẽ dễ lau chùi hơn và cũng ít nguy cơ kẹt ngón tay nhỏ."
+        ] },
+        { "t": "p", "text": "<strong>Dùng ghế ăn an toàn</strong>" },
+        { "t": "ul", "items": [
+          "Luôn cài con vào dây đai 5 điểm của ghế ăn để con không bị ngã ra.",
+          "Để ghế xa tường và tủ để con không thể đẩy ra và làm lật ghế.",
+          "Để ghế xa các mối nguy khác như dây rèm cửa, cửa sổ và thiết bị điện.",
+          "Luôn giúp con trèo vào và ra khỏi ghế.",
+          "Treo loại ghế di động lên những chiếc bàn thấp chắc chắn sẽ không bị lật.",
+          "Trông chừng con khi con ngồi trên ghế ăn. Vì con có thể với tới mọi thứ trong tầm tay trên bàn."
+        ] }
+      ]
+    },
+    {
+      "h": "Bàn thay đồ",
+      "blocks": [
+        { "t": "p", "text": "Không có Tiêu chuẩn Úc cho bàn thay đồ, vì vậy điều quan trọng là xem xét kỹ các tính năng an toàn của bất kỳ bàn thay đồ nào bạn quan tâm." },
+        { "t": "p", "text": "Nếu bạn chọn dùng bàn thay đồ, những mẹo sau có thể giúp bạn chọn loại an toàn:" },
+        { "t": "ul", "items": [
+          "Đảm bảo bàn có các cạnh nâng cao hơn mặt thay đồ ít nhất 100 mm.",
+          "Đảm bảo không có khe hở hay khoảng trống ở phía trên bàn.",
+          "Kiểm tra bàn có vững vàng và có khóa chắc chắn không.",
+          "Tìm bàn có dây đai an toàn ngang eo nếu có thể.",
+          "Tìm bàn có chiều cao phù hợp với bạn, để bạn không phải cúi gập một cách khó chịu."
+        ] },
+        { "t": "p", "text": "<strong>Dùng bàn thay đồ an toàn.</strong> Ở nhà, an toàn nhất là thay tã cho con trên một tấm lót dưới sàn để con không bị ngã." },
+        { "t": "p", "text": "Nếu bạn dùng bàn, những mẹo sau có thể giúp giữ con an toàn:" },
+        { "t": "ul", "items": [
+          "Đảm bảo mọi quần áo, khăn ướt, tã và đồ dùng khác bạn cần đều ở trong tầm với trước khi đặt con lên bàn thay đồ.",
+          "Ở bên con khi con nằm trên bàn. Luôn giữ một tay trên người con để con không vặn vẹo rơi xuống.",
+          "Dạy các con lớn tránh xa bàn thay đồ.",
+          "Đảm bảo không chất quá nhiều đồ vào các túi bên hông bàn."
+        ] }
+      ]
+    },
+    {
+      "h": "Cổng và rào chắn an toàn",
+      "blocks": [
+        { "t": "p", "text": "Không có Tiêu chuẩn Úc cho cổng an toàn, vì vậy điều quan trọng là xem xét kỹ các tính năng an toàn của bất kỳ cổng an toàn nào bạn quan tâm." },
+        { "t": "p", "text": "<strong>Chọn cổng an toàn vừa an toàn vừa tiện dụng</strong>" },
+        { "t": "ul", "items": [
+          "Đọc hướng dẫn và nhãn cảnh báo của nhà sản xuất để đảm bảo bạn có loại cổng phù hợp với nhu cầu.",
+          "Lưu ý rằng cổng có thể mở ra thì an toàn và tiện dụng hơn loại rào chắn bạn phải bước qua.",
+          "Tìm loại có thể mở bằng bàn đạp chân. Bạn cần dùng lực vừa phải để mở cổng, hoặc cổng cần ít nhất 2 thao tác riêng biệt để mở.",
+          "Kiểm tra khoảng cách giữa các thanh cổng rộng 50-95 mm. Nếu rộng hơn, đầu con có thể bị kẹt.",
+          "Kiểm tra cổng không có thanh ngang hay lưới mà con có thể dùng để trèo qua. Cổng cũng không được có cạnh sắc và không có bộ phận nhỏ tháo rời được vốn là nguy cơ hóc nghẹn.",
+          "Kiểm tra kích thước ô cần lắp cổng nằm trong các kích thước khuyến nghị cho mẫu bạn chọn. Nhiều cổng có phần nối thêm để dùng cho ô rộng hơn.",
+          "Lưu ý rằng các mẫu có thể điều chỉnh mà không cần cờ-lê thì tiện lợi hơn. Chúng an toàn miễn là các đai ốc được vặn chặt."
+        ] },
+        { "t": "p", "text": "<strong>Dùng cổng an toàn ở cầu thang</strong>" },
+        { "t": "ul", "items": [
+          "Dùng cổng an toàn ở cầu thang có hơn 3 bậc.",
+          "Kiểm tra xem cổng bạn quan tâm có dùng được cho cầu thang không và có thể gắn chắc chắn vào tường hay lan can không.",
+          "Dùng cổng an toàn được phê duyệt và gắn chắc chắn ở đầu và chân cầu thang.",
+          "Lưu ý rằng không phải mọi cổng an toàn đều an toàn để dùng ở đầu cầu thang."
+        ] }
+      ]
+    },
+    {
+      "h": "Các đồ nội thất khác cho bé",
+      "blocks": [
+        { "t": "p", "text": "<strong>Ghế ngồi hoặc ghế nằm rung cho bé.</strong> Sau đây là cách đảm bảo bé luôn an toàn trong ghế ngồi hoặc ghế nằm rung:" },
+        { "t": "ul", "items": [
+          "Luôn trông chừng bé.",
+          "Chỉ dùng ghế ngồi hoặc ghế nằm rung trên sàn, không dùng trên bàn hay mặt cao.",
+          "Đừng bê ghế ngồi hoặc ghế nằm rung đi lại khi có con bên trong.",
+          "Đảm bảo bé không ngủ thiếp đi khi ở trong ghế ngồi hoặc ghế nằm rung."
+        ] },
+        { "t": "p", "text": "<strong>Xe tập đi.</strong> Không khuyến nghị dùng xe tập đi vì chúng làm tăng nguy cơ chấn thương. Trẻ trong xe tập đi dễ bị ngã. Chúng cũng có thể nhanh chóng với tới nhiều mối nguy trong nhà và ngoài trời, bao gồm vật nóng và cầu thang." },
+        { "t": "p", "text": "Nếu bạn quyết định dùng xe tập đi, Tiêu chuẩn Úc yêu cầu xe tập đi phải có nhãn cảnh báo an toàn và hệ thống phanh để không bị rơi xuống bậc thềm và cầu thang." },
+        { "t": "p", "text": "Luôn trông chừng con khi con ở trong xe tập đi, và đảm bảo các khu vực có mối nguy an toàn đều được chặn lại. Ngoài ra, tốt nhất chỉ dùng xe trong thời gian ngắn, như 15 phút, vì lạm dụng có thể khiến con chậm biết đi hơn." },
+        { "t": "p", "text": "<strong>Xích đu đứng (jolly jumper).</strong> Không khuyến nghị dùng xích đu đứng vì chúng có thể làm tăng nguy cơ chấn thương. Ví dụ, một đứa trẻ trong xích đu đứng có thể bị kẹt ngón tay vào dây xích hoặc lò xo. Trẻ cũng có thể bị thương nếu nhún va vào tường hay đồ vật, hoặc bị một trẻ khác đẩy." },
+        { "t": "p", "text": "Nếu bạn quyết định dùng xích đu đứng, hãy kiểm tra các kẹp và dây đai chắc chắn trước mỗi lần nhún. Nếu bạn dùng loại treo ở khung cửa, hãy đảm bảo khung cửa chịu được trọng lượng của con và bạn treo xích đu chắc chắn." },
+        { "t": "p", "text": "Đừng để con một mình trong xích đu đứng, và dặn các con lớn không đẩy hay kéo bé trong xích đu." },
+        { "t": "p", "text": "Ngoài ra, tốt nhất chỉ dùng xích đu đứng trong thời gian ngắn, như 15 phút, vì lạm dụng có thể ảnh hưởng đến thời điểm và cách bé tập đi." },
+        { "t": "p", "text": "Một lựa chọn thay thế an toàn hơn, rẻ hơn và được khuyến nghị thay cho xe tập đi hay xích đu đứng là đặt con lên thảm chơi hoặc chăn trải dưới sàn. Điều này kích thích sự phát triển của con và là cơ hội tốt để con nằm sấp (tummy time)." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+ "path": "behaviour/common-concerns/breath-holding",
+ "title": "Cơn nín thở ở trẻ em",
+ "subtitle": "Nhận biết, xử lý và phòng ngừa các cơn nín thở của trẻ",
+ "sections": [
+  {
+   "h": "Cơn nín thở là gì?",
+   "blocks": [
+    {"t": "p", "text": "Nín thở thường xảy ra khi trẻ sơ sinh hoặc trẻ nhỏ:"},
+    {"t": "ul", "items": [
+     "đang khóc",
+     "sợ hãi hoặc buồn bã",
+     "vừa gặp một tai nạn nhỏ và bị sốc."
+    ]},
+    {"t": "p", "text": "Trẻ khóc, rồi hít vào và \"giữ\" hơi mà không thở. Trẻ không cố ý làm vậy, dù trông có vẻ như trẻ đang nín thở trong một cơn ăn vạ dữ dội."},
+    {"t": "p", "text": "Cơn nín thở thường kết thúc trong vòng 30-60 giây, khi trẻ ngừng nín thở và bắt đầu khóc hoặc la hét. Trong một số trường hợp, trẻ nín thở đến mức bất tỉnh. Khi điều này xảy ra, cơ thể tự động khởi động lại nhịp thở."},
+    {"t": "p", "text": "Cơn nín thở có thể xảy ra thường xuyên đến vài lần một ngày, hoặc hiếm khi đến mức mỗi năm chỉ một lần."},
+    {"t": "p", "text": "Trẻ nhỏ chỉ 6 tháng tuổi cũng có thể có cơn nín thở, nhưng nín thở phổ biến nhất ở trẻ 1-2 tuổi. Hầu hết trẻ ngừng nín thở khi được 6 tuổi."},
+    {"t": "p", "text": "Một số trường hợp nín thở có liên quan đến thiếu máu do thiếu sắt. Bác sĩ gia đình có thể làm một xét nghiệm máu đơn giản để xác định liệu đây có phải là nguyên nhân ở trường hợp của con bạn hay không."},
+    {"t": "p", "text": "Việc bạn cảm thấy sợ hãi và thậm chí hoảng loạn lần đầu tiên trẻ có cơn nín thở là điều tự nhiên, đặc biệt nếu bạn chưa từng nghe về hiện tượng này. Có thể bạn sẽ yên tâm hơn khi biết rằng nín thở không gây tổn thương lâu dài hay tác hại nào lên não bộ."}
+   ]
+  },
+  {
+   "h": "Cần làm gì trong cơn nín thở",
+   "blocks": [
+    {"t": "p", "text": "Hãy làm theo những lời khuyên sau để giúp trẻ vượt qua cơn nín thở:"},
+    {"t": "ul", "items": [
+     "Giữ bình tĩnh. Cơn nín thở có thể sẽ qua trong vòng một phút.",
+     "Đặt trẻ nằm nghiêng và quan sát cho đến khi cơn nín thở kết thúc.",
+     "Đừng đưa bất cứ thứ gì vào miệng trẻ, kể cả ngón tay của bạn để thông đường thở. Nếu trẻ bắt đầu có các cử động giật, bạn có thể giữ đầu, tay hoặc chân trẻ để tránh chấn thương, hoặc dời đi những vật có thể làm trẻ bị thương.",
+     "Đừng lắc trẻ. Việc này không làm trẻ ngừng nín thở mà có thể gây chấn thương.",
+     "Nếu có trẻ em hoặc người lớn khác ở đó, hãy trấn an họ rằng đây là cơn nín thở vô hại và sẽ sớm qua.",
+     "Đôi khi trẻ có thể ngã và bị thương trong cơn nín thở. Nếu bạn nghĩ điều này đã xảy ra, tốt nhất nên cho bác sĩ kiểm tra cho trẻ.",
+     "Sau khi trẻ đã hồi phục, tránh trừng phạt hay thưởng cho trẻ, và đừng làm to chuyện."
+    ]},
+    {"t": "p", "text": "Hãy đưa trẻ đi khám lần đầu tiên trẻ có cơn nín thở. Nhân viên y tế sẽ kiểm tra để chắc chắn rằng trẻ không mắc một bệnh lý nghiêm trọng hơn."}
+   ]
+  },
+  {
+   "h": "Khi nào cần đưa trẻ đi khám về cơn nín thở",
+   "blocks": [
+    {"t": "p", "text": "Bạn nên đưa trẻ đi khám bác sĩ về cơn nín thở nếu trẻ:"},
+    {"t": "ul", "items": [
+     "nhỏ hơn 6 tháng tuổi",
+     "có cơn nín thở nhiều hơn một lần mỗi tuần, vì điều này có thể do thiếu máu",
+     "đột nhiên bắt đầu nín thở",
+     "trông bối rối hoặc lờ đờ sau cơn nín thở",
+     "trở nên rất tái nhợt hoặc bất tỉnh",
+     "có biểu hiện run rẩy và cứng người kéo dài hơn một phút và phải mất một lúc mới hồi phục."
+    ]}
+   ]
+  },
+  {
+   "h": "Cách phòng ngừa cơn nín thở",
+   "blocks": [
+    {"t": "p", "text": "Bạn không thể ngăn được cơn nín thở, nhưng bạn có thể ngăn ngừa những tình huống dẫn đến nín thở:"},
+    {"t": "ul", "items": [
+     "Thử đánh lạc hướng trẻ trong những tình huống mà trẻ có thể có cơn nín thở.",
+     "Báo trước cho trẻ thật rõ ràng nếu bạn cần chuyển sang một hoạt động hoặc tình huống khác. Như vậy trẻ sẽ không bị giật mình quá mức khi mọi thứ thay đổi.",
+     "Tìm hiểu thêm về các cơn ăn vạ, nếu đó là điều dường như kích hoạt cơn nín thở của trẻ.",
+     "Trấn an trẻ sau khi trẻ bị giật mình hoặc sốc.",
+     "Cố gắng tránh để trẻ quá đói hoặc quá mệt.",
+     "Giúp trẻ lớn hơn học cách nhận biết những cảm xúc như sự bực bội. Nếu trẻ có thể nhận biết, hiểu và kiểm soát cảm xúc, điều đó có thể ngăn cảm xúc biến thành sự tức giận hoặc sợ hãi vốn kích hoạt cơn nín thở."
+    ]},
+    {"t": "p", "text": "Nếu cơn nín thở của trẻ bị kích hoạt bởi các cơn ăn vạ vì bạn từ chối điều gì đó, hãy cố gắng đừng nhượng bộ và đồng ý. Điều quan trọng là đặt ra giới hạn rõ ràng cho trẻ và hướng dẫn trẻ đến hành vi tích cực."}
+   ]
+  },
+  {
+   "h": "Các loại cơn nín thở",
+   "blocks": []
+  },
+  {
+   "h": "Nín thở tím tái (cyanotic)",
+   "blocks": [
+    {"t": "p", "text": "Đây là loại nín thở phổ biến nhất. Trẻ bị loại này thường:"},
+    {"t": "ul", "items": [
+     "khóc hoặc buồn bã",
+     "hít vào và giữ hơi",
+     "chuyển sang màu tím xanh, đặc biệt quanh vùng miệng."
+    ]},
+    {"t": "p", "text": "Loại nín thở này còn được gọi là \"cơn tím\"."}
+   ]
+  },
+  {
+   "h": "Nín thở nhợt nhạt (pallid)",
+   "blocks": [
+    {"t": "p", "text": "Loại này ít gặp hơn nín thở tím tái. Trẻ:"},
+    {"t": "ul", "items": [
+     "có thể không khóc hay buồn bã",
+     "hít vào và giữ hơi, nhịp tim chậm lại và da có thể trông tái nhợt",
+     "đổ mồ hôi và mệt mỏi khi cơn nín thở kết thúc",
+     "cũng có thể bị ngất khi đến tuổi thiếu niên hoặc trưởng thành."
+    ]},
+    {"t": "p", "text": "Một số trẻ có cử động giật hoặc co giật, nhưng điều này rất hiếm gặp."},
+    {"t": "p", "text": "Loại nín thở này còn được gọi là \"cơn nhợt\"."}
+   ]
+  }
+ ]
+}

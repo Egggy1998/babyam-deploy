@@ -1,0 +1,65 @@
+{
+ "path": "behaviour/crying/crying-babies",
+ "title": "Bé quấy khóc: phải làm gì",
+ "subtitle": "Vì sao bé khóc và các cách dỗ dành, vỗ về bé",
+ "sections": [
+  {
+   "h": "Vì sao bé khóc",
+   "blocks": [
+    {"t": "p", "text": "Bé sinh ra đã có khả năng khóc. Khóc là cách chính để bé cho bạn biết bé cần gì hoặc cảm thấy thế nào. Bé khóc khi đói, mệt, khó chịu, ốm hoặc đau. Đôi khi bé khóc vì cần đổi khung cảnh hay cần được vỗ về, hoặc vì cần biết bạn đang ở đó."},
+    {"t": "p", "text": "Nhưng đôi khi rất khó để hiểu bé đang khóc vì cần gì. Vì vậy, khi bé khóc, hãy bắt đầu bằng việc kiểm tra xem bé có bị ốm hay đau không. Nếu không chắc, hãy đặt lịch hẹn với bác sĩ gia đình hoặc gọi cho y tá sức khỏe trẻ em và gia đình."}
+   ]
+  },
+  {
+   "h": "Điều cần kỳ vọng: bé khóc và quấy",
+   "blocks": [
+    {"t": "p", "text": "Bé khóc rất nhiều trong 3 tháng đầu. Trung bình, bé khóc và quấy gần 2 giờ mỗi ngày, và khoảng 2 trong 10 bé khóc lâu hơn nhiều so với mức này."},
+    {"t": "p", "text": "Việc khóc thường đạt đỉnh điểm vào khoảng 6-8 tuần tuổi rồi giảm dần xuống còn khoảng một giờ mỗi ngày khi bé được 12 tuần tuổi."},
+    {"t": "p", "text": "Colic là khi bé khóc không rõ lý do và gần như không thể dỗ được. Nếu bạn nghĩ bé bị colic, bạn nên đưa bé đi khám bác sĩ gia đình hoặc bác sĩ nhi khoa để loại trừ các nguyên nhân y khoa gây khóc."}
+   ]
+  },
+  {
+   "h": "Cách xử lý khi bé khóc: mẹo nhỏ",
+   "blocks": [
+    {"t": "p", "text": "Bước đầu tiên là kiểm tra xem bé có đói, mệt hay khó chịu không. Bạn có thể đáp lại tiếng khóc của bé bằng cách:"},
+    {"t": "ul", "items": [
+     "cho bé bú",
+     "đặt bé xuống ngủ",
+     "thay tã cho bé."
+    ]},
+    {"t": "p", "text": "Dưới đây là những mẹo khác để vỗ về bé và trấn an bé rằng bạn đang ở gần. Một số mẹo hữu ích cho việc khóc bất kỳ lúc nào trong ngày, một số hữu ích nhất khi bé khóc lúc đi ngủ. Bạn có thể cần thử nhiều cách khác nhau vào những thời điểm khác nhau, cứ thử nghiệm để xem cách nào phù hợp nhất với bạn và bé."},
+    {"t": "p", "text": "<strong>Cho bé di chuyển</strong>"},
+    {"t": "ul", "items": [
+     "Nhẹ nhàng đung đưa hoặc địu bé trong địu hoặc đai địu. Đôi khi sự chuyển động và gần gũi với cha mẹ có thể dỗ được bé.",
+     "Đi dạo hoặc lái xe đưa bé đi, miễn là bạn không quá mệt. Việc di chuyển có thể giúp cả bạn và bé dịu lại. Nhưng nếu bé ngủ, tốt nhất hãy chuyển bé sang cũi hoặc một mặt phẳng ngủ an toàn khác và đặt bé nằm ngửa."
+    ]},
+    {"t": "p", "text": "<strong>Làm dịu và thư giãn cho bé</strong>"},
+    {"t": "ul", "items": [
+     "Cho bé tắm nước ấm.",
+     "Thử massage cho bé. Việc này có thể giúp bạn thư giãn nữa. Nó cũng có thể tăng cường sự gắn kết giữa bạn và bé. Y tá sức khỏe trẻ em và gia đình có thể dạy bạn cách massage cho bé."
+    ]},
+    {"t": "p", "text": "<strong>Dỗ và vỗ về bé vào giấc ngủ</strong>"},
+    {"t": "ul", "items": [
+     "Quấn khăn cho bé. Điều này có thể giúp bé cảm thấy an toàn. Đừng quấn khăn cho bé khi bé đã có dấu hiệu lật người sang nằm sấp (khoảng 3-4 tháng tuổi).",
+     "Học các tín hiệu bé phát ra khi bắt đầu mệt. Có thể bao gồm ngáp, nắm chặt tay, chạm vào mặt hoặc đầu, hoặc cáu kỉnh. Khi thấy những dấu hiệu này, hãy đặt bé đi ngủ.",
+     "Thử các kỹ thuật dỗ ngủ có đáp ứng như đung đưa hoặc vỗ nhẹ bé trong cũi. Nhẹ nhàng lật bé nằm ngửa nếu bé ngủ thiếp đi.",
+     "Cho bé ti giả hoặc bầu vú nếu bạn đang cho con bú. Đôi khi bé không đói mà muốn hoặc cần được mút. Nếu bé từ 3-4 tháng tuổi trở lên, bạn cũng có thể giúp bé tìm ngón tay hoặc ngón cái của chính mình để mút.",
+     "Nói chuyện nhẹ nhàng với bé, hát hoặc mở nhạc êm dịu. Tiếng ồn trắng cũng có thể dỗ được một số bé. Bạn có thể thử dùng quạt, máy hút bụi hoặc radio dò đến phần nhiễu tĩnh giữa các kênh.",
+     "Làm dịu không khí bằng cách giảm độ sáng đèn, giúp giảm bớt kích thích."
+    ]},
+    {"t": "p", "text": "<strong>Quản lý cảm xúc của chính bạn</strong> Hãy thử tưởng tượng bạn đang đeo nút tai. Để tiếng khóc trôi qua bạn, và tự nhắc mình rằng mọi thứ vẫn ổn. Bạn đang làm tất cả những gì có thể để giúp bé."},
+    {"t": "p", "text": "Đáp lại tiếng khóc của bé bằng những cách ấm áp, yêu thương và có đáp ứng giúp bé cảm thấy an toàn và yên tâm. Đó cũng là một phần của việc xây dựng mối quan hệ quan trọng cho sự phát triển, học hỏi và sức khỏe tinh thần của bé, ở hiện tại và trong tương lai. Mọi cha mẹ đều có thể xây dựng mối quan hệ này ngay từ khi bé chào đời qua việc chạm, trò chuyện, chơi đùa và chăm sóc hằng ngày."}
+   ]
+  },
+  {
+   "h": "Chăm sóc bản thân khi bé quấy khóc",
+   "blocks": [
+    {"t": "p", "text": "Nếu bé khóc nhiều, việc chăm sóc bản thân là vô cùng quan trọng. Chỉ cần 5 phút đọc sách, đi dạo quanh khu nhà hoặc thiền cũng có thể cho bạn một khoảng nghỉ nếu bạn đang căng thẳng, lo lắng hoặc tức giận."},
+    {"t": "p", "text": "Sẽ dễ dàng hơn để tìm thời gian chăm sóc bản thân nếu bạn và bạn đời hoặc người đồng nuôi dạy cùng phối hợp như một đội. Như vậy, mỗi người đều có thể nghỉ ngơi khỏi tiếng khóc. Hoặc bạn có thể nhờ bạn bè, người thân giúp đỡ."},
+    {"t": "p", "text": "Tìm kiếm sự hỗ trợ là một phần quan trọng của việc chăm sóc bản thân. Điều đó tốt cho bạn, và tốt cho gia đình bạn. Nếu cần hỗ trợ, bạn có thể gọi cho bác sĩ gia đình hoặc y tá sức khỏe trẻ em và gia đình. Họ có thể tư vấn qua điện thoại. Bạn cũng có thể gọi Lifeline theo số 131 114 hoặc Beyond Blue theo số 1300 224 636."},
+    {"t": "p", "text": "Bạn cũng nên đi khám bác sĩ gia đình hoặc y tá nếu bạn hoặc bạn đời xuất hiện các dấu hiệu trầm cảm sau sinh ở người mẹ sinh con hoặc trầm cảm sau sinh ở người cha mẹ không sinh con. Dấu hiệu trầm cảm sau sinh bao gồm cảm thấy buồn và khóc không rõ lý do, dễ cáu kỉnh, khó xoay xở và cảm thấy rất lo lắng."},
+    {"t": "p", "text": "Đừng bao giờ lắc một em bé. Điều đó có thể gây xuất huyết trong não và rất có thể gây tổn thương não vĩnh viễn. Nếu cảm thấy không thể chịu đựng nổi, hãy đặt bé vào một nơi an toàn như cũi. Sang phòng khác để hít thở sâu, hoặc gọi đường dây nóng hỗ trợ làm cha mẹ của bang hay vùng lãnh thổ của bạn."}
+   ]
+  }
+ ]
+}

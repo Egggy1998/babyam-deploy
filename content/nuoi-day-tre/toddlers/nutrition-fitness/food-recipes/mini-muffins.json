@@ -1,0 +1,64 @@
+{
+ "path": "nutrition-fitness/food-recipes/mini-muffins",
+ "title": "Bánh muffin mini cà rốt và yến mạch cho bé",
+ "subtitle": "Món bánh muffin mini thơm ngon từ cà rốt và yến mạch, bổ dưỡng cho bé.",
+ "sections": [
+  {
+   "h": "Giới thiệu",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thành phẩm: 24 chiếc. Thời gian chuẩn bị: 15 phút. Thời gian nướng: 15 phút."
+    }
+   ]
+  },
+  {
+   "h": "Nguyên liệu",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "1 cốc cộng thêm 1 thìa canh đầy (160 g) bột mì nguyên cám tự nở",
+      "1⅔ cốc (150 g) yến mạch cán dẹt thường",
+      "2 củ cà rốt cỡ vừa, bào sợi",
+      "2½ thìa canh (70 g) mật ong hoặc ¼ cốc (65 g) đường nâu nén chặt",
+      "½ thìa cà phê bột quế",
+      "2 quả trứng",
+      "5 thìa canh (100 ml) dầu ô liu nguyên chất"
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Cách làm",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Làm nóng lò ở 180°C (160°C nếu dùng quạt đối lưu). Quét một lớp dầu ô liu mỏng vào khuôn bánh muffin mini 24 lỗ, hoặc lót giấy cupcake mini.",
+      "Trong một bát lớn, trộn bột mì, yến mạch, cà rốt bào sợi, mật ong hoặc đường nâu và bột quế. Trộn đều.",
+      "Trong một bát riêng, đánh tan nhẹ trứng. Cho dầu vào và trộn đều. Đổ vào hỗn hợp cà rốt và trộn vừa đủ hòa quyện (đừng trộn quá kỹ).",
+      "Múc đều vào khuôn bánh muffin. Nướng trong lò đã làm nóng 12-15 phút, hoặc đến khi xiên que vào rút ra thấy sạch là chín.",
+      "Để bánh nghỉ trong khuôn 5 phút rồi lấy ra, đặt lên giá lưới cho nguội."
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Mẹo nhỏ",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Thay một phần hoặc toàn bộ cà rốt bằng bí đỏ, khoai lang hoặc bí ngòi bào sợi.",
+      "Hãy khuyến khích bé cùng tham gia. Ngay cả trẻ tập đi cũng có thể giúp khuấy bột bánh. Chuẩn bị món ăn cùng con là hoạt động vui vẻ và giúp bé rèn luyện kỹ năng."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Trẻ dưới 12 tháng tuổi không nên dùng mật ong. Đừng dùng mật ong trong công thức này nếu bạn làm cho trẻ dưới 12 tháng tuổi. Bạn có thể tìm hiểu thêm về những thực phẩm cần tránh ở từng độ tuổi trong bài viết về tập cho bé ăn dặm của chúng tôi."
+    }
+   ]
+  }
+ ]
+}

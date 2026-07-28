@@ -1,0 +1,77 @@
+{
+  "path": "premature-babies-sick-babies/premature-birth/premature-birth-emotional-prep",
+  "title": "Cách chuẩn bị tinh thần và cảm xúc cho việc sinh non",
+  "subtitle": "Quản lý cảm xúc và chuẩn bị cho bản thân, gia đình trước sinh non",
+  "sections": [
+    {"h": "Trước khi sinh non: cảm xúc của bạn", "blocks": [
+      {"t":"p","text":"Nếu bạn biết mình có thể sinh non hoặc sinh con cần phải nằm viện, bạn có thể trải qua nhiều cung bậc cảm xúc. Ví dụ, bạn có thể cảm thấy niềm vui, tình yêu thương, bất lực, buồn bã, tội lỗi, sợ hãi, lo lắng hay đau buồn vì việc sinh con không như bạn mong đợi."},
+      {"t":"p","text":"Nếu bạn có bạn đời, việc bạn và bạn đời có những cảm xúc và mối bận tâm khác nhau về việc sinh non là điều thường gặp."},
+      {"t":"p","text":"Chuẩn bị tinh thần và cảm xúc có thể giúp bạn đối mặt với những cảm xúc này trước và trong thời điểm bé chào đời."}
+    ]},
+    {"h": "Tìm hiểu thêm về sinh non", "blocks": [
+      {"t":"p","text":"Một cách để quản lý cảm xúc, xoa dịu lo lắng và cảm thấy chủ động hơn là thu thập thông tin. Bạn có thể bắt đầu bằng việc xác định những gì mình cần và muốn biết, rồi đặt câu hỏi về sinh non, chuyển dạ và em bé."},
+      {"t":"p","text":"Dưới đây là những câu hỏi để bạn bắt đầu. Bạn có thể trao đổi những câu hỏi này với nữ hộ sinh hoặc bác sĩ của mình. Hoàn toàn ổn khi bạn nói rằng bạn muốn được giải thích rõ ràng và đơn giản để có thể hiểu được."}
+    ]},
+    {"h": "Chuyển dạ và sinh non", "blocks": [
+      {"t":"ul","items":[
+        "Bác sĩ có biết vì sao tôi đã hoặc sẽ chuyển dạ sớm như vậy không?",
+        "Tôi có thể vẫn theo kế hoạch sinh và mong muốn của mình không, ví dụ sinh thường, sinh mổ, không dùng giảm đau? Nếu không thì vì sao?",
+        "Tôi có thể tham quan nơi tôi sẽ sinh không?",
+        "Tôi chưa kịp tham gia lớp học tiền sản nào. Tôi nên chờ đợi điều gì? Bác sĩ có giúp tôi vượt qua quá trình chuyển dạ không?",
+        "Tôi có được giảm đau trong khi chuyển dạ không?",
+        "Bác sĩ có cho tôi biết quá trình chuyển dạ và tình hình của bé đang diễn ra thế nào không?"
+      ]}
+    ]},
+    {"h": "Sức khỏe và sự an lành của bạn", "blocks": [
+      {"t":"ul","items":[
+        "Tôi có cần dùng thuốc nào không? Vì sao? Thuốc đó có tác dụng gì?",
+        "Bạn đời của tôi có thể ở lại với tôi cho đến sau khi bé chào đời không?",
+        "Tôi đang thực sự buồn về tất cả chuyện này. Nó không như tôi mong đợi, và tôi lo cho con. Bác sĩ có thể làm gì để giúp tôi?",
+        "Tôi còn có thể nói chuyện với ai khác về cảm xúc của mình? Bác sĩ có thể kết nối tôi với một nhóm hỗ trợ không?"
+      ]}
+    ]},
+    {"h": "Em bé sinh non của bạn", "blocks": [
+      {"t":"ul","items":[
+        "Tôi hoặc bạn đời có thể nhìn và chạm vào bé ngay sau khi sinh không?",
+        "Bé sẽ trông như thế nào?",
+        "Bé sẽ cần hỗ trợ gì sau khi sinh?",
+        "Khi nào tôi có thể bế con?",
+        "Bé sẽ cần thiết bị hoặc thuốc đặc biệt nào? Chúng có tác dụng gì?",
+        "Bé có sống được không? Bé có khỏe mạnh không? Bé có phát triển như những em bé khác không?",
+        "Bé sẽ cần nằm viện này bao lâu? Bé có thể được chuyển về bệnh viện gần nhà hơn không?"
+      ]}
+    ]},
+    {"h": "Chăm sóc tích cực sơ sinh", "blocks": [
+      {"t":"ul","items":[
+        "Bé có cần vào khoa hồi sức sơ sinh (NICU) hoặc phòng chăm sóc đặc biệt không? Bao lâu sau khi sinh?",
+        "Tôi hoặc bạn đời có thể vào NICU cùng con không?",
+        "Bé sẽ ở trong NICU bao lâu?",
+        "Tôi có thể giúp chăm sóc con trong NICU bằng cách nào?"
+      ]},
+      {"t":"p","text":"Những cha mẹ khác có thể là nguồn thông tin quý giá. Và việc trò chuyện với những cha mẹ khác có con sinh non có thể nhắc bạn nhớ rằng bạn không hề đơn độc. Bạn có thể kết nối với những cha mẹ khác qua Miracle Babies Foundation hoặc Life's Little Treasures Foundation. Miracle Babies Foundation vận hành NurtureLine, một đường dây hỗ trợ đồng đẳng miễn phí cho gia đình, hãy gọi 1300 622 243."}
+    ]},
+    {"h": "Làm quen với NICU hoặc phòng chăm sóc đặc biệt", "blocks": [
+      {"t":"p","text":"Bé có thể được đưa vào NICU hoặc phòng chăm sóc đặc biệt sau khi sinh. Các bé trong NICU và phòng chăm sóc đặc biệt thường có máy móc và thiết bị vây quanh, điều này có thể khiến bạn choáng ngợp và thậm chí sợ hãi lúc đầu."},
+      {"t":"p","text":"Nếu bạn và bạn đời tham quan NICU hoặc phòng chăm sóc đặc biệt trước khi sinh, nơi đó sẽ trở nên quen thuộc hơn khi bạn vào thăm bé. Bác sĩ hoặc nữ hộ sinh của bạn có thể sắp xếp việc này cho bạn."}
+    ]},
+    {"h": "Chăm sóc bản thân trước khi sinh non", "blocks": [
+      {"t":"p","text":"Chăm sóc bản thân cũng có thể giúp bạn quản lý những cảm xúc mạnh và giữ bình tĩnh trước khi bé chào đời:"},
+      {"t":"ul","items":[
+        "Tập các bài tập hít thở, thư giãn cơ hoặc các bài tập chánh niệm.",
+        "Làm những hoạt động và sở thích giúp bạn thư giãn. Ví dụ, nghe nhạc thư giãn, đi dạo, vẽ tranh, đọc sách hoặc tắm nước ấm.",
+        "Đi từng bước một. Ví dụ, tập trung vào những gì cần làm hôm nay, và cố đừng lo về những gì có thể xảy ra ngày mai.",
+        "Tập trung vào những suy nghĩ hữu ích. Ví dụ, hãy nghĩ về con theo cách bình tĩnh, yêu thương và tích cực.",
+        "Nhờ giúp đỡ nếu bạn cần. Bạn có thể tâm sự với bạn đời, một người thân hoặc một người bạn đáng tin cậy."
+      ]}
+    ]},
+    {"h": "Chuẩn bị cho anh chị về việc sinh non và em bé", "blocks": [
+      {"t":"p","text":"Bạn nên trò chuyện với các con lớn trước khi đi nhập viện."},
+      {"t":"p","text":"Trò chuyện với con về những gì đang diễn ra có thể giúp con bớt lo lắng và bối rối. Ví dụ, con có thể lo rằng chính con đã khiến em bé chào đời sớm hoặc con có thể bị giống tình trạng của em. Bạn có thể cho con biết rằng con không làm gì sai cả và việc gặp em sẽ không khiến con bị ốm."},
+      {"t":"p","text":"Hãy cho con một ước lượng sơ bộ về việc bạn và em bé sẽ nằm viện bao lâu, ví dụ bao nhiêu ngày, bao nhiêu tuần hay bao nhiêu giấc ngủ. Bạn có thể làm một cuốn lịch để các con lớn vẽ lên và dùng để gạch bỏ từng ngày cho đến khi em về nhà."},
+      {"t":"p","text":"Bạn nên giải thích rằng bạn và bạn đời có thể dành nhiều thời gian đến thăm bệnh viện. Việc cho con biết ai sẽ chăm sóc con khi bạn nằm viện hoặc đi thăm em trong NICU hay phòng chăm sóc đặc biệt cũng giúp ích."},
+      {"t":"p","text":"Bạn có thể nói chuyện với con về việc thăm em bé. Nếu cho con xem hình các em bé sinh non, con sẽ được chuẩn bị tốt hơn về diện mạo của em khi đến thăm. Con có thể vẽ một bức tranh để tặng em, để cảm thấy gần gũi với em hơn."},
+      {"t":"p","text":"Bạn cũng có thể đọc sách để giúp các con lớn hiểu em bé sinh non như thế nào, ví dụ cuốn Rosie and Tortoise của Margaret Wild."},
+      {"t":"p","text":"Chuẩn bị tinh thần và cảm xúc cho việc sinh non là điều quan trọng. Cũng có nhiều việc thiết thực bạn có thể làm trước khi sinh non để mọi thứ dễ dàng hơn cho bản thân và gia đình."}
+    ]}
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "path": "safety/child-sexual-abuse/signs-of-sexual-abuse",
+  "title": "Dấu hiệu xâm hại tình dục ở trẻ em và thanh thiếu niên",
+  "subtitle": "Các dấu hiệu về cảm xúc, hành vi và thể chất có thể gặp ở trẻ em và thanh thiếu niên từng bị xâm hại tình dục, cùng nơi cần liên hệ khi nghi ngờ.",
+  "sections": [
+    {
+      "h": "Xâm hại tình dục ở trẻ em và thanh thiếu niên: nhận biết các dấu hiệu",
+      "blocks": [
+        { "t": "p", "text": "Trẻ phản ứng với việc bị xâm hại tình dục theo nhiều cách khác nhau." },
+        { "t": "p", "text": "Nhiều yếu tố ảnh hưởng đến cách trẻ phản ứng, bao gồm:" },
+        { "t": "ul", "items": [
+          "tuổi và giai đoạn phát triển của trẻ",
+          "loại hình và thời gian kéo dài của việc xâm hại",
+          "mối quan hệ của trẻ với người gây ra việc xâm hại",
+          "khả năng xử lý và bộc lộ cảm xúc của trẻ",
+          "những sang chấn (trauma) trẻ từng trải qua trước đây",
+          "niềm tin văn hóa, mối quan hệ trong gia đình và thái độ của cộng đồng."
+        ] },
+        { "t": "p", "text": "Trẻ không phải lúc nào cũng kể với bạn rằng mình đã bị xâm hại tình dục. Thay vào đó, bạn có thể nhận thấy các dấu hiệu thể chất hoặc những thay đổi trong hành vi hay cảm xúc. Một số trẻ chỉ biểu hiện những dấu hiệu rất mờ nhạt, và có trẻ không biểu hiện dấu hiệu nào. Các dấu hiệu cũng có thể thay đổi theo thời gian khi con lớn lên." },
+        { "t": "p", "text": "Nếu con bạn hoặc trẻ bạn đang chăm sóc có một hoặc nhiều dấu hiệu được liệt kê dưới đây, điều đó không nhất thiết có nghĩa là con đã bị xâm hại tình dục. Hành vi của con có thể thay đổi vì nhiều lý do, nhưng điều quan trọng là cân nhắc mọi khả năng, kể cả khả năng bị xâm hại tình dục." },
+        { "t": "p", "text": "Hãy nhớ rằng những kẻ xâm hại tình dục trẻ em thường là người thân trong gia đình hoặc người mà bạn và con quen biết." },
+        { "t": "p", "text": "Mọi trẻ em đều có quyền lớn lên an toàn, không bị xâm hại. Bảo vệ trẻ khỏi xâm hại tình dục là một phần của việc tạo ra môi trường an toàn để trẻ phát triển và vươn lên." }
+      ]
+    },
+    {
+      "h": "Dấu hiệu xâm hại tình dục ở trẻ em",
+      "blocks": [
+        { "t": "p", "text": "<strong>Thay đổi về cảm xúc.</strong> Nếu con bạn đã bị xâm hại tình dục, bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "có vẻ sợ hãi hoặc có dấu hiệu lo âu, trầm cảm ở tuổi mầm non, trầm cảm ở tuổi đi học hoặc trầm cảm ở tuổi tiền thiếu niên",
+          "trầm lặng hơn hoặc xa cách hơn bình thường",
+          "khóc mà không có lý do rõ ràng",
+          "bắt đầu tè dầm hoặc tiêu tiểu ra quần",
+          "hỏi những câu như ‘Người ta có phải giữ bí mật không?’",
+          "hung hăng hoặc có vẻ tức giận mà không có lý do rõ ràng",
+          "trở nên cố gắng làm vừa lòng người khác một cách bất thường",
+          "mất hứng thú với những hoạt động con thường thích",
+          "bám dính lấy người lớn."
+        ] },
+        { "t": "p", "text": "<strong>Thay đổi về hành vi.</strong> Bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "không còn thích chơi hoặc tránh né một số nơi chốn hay một số người",
+          "có những hành vi mang tính tình dục không phù hợp với giai đoạn phát triển hay độ tuổi của con",
+          "khó vào giấc hoặc khó ngủ yên, gặp ác mộng, ngủ nhiều, hoặc muốn ngủ gần người khác",
+          "ăn nhiều hơn hoặc ít hơn bình thường và tăng hoặc sụt cân",
+          "học hành sa sút",
+          "ngại tự chăm sóc và vệ sinh cá nhân",
+          "dùng ngôn ngữ mang tính tình dục hoặc tục tĩu",
+          "cư xử như một đứa trẻ nhỏ hơn tuổi."
+        ] },
+        { "t": "p", "text": "Hành vi tình dục ở trẻ em trải dài từ phù hợp với lứa tuổi đến gây hại. Bạn có thể tìm hiểu thêm trong các bài viết về hành vi tình dục ở trẻ em: 0-3 tuổi, 4-6 tuổi, 7-9 tuổi và 10-11 tuổi." },
+        { "t": "p", "text": "<strong>Dấu hiệu thể chất.</strong> Bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "sưng, bầm tím, chảy máu, đỏ hoặc kích ứng ở vùng sinh dục",
+          "đau hoặc khó chịu khi đi vệ sinh",
+          "đau đầu hoặc đau bụng mà không có nguyên nhân thể chất rõ ràng",
+          "đi lại hoặc ngồi khó khăn",
+          "bầm tím ở những phần mềm của cơ thể, như mông hoặc đùi",
+          "nhiễm trùng đường tiết niệu tái đi tái lại",
+          "có triệu chứng của bệnh lây qua đường tình dục, như dịch tiết từ dương vật hay âm đạo."
+        ] },
+        { "t": "p", "text": "Nếu bạn nghi ngờ một trẻ đã bị xâm hại tình dục, hãy báo cáo lo ngại của bạn với cảnh sát theo số 000. Bạn cũng có thể liên hệ Dịch vụ Tư vấn Quốc gia về Bạo lực Gia đình và Tình dục để được tư vấn. Gọi 1800RESPECT (1800 737 732), nhắn tin 0458 737 732, dùng trò chuyện trực tuyến hoặc gọi video." }
+      ]
+    },
+    {
+      "h": "Dấu hiệu xâm hại tình dục ở thanh thiếu niên",
+      "blocks": [
+        { "t": "p", "text": "<strong>Thay đổi về cảm xúc.</strong> Nếu con bạn đã bị xâm hại tình dục, bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "hung hăng hoặc có vẻ tức giận mà không có lý do rõ ràng",
+          "tức giận, buồn bã hoặc sợ hãi khi nhắc đến một người hay một nơi cụ thể",
+          "gặp khó khăn trong việc xây dựng hoặc duy trì các mối quan hệ",
+          "khóc mà không có lý do rõ ràng",
+          "có dấu hiệu thiếu tự tin, đánh giá thấp bản thân",
+          "có dấu hiệu trầm cảm tuổi thiếu niên hoặc lo âu tuổi thiếu niên",
+          "bối rối về bản dạng giới tính của mình."
+        ] },
+        { "t": "p", "text": "<strong>Thay đổi về hành vi.</strong> Bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "ăn mặc khác đi",
+          "mặc quần áo hoặc đi giày mới, hoặc dùng túi xách, trang sức, đồ điện tử mà con không thể hoặc không chịu giải thích vì sao có",
+          "có hành vi tình dục gây hại, bao gồm cả hoạt động tình dục mạo hiểm",
+          "gia tăng các hành vi mạo hiểm, như dùng rượu bia, ma túy hoặc tham gia các hoạt động nguy hiểm, liều lĩnh",
+          "có hành vi tự gây thương tích bản thân",
+          "dành nhiều thời gian trên mạng và giữ kín các hoạt động cũng như liên lạc trực tuyến của mình",
+          "ăn uống khác đi",
+          "khó vào giấc hoặc khó ngủ yên, gặp ác mộng, hoặc ngủ quá nhiều."
+        ] },
+        { "t": "p", "text": "Hành vi tình dục ở tuổi thiếu niên trải dài từ phù hợp với lứa tuổi đến gây hại. Bạn có thể tìm hiểu thêm trong các bài viết về hành vi tình dục ở tuổi thiếu niên: 12-14 tuổi và 15-17 tuổi." },
+        { "t": "p", "text": "<strong>Thay đổi ở trường học và đời sống xã hội.</strong> Bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "dành nhiều thời gian ở một mình hơn bình thường",
+          "chơi với những người khác trước đây",
+          "tránh né một số người hay một số nơi, như nhà bạn hoặc nhóm thể thao",
+          "tránh các hoạt động hay sự kiện trước đây con từng thích, hoặc hỏi những câu như ‘Hôm nay con có phải đi học nhạc không?’",
+          "học hành sa sút."
+        ] },
+        { "t": "p", "text": "<strong>Dấu hiệu thể chất.</strong> Bạn có thể nhận thấy con:" },
+        { "t": "ul", "items": [
+          "sưng, bầm tím, chảy máu, đỏ hoặc kích ứng ở vùng sinh dục",
+          "đau hoặc khó chịu khi đi vệ sinh",
+          "đi lại hoặc ngồi khó khăn",
+          "đau đầu hoặc đau bụng mà không có nguyên nhân thể chất rõ ràng",
+          "bầm tím ở những phần mềm của cơ thể, như mông hoặc đùi",
+          "nhiễm trùng đường tiết niệu tái đi tái lại",
+          "có triệu chứng của bệnh lây qua đường tình dục, như dịch tiết từ dương vật hay âm đạo",
+          "có dấu hiệu mang thai."
+        ] },
+        { "t": "p", "text": "Những thay đổi về hành vi là điều bình thường trong tuổi thiếu niên. Nếu bạn có mối quan hệ gắn bó với con ở tuổi thiếu niên, bạn có thể giúp con vượt qua những thay đổi này. Bạn cũng sẽ ở vị trí thuận lợi để nhận ra bất kỳ thay đổi đáng lo ngại nào." }
+      ]
+    }
+  ]
+}

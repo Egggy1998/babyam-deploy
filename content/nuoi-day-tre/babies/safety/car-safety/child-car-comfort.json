@@ -1,0 +1,89 @@
+{
+  "path": "safety/car-safety/child-car-comfort",
+  "title": "Cách giữ cho trẻ mát mẻ, thoải mái và vui vẻ trong xe",
+  "subtitle": "Khi trẻ thoải mái và vui vẻ trong xe, chúng ít làm bạn xao nhãng hơn và chuyến đi dễ chịu hơn với mọi người. Bài viết gợi ý cách giữ trẻ mát mẻ, vui vẻ và an toàn.",
+  "sections": [
+    {
+      "h": "Vì sao cần giữ trẻ thoải mái trong xe",
+      "blocks": [
+        {"t": "p", "text": "Khi trẻ thoải mái, được thu hút và vui vẻ trong xe, chúng ít có khả năng làm bạn xao nhãng trong lúc lái. Điều này có thể giúp bạn dễ tập trung và lái xe an toàn hơn."},
+        {"t": "p", "text": "Ngoài ra, chuyến đi cũng dễ chịu hơn với mọi người khi trẻ thoải mái và vui vẻ."}
+      ]
+    },
+    {
+      "h": "Cách giữ trẻ mát mẻ trong xe khi trời nóng",
+      "blocks": [
+        {"t": "p", "text": "Nếu bạn di chuyển trong thời tiết nóng, trẻ có thể bị nóng và khó chịu rất nhanh. Nóng cũng có thể gây rủi ro cho trẻ, bao gồm mất nước."},
+        {"t": "p", "text": "Những lời khuyên sau có thể giúp con luôn mát mẻ, thoải mái và an toàn khi bạn lái xe trong điều kiện nóng bức."}
+      ]
+    },
+    {
+      "h": "Trước khi lên xe",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Làm mát xe nhiều nhất có thể trước khi cho con lên xe.",
+          "Cho con mặc quần áo mát mẻ, thoải mái và rộng rãi.",
+          "Kiểm tra nhiệt độ của ghế xe, dây đai và dây an toàn trước khi con lên xe. Kim loại, nhựa hoặc da nóng có thể làm bỏng con. Nếu bề mặt nóng, hãy phủ bằng một khăn ẩm rồi mới đỡ con lên xe.",
+          "Nếu sắp đi một chuyến dài, hãy lên kế hoạch đi vào những thời điểm mát mẻ hơn trong ngày nếu có thể.",
+          "Luôn mang theo nước dự phòng phòng khi bạn bị kẹt xe, xe hỏng hoặc có điều gì khác làm trì hoãn."
+        ]}
+      ]
+    },
+    {
+      "h": "Trong xe",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Dùng điều hòa nếu xe của bạn có.",
+          "Cho con uống nhiều nước.",
+          "Tránh trùm mui hoặc che lên ghế ngồi dạng nôi (capsule) để chắn nắng cho bé, vì điều này làm giảm lưu thông không khí.",
+          "Kiểm tra với cơ quan giao thông của bang hoặc vùng lãnh thổ về việc dùng tấm che hoặc dán phim cho cửa kính bên hông phía sau để bảo vệ con khỏi nắng.",
+          "Đừng bao giờ dùng khăn che cửa kính bên hông phía sau, vì điều này sẽ chắn tầm nhìn của người lái. Khăn trùm cửa kính cũng có thể là nguy cơ gây hóc nghẹn hoặc ngạt thở."
+        ]},
+        {"t": "p", "text": "Bạn có thể hạ cửa kính xuống nếu đang lái hoặc đỗ bên đường trong điều kiện nóng. Chỉ cần đảm bảo con luôn để tay, chân và đầu bên trong xe. Và đừng bao giờ để con một mình trong xe đỗ."}
+      ]
+    },
+    {
+      "h": "Vì sao trẻ cần nghỉ giải lao trong những chuyến đi dài",
+      "blocks": [
+        {"t": "p", "text": "Ngồi trong ghế xe trẻ em trong thời gian dài không tốt cho việc hô hấp của trẻ sơ sinh hay sự thoải mái của trẻ."}
+      ]
+    },
+    {
+      "h": "Hô hấp của trẻ sơ sinh",
+      "blocks": [
+        {"t": "p", "text": "Ghế xe bảo vệ trẻ sơ sinh khỏi chấn thương khi va chạm, nhưng tư thế ngả nghiêng có thể khiến bé khó thở thoải mái hơn. Nghỉ giải lao đều đặn trong những chuyến đi dài rất quan trọng để kiểm tra bé vẫn khỏe và thở bình thường."},
+        {"t": "p", "text": "Tìm hiểu thêm về cách bảo vệ đường thở của bé trong xe và những nơi khác."}
+      ]
+    },
+    {
+      "h": "Sự thoải mái của trẻ",
+      "blocks": [
+        {"t": "p", "text": "Tốt nhất nên lên kế hoạch nghỉ giải lao để mọi người có thể ra khỏi xe và vận động. Điều này bao gồm cả trẻ sơ sinh, bé có thể lăn trên một tấm thảm trải dưới đất. Tốt nhất nên đưa con ra khỏi ghế xe kể cả khi con đang ngủ."}
+      ]
+    },
+    {
+      "h": "Cách giữ trẻ vui vẻ và được thu hút trong xe",
+      "blocks": [
+        {"t": "p", "text": "Những lời khuyên sau có thể giúp bạn giữ con vui vẻ và được thu hút trong xe:"},
+        {"t": "ul", "items": [
+          "Trò chuyện trong lúc lái. Trò chuyện giúp thời gian trôi qua và làm con bớt buồn chán. Hãy nói về những việc bạn sẽ làm khi đến nơi, hoặc chỉ cho con những cảnh vật bên ngoài cửa sổ. Bạn cũng có thể chơi tìm chữ cái, copilot hoặc trò săn tìm đồ vật trên đường.",
+          "Cùng con thưởng thức âm nhạc. Bạn có thể thử các ứng dụng nhạc cho trẻ em, khám phá Baby Karaoke của chúng tôi, chơi hát karaoke trên xe hoặc đọc đồng dao.",
+          "Thử một câu chuyện kể bằng âm thanh (audio story).",
+          "Cung cấp thật nhiều thứ an toàn để con tiêu khiển, như đồ chơi mềm cầm tay hoặc sách. Một bảng chơi nam châm hoặc túi giác quan có thể rất hiệu quả.",
+          "Cho con những món ăn vặt và đồ uống lành mạnh. Điều này an toàn nếu con đang ngồi trong ghế xe quay mặt về phía trước và bạn có thể quan sát con đang làm gì."
+        ]},
+        {"t": "p", "text": "Mang theo đồ chơi, sách và những vật khác để con tiêu khiển là điều tốt. Chỉ cần đảm bảo giữ các vật rời trong hộc đựng găng tay, cốp xe hoặc sau rào chắn hàng. Các vật rời có thể bay tứ tung khi va chạm và gây thương tích cho mọi người. Thú cưng trong nhà cũng vậy – hãy đảm bảo chúng được giữ trong dây đai cho thú cưng hoặc lồng đựng động vật."}
+      ]
+    },
+    {
+      "h": "Phải làm gì khi trẻ khó chịu và có hành vi không an toàn",
+      "blocks": [
+        {"t": "p", "text": "Trẻ khó chịu hoặc chán trong xe là điều tự nhiên. Điều này có thể xảy ra ngay cả khi bạn đã cố hết sức giữ cho chúng mát mẻ, thu hút và cho chúng nghỉ giải lao cũng như ăn vặt đầy đủ."},
+        {"t": "p", "text": "Khi trẻ khó chịu hoặc chán, bạn có thể thấy những hành vi không an toàn, như nghịch khóa ghế xe hay dây an toàn, hoặc tháo chúng ra."},
+        {"t": "p", "text": "Bạn có thể ngăn điều này bằng cách khen ngợi con khi con có hành vi an toàn trong xe, như giữ nguyên dây đai hay dây an toàn và không động vào khóa cửa xe. Ví dụ: 'Con giữ dây an toàn thật giỏi vì nó giúp con được an toàn'."},
+        {"t": "p", "text": "Nhưng nếu con tháo khóa hoặc dây an toàn ra, hoặc cần được chú ý vì bất kỳ lý do gì, bạn nên tấp vào lề đường ở một nơi an toàn và tắt động cơ. Như vậy bạn có thể xem con cần gì và vẫn giữ an toàn. Hãy cài lại khóa hoặc dây an toàn, và giải thích cho con vì sao điều này quan trọng."},
+        {"t": "p", "text": "Nếu bạn làm gương về hành vi an toàn trong xe, điều đó có thể khuyến khích hành vi này ở con. Ví dụ, chỉ bắt đầu lái khi tất cả khóa và dây an toàn đã được cài, kể cả của bạn. Và luôn lái xe an toàn, có trách nhiệm và theo luật giao thông của bang hoặc vùng lãnh thổ nơi bạn ở."}
+      ]
+    }
+  ]
+}

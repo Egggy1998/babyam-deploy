@@ -1,0 +1,45 @@
+{
+  "path": "play-learning/play-ideas/thinking-play-newborns",
+  "title": "Cách kích thích trí não trẻ sơ sinh thông qua việc chơi",
+  "subtitle": "Vì sao chơi giúp phát triển nhận thức và trí não của bé sơ sinh",
+  "sections": [
+    {
+      "h": "Vì sao chơi quan trọng với sự phát triển nhận thức và trí não của trẻ sơ sinh",
+      "blocks": [
+        {"t": "p", "text": "Chơi rất quan trọng với sự phát triển nhận thức của trẻ sơ sinh, tức là khả năng đang dần hình thành của bé trong việc suy nghĩ, hiểu biết, giao tiếp, ghi nhớ, tưởng tượng và đoán biết điều gì có thể sắp xảy ra."},
+        {"t": "p", "text": "Đó là vì việc chơi với trẻ sơ sinh chủ yếu xoay quanh việc tương tác với con và đáp lại các tín hiệu của bé. Những tương tác đáp ứng này kích thích trí não của bé, tạo ra hàng triệu kết nối thần kinh."},
+        {"t": "p", "text": "Qua những tương tác này, con cũng học hỏi về thế giới: thế giới có an toàn và đáng tin không, bé có được yêu thương không, ai yêu thương bé và còn nhiều điều khác nữa."},
+        {"t": "p", "text": "Khi con cảm thấy an toàn, được che chở và yêu thương, bé sẽ có sự tự tin để tiếp tục khám phá và học hỏi. Và điều này tốt cho sự phát triển nhận thức và trí não của bé."},
+        {"t": "p", "text": "Mối quan hệ ấm áp và yêu thương của bạn với con đặt nền móng cho mọi lĩnh vực học hỏi và phát triển của con. Điều đó có nghĩa là mối quan hệ giữa bạn và con đóng vai trò then chốt đối với sự phát triển của bé."}
+      ]
+    },
+    {
+      "h": "Kỹ năng nhận thức của trẻ sơ sinh phát triển như thế nào",
+      "blocks": [
+        {"t": "p", "text": "Trẻ sơ sinh có rất nhiều điều phải học. Bạn sẽ ngạc nhiên trước tốc độ học hỏi của con."},
+        {"t": "p", "text": "Ngay từ khi chào đời, con bắt đầu học cách nhận biết và đáp lại giọng nói của bạn. Bé cũng sẽ bị cuốn hút bởi gương mặt bạn và chăm chú nhìn bạn, đặc biệt là khi bạn nói chuyện. Con đang học cách chú ý và ghi nhớ giọng nói cũng như khuôn mặt của bạn."},
+        {"t": "p", "text": "Ở độ tuổi này, con có thể chăm chú nhìn một chiếc đồ chơi treo nôi nhiều màu sắc treo phía trên cũi hoặc khu vực ngủ trong thời gian dài. Tưởng chừng đây chỉ là một hoạt động đơn giản, nhưng thực ra con đang học cách hiểu các khái niệm như chuyển động và màu sắc."},
+        {"t": "p", "text": "Trẻ sơ sinh muốn trải nghiệm thế giới, nhưng không phải tất cả cùng một lúc: quá nhiều người, âm thanh và hoạt động có thể khiến bé kiệt sức. Đôi khi quá nhiều kích thích sẽ làm con mệt đến mức không ngủ được, vì vậy hãy để ý các dấu hiệu mệt mỏi của bé."}
+      ]
+    },
+    {
+      "h": "Ý tưởng chơi giúp kích thích phát triển nhận thức ở trẻ sơ sinh",
+      "blocks": [
+        {"t": "p", "text": "Bạn nên thử nhiều hoạt động chơi khác nhau với con. Điều này kích thích phát triển nhận thức bằng cách mang đến cho bé nhiều cách học hỏi về thế giới xung quanh."},
+        {"t": "p", "text": "Dưới đây là vài ý tưởng chơi để bạn bắt đầu:"},
+        {"t": "ul", "items": [
+          "Trò chuyện với con thường xuyên, ôm con và giao tiếp bằng ánh mắt.",
+          "Đọc sách cùng con, đọc đồng dao hoặc hát cho bé nghe. Lặp đi lặp lại cùng một bài hát, bài đồng dao hay câu chuyện rất tốt cho trẻ, vì sự lặp lại là một trong những cách giúp bé học hỏi.",
+          "Làm mặt hề cùng con. Đây là trò bạn có thể chơi cùng con từ khi mới sinh. Nếu bạn lè lưỡi hoặc chu môi tạo hình chữ \"O\", một số bé có thể bắt chước theo.",
+          "Cho con nhìn ngắm nhiều thứ khác nhau, cách mặt bé khoảng 20-30 cm. Ví dụ, bạn có thể dùng sách hoặc khung tập chơi cho bé để cho con xem các màu sắc và hình dạng khác nhau.",
+          "Đưa cho con một món đồ chơi mềm hoặc cái lúc lắc để bé với tay và chạm vào. Bạn có thể thử điều này khi con được vài tuần tuổi.",
+          "Nhẹ nhàng đung đưa, vuốt ve hoặc mát-xa cho con. Bạn cũng có thể chạm vào ngón chân, ngón tay bé và thậm chí chơi trò gọi tên các bộ phận.",
+          "Cùng nghe tiếng chuông gió, tiếng chim hót hoặc các thể loại nhạc khác nhau.",
+          "Khám phá ngoài trời cùng con: bạn có thể đẩy bé đi dạo hoặc đến công viên bằng xe đẩy."
+        ]},
+        {"t": "p", "text": "Bạn nên để con dẫn dắt cuộc chơi. Ví dụ, nếu con thích thú với cảm giác sờ vào chú gấu bông, hãy cùng hòa mình vào trải nghiệm đó. Bạn thậm chí có thể nói: \"Đúng rồi, gấu bông mềm mại nhỉ\". Nhưng nếu con không hứng thú với một hoạt động hoặc đã quá mệt để chơi, có lẽ đã đến lúc thử việc khác."},
+        {"t": "p", "text": "Trẻ sơ sinh có rất nhiều điều phải học hỏi về thế giới. Tùy vào tính khí của con, bạn có thể cần giới thiệu cho bé những trải nghiệm chơi mới một cách chậm rãi và nhẹ nhàng để bé không bị quá tải."}
+      ]
+    }
+  ]
+}

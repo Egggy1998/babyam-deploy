@@ -1,0 +1,75 @@
+{
+  "path": "connecting-communicating/communicating/toddlers-talking",
+  "title": "Trẻ tập đi tập nói & giao tiếp",
+  "subtitle": "Những tương tác hàng ngày đơn giản, ấm áp giúp trẻ tập đi học nói tự nhiên, mở rộng vốn từ và phát triển khả năng hiểu cảm xúc của bản thân.",
+  "sections": [
+    {
+      "h": "Trẻ tập đi tập nói: những gì cần biết",
+      "blocks": [
+        {"t": "p", "text": "Trẻ tập đi đang bắt đầu sử dụng các từ quen thuộc và câu đơn giản. Ví dụ:"},
+        {"t": "ul", "items": [
+          "Vào khoảng 18 tháng, trẻ có thể biết và sử dụng 20–100 từ có nghĩa.",
+          "Vào khoảng 2 tuổi, trẻ bắt đầu ghép 2–3 từ lại với nhau — ví dụ 'Không bóng' hay 'Con làm được'."
+        ]},
+        {"t": "p", "text": "Ban đầu, trẻ dùng các từ sớm để gọi tên những thứ nhìn thấy xung quanh, như 'chim', 'que', 'mặt trăng' hay 'gấu bông'. Trẻ cũng có thể dùng từ để xin bạn điều gì đó — ví dụ 'Bế con', 'bình', 'chuối' hay 'sữa'."},
+        {"t": "p", "text": "Trẻ cũng bắt đầu hiểu một số lời bạn nói và làm theo những yêu cầu đơn giản như 'Mang sách lại cho Mẹ' hay 'Vẫy tay chào đi'."},
+        {"t": "p", "text": "Trẻ thường rất thích tham gia hát những bài hát và bài vần điệu quen thuộc cùng mọi người. Trẻ cũng có thể thích bắt tiếng động vật và các âm thanh khác khi chơi đồ chơi."}
+      ]
+    },
+    {
+      "h": "Giúp trẻ tập đi học nói và giao tiếp",
+      "blocks": [
+        {"t": "p", "text": "Bạn không cần phải 'dạy' trẻ tập đi nói chuyện. Trẻ học nói thông qua các tương tác hàng ngày, đặc biệt là với bạn."},
+        {"t": "p", "text": "Khi ở bên con, điều quan trọng là chú ý và nhận ra con đang quan tâm đến điều gì. Từ đó bạn có thể nhận xét hoặc đặt câu hỏi và cho con thời gian để phản hồi. Ví dụ, nếu con chỉ vào một con bọ trong vườn, bạn có thể nói: 'Ồ, con bọ xanh nhỏ xíu kìa. Không biết nó đang làm gì nhỉ'. Rồi hãy chờ xem con phản ứng thế nào."},
+        {"t": "p", "text": "Khi cùng con chia sẻ những khoảnh khắc như thế, điều quan trọng là cho con thời gian tìm từ để diễn đạt ý của mình. Đây là về việc chờ nghe con nói, thay vì nói thay cho con."},
+        {"t": "p", "text": "Khi con phản hồi, hãy thể hiện rằng bạn đang lắng nghe. Bạn có thể làm điều này bằng cách nhìn vào mắt con và nói những câu như: 'Con nghĩ con bọ đang đi dạo à? Ừ nhỉ, kìa nó đi rồi!' Khi làm vậy, bạn gửi đi thông điệp rằng những gì con nói rất quan trọng với bạn. Bạn cũng có thể nhắc lại trải nghiệm đó trong các cuộc trò chuyện sau. Ví dụ, khi nhìn thấy ảnh con bọ trong sách, bạn có thể nói: 'Kìa con bọ nhỏ. Giống con bọ mình thấy hôm nay ghê'."},
+        {"t": "p", "text": "Những tương tác đơn giản và có ý nghĩa như thế này khuyến khích con nói nhiều hơn và dùng nhiều từ hơn. Chúng giúp con hiểu nhịp điệu của cuộc trò chuyện và khuyến khích con dùng từ ngữ để hiểu thế giới xung quanh."},
+        {"t": "p", "text": "Những trao đổi qua lại với trẻ giúp vun đắp mối quan hệ giữa hai người. Chúng giúp con cảm thấy được yêu thương, an toàn và được bảo vệ — điều tốt cho cả sức khỏe tinh thần lẫn sự phát triển của con."}
+      ]
+    },
+    {
+      "h": "Giúp trẻ chuyển mong muốn, nhu cầu và cảm xúc thành lời",
+      "blocks": [
+        {"t": "p", "text": "Trẻ tập đi chưa luôn có từ để diễn đạt mong muốn, nhu cầu và cảm xúc. Thay vào đó, trẻ thường dùng ngôn ngữ cơ thể hoặc các kiểu giao tiếp phi ngôn ngữ khác như khóc."},
+        {"t": "p", "text": "Ví dụ, trẻ có thể:"},
+        {"t": "ul", "items": [
+          "kéo quần bạn để được bế",
+          "lắc hoặc gật đầu",
+          "với tay lấy thứ mình muốn",
+          "nhảy lên nhảy xuống vì phấn khích",
+          "khóc khi đồ chơi bị hỏng hoặc khi bị đau"
+        ]},
+        {"t": "p", "text": "Đây là những thời điểm tuyệt vời để khuyến khích con dùng lời nói. Bạn có thể làm điều này bằng cách nhắc lại những gì bạn nghĩ con muốn hoặc cần. Ví dụ: 'Con có vẻ đói rồi. Con muốn thêm táo không? Có hay không?'"},
+        {"t": "p", "text": "Bạn cũng có thể giúp con hiểu cách từ ngữ gắn liền với nhu cầu, mong muốn và cảm xúc bằng cách nói về chúng và tạo ra sự liên kết. Ví dụ: 'Cảm ơn con đã chỉ cho Mẹ biết sơn bị đổ rồi. Mẹ thấy con buồn vì bức tranh bị hỏng'. Câu này gắn cảm xúc với từ 'buồn'."},
+        {"t": "p", "text": "Hiểu cảm xúc và có khả năng nói về chúng là những bước quan trọng để trẻ học tự điều chỉnh bản thân."}
+      ]
+    },
+    {
+      "h": "Mẹo giúp trẻ tập đi nói chuyện nhiều hơn",
+      "blocks": [
+        {"t": "p", "text": "Dưới đây là những gợi ý hàng ngày để khuyến khích con nói chuyện và học thêm nhiều từ mới:"},
+        {"t": "ul", "items": [
+          "<strong>Đọc sách và kể chuyện cùng nhau.</strong> Những câu chuyện có vần điệu, mẫu câu lặp lại và hình ảnh sinh động thường thu hút sự chú ý của trẻ tập đi.",
+          "Hát bài hát hoặc đọc vần điệu. Điều này giúp con hiểu các âm thanh từ ngữ khác nhau — và rất vui.",
+          "Khi chơi cùng con, hãy dùng lời mô tả những gì đang xảy ra. Ví dụ: 'Đẩy bóng lại cho Mẹ đi' và 'Con lấy được bóng rồi!'",
+          "Cho con lựa chọn bằng lời nói và đồ vật. Ví dụ, bạn có thể cầm lên 2 đôi giày và nói: 'Mình ra ngoài nè. Con muốn mang ủng đỏ hay giày xanh?'",
+          "Khi con dùng động từ sai cách, hãy nhắc lại câu với từ đúng. Ví dụ: 'Ừ, người đàn ông đã ra ngoài rồi'.",
+          "Khi con ghép các từ đơn giản như 'Chó đi đi' hay 'Ba lại đây', hãy nhắc lại thành câu đầy đủ. Ví dụ: 'Con muốn Ba đuổi con chó đi à?'"
+        ]}
+      ]
+    },
+    {
+      "h": "Mẹo giúp trẻ hiểu lời nói tốt hơn",
+      "blocks": [
+        {"t": "p", "text": "Trẻ tập đi hiểu ngày càng nhiều những gì bạn nói. Nhưng trẻ chưa hiểu được tất cả. Dưới đây là những gợi ý khi con có vẻ không hiểu điều bạn nói:"},
+        {"t": "ul", "items": [
+          "Thu hút sự chú ý của con, đảm bảo con đang nhìn vào bạn.",
+          "Nói cùng một điều theo nhiều cách khác nhau. Ví dụ: 'Bỏ các khối vào hộp đi', hoặc 'Đây là hộp nè. Con bỏ các khối vào trong đi', hoặc 'Mang các khối đến hộp rồi bỏ vào trong nhé'.",
+          "Dùng cùng một từ để mô tả sự vật. Nếu bạn lặp đi lặp lại cùng một từ, con sẽ bắt đầu hiểu từ đó. Ví dụ, bạn có thể luôn dùng từ 'đồ ngủ' khi nói về quần áo con mặc khi đi ngủ.",
+          "Khi cần đưa ra hướng dẫn hoặc yêu cầu, hãy nói rõ ràng và chỉ dùng 1–2 bước. Ví dụ: 'Đậy nắp bút lại. Rồi bỏ bút vào hộp'."
+        ]},
+        {"t": "p", "text": "Nếu bạn lo lắng về sự phát triển ngôn ngữ của con ở giai đoạn 1–2 tuổi hoặc 2–3 tuổi, hay cảm thấy có điều gì đó chưa ổn, tốt nhất nên tìm kiếm sự trợ giúp sớm. Hãy gặp y tá sức khỏe trẻ em và gia đình hoặc bác sĩ gia đình, hoặc tham khảo ý kiến của chuyên gia sức khỏe trẻ em như chuyên viên âm ngữ trị liệu."}
+      ]
+    }
+  ]
+}

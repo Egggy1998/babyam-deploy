@@ -1,0 +1,117 @@
+{
+  "path": "safety/car-safety/never-leave-children-in-cars",
+  "title": "Có được để trẻ một mình trong xe không? Luật quy định thế nào",
+  "subtitle": "Đừng bao giờ để trẻ một mình trong xe, dù chỉ một khoảnh khắc. Bài viết giải thích luật ở từng bang, các nguy cơ về nhiệt độ và cách phòng ngừa bỏ quên trẻ.",
+  "sections": [
+    {
+      "h": "Đừng bao giờ để trẻ một mình trong xe",
+      "blocks": [
+        {"t": "p", "text": "Đừng bao giờ để con một mình trong xe, dù chỉ một khoảnh khắc. Nếu bạn phải rời khỏi xe vì bất kỳ lý do gì, hãy luôn mang con theo cùng."},
+        {"t": "p", "text": "Để trẻ một mình trong xe là điều nguy hiểm và có thể đe dọa tính mạng."}
+      ]
+    },
+    {
+      "h": "Luật của các bang và vùng lãnh thổ Úc về việc để trẻ một mình trong xe",
+      "blocks": [
+        {"t": "p", "text": "Luật về việc để trẻ một mình trong xe khác nhau giữa các bang và vùng lãnh thổ ở Úc. Ở hầu hết các bang, bạn có thể bị truy tố nếu để con trong tình huống nguy hiểm."}
+      ]
+    },
+    {
+      "h": "Lãnh thổ Thủ đô Úc (ACT)",
+      "blocks": [
+        {"t": "p", "text": "Việc để trẻ một mình trong xe là bất hợp pháp nếu trẻ có thể bị thương, bị bệnh hoặc gặp nguy hiểm trong lúc ở trong xe."}
+      ]
+    },
+    {
+      "h": "New South Wales",
+      "blocks": [
+        {"t": "p", "text": "Việc để trẻ một mình trong xe là bất hợp pháp nếu nó gây nguy hiểm cho sức khỏe của trẻ hoặc khiến trẻ hoảng loạn."}
+      ]
+    },
+    {
+      "h": "Lãnh thổ Bắc Úc (NT)",
+      "blocks": [
+        {"t": "p", "text": "Ở Lãnh thổ Bắc Úc, việc để trẻ một mình trong xe không phải là bất hợp pháp."}
+      ]
+    },
+    {
+      "h": "Queensland",
+      "blocks": [
+        {"t": "p", "text": "Việc để trẻ một mình trong xe trong một khoảng thời gian không hợp lý là bất hợp pháp. Khoảng thời gian thế nào là không hợp lý còn tùy thuộc vào hoàn cảnh."}
+      ]
+    },
+    {
+      "h": "South Australia",
+      "blocks": [
+        {"t": "p", "text": "Ở South Australia, việc để trẻ một mình trong xe không phải là bất hợp pháp. Nhưng việc để chìa khóa trong ổ là bất hợp pháp nếu trong xe có trẻ dưới 16 tuổi và người lái cách xe hơn 3 mét."}
+      ]
+    },
+    {
+      "h": "Tasmania",
+      "blocks": [
+        {"t": "p", "text": "Ở Tasmania, việc để trẻ một mình trong xe không phải là bất hợp pháp."}
+      ]
+    },
+    {
+      "h": "Victoria",
+      "blocks": [
+        {"t": "p", "text": "Ở Victoria, việc để trẻ một mình trong xe là bất hợp pháp."}
+      ]
+    },
+    {
+      "h": "Western Australia",
+      "blocks": [
+        {"t": "p", "text": "Việc để trẻ một mình trong xe là bất hợp pháp nếu nó gây nguy hiểm cho sức khỏe của trẻ hoặc khiến trẻ hoảng loạn."},
+        {"t": "p", "text": "Có độ tuổi nào mà việc để trẻ trong xe là chấp nhận được không? Không bao giờ được để trẻ trong tình huống nguy hiểm. Nhưng ở hầu hết các bang và vùng lãnh thổ, 'trẻ em' nghĩa là 'dưới 12 tuổi'."}
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa vô tình bỏ quên trẻ trong xe",
+      "blocks": [
+        {"t": "p", "text": "Đôi khi trẻ vô tình bị bỏ quên trong xe khi cha mẹ hoặc người chăm sóc quên rằng con đang ở ghế sau. Điều này có thể xảy ra với bất kỳ ai, đặc biệt khi bạn mệt mỏi, căng thẳng, bị xao nhãng hoặc thay đổi nề nếp."},
+        {"t": "p", "text": "Cách tốt nhất để giảm nguy cơ này là tạo một nề nếp an toàn cho các chuyến đi xe."},
+        {"t": "p", "text": "Bạn có thể đọc thêm về việc vô tình bỏ quên trẻ trong xe và cách phòng ngừa."}
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa vô tình khóa trẻ trong xe",
+      "blocks": [
+        {"t": "p", "text": "Đôi khi trẻ bị bỏ trong xe vì chúng vô tình bị khóa bên trong. Dưới đây là những cách để ngăn điều này xảy ra:"},
+        {"t": "ul", "items": [
+          "Đừng để con nghịch chìa khóa của bạn. Hãy giữ chìa khóa ngoài tầm với của con.",
+          "Luôn mang chìa khóa theo bên mình để tránh chúng bị khóa lại bên trong xe. Hãy nghĩ một cách dễ dàng để mang chìa khóa, như dùng dây đeo.",
+          "Xe đời mới thường có tính năng tự khóa. Hãy hạ cửa kính xuống trước khi cho con vào xe phòng trường hợp xe tự động khóa.",
+          "Nói với con về việc không nghịch các nút bên trong xe.",
+          "Luôn khóa xe khi bạn không ở trong xe để con không tự ý chui vào.",
+          "Nếu không tìm thấy con, luôn kiểm tra trong xe phòng trường hợp con đang trốn bên trong."
+        ]},
+        {"t": "p", "text": "Nếu con vô tình bị khóa trong xe hoặc bạn thấy bất kỳ đứa trẻ nào bị bỏ một mình trong xe, hãy tìm trợ giúp ngay lập tức. Bạn có thể báo cho người gần đó hoặc hô lớn để cầu cứu. Nếu đứa trẻ trông nóng nực hoặc bị kiệt sức, hãy gọi 000 ngay lập tức. Cũng nên gọi dịch vụ cứu hộ giao thông địa phương để được giúp đỡ."}
+      ]
+    },
+    {
+      "h": "Nguy cơ về nhiệt độ đối với trẻ bị bỏ một mình trong xe",
+      "blocks": [
+        {"t": "p", "text": "Nhiệt độ là nguy cơ chính đối với trẻ bị bỏ một mình trong xe. Trẻ có thể bị say nắng đe dọa tính mạng, mất nước nhanh chóng, ngạt thở và tử vong."},
+        {"t": "p", "text": "Đó là vì xe có thể nóng lên rất cao rất nhanh. Thực tế, vào một ngày nóng, nhiệt độ bên trong xe đỗ có thể cao hơn bên ngoài từ 20-30°C. Khi xe đỗ, chỉ mất chưa đến 5 phút để xe nóng lên đến nhiệt độ có thể gây hại nghiêm trọng cho trẻ."},
+        {"t": "p", "text": "Xe có thể nóng lên đến mức nguy hiểm hoặc gây tử vong ngay cả vào những ngày mát mẻ hay nhiều mây, hoặc khi xe đỗ trong bóng râm."},
+        {"t": "p", "text": "Trẻ càng nhỏ thì càng nhạy cảm với say nắng và càng mất nước nhanh hơn."}
+      ]
+    },
+    {
+      "h": "Những nguy cơ khác đối với trẻ bị bỏ một mình trong xe",
+      "blocks": [
+        {"t": "p", "text": "Để con trong xe còn có thể nguy hiểm vì những lý do khác. Ví dụ, con có thể:"},
+        {"t": "ul", "items": [
+          "tự tháo mình ra khỏi ghế, rời khỏi xe và đi ra đường",
+          "nhả phanh tay của xe, khiến xe lăn về phía trước hoặc phía sau",
+          "hóc nghẹn thức ăn, đồ chơi hoặc các vật khác trong tầm với",
+          "nghịch cửa kính và bị kẹt tay chân hoặc cổ",
+          "gặp tai nạn xe",
+          "trở thành nạn nhân của một vụ đột nhập",
+          "vô tình khóa bạn ở bên ngoài xe."
+        ]},
+        {"t": "p", "text": "Nếu bạn cần đổ xăng, hãy lên kế hoạch làm việc này khi không có con đi cùng hoặc khi có một người lớn khác đi cùng. Bạn cũng có thể nhờ người khác đổ xăng giúp. Nếu những lựa chọn này không khả thi, bạn có thể mang con theo khi đi thanh toán hoặc đến một trạm xăng cho phép thanh toán ngay tại trụ bơm hoặc qua ứng dụng."}
+      ]
+    }
+  ]
+}

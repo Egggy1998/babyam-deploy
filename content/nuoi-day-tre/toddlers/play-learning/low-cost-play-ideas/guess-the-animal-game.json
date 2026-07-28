@@ -1,0 +1,47 @@
+{
+  "path": "play-learning/low-cost-play-ideas/guess-the-animal-game",
+  "title": "Trò chơi đoán con vật cho trẻ",
+  "subtitle": "Trò đoán con vật giúp trẻ phát triển trí tưởng tượng, kỹ năng tư duy và vận động, đồng thời gắn kết với cha mẹ.",
+  "sections": [
+    {
+      "h": "Trò chơi đoán con vật là gì?",
+      "blocks": [
+        {"t": "p", "text": "Trò chơi này gồm việc đoán xem người kia đang giả làm con vật nào."}
+      ]
+    },
+    {
+      "h": "Vì sao trò chơi đoán con vật tốt cho trẻ",
+      "blocks": [
+        {"t": "p", "text": "Trò chơi đoán con vật giúp trẻ vận dụng trí tưởng tượng. Nó cũng khuyến khích kỹ năng tư duy khi trẻ cố gắng đoán xem bạn đang giả làm con vật nào. Đây còn là vận động tốt nữa, khi bạn nhảy lò cò, bò, ngọ nguậy hay phi nước kiệu quanh nhà."},
+        {"t": "p", "text": "Và đây là cách thú vị để kết nối với trẻ."}
+      ]
+    },
+    {
+      "h": "Bạn cần gì để chơi đoán con vật",
+      "blocks": [
+        {"t": "p", "text": "Bạn có thể chơi trò này ở bất cứ đâu, nhưng một không gian rộng như khu vườn, công viên hoặc sân chơi sẽ cho bạn nhiều chỗ để di chuyển. Sách có hình các con vật có thể khơi gợi ý tưởng cho trẻ."}
+      ]
+    },
+    {
+      "h": "Cách chơi đoán con vật",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Nhờ trẻ chọn một con vật.",
+          "Nhờ trẻ nghĩ về cách con vật đó di chuyển. Hãy cùng xem hình trong sách nếu trẻ chưa chắc chắn.",
+          "Khuyến khích trẻ di chuyển giống con vật mình đã chọn.",
+          "Cố gắng đoán đó là con vật gì.",
+          "Lần lượt thay phiên nhau di chuyển giống các con vật khác nhau. Bạn có thể bò như nhện, nhảy như thỏ rừng, trườn như rắn, hoặc phi như ngựa.",
+          "Đặt câu hỏi cho nhau để giúp đoán. Ví dụ, \"Nó kêu thế nào?\", \"Nó ăn gì?\", \"Nó nhanh hay chậm?\", \"Nó nhỏ hay to?\" hoặc \"Mình có thích nó không?\""
+        ]}
+      ]
+    },
+    {
+      "h": "Cách điều chỉnh trò chơi cho trẻ ở các độ tuổi hoặc khả năng khác nhau",
+      "blocks": [
+        {"t": "p", "text": "<strong>Trẻ nhỏ hơn</strong>: Nếu trẻ không muốn ngừng giả làm con vật khi đến lượt bạn, cũng không sao. Hãy để trẻ dẫn dắt và cùng tham gia. Có thể cả hai cùng làm rắn đang trườn hoặc thỏ đang nhảy."},
+        {"t": "p", "text": "<strong>Trẻ lớn hơn</strong>: Trẻ có thể thích \"đánh đố\" bạn bằng những con vật ít gặp hoặc rất cụ thể, như tê tê hay cá hề. Nếu trò chơi kéo dài quá lâu, bạn có thể thử giới hạn số câu hỏi được phép hỏi trước khi người kia phải tiết lộ đáp án."},
+        {"t": "p", "text": "Bạn có thể tìm thêm ý tưởng điều chỉnh hoạt động này từ các bài viết của chúng tôi về chơi đùa với trẻ tự kỷ và chơi đùa với trẻ khuyết tật. Tất cả đều có thể điều chỉnh để phù hợp với những trẻ có thế mạnh và khả năng đa dạng."}
+      ]
+    }
+  ]
+}

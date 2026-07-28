@@ -1,0 +1,58 @@
+{
+ "path": "parenting-in-pictures/healthy-posture-child-screen-time",
+ "title": "Tư thế lành mạnh cho trẻ khi dùng màn hình",
+ "subtitle": "Hướng dẫn tư thế tốt cho con khi sử dụng thiết bị màn hình.",
+ "sections": [
+  {
+   "h": "Tư thế lành mạnh khi dùng màn hình",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thường xuyên thay đổi tư thế. Giữ một tư thế quá lâu sẽ gây căng thẳng cho cơ và khớp."
+    },
+    {
+     "t": "p",
+     "text": "Thay đổi giữa việc cúi người về phía trước và ngả người ra sau."
+    },
+    {
+     "t": "p",
+     "text": "Di chuyển trong lúc dùng thiết bị. Đặt thiết bị tựa lên bàn hoặc bề mặt khác có thể giúp ích."
+    }
+   ]
+  },
+  {
+   "h": "Những tư thế cần tránh khi dùng màn hình",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Giữ thiết bị ngang tầm mắt trong thời gian dài có thể khiến cơ của con mỏi mệt."
+    },
+    {
+     "t": "p",
+     "text": "Ngửa hoặc cúi cổ quá mức về phía sau hay phía trước có thể dẫn đến đau hoặc căng cơ."
+    },
+    {
+     "t": "p",
+     "text": "Dùng thiết bị quá sát mắt có thể khiến cơ mắt của con mỏi mệt."
+    }
+   ]
+  },
+  {
+   "h": "Cách cải thiện tư thế khi dùng màn hình",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Đặt thiết bị tựa lên một chiếc gối. Cách này có thể giúp cơ của con không bị mỏi."
+    },
+    {
+     "t": "p",
+     "text": "Dùng thiết bị ở vị trí hơi thấp hơn tầm mắt một chút. Cách này có thể tránh căng cơ cổ."
+    },
+    {
+     "t": "p",
+     "text": "Giữ khoảng cách giữa màn hình và mắt. Điều này ít gây mỏi mắt hơn và khuyến khích con di chuyển nhiều hơn."
+    }
+   ]
+  }
+ ]
+}

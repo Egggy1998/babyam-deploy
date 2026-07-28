@@ -1,0 +1,85 @@
+{
+  "path": "play-learning/literacy-reading-stories/reading-activities-children-2-4-years",
+  "title": "Hoạt động đọc sách miễn phí và vui nhộn cùng trẻ",
+  "subtitle": "Vì sao đọc sách tốt cho trẻ, cùng gợi ý sách và cách tận hưởng thời gian đọc sách, kể cả với trẻ có khả năng đa dạng.",
+  "sections": [
+    {
+      "h": "Vì sao hoạt động đọc sách tốt cho trẻ?",
+      "blocks": [
+        {"t": "p", "text": "Đọc sách và kể chuyện hỗ trợ sự phát triển của trẻ theo nhiều cách."},
+        {"t": "p", "text": "Các hoạt động đọc sách và kể chuyện:"},
+        {"t": "ul", "items": [
+          "thúc đẩy sự phát triển của não bộ và trí tưởng tượng",
+          "giúp trẻ học hỏi về ngôn ngữ và cảm xúc",
+          "đặt nền móng cho khả năng đọc viết",
+          "giúp bạn và trẻ gắn kết, chia sẻ thời gian bên nhau."
+        ]},
+        {"t": "p", "text": "Đọc to và chia sẻ những câu chuyện là một trong những điều quan trọng và thú vị nhất bạn có thể làm cùng con."}
+      ]
+    },
+    {
+      "h": "Bạn cần gì để đọc sách cùng con",
+      "blocks": [
+        {"t": "p", "text": "Đọc sách cùng con chủ yếu là để vui đùa với sách và dành thời gian đặc biệt bên nhau. Tất cả những gì bạn cần là một cuốn sách mà cả hai có thể cùng thưởng thức. Bạn có thể mượn sách từ thư viện địa phương - vừa miễn phí vừa vui."}
+      ]
+    },
+    {
+      "h": "Gợi ý truyện và sách cho con",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Những câu chuyện đơn giản có mở đầu, diễn biến và kết thúc",
+          "Sách có vần điệu, nhịp điệu và sự lặp lại hay",
+          "Sách về một chủ đề yêu thích, như ô tô, nàng tiên, côn trùng hay cướp biển",
+          "Sách về giờ chơi liên quan đến trải nghiệm của con",
+          "Sách lật mở, sách bật hình (pop-up), sách bảng chữ cái, hình dạng, kích thước và đếm số",
+          "Sách hài hước và vui nhộn - ví dụ, một nhân vật dùng từ buồn cười, ngốc nghếch hoặc thậm chí \"nghịch ngợm\""
+        ]}
+      ]
+    },
+    {
+      "h": "Cách tận hưởng thời gian đọc sách cùng con",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Giúp con chọn sách. Con chọn đi chọn lại cùng một cuốn cũng không sao.",
+          "Nếu con chọn một cuốn sách hai mẹ con chưa đọc bao giờ, hãy nhìn bìa sách và hỏi con nghĩ nội dung sẽ nói về điều gì.",
+          "Để con cầm sách và lật trang.",
+          "Cùng đọc truyện. Ví dụ, lặp lại những từ và cụm từ quen thuộc, rồi để con điền nốt những từ trong các câu chuyện quen thuộc.",
+          "Thay đổi tốc độ và độ to nhỏ khi đọc. Đổi giọng cho từng nhân vật và dùng cử chỉ cũng rất vui.",
+          "Cùng ngân nga hoặc hát những cụm từ và lời lặp đi lặp lại. Ví dụ, \"Ta sẽ thổi, ta sẽ phù, và ta sẽ thổi bay ngôi nhà của ngươi\".",
+          "Chỉ vào các vật trong tranh và gọi tên, hoặc nhờ con gọi tên. Trò chuyện về các bức tranh và đặt câu hỏi cho con. Ví dụ, \"Con nghĩ chuyện gì xảy ra tiếp theo?\" hoặc \"Vì sao em bé vui nhỉ?\""
+        ]}
+      ]
+    },
+    {
+      "h": "Mẹo chung khi đọc sách cùng con",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Tạo thói quen, và cố gắng chia sẻ ít nhất một cuốn sách mỗi ngày.",
+          "Hãy để sự hứng thú của con dẫn dắt. Nếu con muốn đọc lâu hơn thì thật tuyệt. Và nếu đôi khi con chỉ muốn một cuốn sách hay một câu chuyện thì cũng không sao.",
+          "Tắt TV hoặc radio và để điện thoại ở chế độ im lặng, để con có thể tập trung.",
+          "Ôm con vào lòng hoặc cho con ngồi trên đầu gối khi bạn đọc, để con có thể thấy gương mặt bạn và cuốn sách."
+        ]}
+      ]
+    },
+    {
+      "h": "Cách điều chỉnh hoạt động đọc sách cho trẻ ở các độ tuổi khác nhau",
+      "blocks": [
+        {"t": "p", "text": "Những ý tưởng này có thể hữu ích khi con lớn hơn và đang tập đọc:"},
+        {"t": "ul", "items": [
+          "Khuyến khích con chỉ ra các chữ cái và từ ngữ.",
+          "Chơi trò \"tìm chữ cái và từ\", đặc biệt là những chữ cái trong tên của con.",
+          "Chỉ ra các dấu câu như dấu chấm, dấu chấm than và dấu chấm hỏi.",
+          "Giải thích ý nghĩa của dấu câu. Ví dụ, \"Có một dấu chấm hỏi này. Khi thấy dấu này, ta biết là ai đó đang đặt câu hỏi\"."
+        ]}
+      ]
+    },
+    {
+      "h": "Cách điều chỉnh hoạt động đọc sách cho trẻ có khả năng đa dạng",
+      "blocks": [
+        {"t": "p", "text": "<strong>Trẻ có nhiều năng lượng</strong>: Khuyến khích con diễn lại câu chuyện trong lúc hoặc sau khi bạn đọc. Ví dụ, con có thể giả làm hươu cao cổ, vươn người thật cao để hái và ăn lá trên cây."},
+        {"t": "p", "text": "<strong>Trẻ nhạy cảm với giác quan</strong>: Hãy làm cho không gian đọc sách của con thấy thoải mái và an toàn. Ví dụ, giảm độ sáng đèn, giảm tiếng ồn xung quanh, và đảm bảo con có thể chạm hoặc cầm những đồ vật giác quan yêu thích trong lúc bạn đọc."},
+        {"t": "p", "text": "<strong>Trẻ khiếm thị hoặc mù</strong>: Tìm những cuốn sách phù hợp với thị lực của con - ví dụ, sách chữ to, nhiều tranh hoặc trang có thể sờ chạm. Mô tả hình ảnh cho con cũng giúp ích. Hoặc để con sờ những vật mà bạn đang đọc tới. Ví dụ, bạn có thể đưa cho con cánh hoa, lá và cỏ để sờ trong lúc đọc cuốn sách về khu vườn."}
+      ]
+    }
+  ]
+}

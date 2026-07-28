@@ -1,0 +1,74 @@
+{
+  "path": "play-learning/playgroups/about-playgroups",
+  "title": "Nhóm chơi là gì?",
+  "subtitle": "Nhóm chơi là buổi gặp gỡ thường kỳ, thoải mái dành cho trẻ chưa đến tuổi đi học cùng cha mẹ hoặc người chăm sóc. Đây là nơi trẻ chơi, học hỏi và cha mẹ kết nối với nhau.",
+  "sections": [
+    {
+      "h": "Nhóm chơi là gì?",
+      "blocks": [
+        {"t": "p", "text": "Nhóm chơi là một buổi gặp gỡ thường kỳ và thoải mái dành cho trẻ nhỏ chưa đến tuổi đi học cùng cha mẹ hoặc người chăm sóc của các bé."},
+        {"t": "p", "text": "Trong nhóm chơi, trẻ chơi và cùng làm các hoạt động với nhau và với cha mẹ. Cha mẹ trông chừng và giao lưu với nhau."},
+        {"t": "p", "text": "Nhóm chơi thường diễn ra mỗi tuần một lần."},
+        {"t": "p", "text": "Hầu hết các nhóm chơi có địa điểm cố định. Bao gồm trường mầm non, trường học, các cơ sở tôn giáo, hội trường cộng đồng, viện dưỡng lão và công viên. Đôi khi nhóm chơi di chuyển từ địa điểm này sang địa điểm khác."},
+        {"t": "p", "text": "Sáng kiến Playgroup at Home (Nhóm chơi tại nhà) của Playgroups Australia kết nối các gia đình, tình nguyện viên nhóm chơi, giáo viên mầm non, nghệ sĩ giải trí và tác giả. Đây là cách tuyệt vời để nhận và chia sẻ ý tưởng về trò chơi, sức khỏe và sự an vui của trẻ, đặc biệt khi bạn không thể ra khỏi nhà hoặc sống ở vùng nông thôn, vùng sâu vùng xa."}
+      ]
+    },
+    {
+      "h": "Vì sao nhóm chơi tốt cho trẻ",
+      "blocks": [
+        {"t": "p", "text": "Nhóm chơi có thể rất vui! Đây là cơ hội tốt để trẻ cùng nhau làm những hoạt động thú vị và kết bạn. Ngoài ra, trẻ học tốt nhất thông qua chơi."},
+        {"t": "p", "text": "Tại nhóm chơi, con bạn có thể:"},
+        {"t": "ul", "items": [
+          "thích thú xem sách, chơi nhạc và làm thủ công",
+          "thử các hoạt động, dụng cụ và đồ chơi mới mẻ, sáng tạo",
+          "chơi cùng những trẻ khác ở nhiều độ tuổi",
+          "học cách tuân theo các nề nếp sinh hoạt",
+          "học cách tương tác với người lớn ngoài cha mẹ hoặc người chăm sóc của mình."
+        ]},
+        {"t": "p", "text": "Nếu con được thử nhiều hoạt động chơi khác nhau, con sẽ có nhiều cách để học hỏi, cũng như nhiều cơ hội để thực hành những gì đang học. Ví dụ, xếp hình giúp con luyện tập giải quyết vấn đề bằng cách thử và sai. Hoạt động thủ công cho con thử nghiệm những cách khác nhau để sử dụng vật liệu và tạo ra đồ vật, đồng thời phát triển khả năng phối hợp tay – mắt. Còn việc nhảy qua các vòng ngoài sân giúp con xây dựng kỹ năng vận động và sự tự tin."},
+        {"t": "p", "text": "Nhóm chơi cũng có thể giúp con bắt đầu phát triển những kỹ năng cần thiết cho mẫu giáo và trường học, như chia sẻ, lần lượt chờ đến lượt, kết bạn và trở thành một phần của tập thể."},
+        {"t": "p", "text": "Một số nhóm chơi được thiết kế riêng cho trẻ khuyết tật. Hãy truy cập PlayConnect+ để tìm các nhóm tại địa phương hoặc trực tuyến dành cho trẻ tự kỷ và trẻ khuyết tật hoặc có những lo ngại về phát triển."}
+      ]
+    },
+    {
+      "h": "Vì sao nhóm chơi tốt cho cha mẹ và người chăm sóc",
+      "blocks": [
+        {"t": "p", "text": "Nhóm chơi mang lại cho bạn và con thời gian chơi đùa tách khỏi nhà cửa và nề nếp thường ngày. Đây cũng là lựa chọn tốt nếu bạn cảm thấy ở nhà không có nhiều hoạt động cho con, hoặc bạn đang tìm những ý tưởng mới để chơi cùng con."},
+        {"t": "p", "text": "Nhóm chơi cho bạn cơ hội:"},
+        {"t": "ul", "items": [
+          "gặp gỡ những người mới và kết bạn mới",
+          "học hỏi từ các cha mẹ và người chăm sóc khác",
+          "hiểu thêm về cộng đồng của mình",
+          "kết nối với các dịch vụ địa phương như trung tâm giữ trẻ, trường mầm non hoặc nhà trẻ cộng đồng và lưu động, trường học và nhiều hơn nữa."
+        ]},
+        {"t": "p", "text": "Một số nhóm chơi được tổ chức bằng các ngôn ngữ cộng đồng như tiếng Trung, tiếng Việt, tiếng Đức, tiếng Ý, tiếng Tây Ban Nha, tiếng Ả Rập, tiếng Ba Tư, tiếng Hà Lan, các ngôn ngữ của người Thổ dân và dân đảo Eo biển Torres, cùng nhiều ngôn ngữ khác. Cũng có những nhóm chơi dành riêng cho các nhóm cụ thể, như những người cha, gia đình LGBTIQ+, người chăm sóc nuôi dưỡng, ông bà và người thân chăm sóc trẻ."}
+      ]
+    },
+    {
+      "h": "Cách tìm một nhóm chơi",
+      "blocks": [
+        {"t": "p", "text": "Bạn có thể tìm thấy các nhóm chơi trên khắp nước Úc. Để liên hệ với một nhóm chơi hiện có hoặc lập một nhóm chơi mới, hãy trao đổi với hiệp hội nhóm chơi tại địa phương. Mỗi bang và vùng lãnh thổ ở Úc đều có một hiệp hội nhóm chơi."},
+        {"t": "p", "text": "Các hiệp hội nhóm chơi có thể cung cấp:"},
+        {"t": "ul", "items": [
+          "tài nguyên, ý tưởng chơi và hỗ trợ chuyên môn",
+          "lời khuyên về cách tổ chức một buổi sinh hoạt nhóm chơi",
+          "các ấn phẩm định kỳ về nhóm chơi",
+          "thông tin về các chương trình, hội nghị và hội thảo",
+          "đào tạo",
+          "bảo hiểm toàn diện",
+          "thông tin về các sự kiện đặc biệt như Tuần lễ Nhóm chơi Toàn quốc hoặc các buổi hòa nhạc cho trẻ em."
+        ]},
+        {"t": "p", "text": "Hầu hết các hiệp hội nhóm chơi đều là thành viên của Playgroup Australia."}
+      ]
+    },
+    {
+      "h": "Các loại nhóm chơi",
+      "blocks": [
+        {"t": "p", "text": "Có 3 loại nhóm chơi chính."},
+        {"t": "p", "text": "<strong>Nhóm chơi cộng đồng</strong> Các nhóm này do chính cha mẹ và người chăm sóc tham gia điều hành. Chúng thường là phi lợi nhuận, nghĩa là chi phí thấp và ai cũng có thể tham gia. Hơn một phần ba trẻ em ở Úc tham gia các nhóm chơi cộng đồng."},
+        {"t": "p", "text": "<strong>Nhóm chơi có hỗ trợ</strong> Các nhóm này có sự giúp đỡ của một người điều phối và thường do các tổ chức hỗ trợ gia đình hoặc tổ chức phi chính phủ tổ chức. Những nhóm này có thể hỗ trợ các gia đình đang gặp khó khăn, bao gồm gia đình mới nhập cư hoặc tị nạn, gia đình có cha mẹ ở tuổi vị thành niên, gia đình có người gặp vấn đề sức khỏe tâm thần, v.v."},
+        {"t": "p", "text": "<strong>Nhóm chơi hỗ trợ chuyên sâu</strong> Các nhóm này dành cho những gia đình có nhu cầu hỗ trợ phức tạp. Chúng thường do một nhân viên công tác xã hội và một nhân viên hỗ trợ gia đình điều phối. Những nhóm này giúp cha mẹ tìm hiểu về việc nuôi dạy con, tạo môi trường an toàn để trẻ nhỏ học hỏi, và nhận hỗ trợ từ các dịch vụ cộng đồng."}
+      ]
+    }
+  ]
+}

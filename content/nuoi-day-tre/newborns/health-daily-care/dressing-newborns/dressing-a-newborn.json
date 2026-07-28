@@ -1,0 +1,69 @@
+{
+  "path": "health-daily-care/dressing-newborns/dressing-a-newborn",
+  "title": "Cách mặc đồ và chọn quần áo cho trẻ sơ sinh",
+  "subtitle": "Hướng dẫn chọn size, chất liệu và cách mặc quần áo cho bé sơ sinh",
+  "sections": [
+    {"h": "Trẻ sơ sinh mặc size nào?", "blocks": [
+      {"t":"p","text":"Size 000 phù hợp với bé từ 0-3 tháng, còn size 00 dành cho bé từ 3-6 tháng. Một số bé sơ sinh lớn hơn có thể mặc luôn size 00. Bạn có thể phải xắn tay áo lên, nhưng điều đó cũng chẳng kéo dài bao lâu."},
+      {"t":"p","text":"Size khác nhau tùy loại quần áo và nhà sản xuất, vì vậy nên so sánh với những bộ đồ bạn đã có hơn là chỉ dựa vào size ghi trên nhãn."},
+      {"t":"p","text":"Bé lớn rất nhanh, nên tốt nhất chỉ mua số lượng tối thiểu quần áo cho mỗi size."}
+    ]},
+    {"h": "Bé sơ sinh cần bao nhiêu bộ quần áo?", "blocks": [
+      {"t":"p","text":"Bạn sẽ cần nhiều bộ đồ để thay cho bé sơ sinh. Dưới đây là gợi ý để bạn bắt đầu:"},
+      {"t":"ul","items":[
+        "6 áo lót (áo ba lỗ)",
+        "6 bộ liền thân (jumpsuit)",
+        "2 bộ liền thân để mặc ngủ",
+        "3 áo",
+        "2 áo khoác len hoặc áo khoác (nếu là mùa đông)",
+        "3 chăn quấn cotton và 3 khăn quấn vải muslin (gạc)",
+        "1 túi ngủ cho bé",
+        "2 mũ cotton",
+        "vài đôi tất."
+      ]}
+    ]},
+    {"h": "Quần áo tốt nhất cho trẻ sơ sinh là gì?", "blocks": [
+      {"t":"p","text":"Quần áo nên thoải mái, mềm mại và dễ giặt giũ."},
+      {"t":"p","text":"Quần áo dễ mặc hoặc dễ chui qua đầu bé cũng tốt, chẳng hạn như:"},
+      {"t":"ul","items":[
+        "bộ liền thân co giãn, cài phía trước",
+        "áo có cổ kiểu phong bì (vải chồng lên nhau ở vai)",
+        "bộ liền thân có khóa kéo."
+      ]},
+      {"t":"p","text":"Quần áo làm từ cotton là lựa chọn tốt. Quần áo cotton sẽ giúp bé mát hơn trong thời tiết nóng so với quần áo làm từ sợi tổng hợp. Cotton cũng dễ giặt và dịu nhẹ với làn da nhạy cảm của bé."},
+      {"t":"p","text":"Cũng cần lưu ý chọn quần áo có nhãn nguy cơ cháy thấp (low fire hazard). Đồ liền thân và bộ romper cho trẻ sơ sinh nên có nhãn này."},
+      {"t":"p","text":"Tốt nhất nên tránh mua quần áo trẻ sơ sinh có hạt cườm, sợi chỉ thừa, dây buộc, dây rút và phụ kiện đính kèm. Những thứ này có thể gây nguy cơ sặc nghẹn, siết cổ hoặc ngạt thở."}
+    ]},
+    {"h": "Cách mặc ấm cho trẻ sơ sinh", "blocks": [
+      {"t":"p","text":"Bé sơ sinh cần được giữ ấm, vì vậy trong thời tiết lạnh, cách dễ nhất là mặc cho bé nhiều lớp. Sau đó bạn có thể cởi bớt lớp khi đi siêu thị hoặc đến những nơi ấm áp khác."},
+      {"t":"p","text":"Theo nguyên tắc chung, hãy mặc cho bé số lớp quần áo bằng số lớp bạn đang mặc, cộng thêm một lớp nữa để giữ ấm."},
+      {"t":"p","text":"Dù giữ ấm cho trẻ sơ sinh là quan trọng, nhưng việc không để bé bị quá nóng cũng quan trọng không kém, đặc biệt là trong lúc ngủ."},
+      {"t":"p","text":"Khi mặc đồ ngủ cho bé, hãy đảm bảo bé ấm áp dễ chịu, không nóng, không đổ mồ hôi hay lạnh. Bạn nên mặc cho bé nhiều lớp quần áo vừa vặn để có thể thêm hoặc bớt lớp khi nhiệt độ thay đổi."}
+    ]},
+    {"h": "Mẹo mặc quần áo cho trẻ sơ sinh", "blocks": [
+      {"t":"p","text":"Nhiều bé sơ sinh khó chịu khi bị mặc và cởi đồ. Bạn càng nhanh và bình tĩnh thì cả bạn và bé càng đỡ căng thẳng."}
+    ]},
+    {"h": "Cách mặc quần áo cho bé", "blocks": [
+      {"t":"ul","items":[
+        "Đảm bảo phòng đủ ấm, rồi đặt bé lên một bề mặt mềm.",
+        "Mặc tã cho bé phòng khi bé tè.",
+        "Nếu mặc bộ liền thân, hãy mở cúc hoặc kéo khóa và đặt bé nằm lên trên. Đặt tay và chân bé vào các lỗ rồi cài khóa kéo hoặc nút bấm.",
+        "Nhẹ nhàng luồn tay bé qua các lỗ tay áo. Cố gắng không để ngón tay bé bị kẹt trong tay áo.",
+        "Đảm bảo chân và tay bé được che kín khi ra nắng, nhưng tốt hơn hết nên tránh để bé tiếp xúc trực tiếp với ánh nắng nếu có thể."
+      ]}
+    ]},
+    {"h": "Cách chui áo qua đầu bé", "blocks": [
+      {"t":"ul","items":[
+        "Kéo giãn cổ áo và, trong khi đỡ đầu bé, mặc áo từ phía sau ra trước.",
+        "Khi kéo áo qua đầu bé, cố gắng không để áo chạm vào mặt bé. Bé có thể rất khó chịu khi quần áo cọ vào mặt.",
+        "Làm ngược lại khi cởi đồ. Một lần nữa, cố gắng không để áo chạm vào mặt bé."
+      ]},
+      {"t":"p","text":"Hãy thử trò chuyện, hát những bài đồng dao, mỉm cười và làm mặt hề khi mặc đồ cho bé. Điều này có thể đánh lạc hướng bé trong lúc mặc và cởi đồ. Trò chuyện và hát cũng là những cách hay để gắn kết với bé."}
+    ]},
+    {"h": "Cách giặt quần áo cho trẻ sơ sinh", "blocks": [
+      {"t":"p","text":"Bạn nên giặt tất cả quần áo của bé trước khi bé mặc lần đầu. Việc này có thể loại bỏ thuốc nhuộm và hóa chất dư thừa, giảm khả năng quần áo gây kích ứng da hoặc gây phản ứng dị ứng cho bé."},
+      {"t":"p","text":"Bạn có thể giặt quần áo của bé chung với đồ giặt khác, nhưng hãy cố tránh dùng chất tẩy mạnh và nước xả vải. Bột giặt có nhãn \"sensitive\" (cho da nhạy cảm) hoặc \"gentle\" (dịu nhẹ) ít có khả năng gây kích ứng da bé hơn."},
+      {"t":"p","text":"Quần áo dính phân cần được ngâm trong dung dịch khử trùng tã trước khi giặt. Dung dịch khử trùng tã cũng tiện dùng để ngâm trước khi giặt khi bé bắt đầu ăn dặm. Dù có yếm, quần áo của bé vẫn sẽ dính đầy thức ăn và đồ uống."}
+    ]}
+  ]
+}

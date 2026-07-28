@@ -1,0 +1,34 @@
+{
+  "path": "safety/cpr/cpr-for-babies",
+  "title": "Hồi sức tim phổi (CPR) cho trẻ sơ sinh và em bé: hướng dẫn bằng hình ảnh",
+  "subtitle": "Hướng dẫn từng bước cách thực hiện hồi sức tim phổi cho bé: kiểm tra nguy hiểm, phản ứng, đường thở, hô hấp và cách ép tim, thổi ngạt.",
+  "sections": [
+    {
+      "h": "Trước khi bắt đầu CPR cho bé: nguy hiểm, phản ứng, gọi trợ giúp",
+      "blocks": [
+        { "t": "p", "text": "<strong>Nguy hiểm.</strong> Quan sát xung quanh xem có nguy hiểm không. Đưa bé và chính bạn ra khỏi nơi nguy hiểm." },
+        { "t": "p", "text": "<strong>Phản ứng.</strong> Kiểm tra xem bé có phản ứng không. Nói to, vỗ nhẹ vào bé hoặc nhẹ nhàng bóp vai bé. Xem bé có mở mắt, cử động hay khóc không." },
+        { "t": "p", "text": "<strong>Gọi trợ giúp.</strong> Nếu bé không phản ứng hoặc thở bất thường, hãy gọi 000 để gọi xe cứu thương." }
+      ]
+    },
+    {
+      "h": "Các bước tiếp theo: đường thở, hô hấp",
+      "blocks": [
+        { "t": "p", "text": "<strong>Đường thở.</strong> Kiểm tra miệng bé xem có gì làm tắc đường thở không, như thức ăn, chất nôn hoặc máu. Dùng ngón út để lấy bất kỳ vật cản nào ra. Nhưng đừng đưa ngón tay vào sâu phía sau cổ họng bé." },
+        { "t": "p", "text": "<strong>Hô hấp.</strong> Kiểm tra xem bé có thở không. Quan sát lồng ngực có cử động không, lắng nghe tiếng thở từ miệng và mũi bé, hoặc cảm nhận hơi thở trên má bạn." },
+        { "t": "p", "text": "<strong>Bé còn thở?</strong> Đặt bé ở tư thế hồi phục, nằm nghiêng một bên với đầu hơi cúi xuống. Kiểm tra bé thường xuyên về hô hấp và phản ứng cho đến khi xe cứu thương đến." },
+        { "t": "p", "text": "<strong>Bé không thở?</strong> Bắt đầu CPR." }
+      ]
+    },
+    {
+      "h": "Bắt đầu CPR cho bé",
+      "blocks": [
+        { "t": "p", "text": "<strong>CPR.</strong> Đặt bé nằm ngửa trên một mặt phẳng chắc. Đặt 2 ngón tay vào giữa ngực bé, giữa hai núm vú. Ép 30 lần – 2 lần ép mỗi giây. Mỗi lần ép nên làm lồng ngực lún xuống khoảng một phần ba." },
+        { "t": "p", "text": "Giữ đầu bé sao cho cằm không gục xuống và đầu hơi ngửa lên. Hít một hơi, rồi áp miệng bạn bịt kín cả miệng và mũi bé. Thổi nhẹ trong một giây và quan sát lồng ngực bé nâng lên. Quan sát, lắng nghe hoặc cảm nhận hơi thoát ra khỏi ngực bé. Hít một hơi nữa và lặp lại." },
+        { "t": "p", "text": "Nếu lồng ngực bé không nâng lên hạ xuống, hãy kiểm tra lại xem có vật cản không." },
+        { "t": "p", "text": "Tiếp tục thực hiện 30 lần ép tim rồi 2 lần thổi ngạt cho đến khi có trợ giúp y tế. Nếu bé bắt đầu thở và có phản ứng, hãy đặt bé về tư thế hồi phục. Tiếp tục theo dõi nhịp thở của bé." },
+        { "t": "p", "text": "Hãy sẵn sàng bắt đầu lại CPR bất cứ lúc nào." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "play-learning/play-baby-development/talking-play-babies",
+  "title": "Gợi ý chơi giúp bé phát triển ngôn ngữ và tập nói",
+  "subtitle": "Chơi và trò chuyện cùng bé mỗi ngày giúp bé nghe nhiều từ hơn, hiểu và học nói sớm hơn, đồng thời gắn kết tình cảm cha mẹ và con.",
+  "sections": [
+    {
+      "h": "Vì sao chơi quan trọng với sự phát triển ngôn ngữ của bé",
+      "blocks": [
+        {"t": "p", "text": "Chơi là cách chính để bé phát triển, học hỏi và khám phá thế giới."},
+        {"t": "p", "text": "Khi chơi cùng bé, bạn tạo ra rất nhiều cơ hội để bé phát triển ngôn ngữ. Càng chơi và trò chuyện cùng nhau nhiều, bé càng nghe được nhiều từ ngữ. Điều này giúp nâng cao kỹ năng ngôn ngữ của bé, bao gồm khả năng hiểu lời nói, giao tiếp và học những từ đầu tiên. Nó cũng giúp não bộ của bé phát triển."},
+        {"t": "p", "text": "Khi bạn dành thời gian trò chuyện và chơi cùng nhau, đó là cơ hội tuyệt vời để gắn kết với bé và làm cho mối quan hệ giữa hai mẹ con thêm bền chặt. Một mối quan hệ vững chắc với bạn rất cần thiết cho sự phát triển, vì nó mang lại cho bé sự tự tin để tiếp tục khám phá và học hỏi."}
+      ]
+    },
+    {
+      "h": "Những gì có thể mong đợi ở ngôn ngữ của bé",
+      "blocks": [
+        {"t": "p", "text": "Bé học các kỹ năng ngôn ngữ mới theo thời gian và ở những độ tuổi khác nhau. Nhưng dưới đây là những điều thường diễn ra với hầu hết các bé trong khoảng từ 3 đến 12 tháng tuổi."},
+        {"t": "p", "text": "Vào khoảng <strong>3 tháng tuổi</strong>, bé thường sẽ ê a, mỉm cười và bật cười. Khi lớn dần, bé bắt đầu chơi với âm thanh và giao tiếp bằng cử chỉ như vẫy tay và chỉ tay."},
+        {"t": "p", "text": "Trong khoảng <strong>4 đến 6 tháng tuổi</strong>, bé thường bắt đầu bập bẹ. Bé sẽ tạo ra những âm tiết đơn như 'ba' trước, rồi lặp lại chúng – 'ba ba ba'."},
+        {"t": "p", "text": "Sau giai đoạn bập bẹ, bé có thể tạo cảm giác như đang kể cho bạn nghe điều gì đó, nhưng 'lời nói' của bé chưa giống những từ ngữ rõ ràng."},
+        {"t": "p", "text": "Trong khoảng <strong>10 đến 11 tháng tuổi</strong>, bé có thể nói từ đầu tiên và hiểu nghĩa của từ đó."},
+        {"t": "p", "text": "Tìm hiểu thêm về sự phát triển ngôn ngữ trong giai đoạn 3 đến 12 tháng tuổi."},
+        {"t": "p", "text": "Sự phát triển ngôn ngữ diễn ra theo cùng một trình tự ở hầu hết các bé. Những khác biệt nhỏ thường không có gì đáng lo. Nhưng nếu bạn băn khoăn liệu sự phát triển ngôn ngữ của bé có đúng tiến độ hay cảm thấy có điều gì đó không ổn, hãy tìm sự hỗ trợ sớm. Hãy trao đổi với y tá sức khỏe trẻ em và gia đình hoặc bác sĩ của bạn."}
+      ]
+    },
+    {
+      "h": "Gợi ý chơi để khuyến khích phát triển ngôn ngữ",
+      "blocks": [
+        {"t": "p", "text": "Trẻ càng nghe nhiều từ ngữ thì càng học được nhiều từ để nói và để hiểu."},
+        {"t": "p", "text": "Dưới đây là những hoạt động thú vị bạn có thể làm cùng bé để khuyến khích bé phát triển ngôn ngữ:"},
+        {"t": "ul", "items": [
+          "Trò chuyện với bé về những việc bạn đang làm trong nhà, kể cả khi bạn nghĩ chúng nhàm chán. Ví dụ: 'Bố đang cất quần áo nè'.",
+          "Trò chuyện mặt đối mặt với bé trong lúc thay tã và những hoạt động chăm sóc hằng ngày khác. Bạn có thể thử nói về việc mình đang làm, hát, và nhìn vào mặt bé khi thay tã.",
+          "Lặp lại những âm bé cố nói khi bạn không chắc bé đang muốn nói gì. Ví dụ, nếu bé nói 'ba ba', bạn có thể đáp lại 'ba ba'. Điều này cũng khuyến khích sự tương tác qua lại.",
+          "Lặp lại và mở rộng từ của bé khi bạn biết bé đang muốn nói gì. Ví dụ, khi bé nói 'tàu' và chỉ vào chiếc tàu đồ chơi, bạn nói: 'Đúng rồi, một chiếc tàu thật to'.",
+          "Thể hiện sự quan tâm đến tiếng bập bẹ và lời nói của bé bằng cách nhìn vào mắt bé, mỉm cười thật nhiều, và hạ thấp ngang tầm với bé – ví dụ, ngồi xuống sàn cùng bé.",
+          "Đáp lại và trò chuyện về những điều bé thích. Ví dụ, nếu bé bắt đầu chơi với chiếc tàu đồ chơi, bạn có thể nói 'Tu tu'.",
+          "Đọc và kể chuyện cùng bé, cùng hát và đọc đồng dao, và chơi ú òa.",
+          "Dùng cử chỉ khi chơi với bé. Ví dụ: 'Con vỗ tay được không nào? Mình cùng vỗ tay nhé'. Cử chỉ giúp bé hiểu nghĩa của từ ngữ."
+        ]},
+        {"t": "p", "text": "Nếu bạn đang nuôi dạy con theo môi trường đa ngôn ngữ hoặc song ngữ, hãy nói tiếng mẹ đẻ của gia đình tại nhà. Việc học nhiều hơn một ngôn ngữ mang lại rất nhiều lợi ích."}
+      ]
+    }
+  ]
+}

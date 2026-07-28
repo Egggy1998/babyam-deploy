@@ -1,0 +1,89 @@
+{
+  "path": "safety/equipment-furniture/new-baby-equipment",
+  "title": "Danh sách cho bé sơ sinh: chuẩn bị nhà cửa và đồ dùng",
+  "subtitle": "Cách chuẩn bị nhà cửa cho bé chào đời, các đồ dùng thiết yếu cần có ban đầu, mẹo tiết kiệm và lưu ý an toàn khi mua đồ cũ.",
+  "sections": [
+    {
+      "h": "Danh sách cho bé: chuẩn bị nhà cửa",
+      "blocks": [
+        { "t": "p", "text": "Chuẩn bị sẵn sàng nhà cửa có thể là cách hay để bạn, bạn đời và các con khác chuẩn bị tinh thần cho sự chào đời của bé." },
+        { "t": "p", "text": "<strong>Nơi bé ngủ.</strong> Dù bé ngủ ở đâu, đường thở của bé cũng phải thông thoáng để bé thở dễ dàng. Môi trường ngủ an toàn giúp giữ đường thở của bé thông thoáng và giảm nguy cơ đột tử ở trẻ sơ sinh (SUDI)." },
+        { "t": "p", "text": "Trong môi trường ngủ an toàn, bé ngủ nằm ngửa, trên một mặt phẳng chắc, phẳng và bằng, trong không gian thông thoáng, không quá nóng và không có khói thuốc." },
+        { "t": "p", "text": "<strong>Nơi thay tã.</strong> An toàn nhất là thay tã cho bé trên một tấm lót đặt dưới sàn để bé không bị ngã. Nhưng một số cha mẹ thấy thay tã trên bàn thay đồ hoặc giường sẽ đỡ mỏi lưng hơn." },
+        { "t": "p", "text": "Nếu bạn muốn dùng bàn thay đồ, bạn có thể tìm hiểu về bàn thay đồ an toàn trong bài viết về đồ nội thất an toàn cho bé. Và nếu thay tã cho bé trên giường hay bàn thay đồ, hãy nhớ luôn giữ một tay trên người bé để bé không lăn ra." },
+        { "t": "p", "text": "<strong>Nơi tắm cho bé.</strong> Bạn có thể tắm cho bé sơ sinh trong bồn rửa nhà bếp hoặc bồn giặt, miễn là an toàn và sạch sẽ. Và dù tắm cho bé ở đâu, hãy luôn ở trong tầm với của bé." },
+        { "t": "p", "text": "<strong>Nơi cho bé bú.</strong> Bạn có thể cho bé bú ở bất cứ đâu mà bạn có thể thư giãn và bế bé thoải mái. Gối có thể đỡ thêm cho bạn nếu cần. Đèn ngủ có thể tiện lợi cho những cữ bú đêm." },
+        { "t": "p", "text": "Hầu hết những việc bạn cần làm để nhà cửa an toàn cho bé sơ sinh là về việc biết trước những gì sẽ xảy ra, hơn là thực hiện những thay đổi lớn." }
+      ]
+    },
+    {
+      "h": "Đồ dùng cho bé: bắt đầu từ những gì",
+      "blocks": [
+        { "t": "p", "text": "Những thứ bé cần sẽ thay đổi liên tục, vì vậy cách tốt nhất có thể là mua, mượn hoặc thuê khi cần đến." },
+        { "t": "p", "text": "Sau đây là những đồ dùng cho bé bạn cần có ban đầu." },
+        { "t": "p", "text": "<strong>Đồ dùng chung</strong>" },
+        { "t": "ul", "items": [
+          "Một ghế ngồi ô tô quay mặt về sau đã được phê duyệt, có dây đai tích hợp đạt Tiêu chuẩn Úc/New Zealand AS/NZS 1754 – bạn sẽ cần nó nếu lái xe đưa bé về nhà từ bệnh viện hoặc trung tâm sinh nở. Nên lắp đặt ghế ô tô chuyên nghiệp trước khi bé chào đời.",
+          "Một mặt ngủ an toàn cho bé – có thể là cũi hoặc cũi gấp an toàn, nôi, hộp ngủ cho bé (baby box) hoặc pepi-pod.",
+          "Đồ giường an toàn – gồm một tấm ga vừa khít phủ trên một tấm nệm chống thấm vừa vặn.",
+          "Tã – ngay cả khi bạn định dùng tã vải tái sử dụng, vẫn nên có sẵn vài chiếc tã dùng một lần phòng khi cần.",
+          "Bình sữa, núm bình và dụng cụ rửa bình – bạn cần những thứ này nếu cho bé bú bình.",
+          "Một máy hút sữa để vắt sữa – có thể tiện lợi nếu bạn cho con bú và dự định vắt sữa.",
+          "Một xe đẩy đạt Tiêu chuẩn Úc/New Zealand AS/NZS 2088:2013 hoặc AS 2088:2022 – đây là cách an toàn và tiện lợi để bé di chuyển khi bạn ra ngoài."
+        ] },
+        { "t": "p", "text": "<strong>Đồ dùng cho mẹ sinh con</strong>" },
+        { "t": "ul", "items": [
+          "Băng vệ sinh loại dài và dày dành cho sản phụ – mang nhiều đến bệnh viện hoặc trung tâm sinh nở, và chuẩn bị thêm cho khi về nhà.",
+          "Áo ngực cho con bú và miếng lót thấm sữa – bạn cần những thứ này nếu cho con bú."
+        ] },
+        { "t": "p", "text": "<strong>Đồ dùng cho bé</strong>" },
+        { "t": "ul", "items": [
+          "Áo liền quần, áo lót và áo cho bé – là những món cơ bản tốt để mặc cho bé sơ sinh.",
+          "Áo len hoặc áo khoác – tùy vào thời điểm trong năm và nơi bạn sống.",
+          "Khăn quấn bé – khăn quấn vải muslin nhẹ hơn và phù hợp hơn cho mùa hè.",
+          "Vớ (tất) – giúp giữ ấm chân cho bé khi trời lạnh."
+        ] },
+        { "t": "p", "text": "Sau khi đã có những thứ thiết yếu này, bạn có thể quyết định khoan mua nhiều thứ phụ thêm. Một số đồ dùng khá đắt, nên hợp lý hơn là quyết định dựa trên những gì bạn nghĩ mình sẽ dùng, thay vì theo lời quảng cáo hay lời người khác." }
+      ]
+    },
+    {
+      "h": "Đồ dùng thêm cho bé",
+      "blocks": [
+        { "t": "p", "text": "Có thể sẽ hữu ích khi có thêm:" },
+        { "t": "ul", "items": [
+          "một chậu tắm cho bé và vài chiếc khăn mềm để quấn và lau khô bé sau mỗi lần tắm",
+          "một thùng đựng tã có nắp",
+          "các túi đựng tã dùng một lần riêng lẻ (hoặc túi ni lông cũ) – tiện lợi khi bạn ra ngoài cùng bé."
+        ] },
+        { "t": "p", "text": "Không khuyến nghị dùng phấn rôm và phấn em bé gốc tinh bột bắp vì chúng có các hạt mịn mà bé có thể hít vào." },
+        { "t": "p", "text": "Không dùng xe tập đi (baby walker). Có những nguy hiểm liên quan đến xe tập đi. Ví dụ, chúng có thể đưa bé tới gần nhiều mối nguy an toàn. An toàn hơn là cho bé chơi trên thảm chơi hoặc chăn trải dưới sàn." }
+      ]
+    },
+    {
+      "h": "Tiết kiệm tiền cho đồ dùng của bé",
+      "blocks": [
+        { "t": "p", "text": "Bạn có thể tiết kiệm bằng cách mua hoặc nhận đồ chơi, quần áo và một số đồ nội thất cũ như tủ ngăn kéo." },
+        { "t": "p", "text": "Bạn có thể tìm những món này ở nhiều nơi, bao gồm:" },
+        { "t": "ul", "items": [
+          "các trang web như eBay, Gumtree hoặc Facebook Marketplace",
+          "các tờ báo rao vặt",
+          "các nhóm cha mẹ",
+          "quảng cáo cộng đồng địa phương và các buổi bán đồ tại nhà (garage sale)",
+          "các chợ địa phương",
+          "các cửa hàng đồ cũ."
+        ] },
+        { "t": "p", "text": "Các cách tiết kiệm khác bao gồm chỉ mua những gì bạn thực sự cần. Nên trò chuyện với các cha mẹ khác về những thứ họ thấy hữu ích." },
+        { "t": "p", "text": "Bạn có thể để ý các đợt giảm giá và ưu đãi đặc biệt cho các món như tã và khăn ướt, rồi mua trữ khi rẻ. Chỉ cần lưu ý kiểm tra hạn sử dụng." },
+        { "t": "p", "text": "Nhiều thư viện công cộng cho mượn cả đồ chơi lẫn sách. Đồ chơi mượn cũng phải tuân thủ Tiêu chuẩn Úc. Nên kiểm tra điều này với nhân viên thư viện trước khi mượn bất kỳ đồ chơi nào." }
+      ]
+    },
+    {
+      "h": "An toàn và đồ dùng cũ cho bé",
+      "blocks": [
+        { "t": "p", "text": "Ủy ban Cạnh tranh và Người tiêu dùng Úc (ACCC) khuyến nghị bạn chỉ mua, mượn hoặc nhận những sản phẩm cũ đạt Tiêu chuẩn Úc và có các tính năng an toàn. Sản phẩm đạt Tiêu chuẩn Úc giúp bảo vệ bé khỏi chấn thương nghiêm trọng và thậm chí tử vong." },
+        { "t": "p", "text": "Bạn có thể kiểm tra xem sản phẩm có đạt Tiêu chuẩn Úc không bằng cách tìm nhãn Tiêu chuẩn trên sản phẩm hoặc kiểm tra trang web của nhà sản xuất." },
+        { "t": "p", "text": "Khi chọn cũi, nệm hoặc ghế ngồi ô tô, hãy luôn tìm món có lịch sử an toàn tốt. Nếu một món bị hư hỏng hoặc bạn không chắc về lịch sử an toàn của nó, tốt nhất là đừng nhận hay mua. Cũng nên kiểm tra món đồ trực tiếp trước khi mua. Khó mà đánh giá được tình trạng của một sản phẩm cũ chỉ qua ảnh trên mạng." }
+      ]
+    }
+  ]
+}

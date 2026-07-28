@@ -1,0 +1,21 @@
+{
+  "path": "videos/making-simple-puppets",
+  "title": "Cách làm con rối đơn giản cùng trẻ",
+  "subtitle": "Bạn không cần tốn nhiều tiền cho con rối, chỉ vài vật dụng đơn giản cũng có thể tạo nên những giờ chơi đầy vui nhộn và gắn kết.",
+  "sections": [
+    {
+      "h": "Làm con rối đơn giản cùng con",
+      "blocks": [
+        {"t": "p", "text": "Bé 1: Còn tớ là chú Sư Tử."},
+        {"t": "p", "text": "Người dẫn chuyện (Catherine Sewell, chuyên gia về vui chơi): Bạn không cần chi nhiều tiền cho con rối. Tất nhiên có những con rối rất đẹp, và nếu có một con như vậy thì thật tuyệt, nhưng những con rối đơn giản cũng rất hay. Ý tôi là, chỉ cần một cây bút, tôi vẽ 2 con mắt lên ngón tay là đã có một con rối nhỏ rồi. Hoặc tôi có thể làm con rối bóng và cử động bàn tay để cho nó \"nói chuyện\". Tôi có thể làm con rối bằng giấy gắn vào một cây que kem hay một cái que nhặt được ngoài sân. Tôi có thể dùng túi giấy rồi xỏ tay vào, hoặc dùng một chiếc tất để làm rối tay. Dán vài con mắt nhựa lên một vật gì đó là bạn đã có ngay một con rối."},
+        {"t": "p", "text": "Vậy nên, nó không nhất thiết phải là một hoạt động thủ công cầu kỳ, mặc dù nếu con bạn thích thì bạn hoàn toàn có thể cùng con làm nên đủ thứ sáng tạo tuyệt vời. Nhưng bạn cũng chỉ cần làm một phiên bản thật đơn giản là được."},
+        {"t": "p", "text": "Điều quan trọng khi chơi với con rối là trẻ thổi hồn vào vật đó, tạo cho nó một tính cách, một giọng nói hay một âm thanh, nghĩa là trẻ làm cho một đồ vật trở nên sống động."},
+        {"t": "p", "text": "Bé 2: Tớ là chú Hề. Cậu không ăn được tớ đâu."},
+        {"t": "p", "text": "Bé 1: Ồ, tớ ăn được chứ."},
+        {"t": "p", "text": "Người dẫn chuyện: Và đây cũng có thể là một cách thật vui nhộn để tương tác với con. Chẳng hạn con rối này nói: \"Ồ, đến giờ đi ngủ rồi này\", chỉ để khiến những thói quen hằng ngày của con trở nên vui hơn."},
+        {"t": "p", "text": "Con rối thực sự rất vui, bạn biết đấy. Thường thì rất vui và rất buồn cười. Chẳng có gì tuyệt hơn là được cười đùa cùng nhau."},
+        {"t": "p", "text": "Bé 1: Còn tớ là chú Sư Tử. Tớ là chúa tể rừng xanh."}
+      ]
+    }
+  ]
+}

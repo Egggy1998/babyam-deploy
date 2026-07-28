@@ -1,0 +1,114 @@
+{
+  "path": "safety/outdoor-safety/playground-safety",
+  "title": "Sân chơi và an toàn sân chơi cho trẻ",
+  "subtitle": "Chơi ở sân chơi rất tốt cho sự phát triển của trẻ, nhưng cần giám sát chặt chẽ và kiểm tra thiết bị để phòng tránh chấn thương.",
+  "sections": [
+    {
+      "h": "Sân chơi và chấn thương tại sân chơi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Chơi ở sân chơi rất tốt cho sự phát triển thể chất, xã hội và tư duy của trẻ."
+        },
+        {
+          "t": "p",
+          "text": "Hầu hết các chấn thương ở sân chơi đều nhẹ — trầy xước, bầm tím và một vài giọt nước mắt là điều thường gặp nhất. Nhưng đôi khi té ngã từ thiết bị sân chơi có thể dẫn đến những chấn thương nghiêm trọng hơn."
+        },
+        {
+          "t": "p",
+          "text": "Các chấn thương phổ biến nhất ở sân chơi là gãy xương và trật khớp. Những chấn thương này xảy ra khi trẻ ngã từ các thiết bị như cầu trượt nhún, thanh đu, cầu trượt, xích đu và khung leo."
+        },
+        {
+          "t": "p",
+          "text": "Trẻ mẫu giáo và trẻ tiểu học dễ bị thương nhất vì các bé vẫn đang phát triển khả năng phối hợp thể chất, sức mạnh cơ bắp và khả năng phán đoán xem nhảy từ thanh đu có phải là ý hay không!"
+        },
+        {
+          "t": "p",
+          "text": "Tất cả các sân chơi phải tuân thủ tiêu chuẩn AS 4685:2017 — Tiêu chuẩn Úc về thiết kế, lắp đặt, bảo trì và vận hành sân chơi và thiết bị sân chơi."
+        }
+      ]
+    },
+    {
+      "h": "An toàn sân chơi: giám sát và kỹ năng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Cách tốt nhất để giúp con tránh va đập và trầy xước ở sân chơi là tích cực giám sát con khi chơi."
+        },
+        {
+          "t": "p",
+          "text": "Bằng cách ở gần con, đặc biệt khi con đang thử điều gì mới hoặc phức tạp, bạn có thể giúp những chuyến đi sân chơi trở nên an toàn hơn và tạo cho con sự tự tin để phát triển các kỹ năng vận động."
+        },
+        {
+          "t": "p",
+          "text": "Điều quan trọng là chọn các hoạt động và thiết bị phù hợp với kỹ năng và khả năng của con. Những hướng dẫn sau đây có thể giúp bạn quyết định thiết bị nào phù hợp nhất cho con:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nếu con dưới 3 tuổi, cố gắng chỉ cho con chơi thiết bị sân chơi cao dưới 1 m.",
+            "Nếu con từ 3-5 tuổi, cố gắng chỉ cho con chơi thiết bị sân chơi cao dưới 1,5 m.",
+            "Nếu con trên 5 tuổi, cố gắng chỉ cho con chơi thiết bị cao không quá 2 m so với mặt đất."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn tạo cho con nhiều cơ hội chơi và luyện tập, con sẽ tiếp tục phát triển các kỹ năng cần thiết để sử dụng và thưởng thức thanh đu, khung leo, xích đu, cầu trượt và cầu trượt nhún một cách an toàn. Ví dụ, khi con đã leo trèo thành thạo, con có thể thử leo thang ngắn với sự hỗ trợ của bạn."
+        },
+        {
+          "t": "p",
+          "text": "Trong khi giám sát con, sao không cùng chơi với con? Điều này có thể rất vui vẻ cho cả hai."
+        }
+      ]
+    },
+    {
+      "h": "Thiết bị và môi trường sân chơi an toàn",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Để giữ trẻ an toàn và tránh chấn thương tại sân chơi, nên kiểm tra mức độ an toàn của thiết bị và môi trường sân chơi:"
+        },
+        {
+          "t": "p",
+          "text": "<strong>Chơi an toàn</strong>"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Cài khóa cho con vào xích đu nếu có khóa. Con sẽ ít có khả năng bị ngã ra ngoài hơn.",
+            "Tránh chơi ở những khu vực đông đúc. Cố gắng tìm thiết bị trống, hoặc chờ đến khi chỉ còn vài trẻ đang sử dụng.",
+            "Đảm bảo con không mặc quần áo hoặc đội mũ có dây có thể bị mắc vào thiết bị gây nguy cơ siết cổ."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "<strong>Thiết bị an toàn</strong>"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Kiểm tra thiết bị có trong tình trạng tốt không.",
+            "Kiểm tra nhiệt độ của các thiết bị sân chơi như cầu trượt kim loại, cột, lan can và bề mặt. Các vật liệu như kim loại, cao su và cỏ nhân tạo có thể nóng lên dưới ánh nắng và trở nên đủ nóng để gây bỏng."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "<strong>Môi trường an toàn</strong>"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Đảm bảo môi trường sân chơi không có các mối nguy hiểm an toàn rõ ràng, như que nhọn.",
+            "Tìm sân chơi có bề mặt nền an toàn. Thiết bị nên được đặt trên một lớp vật liệu dày như mùn hữu cơ hoặc sàn cao su mềm, giúp giảm chấn khi ngã. Nếu bề mặt cứng lộ ra hoặc mức mùn quá thấp, hãy báo cáo với hội đồng địa phương.",
+            "Tìm sân chơi có lưới che nắng phủ một phần hoặc toàn bộ thiết bị, hoặc ít nhất có bóng mát gần đó. Nhớ thực hành an toàn dưới nắng.",
+            "Tìm sân chơi có hàng rào xung quanh. Điều này giúp ngăn trẻ nhỏ chạy ra đường gần đó, xuống vùng nước hoặc tiến đến các mối nguy hiểm khác. Nó cũng giúp dễ dàng hơn khi bạn đang trông nhiều trẻ cùng lúc."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn lắp đặt thiết bị chơi tại nhà, hãy tìm thiết bị tuân thủ tiêu chuẩn Úc liên quan. Ví dụ, AS/NZS 8124 áp dụng cho xích đu, cầu trượt và các thiết bị tương tự. Các mẹo trong bài viết này về kiểm tra an toàn thiết bị và môi trường chơi cũng áp dụng cho nhà ở cũng như sân chơi."
+        }
+      ]
+    }
+  ]
+}

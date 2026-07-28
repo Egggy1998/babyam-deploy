@@ -1,0 +1,66 @@
+{
+ "path": "nutrition-fitness/food-recipes/banana-bread",
+ "title": "Công thức bánh mì chuối nguyên cám tốt cho sức khỏe",
+ "subtitle": "Cách làm món bánh mì chuối nguyên cám thơm ngon, bổ dưỡng cho cả gia đình.",
+ "sections": [
+  {
+   "h": "Giới thiệu",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thành phẩm: một ổ bánh. Thời gian chuẩn bị: 15 phút. Thời gian nướng: 50-60 phút."
+    }
+   ]
+  },
+  {
+   "h": "Nguyên liệu",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "⅓ cốc (70 g) dầu ăn (dầu hướng dương, dầu hạt cải hoặc dầu ô liu nguyên chất)",
+      "3 thìa canh (80 g) mật ong hoặc ⅓ cốc (75 g) đường nâu",
+      "2 quả trứng",
+      "3 quả chuối chín cỡ vừa",
+      "¾ cốc (200 g) sữa chua không đường",
+      "½ thìa cà phê tinh chất vani",
+      "1½ cốc (250 g) bột mì nguyên cám tự nở",
+      "1 thìa cà phê bột quế hoặc bột ngũ vị"
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Cách làm",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Làm nóng lò ở 180°C (160°C nếu dùng quạt đối lưu). Phết dầu và lót giấy nến vào khuôn bánh kích thước 11 cm x 21 cm.",
+      "Dùng phới lồng hoặc máy đánh trứng, trộn đều dầu, tinh chất vani và mật ong hoặc đường nâu cho hòa quyện. Cho từng quả trứng vào, đánh đều sau mỗi lần cho thêm.",
+      "Trong một bát riêng, nghiền nhuyễn chuối rồi trộn sữa chua vào. Trộn hỗn hợp này vào hỗn hợp trứng. Sau đó cho bột mì và quế hoặc ngũ vị vào, trộn nhẹ tay.",
+      "Múc hỗn hợp vào khuôn đã chuẩn bị và nướng trong 50-60 phút, hoặc cho đến khi xiên que vào rút ra thấy sạch là chín.",
+      "Lấy bánh ra khỏi lò. Để bánh nguội trong khuôn khoảng 5 phút rồi mới lấy ra đặt lên giá lưới cho nguội hẳn."
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Mẹo nhỏ",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Để bổ sung <strong>chất đạm</strong> và <strong>chất béo lành mạnh</strong>, hãy thêm 2 thìa canh bột hạnh nhân. Cho thêm ⅓ cốc (50 g) sữa chua không đường cùng với bột hạnh nhân để bánh giữ được độ ẩm.",
+      "Bạn có thể cho bé ăn món bánh mì chuối này vào bữa sáng, nướng giòn và phết một lớp mỏng loại mứt bé thích.",
+      "Hãy khuyến khích bé phụ giúp bạn làm món này. Ngay cả trẻ tập đi cũng có thể giúp khuấy sữa chua. Nấu ăn cùng con là hoạt động vui vẻ và giúp bé rèn luyện kỹ năng."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Trẻ dưới 12 tháng tuổi không nên dùng mật ong. Đừng dùng mật ong trong công thức này nếu bạn làm cho trẻ dưới 12 tháng tuổi. Bạn có thể tìm hiểu thêm về những thực phẩm cần tránh ở từng độ tuổi trong bài viết về tập cho bé ăn dặm của chúng tôi."
+    }
+   ]
+  }
+ ]
+}

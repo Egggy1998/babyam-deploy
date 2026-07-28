@@ -1,0 +1,33 @@
+{
+  "path": "videos/cooking-together-tzatziki",
+  "title": "Vào bếp cùng con: làm sốt tzatziki",
+  "subtitle": "Một người mẹ hướng dẫn hai con gái cùng làm món sốt tzatziki, kết hợp đọc công thức và sơ chế thực phẩm.",
+  "sections": [
+    {
+      "h": "Cùng con làm sốt tzatziki",
+      "blocks": [
+        {"t": "p", "text": "<strong>Sonia (mẹ của Layla và Aisha):</strong> Nào các con. Rửa tay trước khi mình sơ chế đồ ăn nhé."},
+        {"t": "p", "text": "<strong>Aisha:</strong> Rửa tay, rửa tay."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Đúng rồi. Mình lau tay thật khô nhé. Giỏi lắm. Vậy Layla ơi, công thức làm tzatziki trong sách viết gì nào?"},
+        {"t": "p", "text": "<strong>Layla:</strong> Sách viết một quả dưa chuột, nửa cốc sữa chua và một tép tỏi."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Một tép tỏi mà mình sẽ giã. Có ghi là giã không con?"},
+        {"t": "p", "text": "<strong>Layla:</strong> Có ạ."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Có à? Tuyệt vời. Vậy mình có dưa chuột rồi. Quả này hái từ vườn của ông ngoại đấy. Mình may mắn lắm mới hái được dưa chuột từ vườn của ông. Đọc xem mình cần làm gì trước nào."},
+        {"t": "p", "text": "<strong>Layla:</strong> Mình cần lấy một quả dưa chuột."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Đúng rồi, mình có dưa chuột rồi. Giờ mình cần cắt đôi quả dưa chuột. Để mẹ lấy cho con một cái thìa, vì bước tiếp theo là gì nào?"},
+        {"t": "p", "text": "<strong>Layla:</strong> Sách viết là nạo bỏ hạt ạ."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Mình bỏ hạt đi bởi vì mình trộn nó thành sốt tzatziki nên không muốn nó bị nhão. Đây rồi, hết hạt rồi. Giỏi lắm con gái. Đúng rồi. Nạo vào đó đi. Con sẽ nạo hết ra nhé. Giờ con nhìn phần của con và phần kia xem. Giỏi quá, làm tốt lắm."},
+        {"t": "p", "text": "<strong>Layla:</strong> Mình cần để nguyên vỏ."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Được, vậy mình để nguyên vỏ."},
+        {"t": "p", "text": "<strong>Layla:</strong> Và bào vào một cái rổ lọc."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Được rồi, thay vì bào thì mình sẽ băm nhỏ thôi nhé."},
+        {"t": "p", "text": "<strong>Layla:</strong> Sách viết là khuấy sữa chua với tỏi."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Đúng vậy, nửa cốc sữa chua. Giỏi lắm con gái, cho vào tô nào, đây rồi. Mình có ít dưa chuột để mai ăn trưa nữa nhé. Giờ để bóc tỏi thì mình làm gì nào? Mình đặt dao xuống như thế này. Làm vậy bóc rất dễ. Con cũng bóc được đấy. Cho tỏi vào đây rồi mình giã. Dùng sức nào. Phải bong ra, lấy phần dưới đáy nữa. Rồi mình trộn dưa chuột và trộn đều lên. Được rồi, đẹp quá. Vậy là đủ rồi. Giờ con nhìn món sốt tzatziki của mình xem, nhìn món sốt tzatziki kia nữa."},
+        {"t": "p", "text": "<strong>Layla:</strong> Trông hai cái na ná nhau."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Đây là của con, đây là của con, còn đây là của mẹ, và mình chấm vào nhé. Con thấy sao?"},
+        {"t": "p", "text": "<strong>Layla:</strong> Ngon, ngon thật ạ."},
+        {"t": "p", "text": "<strong>Sonia:</strong> Con thích không? Ngon nhỉ? Đúng rồi."}
+      ]
+    }
+  ]
+}

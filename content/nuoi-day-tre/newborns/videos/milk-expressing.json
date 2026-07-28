@@ -1,0 +1,40 @@
+{
+  "path": "videos/milk-expressing",
+  "title": "Cho con bú: những thắc mắc về nguồn sữa",
+  "subtitle": "Giải đáp về việc đủ sữa, dư sữa và khi nào cần vắt sữa",
+  "sections": [
+    {
+      "h": "Tôi có đủ sữa cho con không? Làm sao biết bé đã bú đủ?",
+      "blocks": [
+        {"t": "p", "text": "Câu hỏi: Tôi có đủ sữa cho con không? Làm sao tôi biết được bé đã bú đủ?"},
+        {"t": "p", "text": "Renee Kam (chuyên gia tư vấn sữa mẹ): Nhiều bà mẹ lo lắng không biết con mình có bú đủ sữa hay không. Tin vui là hầu hết các mẹ đều có thể tạo ra nhiều sữa cho con. Có 3 dấu hiệu đáng tin cậy cho thấy bé đang bú đủ sữa – tăng cân, đi ngoài và đi tiểu."},
+        {"t": "p", "text": "Một bé bú đủ sữa sẽ tăng cân đủ, và y tá chăm sóc sức khỏe trẻ em và gia đình sẽ cho bạn biết mức tăng bao nhiêu là đủ. Sau khi sụt cân nhẹ trong những ngày đầu, các bé tăng trung bình khoảng 150 đến 200 gram mỗi tuần trong vài tháng đầu."},
+        {"t": "p", "text": "Từ đó về sau, mức tăng cân trung bình mỗi tuần của bé có xu hướng nhỏ hơn."},
+        {"t": "p", "text": "Về việc đi ngoài, một bé sơ sinh bú mẹ hoàn toàn thường đi ngoài 3 lần trở lên mỗi ngày, phân mềm hoặc lỏng, trong vài tuần đầu. Mỗi lần thường ít nhất bằng cỡ một đồng xu. Sau khoảng 6 tuần đầu, các bé bú mẹ khỏe mạnh đi ngoài với lượng khác nhau. Một số bé vẫn đi nhiều lần mỗi ngày, nhưng số khác chỉ đi một lần sau vài ngày. Miễn là phân mềm, lượng nhiều, bé phát triển tốt và vui vẻ thì đều ổn cả."},
+        {"t": "p", "text": "Về việc đi tiểu, mỗi ngày bé nên có ít nhất 5 chiếc tã giấy ướt nặng hoặc 6 đến 8 chiếc tã vải ướt. Nước tiểu nên có màu nhạt."},
+        {"t": "p", "text": "Một số bà mẹ nói rằng họ nghĩ bé có biểu hiện như chưa bú đủ, hoặc họ không vắt được nhiều sữa, hoặc ngực không có cảm giác căng đầy, hoặc bé uống thêm nhiều sữa bình sau khi bú mẹ. Họ có thể lo lắng rằng mình không đủ sữa."},
+        {"t": "p", "text": "Nhưng tăng cân, đi ngoài và đi tiểu đều đặn mới là những dấu hiệu đáng tin cậy duy nhất cho thấy bé đang bú đủ sữa."},
+        {"t": "p", "text": "Hãy trao đổi với nữ hộ sinh, y tá chăm sóc sức khỏe trẻ em và gia đình hoặc chuyên gia tư vấn sữa mẹ nếu bạn lo lắng."}
+      ]
+    },
+    {
+      "h": "Hình như tôi quá nhiều sữa. Điều này có bình thường không?",
+      "blocks": [
+        {"t": "p", "text": "Câu hỏi: Hình như tôi có quá nhiều sữa. Điều này có bình thường không?"},
+        {"t": "p", "text": "Renee: Việc bạn cảm thấy ngực thay đổi trong khoảng 2 đến 6 ngày sau sinh là bình thường. Đây là lúc sữa về và sữa chuyển từ sữa non vàng đặc sang loại sữa loãng hơn, màu nhạt, thường hơi ánh xanh. Ngực bạn có thể to hơn, nặng hơn và có thể hơi đau hoặc nhạy cảm hơn. Tình trạng căng đầy này thường tự ổn định trong vài tuần đầu khi lượng sữa bạn tạo ra dần khớp với lượng sữa bé bú."},
+        {"t": "p", "text": "Nếu bạn vẫn tạo ra quá nhiều sữa sau những tuần đầu, có thể bạn bị dư sữa. Bạn có thể thấy ngực căng đầy nhanh giữa các cữ bú và sữa cũng có thể rỉ ra từ đầu ti giữa các cữ. Nếu bị dư sữa, bạn có nguy cơ tắc tia sữa hoặc viêm vú cao hơn."},
+        {"t": "p", "text": "Bạn cũng có thể có phản xạ xuống sữa nhanh. Nếu xuống sữa nhanh, bạn có thể thấy bé thường bị nghẹn hoặc nuốt vội ở đầu cữ bú và có thể nhả ti ra rồi ho."},
+        {"t": "p", "text": "Một bé có mẹ bị dư sữa thường có nhiều tã ướt và bẩn hơn bình thường, hay quấy khóc khó chịu và tăng cân nhiều. Bé cũng có thể trớ ra khá nhiều sữa sau khi bú."},
+        {"t": "p", "text": "Nếu bạn nghĩ mình có thể bị dư sữa, hãy gọi đường dây hỗ trợ của Hiệp hội Nuôi con bằng sữa mẹ Úc theo số 1800 686 268 hoặc trao đổi với chuyên gia tư vấn sữa mẹ."}
+      ]
+    },
+    {
+      "h": "Tôi có cần vắt sữa không?",
+      "blocks": [
+        {"t": "p", "text": "Câu hỏi: Tôi có cần vắt sữa mẹ không?"},
+        {"t": "p", "text": "Renee: Nếu bé bú tốt và bạn có thể ở bên bé trong tất cả các cữ bú thì bạn không cần vắt sữa, trừ khi bạn muốn. Ví dụ, nếu bạn ra ngoài mà không mang bé theo, bạn có thể vắt sữa trước khi đi để lại một ít sữa mẹ đã vắt cho người chăm sóc cho bé bú trong lúc bạn vắng mặt."},
+        {"t": "p", "text": "Để biết thêm thông tin về nuôi con bằng sữa mẹ, hãy gọi đường dây hỗ trợ của Hiệp hội Nuôi con bằng sữa mẹ Úc theo số 1800 686 268. Trao đổi với chuyên gia tư vấn sữa mẹ và/hoặc y tá chăm sóc sức khỏe trẻ em và gia đình. Truy cập website Raising Children Network tại https://raisingchildren.net.au hoặc website ABA tại https://www.breastfeeding.asn.au."}
+      ]
+    }
+  ]
+}

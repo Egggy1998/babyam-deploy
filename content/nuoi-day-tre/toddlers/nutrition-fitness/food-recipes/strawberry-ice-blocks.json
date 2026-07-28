@@ -1,0 +1,56 @@
+{
+ "path": "nutrition-fitness/food-recipes/strawberry-ice-blocks",
+ "title": "Kem que tự làm tại nhà cho bé",
+ "subtitle": "Món kem que dâu tây mát lạnh, tự làm đơn giản và lành mạnh cho bé.",
+ "sections": [
+  {
+   "h": "Giới thiệu",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thành phẩm: 6-8 que kem. Thời gian chuẩn bị: 10 phút, chưa kể thời gian đông lạnh."
+    }
+   ]
+  },
+  {
+   "h": "Nguyên liệu",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "1 hộp dâu tây, rửa sạch và bỏ cuống",
+      "1 cốc (250 ml) nước",
+      "2 thìa cà phê nước cốt chanh",
+      "2 cốc (520 g) sữa chua không đường"
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Cách làm",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Dùng máy xay sinh tố hoặc máy xay thực phẩm, xay nhuyễn dâu tây với nước và nước cốt chanh.",
+      "Đổ phần dâu tây xay nhuyễn vào sữa chua và trộn đều cho hòa quyện.",
+      "Rót hỗn hợp vào 6-8 khuôn kem que, rồi nhẹ nhàng cắm que kem vào giữa các khuôn.",
+      "Để đông lạnh qua đêm hoặc ít nhất 3 tiếng trước khi ăn."
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Mẹo nhỏ",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Để lấy kem ra khỏi khuôn, hãy nhúng nhanh khuôn dưới vòi nước ấm. Que kem sẽ trượt ra dễ dàng.",
+      "Để đổi vị, hãy dùng các loại trái cây mà bé yêu thích. Ví dụ, bạn có thể dùng đào, chuối hoặc xoài."
+     ]
+    }
+   ]
+  }
+ ]
+}

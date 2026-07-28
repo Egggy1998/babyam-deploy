@@ -1,0 +1,116 @@
+{
+  "path": "safety/home-pets/home-safety",
+  "title": "An toàn cho trẻ trong nhà: danh sách kiểm tra",
+  "subtitle": "Tổng quan về an toàn cho trẻ tại nhà: đồ nội thất và thiết bị, bỏng và lửa, an toàn trong nhà và ngoài trời, chất độc, an toàn dưới nước, CPR và số điện thoại khẩn cấp.",
+  "sections": [
+    {
+      "h": "An toàn cho trẻ trong nhà của bạn",
+      "blocks": [
+        { "t": "p", "text": "Ngôi nhà phù hợp với người lớn của bạn ẩn chứa nhiều mối nguy tiềm tàng đối với trẻ. Nhưng bạn có thể giữ con an toàn bằng cách tìm hiểu các rủi ro rồi phòng ngừa hoặc loại bỏ chúng." },
+        { "t": "p", "text": "Nhưng ngay cả khi bạn nghĩ mình đã loại bỏ hết các mối nguy trong nhà, thực tế là trẻ vẫn có thể té ngã. Đó là lý do vì sao trông chừng là một trong những chìa khóa của an toàn cho trẻ tại nhà." },
+        { "t": "p", "text": "Ngoài ra, khi con lớn lên và học cách trèo và mở đồ vật, bạn cần cảnh giác với những mối nguy mới. Bạn có thể sẽ cần thay đổi môi trường để đảm bảo nhà mình vẫn là nơi an toàn và sáng tạo để con chơi và khám phá." },
+        { "t": "p", "text": "Và cùng với việc trông chừng và một môi trường an toàn, bạn cũng có thể cải thiện an toàn tại nhà bằng cách giúp con học được điều gì an toàn và điều gì không." },
+        { "t": "p", "text": "Nếu trẻ có một không gian sáng tạo để chơi và khám phá, với nhiều thứ thú vị để làm và ngắm nhìn, chúng sẽ ít có khả năng tự tìm kích thích bằng cách khám phá những khu vực bạn không muốn chúng đến." }
+      ]
+    },
+    {
+      "h": "An toàn về đồ nội thất và thiết bị cho bé",
+      "blocks": [
+        { "t": "p", "text": "Khi chọn và dùng đồ nội thất, thiết bị cho bé, bước đầu tiên để an toàn là kiểm tra xem đồ nội thất mới cho bé có đạt Tiêu chuẩn Úc hoặc Tiêu chuẩn Úc/New Zealand không." },
+        { "t": "p", "text": "<strong>Thông tin thêm</strong>" },
+        { "t": "ul", "items": [
+          "An toàn khi dùng địu, đai và balô địu bé: hướng dẫn",
+          "Xe đẩy: hướng dẫn an toàn",
+          "Danh sách cho bé sơ sinh: chuẩn bị nhà cửa và đồ dùng",
+          "Danh sách kiểm tra đồ nội thất an toàn cho bé"
+        ] }
+      ]
+    },
+    {
+      "h": "An toàn về bỏng, phỏng nước và lửa",
+      "blocks": [
+        { "t": "p", "text": "Để phòng ngừa bỏng và phỏng nước, hãy giữ con tránh xa những thứ gây bỏng – lò nướng ngoài trời, lửa, máy sưởi, bề mặt nóng, chất lỏng nóng và thức ăn nóng." },
+        { "t": "p", "text": "<strong>Thông tin thêm</strong>" },
+        { "t": "ul", "items": [
+          "Sơ cứu bỏng và phỏng nước",
+          "Sơ cứu bỏng và phỏng nước: bằng hình ảnh",
+          "Phòng ngừa bỏng trong nhà",
+          "An toàn phòng cháy tại nhà",
+          "Nhiệt độ nước tắm an toàn: trẻ sơ sinh và trẻ em",
+          "Phòng ngừa phỏng nước trong nhà"
+        ] }
+      ]
+    },
+    {
+      "h": "An toàn chung trong nhà và ngoài trời",
+      "blocks": [
+        { "t": "p", "text": "Để tạo môi trường an toàn trong nhà và ngoài trời tại nhà, hãy kiểm tra các mối nguy trong nhà ở bếp, phòng ngủ, phòng sinh hoạt, phòng tắm và phòng giặt. Cũng có thể có các mối nguy ngoài trời ở sân sau, vườn, nhà kho, khu vui chơi ngoài trời, khu vực hồ bơi và những nơi tương tự." },
+        { "t": "p", "text": "<strong>Thông tin thêm</strong>" },
+        { "t": "ul", "items": [
+          "Phòng ngừa hóc nghẹn và các nguy cơ hóc nghẹn",
+          "Cây cảnh nguy hiểm: giữ an toàn cho trẻ",
+          "Dị vật trong mũi, mắt, tai và miệng của trẻ",
+          "Phòng ngừa té ngã cho bé và trẻ nhỏ",
+          "Phòng ngừa siết cổ và ngạt thở",
+          "An toàn quanh cửa và bản lề",
+          "An toàn dưới nắng: trẻ sơ sinh, trẻ em và thanh thiếu niên",
+          "An toàn hồ bơi",
+          "An toàn bạt nhún cho trẻ em và thanh thiếu niên"
+        ] },
+        { "t": "p", "text": "Hãy dùng các bài viết được liệt kê ở những phần khác trong hướng dẫn này để kiểm tra các mối nguy về bỏng, thiết bị, đồ nội thất, chất độc, phỏng nước và nước." },
+        { "t": "p", "text": "Khi bạn và con ra ngoài, đó là cơ hội tuyệt vời để giúp con học về an toàn cho người đi bộ và an toàn giao thông, cũng như an toàn khi đi xe đạp, xe trượt scooter và ván trượt. Nếu bạn đến sân chơi, an toàn sân chơi tất cả là nhờ việc trông chừng tích cực." }
+      ]
+    },
+    {
+      "h": "An toàn về chất độc",
+      "blocks": [
+        { "t": "p", "text": "Trẻ có thể bị ngộ độc bởi thuốc men, hóa chất gia dụng, sản phẩm tẩy rửa và những thứ khác. Bước đầu tiên để an toàn là cất các chất độc trong nhà ngoài tầm với và tầm nhìn, trên cao trong tủ có khóa chống mở dành cho trẻ." },
+        { "t": "p", "text": "<strong>Thông tin thêm</strong>" },
+        { "t": "ul", "items": [
+          "Chất độc trong nhà: giữ an toàn cho trẻ",
+          "Những loại thuốc có thể gây ngộ độc cho trẻ"
+        ] }
+      ]
+    },
+    {
+      "h": "An toàn dưới nước",
+      "blocks": [
+        { "t": "p", "text": "An toàn dưới nước phụ thuộc vào việc người lớn trông chừng tích cực 100% bất cứ khi nào trẻ ở gần nước. Điều này bao gồm gần bồn tắm, hồ bơi, ao, đập, sông, suối và xô đựng nước." },
+        { "t": "p", "text": "<strong>Thông tin thêm</strong>" },
+        { "t": "ul", "items": [
+          "An toàn dưới nước cho trẻ",
+          "Phòng ngừa đuối nước trong bồn tắm",
+          "Nhiệt độ nước tắm an toàn: trẻ sơ sinh và trẻ em",
+          "Phòng ngừa phỏng nước trong nhà",
+          "An toàn hồ bơi"
+        ] }
+      ]
+    },
+    {
+      "h": "CPR và sơ cứu",
+      "blocks": [
+        { "t": "p", "text": "Bạn rất nên tham gia tập huấn sơ cứu và CPR. Nên tập huấn sơ cứu mỗi 3 năm và tập huấn CPR mỗi năm. Bạn có thể tập huấn với các tổ chức như Royal Life Saving Australia, Hội Chữ thập đỏ Úc và St John Ambulance Australia." },
+        { "t": "p", "text": "Để sẵn các bộ sơ cứu trong nhà và trên xe, và cũng mang theo một bộ khi đi nghỉ." }
+      ]
+    },
+    {
+      "h": "Số điện thoại khẩn cấp",
+      "blocks": [
+        { "t": "p", "text": "Hãy lập danh sách các số điện thoại khẩn cấp để gần điện thoại. Sau đây là các số nên có:" },
+        { "t": "ul", "items": [
+          "Cảnh sát, cứu thương, cứu hỏa – 000",
+          "Trung tâm Thông tin Chất độc – 131 126",
+          "Dịch vụ Khẩn cấp Tiểu bang – 132 500",
+          "Health Direct Australia – 1800 022 222",
+          "bác sĩ gia đình",
+          "y tá chăm sóc sức khỏe trẻ em và gia đình",
+          "bệnh viện nhi địa phương",
+          "nhà thuốc trực đêm",
+          "hàng xóm và người thân đáng tin cậy",
+          "chính quyền địa phương."
+        ] },
+        { "t": "p", "text": "Cần thêm thông tin về an toàn cho trẻ? Hãy liên hệ Kidsafe hoặc các trung tâm an toàn trẻ em, các đơn vị nâng cao sức khỏe trẻ em tại bệnh viện nhi lớn ở thủ phủ tiểu bang/vùng lãnh thổ của bạn." }
+      ]
+    }
+  ]
+}

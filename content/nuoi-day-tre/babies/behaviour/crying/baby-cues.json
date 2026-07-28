@@ -1,0 +1,92 @@
+{
+ "path": "behaviour/crying/baby-cues",
+ "title": "Tín hiệu đói và tín hiệu mệt của bé",
+ "subtitle": "Cách nhận biết và đáp lại tín hiệu cơ thể của bé",
+ "sections": [
+  {
+   "h": "Tín hiệu của bé là gì?",
+   "blocks": [
+    {"t": "p", "text": "Tín hiệu của bé là những dấu hiệu cho biết bé đang cảm thấy thế nào và cần gì ở bạn. Bạn nhận ra những dấu hiệu này qua ngôn ngữ cơ thể của bé."},
+    {"t": "p", "text": "Tín hiệu của bé cho bạn thông tin quan trọng về việc bé có đang:"},
+    {"t": "ul", "items": [
+     "mệt",
+     "đói",
+     "tỉnh táo và sẵn sàng chơi",
+     "cần nghỉ ngơi",
+     "không khỏe."
+    ]}
+   ]
+  },
+  {
+   "h": "Vì sao việc đáp lại tín hiệu của bé lại quan trọng",
+   "blocks": [
+    {"t": "p", "text": "Khi bạn để ý và đáp lại tín hiệu của bé, bé cảm thấy an toàn và yên tâm. Điều này giúp bạn xây dựng mối quan hệ bền chặt với bé. Và một mối quan hệ bền chặt với bạn cùng những người chăm sóc chính khác là vô cùng quan trọng cho sự phát triển của bé."}
+   ]
+  },
+  {
+   "h": "Cách nhận biết tín hiệu của bé",
+   "blocks": [
+    {"t": "p", "text": "Tất cả các bé đều phát ra tín hiệu về cảm giác của mình và những gì cần ở bạn. Nhưng mỗi bé lại có một tập hợp dấu hiệu riêng để cho bạn biết bé đang cảm thấy thế nào và muốn gì."},
+    {"t": "p", "text": "Khi bạn và bé dần hiểu nhau, bạn sẽ bắt đầu nhận ra các tín hiệu của bé và tìm ra cách tốt nhất để đáp lại. Ví dụ, bé đang rên rỉ có thể trở nên thư giãn khi bạn mỉm cười, hoặc có vẻ thích hơn khi bạn hát và trò chuyện với bé."},
+    {"t": "p", "text": "Việc hiểu các tín hiệu của bé cần luyện tập, và sẽ có những lúc bạn không biết bé muốn gì. Những lúc đó, hãy nhớ rằng những phản ứng ấm áp và nhẹ nhàng từ bạn giúp bé cảm thấy an toàn. Phản ứng của bạn cũng xây dựng mối quan hệ giữa bạn và bé."},
+    {"t": "p", "text": "Hãy xem video để tìm hiểu thêm về tín hiệu của bé."},
+    {"t": "p", "text": "Nếu bé không khỏe, bé có thể khóc, lờ đờ hoặc tái nhợt, hoặc bị sốt, phát ban hay các dấu hiệu khác."}
+   ]
+  },
+  {
+   "h": "Tín hiệu bé mệt",
+   "blocks": [
+    {"t": "p", "text": "Tín hiệu bé mệt bao gồm:"},
+    {"t": "ul", "items": [
+     "nhìn xa xăm vào khoảng không",
+     "cử động giật cục",
+     "ngáp",
+     "cáu kỉnh",
+     "mút ngón tay",
+     "mất hứng thú với người hoặc đồ chơi."
+    ]},
+    {"t": "p", "text": "Hãy xem video để thấy những tín hiệu này trông như thế nào ở các bé thật."},
+    {"t": "p", "text": "Khi nhận ra dấu hiệu mệt mỏi ở bé, bạn nên bắt đầu dỗ bé ngủ."}
+   ]
+  },
+  {
+   "h": "Tín hiệu bé đói",
+   "blocks": [
+    {"t": "p", "text": "Khi bé đói, bé có thể:"},
+    {"t": "ul", "items": [
+     "phát ra tiếng mút",
+     "quay về phía bầu vú."
+    ]},
+    {"t": "p", "text": "Hãy xem video để thấy tín hiệu đói trông như thế nào ở các bé thật."}
+   ]
+  },
+  {
+   "h": "Tín hiệu của bé nói rằng \"Con muốn chơi\"",
+   "blocks": [
+    {"t": "p", "text": "Những tín hiệu cho thấy bé sẵn sàng chơi với bạn bao gồm:"},
+    {"t": "ul", "items": [
+     "mắt mở to và sáng",
+     "giao tiếp bằng mắt với bạn",
+     "mỉm cười",
+     "cử động nhịp nhàng",
+     "đưa tay với về phía bạn."
+    ]},
+    {"t": "p", "text": "Hãy xem video để thấy những tín hiệu này của bé trong thực tế, cùng nhiều dấu hiệu khác cho thấy bé sẵn sàng chơi."},
+    {"t": "p", "text": "Khi nhận ra dấu hiệu \"sẵn sàng chơi\" ở bé, đây là lúc tốt để mỉm cười và trò chuyện với bé. Việc chơi với bé rất đơn giản, tất cả nằm ở những tương tác giữa bạn và bé."}
+   ]
+  },
+  {
+   "h": "Tín hiệu của bé nói rằng \"Con cần nghỉ\"",
+   "blocks": [
+    {"t": "p", "text": "Các bé từ 4 tháng tuổi trở lên không phải lúc nào cũng sẵn sàng ngủ sau giờ chơi. Đôi khi bé chỉ muốn đổi nhịp độ hoặc đổi hoạt động. Vậy những tín hiệu này trông như thế nào?"},
+    {"t": "p", "text": "Nếu bé muốn nghỉ khỏi việc đang làm, bé có thể:"},
+    {"t": "ul", "items": [
+     "quay đầu đi khỏi bạn",
+     "ngọ nguậy hoặc đạp chân."
+    ]},
+    {"t": "p", "text": "Hãy xem video để thấy những tín hiệu này của bé trong thực tế, cùng nhiều dấu hiệu khác cho thấy bé muốn đổi hoạt động."},
+    {"t": "p", "text": "Khi nhận ra dấu hiệu \"sẵn sàng nghỉ\" ở bé, bạn nên cho bé một khoảng thời gian yên tĩnh hoặc một hoạt động khác. Ví dụ, nếu bé quay đầu đi khỏi cái lục lạc bạn đang đưa cho, bạn có thể đặt bé nằm ngửa để ngắm một chiếc đồ chơi treo nôi một lúc."}
+   ]
+  }
+ ]
+}

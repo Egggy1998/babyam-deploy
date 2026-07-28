@@ -1,0 +1,158 @@
+{
+  "path": "family-life/holidays-travel/travel-checklist",
+  "title": "Đi du lịch cùng con: máy bay, xe buýt hoặc tàu hỏa",
+  "subtitle": "Lên kế hoạch, chuẩn bị hành lý, chuẩn bị tinh thần cho con và cách giữ con vui vẻ trong những chuyến đi dài.",
+  "sections": [
+    {
+      "h": "Cách lên kế hoạch đi du lịch cùng con",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn định đi du lịch cùng con bằng máy bay, tàu hỏa hoặc xe buýt, đây là những điều cần cân nhắc:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Thời điểm – nếu có thể, nên sắp xếp chuyến bay hoặc chuyến tàu, xe buýt vào giờ ngủ hoặc giờ nghỉ của con. Như vậy con có thể ngủ, và chuyến đi cũng có thể dễ dàng hơn cho bạn.",
+            "Sắp xếp chỗ ngồi – hãy kiểm tra xem bạn có thể đặt chỗ ngồi rộng rãi hơn cho em bé và trẻ nhỏ hay không. Trên máy bay, bạn có thể đặt nôi cho em bé. Hãy chọn ghế cạnh lối đi để con dễ đi vệ sinh hơn.",
+            "Nhà vệ sinh và phòng thay đồ – hãy kiểm tra xem trên phương tiện có nhà vệ sinh và phòng thay đồ thân thiện với trẻ hay không, và bạn có thể đặt ghế gần đó không.",
+            "Đồ ăn – với chuyến bay, bạn có thể đặt trước suất ăn cho trẻ. Với chuyến xe buýt và tàu hỏa, hãy kiểm tra xem bạn có thể mua đồ ăn trên xe/tàu không."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cần mang theo gì khi đi du lịch cùng con",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn nên đóng đồ cho chuyến đi vào một chiếc túi có nhiều ngăn và túi nhỏ. Điều này giúp dễ tìm đồ khi cần. Cũng nên cho con tham gia đóng gói. Việc này có thể khiến con thích thú và háo hức về chuyến đi."
+        },
+        {
+          "t": "p",
+          "text": "Những thứ con cần tùy thuộc vào độ tuổi của con và nơi bạn sắp đến."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ lớn hơn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Quần áo dự phòng, phòng khi đổ ra người, gặp sự cố hoặc bị trễ chuyến",
+            "Khăn lau dùng một lần hoặc khăn vải",
+            "Túi đựng dùng một lần – tiện để đựng rác, chất nôn hoặc quần áo bẩn",
+            "Bình nước hoặc bình đựng đồ uống có thể nạp lại",
+            "Đồ ăn nhẹ lành mạnh",
+            "Sách, đồ chơi và trò chơi – hãy nhờ con cùng chọn",
+            "Thuốc nếu con cần dùng",
+            "Nước rửa tay khô",
+            "Bộ sơ cứu"
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Em bé và trẻ nhỏ hơn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Tất cả những thứ trong danh sách trên",
+            "Sữa công thức và dụng cụ bú bình, nếu cần",
+            "Bỉm hoặc bỉm quần",
+            "Tấm lót thay bỉm di động, loại nhẹ và dễ cất",
+            "Đồ chơi ôm yêu thích của con, nếu con có",
+            "Chăn hoặc khăn quấn – khăn xô (muslin) rất tốt vì nhẹ và chiếm ít chỗ",
+            "Xe đẩy hoặc ghế ngồi ô tô cho trẻ, nếu cần và nơi đến không có sẵn"
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Chuẩn bị tinh thần cho con trước chuyến đi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn nên chuẩn bị tinh thần cho con trước khi lên đường bằng máy bay, xe buýt hoặc tàu hỏa. Ví dụ:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Giải thích cho con biết sẽ đi đâu, đi bằng cách nào và mất bao lâu. Hãy dùng hình ảnh hoặc ngôn ngữ mà con hiểu được.",
+            "Nói cho con về việc đi qua khu kiểm tra an ninh ở sân bay. Giải thích rằng con có thể phải cởi giày hoặc bất cứ thứ gì bằng kim loại, như đồng hồ, và tự mình đi qua nếu được. Cũng giải thích rằng con sẽ không được cầm đồ chơi hay ba lô qua cổng an ninh."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cách nhờ trợ giúp ở sân bay, bến xe hoặc nhà ga",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đi du lịch cùng con, đặc biệt khi đi một mình, bạn có thể được trợ giúp tại sân bay, bến xe hoặc nhà ga. Ví dụ, bạn có thể được:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "mượn xe đẩy tại sân bay",
+            "lên xe/tàu/máy bay trước (ưu tiên)",
+            "nhân viên hỗ trợ lên xuống xe buýt và tàu hỏa."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn không nhờ được trợ giúp từ hãng hàng không hoặc công ty xe buýt, tàu hỏa, một người thân hoặc bạn bè có thể đưa bạn ra ga hoặc đón bạn tại điểm đến và giúp đỡ."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn đi du lịch và con bị khuyết tật hoặc ADHD, là trẻ tự kỷ, hoặc có những nhu cầu đặc biệt khác, có thể sẽ có thêm những điều cần cân nhắc. Ví dụ, bạn có thể cần mang theo thuốc và thiết bị, chuẩn bị tinh thần cho con trước chuyến đi, nhờ trợ giúp tại điểm khởi hành và điểm đến, v.v."
+        }
+      ]
+    },
+    {
+      "h": "Cách giữ con vui vẻ trong suốt chuyến đi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Những chuyến đi dài có thể là thử thách với trẻ. Chuyến đi sẽ vui hơn cho con và dễ dàng hơn cho bạn nếu con được giải trí. Chỉ cần lưu ý đến những hành khách khác. Ví dụ, hãy mang theo tai nghe nếu con đã đủ lớn, và khuyến khích con nói chuyện và chơi nhẹ nhàng."
+        }
+      ]
+    },
+    {
+      "h": "Em bé và trẻ mới biết đi",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Mang theo những cuốn sách có thể lau sạch.",
+            "Mang theo đồ chơi phù hợp lứa tuổi, an toàn khi sử dụng, nhẹ, dễ cất và dễ lau chùi. Tránh mang đồ chơi có nhiều mảnh rời.",
+            "Cất đồ chơi trong túi và đưa cho con dần dần trong chuyến đi, thay vì đưa hết một lúc.",
+            "Mượn vài cuốn “sách nói” ở thư viện địa phương trước khi rời nhà, hoặc tải về các tệp âm thanh."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Trẻ lớn hơn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Chơi “Tôi nhìn thấy”, tìm chữ cái, hoặc các trò đoán như “Tớ đang nghĩ tới một con số từ 1 đến 10”.",
+            "Nếu có màn hình hoặc máy tính bảng, hãy đảm bảo đã sạc đầy và đã tải sẵn nhiều phim hoặc trò chơi.",
+            "Mang theo nhạc con thích, hoặc cùng con tạo một danh sách phát trước khi đi.",
+            "Mang theo trò chơi – ví dụ ghép hình nhỏ hoặc các bộ bài.",
+            "Dùng sách dán sticker hoặc sổ trắng và bút màu để con luôn bận tay và phát huy trí tưởng tượng.",
+            "Nếu bạn có nhiều hơn một con, hãy chuẩn bị đồ chơi và sách cho từng bé. Điều này giúp giữ mọi đứa trẻ đều vui."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sự thay đổi áp suất không khí trên máy bay có thể khiến trẻ bị đau tai, nhất là lúc cất cánh và hạ cánh. Cho con bú mẹ hoặc bú bình có thể giúp giảm vấn đề này. Nếu có thể, hãy canh giờ bú của con vào lúc cất cánh và hạ cánh. Với trẻ lớn hơn, một ngụm nước trong cốc hoặc bình chống tràn có thể giúp ích."
+        }
+      ]
+    }
+  ]
+}

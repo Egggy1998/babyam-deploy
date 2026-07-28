@@ -1,0 +1,95 @@
+{
+  "path": "health-daily-care/hygiene-keeping-clean/trimming-nails",
+  "title": "Cách cắt móng cho bé và xử lý các vấn đề về móng",
+  "subtitle": "Khi nào và cách cắt móng cho bé an toàn, cùng cách xử lý khi cắt phải da và các vấn đề về móng.",
+  "sections": [
+    {
+      "h": "Khi nào cắt móng cho bé",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn không cần cắt móng cho bé quá thường xuyên."
+        },
+        {
+          "t": "p",
+          "text": "Ở trẻ sơ sinh, móng mềm và tự mòn đi qua việc cọ xát với quần áo của bé. Bé lớn hơn thì làm mòn móng khi chơi và tương tác với môi trường xung quanh."
+        },
+        {
+          "t": "p",
+          "text": "Tuy nhiên, móng của bé mọc khá nhanh, nên bạn có thể cắt móng tay và móng chân khi cần. Bạn có thể dùng kéo cắt móng hoặc bấm móng dành riêng cho bé. Bạn cũng có thể giũa móng bằng giũa móng tay. Việc này nghĩa là bo tròn móng để chúng nhẵn mịn."
+        }
+      ]
+    },
+    {
+      "h": "Cách cắt móng cho bé",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Hãy cố cắt móng cho bé khi bé đang ngủ, lơ mơ hoặc rất bình tĩnh. Với trẻ lớn hơn, bạn có thể dùng ghế ăn cao hoặc ghế ngồi ô tô nơi có thể cài đai giữ con."
+        }
+      ]
+    },
+    {
+      "h": "Mẹo giúp việc cắt móng dễ dàng hơn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Đảm bảo có đủ ánh sáng để bạn nhìn rõ.",
+            "Làm cùng một người khác nếu việc đó giúp ích – một người giữ bé trong khi người kia cắt móng.",
+            "Nhẹ nhàng kéo phần thịt đầu ngón tay của bé ra khỏi móng để tránh cắt vào da.",
+            "Cắt móng chân theo đường thẳng ngang để tránh móng mọc quặp vào trong."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Mẹo giúp bé vui vẻ và thoải mái",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Nói chuyện nhẹ nhàng hoặc hát cho bé nghe.",
+            "Thử đánh lạc hướng bé bằng một món đồ chơi hoặc hoạt động. Cách này thường hiệu quả với bé lớn hơn.",
+            "Cho bé tham gia vào hoạt động bằng cách biến nó thành một trò chơi.",
+            "Khen bé vì đã giúp bạn hoàn thành. Việc này có thể giúp cả hai cảm thấy vui vì đã làm xong."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cần làm gì nếu bạn cắt phải da bé và bị chảy máu",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Nhẹ nhàng ấn một miếng vải mềm lên vết cắt cho đến khi máu ngừng chảy.",
+            "Đừng băng lại vì bé có thể mút băng ra.",
+            "Nếu bạn lo lắng về vết cắt, hãy đưa bé đến gặp bác sĩ đa khoa."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bé nhỏ thường vô tình cào trầy chính mình vì chưa kiểm soát tốt tay chân. Bạn có thể ngăn bé cào bằng cách đeo cho bé một đôi bao tay vải cotton mềm hoặc tất. Nhưng hãy đảm bảo bé cũng có thời gian không đeo bao tay để khám phá và chơi với đôi tay của mình."
+        }
+      ]
+    },
+    {
+      "h": "Xử lý các vấn đề về móng của bé",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Khá phổ biến việc bé nhỏ bị một nhiễm trùng nhẹ (gọi là chín mé – paronychia) quanh móng tay hoặc móng chân. Tình trạng này thường tự khỏi mà không cần điều trị. Nhưng bạn có thể cần thoa một lượng nhỏ kem hoặc dung dịch sát khuẩn lên móng."
+        },
+        {
+          "t": "p",
+          "text": "Đôi khi nhiễm trùng này có thể lan sâu hơn vào da của ngón tay hoặc ngón chân, khiến vùng đó sưng và đỏ hoặc đổi màu."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn nhận thấy điều này, hãy đến gặp bác sĩ đa khoa. Bé có thể cần dùng kháng sinh để giúp khỏi nhiễm trùng. Nếu bạn thoa kem để điều trị nhiễm trùng, hãy đảm bảo đeo bao tay hoặc tất cho bé sau đó. Việc này sẽ ngăn bé đưa thẳng tay hoặc chân vào miệng."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "safety/home-pets/doors-hinges",
+  "title": "Tránh kẹp ngón tay ở cửa và bản lề",
+  "subtitle": "Vì sao trẻ dễ bị kẹp ngón tay ở cửa, cách dùng nẹp bảo vệ ngón tay và miếng chặn cửa, cùng các cách khác để phòng ngừa chấn thương kẹp ngón tay.",
+  "sections": [
+    {
+      "h": "Cửa, bản lề và chấn thương kẹp ngón tay",
+      "blocks": [
+        { "t": "p", "text": "Trẻ dưới 5 tuổi đặc biệt dễ bị chấn thương kẹp ngón tay." },
+        { "t": "p", "text": "Trẻ có thể bị kẹp ngón tay ở cửa, cả phía mở lẫn phía bản lề. Khi điều này xảy ra, trẻ có thể bị giập, gãy, thậm chí đứt lìa ngón tay." },
+        { "t": "p", "text": "Phía bản lề của cửa thường gây ra những chấn thương nặng nhất, đặc biệt với trẻ 1-2 tuổi. Trẻ lớn hơn có xu hướng bị thương ở phía mở hoặc phía tay nắm cửa nhiều hơn." },
+        { "t": "p", "text": "Chấn thương kẹp ngón tay thường có liên quan đến một người khác, đặc biệt là một đứa trẻ khác – ví dụ, một bé đang chơi với anh chị lớn. Các bé cố đóng cửa vào nhau, và một bé bị kẹp ngón tay ở cửa." }
+      ]
+    },
+    {
+      "h": "Nẹp bảo vệ ngón tay và miếng chặn cửa để phòng kẹp ngón tay",
+      "blocks": [
+        { "t": "p", "text": "Số trẻ nhỏ bị thương ở phía bản lề của cửa nhiều hơn ở phía tay nắm." },
+        { "t": "p", "text": "Nẹp bảo vệ ngón tay có thể giúp phòng ngừa những chấn thương này. Đó là những dải dài, dẻo mà bạn có thể lắp dọc theo chiều dài của phía bản lề cửa. Chúng ngăn trẻ đưa ngón tay vào phía bản lề." },
+        { "t": "p", "text": "Nhiều loại nẹp bảo vệ ngón tay không ảnh hưởng đến vẻ ngoài của nhà bạn, dễ lắp đặt và không làm thay đổi cách cửa hoạt động. Bạn có thể tìm hiểu về các sản phẩm này tại các trung tâm an toàn trẻ em ở bệnh viện nhi hoặc cửa hàng đồ kim khí địa phương." },
+        { "t": "p", "text": "Bạn cũng có thể hỏi về việc lắp nẹp bảo vệ ngón tay tại trường mầm non, nhà trẻ hay trường học và lớp học của con." },
+        { "t": "p", "text": "Để phòng kẹp ngón tay ở phía tay nắm cửa, bạn có thể dùng miếng chặn cửa đơn giản và rẻ tiền. Đó là những miếng xốp hình chữ U, mềm, dẻo, kẹp vào cạnh trên hoặc cạnh bên của cửa và ngăn cửa đóng kín hoàn toàn." }
+      ]
+    },
+    {
+      "h": "Thêm các cách phòng ngừa kẹp ngón tay ở cửa và bản lề",
+      "blocks": [
+        { "t": "p", "text": "Sau đây là thêm vài ý tưởng để ngăn những ngón tay và bàn tay nhỏ bị kẹp ở cửa và những nơi khác." },
+        { "t": "p", "text": "<strong>Kiểm tra</strong>" },
+        { "t": "ul", "items": [
+          "Kiểm tra tay con đã ra khỏi vùng nguy hiểm trước khi mở và đóng cửa, kể cả cửa xe ô tô.",
+          "Kiểm tra ngón tay con không vướng trước khi đóng cửa kính xe ô tô."
+        ] },
+        { "t": "p", "text": "<strong>Dạy</strong>" },
+        { "t": "ul", "items": [
+          "Dạy con không đóng sầm cửa và không chơi đùa quanh cửa.",
+          "Dạy con để ngón tay tránh xa phía bản lề của cửa."
+        ] },
+        { "t": "p", "text": "<strong>Bảo vệ</strong>" },
+        { "t": "ul", "items": [
+          "Vắt khăn lên đỉnh cửa để giữ cửa hé mở.",
+          "Lắp móc cài ở vị trí cao trên cửa, và/hoặc chèn nêm dưới cửa để ngăn cửa tự đóng.",
+          "Dùng miếng chặn cửa để giữ cửa mở và ngăn cửa đóng sầm. Miếng chặn cửa và hệ thống đóng có trọng lượng có thể ngăn cửa đóng sầm đột ngột.",
+          "Lắp loại cơ cấu đóng cửa từ từ thay vì loại đóng bằng lò xo để ngăn cửa đóng sầm."
+        ] }
+      ]
+    }
+  ]
+}

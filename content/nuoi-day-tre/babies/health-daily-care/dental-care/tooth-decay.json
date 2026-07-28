@@ -1,0 +1,255 @@
+{
+  "path": "health-daily-care/dental-care/tooth-decay",
+  "title": "Sâu răng: ở bé, trẻ em và thanh thiếu niên",
+  "subtitle": "Nguyên nhân, dấu hiệu và cách phòng ngừa sâu răng qua đánh răng, ăn uống lành mạnh và khám nha sĩ định kỳ.",
+  "sections": [
+    {
+      "h": "Sâu răng là gì?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sâu răng là một bệnh liên quan đến chế độ ăn, gây tổn hại cho răng."
+        },
+        {
+          "t": "p",
+          "text": "Sâu răng xảy ra khi vi khuẩn trong miệng tạo nên một lớp màng dính gọi là mảng bám trên bề mặt răng. Những vi khuẩn này ăn đường trong thức ăn và đồ uống, rồi tạo ra một loại axit làm tổn hại bề mặt răng. Theo thời gian, axit này ăn mòn bề mặt răng, tạo nên các lỗ hay “hốc” sâu răng."
+        },
+        {
+          "t": "p",
+          "text": "Sâu răng có thể gây đau và nhiễm trùng. Nó thậm chí có thể ảnh hưởng đến sự tăng trưởng của trẻ. Sâu răng nặng có thể gây hậu quả nghiêm trọng cho dinh dưỡng của con cũng như sự phát triển khả năng nói, hàm và răng."
+        },
+        {
+          "t": "p",
+          "text": "Nếu được phát hiện sớm, sâu răng có thể điều trị được. Nếu sâu răng không được điều trị, con bạn có thể gặp phải:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "đau và khó chịu",
+            "nguy cơ cao bị sâu mới ở cả răng sữa và răng vĩnh viễn",
+            "việc điều trị phức tạp và tốn kém hơn, bao gồm mất răng hoặc phải nhổ răng",
+            "lo lắng khi đi khám nha sĩ",
+            "mất thời gian học tập ở trường."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sâu răng còn được gọi là sâu răng do vi khuẩn (dental caries)."
+        }
+      ]
+    },
+    {
+      "h": "Dấu hiệu sâu răng ở bé, trẻ em và thanh thiếu niên",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sâu răng giai đoạn đầu có thể khó nhận ra. Dấu hiệu đầu tiên của sâu răng là khi răng xuất hiện một dải màu trắng đục dọc theo đường viền nướu (vùng ở chân răng, gần nướu). Bạn cũng có thể thấy những đốm nâu trên răng, và nướu có thể đỏ hoặc tím và sưng."
+        },
+        {
+          "t": "p",
+          "text": "Với sâu răng nặng hơn, bạn có thể nhận thấy những lỗ đen trên răng hoặc răng bị vỡ. Nếu sâu răng đã dẫn đến nhiễm trùng, bạn có thể thấy cục u hoặc mụn mủ trên nướu, hoặc sưng quanh nướu và mặt."
+        }
+      ]
+    },
+    {
+      "h": "Phòng ngừa sâu răng: các bước chính",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Có 3 bước chính con bạn có thể thực hiện để phòng ngừa sâu răng:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Đánh răng và nướu hai lần một ngày – vào buổi sáng và buổi tối.",
+            "Ăn uống lành mạnh, ít đường, và hình thành thói quen ăn uống tốt.",
+            "Khám nha sĩ định kỳ."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa sâu răng: đánh răng và chăm sóc răng miệng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Vệ sinh và chăm sóc răng cho con ngay từ sớm sẽ tạo nền tảng cho thói quen răng miệng tốt cả đời. Các bài viết sau có thông tin về cách vệ sinh, đánh răng, kem đánh răng, bàn chải và chỉ nha khoa cho trẻ ở các độ tuổi khác nhau:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Chăm sóc răng cho trẻ sơ sinh",
+            "Chăm sóc răng cho bé",
+            "Chăm sóc răng cho trẻ mới biết đi",
+            "Chăm sóc răng cho trẻ mẫu giáo",
+            "Chăm sóc răng cho trẻ trong độ tuổi đi học",
+            "Chăm sóc răng cho trẻ tiền dậy thì",
+            "Chăm sóc răng cho tuổi teen"
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa sâu răng: thực phẩm và đồ uống lành mạnh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Thực phẩm và đồ uống ảnh hưởng đến sức khỏe răng miệng và sự hình thành sâu răng của con."
+        }
+      ]
+    },
+    {
+      "h": "Bé dưới 6 tháng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Trẻ sơ sinh và bé nhỏ chỉ cần sữa mẹ hoặc sữa công thức cho đến khi bắt đầu ăn dặm vào lúc 4-6 tháng tuổi. Nếu bé thích ti giả, đừng nhúng ti giả vào thức ăn, đường hay các chất lỏng như mật ong."
+        }
+      ]
+    },
+    {
+      "h": "Bé trên 6 tháng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Khi bé bú mẹ hoặc bú sữa công thức của bạn trên 6 tháng tuổi, bé cũng có thể uống một lượng nhỏ nước. Tránh cho bé uống sữa có đường, nước trái cây hoặc nước siro pha. Nếu bé thích ti giả, đừng nhúng ti giả vào thức ăn hay các chất lỏng như mật ong và đường."
+        }
+      ]
+    },
+    {
+      "h": "Bé lớn hơn, trẻ em và thanh thiếu niên",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Trẻ cần nhiều loại thực phẩm và đồ ăn nhẹ lành mạnh, đa dạng. Thực phẩm và đồ uống ít đường là tốt nhất. Tránh cho con ăn bánh quy ngọt hay bánh ngọt. Nếu con có ăn đồ ngọt, uống một ly nước hoặc ăn thực phẩm thân thiện với răng sau đó có thể giảm lượng axit trên răng của con."
+        },
+        {
+          "t": "p",
+          "text": "Thực phẩm thân thiện với răng là loại ít đường, kích thích nhai và làm tiết nước bọt. Phô mai và rau củ cắt nhỏ như cà rốt và cần tây là những ví dụ về thực phẩm thân thiện với răng."
+        }
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa sâu răng: thói quen ăn uống lành mạnh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Thói quen ăn uống lành mạnh cũng có thể ngừa sâu răng. Điều này nghĩa là cẩn trọng về thời điểm và cách con ăn."
+        },
+        {
+          "t": "p",
+          "text": "Ví dụ, thức ăn và đồ uống lưu lại trong miệng con càng lâu thì axit càng có nhiều cơ hội hình thành và làm tổn hại bề mặt răng. Vì vậy, ăn vặt lai rai và nhấp đồ uống suốt thời gian dài dễ gây sâu răng hơn."
+        },
+        {
+          "t": "p",
+          "text": "Những mẹo sau có thể giúp bạn hạn chế việc con ăn hoặc uống kéo dài:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Đặt giờ cố định cho các bữa ăn nhẹ và bữa chính, thay vì để con “lai rai” cả ngày.",
+            "Cố gắng để cách nhau 1 tiếng rưỡi đến 2 tiếng giữa các bữa ăn và bữa phụ, bao gồm cả đồ uống ngọt.",
+            "Đảm bảo con chỉ ăn uống ở một chỗ duy nhất – ví dụ tại bàn ăn.",
+            "Cất thức ăn đi khi bữa ăn nhẹ hoặc bữa chính đã xong.",
+            "Khuyến khích con uống nước máy khi khát, thay vì nước trái cây, nước siro pha hoặc nước ngọt."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cách phòng ngừa sâu răng: khám nha sĩ định kỳ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Khám nha sĩ định kỳ có thể giúp con tránh sâu răng. Nha sĩ sẽ cho bạn biết con cần đi khám bao lâu một lần. Nha sĩ thường khuyến nghị 6-12 tháng một lần."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn nghĩ con bị sâu răng, điều quan trọng là đưa con đi khám nha sĩ để ngăn tình trạng sâu hoặc nhiễm trùng nặng thêm."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con có dấu hiệu mệt mỏi toàn thân, như sốt hoặc sưng mặt, và bạn nghĩ điều này có thể do vấn đề răng miệng, hãy đến gặp nha sĩ hoặc bác sĩ đa khoa, hoặc đến khoa cấp cứu bệnh viện ngay lập tức."
+        }
+      ]
+    },
+    {
+      "h": "Những cách khác giúp trẻ em và thanh thiếu niên tránh sâu răng",
+      "blocks": []
+    },
+    {
+      "h": "Làm tấm gương",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn có thể nêu gương tốt về sức khỏe răng miệng cho con bằng cách:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "tự đánh răng hai lần một ngày",
+            "dùng chỉ nha khoa có sáp để làm sạch kẽ răng mỗi ngày một lần",
+            "hạn chế lượng đường nạp vào",
+            "có thái độ tích cực về việc đi khám nha sĩ."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Bú bình và bú mẹ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Khuyến nghị là bạn không nên dỗ bé ngủ trên giường với một bình sữa mẹ hoặc sữa công thức. Dỗ bé ngủ bằng bình sữa có thể dẫn đến sâu răng. Đó là vì đường lactose trong sữa thúc đẩy sự phát triển của vi khuẩn gây sâu răng. Và khi bé ngủ, trong miệng có ít nước bọt hơn để bảo vệ răng khỏi điều này."
+        }
+      ]
+    },
+    {
+      "h": "Ống hít hen suyễn",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Đây là phần thiết yếu trong một số kế hoạch xử trí hen suyễn, nhưng bột trong một số ống hít có tính axit và có thể làm tổn hại men răng. Theo thời gian, điều này có thể dẫn đến sâu răng nếu không được cân bằng bằng việc vệ sinh răng miệng tốt."
+        },
+        {
+          "t": "p",
+          "text": "Để tránh sâu răng, hãy súc miệng con bằng nước ngay sau mỗi lần dùng ống hít. Đảm bảo răng con được vệ sinh hai lần một ngày bằng kem đánh răng có fluoride. Nhưng đừng đánh răng ngay sau khi dùng ống hít – hãy chờ 30-60 phút rồi mới đánh răng."
+        }
+      ]
+    },
+    {
+      "h": "Thuốc",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Một số loại thuốc có thể ảnh hưởng đến sức khỏe răng miệng của con do hàm lượng đường. Hãy kiểm tra nhãn thuốc xem có loại đường ẩn nào không, đặc biệt nếu con phải dùng thuốc trong thời gian dài. Luôn hỏi dược sĩ về loại thuốc không đường."
+        },
+        {
+          "t": "p",
+          "text": "Một số loại thuốc có thể làm giảm tiết nước bọt, dẫn đến sâu răng và các vấn đề răng miệng khác. Hãy trao đổi với bác sĩ hoặc dược sĩ về tác động của thuốc đối với nước bọt và răng. Trẻ lớn hơn và thanh thiếu niên có thể thử nhai kẹo cao su không đường nếu đang dùng các loại thuốc này. Việc này kích thích tiết nước bọt và giúp bảo vệ răng khỏi sâu."
+        },
+        {
+          "t": "p",
+          "text": "Bạn cũng có thể khuyến khích con súc miệng bằng nước ngay sau khi uống thuốc và đánh răng bằng kem có fluoride sau đó 30-60 phút."
+        }
+      ]
+    },
+    {
+      "h": "Nước uống thể thao",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tính axit và đường trong nước uống thể thao có thể gây sâu và làm tổn hại răng của con, đặc biệt nếu con uống thường xuyên. Điều này có thể gây tổn hại vĩnh viễn cho răng và dẫn đến việc phải điều trị nha khoa thêm."
+        },
+        {
+          "t": "p",
+          "text": "Tốt nhất nên để con tránh nước uống thể thao và thay vào đó uống nhiều nước lọc. Khi con có uống nước thể thao, nên cho con súc miệng bằng nước ngay sau đó và đánh răng bằng kem có fluoride sau 30-60 phút."
+        },
+        {
+          "t": "p",
+          "text": "Thực phẩm và đồ uống không phải là những thứ duy nhất có thể làm mòn bề mặt răng của con. Nôn ói hoặc trào ngược dạ dày cũng có thể gây tác hại khó chịu. Nếu con bị nôn, con có thể bảo vệ răng bằng cách súc miệng ngay bằng nước và đánh răng sau đó 30-60 phút."
+        }
+      ]
+    }
+  ]
+}

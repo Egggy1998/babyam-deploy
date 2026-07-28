@@ -1,0 +1,61 @@
+{
+  "path": "behaviour/behaviour-management-tips-tools/distraction_or_redirecting_child_behaviour",
+  "title": "Chuyển hướng hành vi để giúp trẻ cư xử tích cực",
+  "subtitle": "Cách đánh lạc hướng và chuyển hướng trẻ trong những tình huống khó khăn để ngăn ngừa hành vi khó và khuyến khích hành vi tích cực.",
+  "sections": [
+    {
+      "h": "Chuyển hướng hành vi là gì?",
+      "blocks": [
+        { "t": "p", "text": "Chuyển hướng hành vi là khi bạn dịch chuyển sự chú ý của con trong một tình huống có thể khó khăn với con." },
+        { "t": "p", "text": "Ví dụ, bạn có thể dùng cách chuyển hướng khi con:" },
+        { "t": "ul", "items": [
+          "đang chán hoặc không có gì để làm",
+          "đã ngồi yên một chỗ trong thời gian dài",
+          "đang vật lộn với một việc và trở nên bực bội."
+        ] },
+        { "t": "p", "text": "Chỉ ra một điều gì đó thú vị, bắt đầu một trò chơi đơn giản, làm mặt hề – chắc hẳn bạn đã nghĩ ra nhiều mẹo như vậy để đánh lạc hướng con và chuyển hướng hành vi của con." },
+        { "t": "p", "text": "Chuyển hướng có thể ngăn ngừa hành vi khó khăn. Đây cũng là một chiến lược hữu ích để dẫn dắt con hướng tới hành vi tích cực." },
+        { "t": "p", "text": "Có nhiều yếu tố ảnh hưởng đến hành vi của trẻ. Bạn nên luôn suy nghĩ về lý do vì sao con cư xử theo một cách nào đó. Khi hiểu được nguyên nhân đằng sau hành vi của con, bạn sẽ dễ dàng chọn được cách phản ứng phù hợp hơn." }
+      ]
+    },
+    {
+      "h": "Cách chuyển hướng hành vi và khuyến khích hành vi tích cực: mẹo",
+      "blocks": [
+        { "t": "p", "text": "Dưới đây là những mẹo chuyển hướng thường có hiệu quả với trẻ ở mọi lứa tuổi:" },
+        { "t": "ul", "items": [
+          "Để ý đến hành vi của con và thử chuyển hướng trước khi con trở nên bực bội, chán nản hay cáu kỉnh, hoặc ngay khi bạn thấy những dấu hiệu đầu tiên của hành vi này.",
+          "Cho con một việc khác để làm. Giới thiệu một hoạt động, đồ chơi hoặc trò chơi mới, hoặc chỉ cho con một cách chơi mới với món đồ chơi con đang có.",
+          "Đổi khung cảnh. Đặt con ở nơi con có thể nhìn thấy những thứ khác, hoặc đưa con đến một chỗ mới, trong nhà hoặc ngoài trời.",
+          "Nghĩ trước. Hãy có sẵn vài ý tưởng cho các hoạt động vui. Đơn giản như lên kế hoạch chơi ngoài trời khi bạn thấy con bắt đầu chán ở trong nhà.",
+          "Cùng hát các bài hát hoặc đồng dao. Cách này hữu ích khi bạn không thể ngừng việc đang làm, chẳng hạn khi đang lái xe hoặc nấu ăn.",
+          "Khi đi ra ngoài, hãy mang theo đồ chơi hoặc sách để lấy ra dùng khi cần."
+        ] },
+        { "t": "p", "text": "Với trẻ lớn hơn, bạn có thể thử những ý tưởng sau cùng với các mẹo ở trên:" },
+        { "t": "ul", "items": [
+          "Đổi chủ đề trò chuyện.",
+          "Gợi ý một trò chơi hoặc hoạt động đơn giản. Ví dụ, gợi ý con chơi xếp hình hoặc một ván bài Uno nếu con nói không có gì để làm.",
+          "Nếu mọi việc không suôn sẻ, hãy thừa nhận cảm xúc của con và gợi ý nghỉ một chút. Ví dụ: ‘Có vẻ con đang bực với bức vẽ của mình. Hay con đi chơi xe trượt thay vào đó nhé?’",
+          "Gợi ý con làm điều con thường thích, như đọc cuốn sách yêu thích hoặc nghe nhạc.",
+          "Khuyến khích con tự nghĩ ra ý tưởng cho các hoạt động mới. Tận dụng lúc buồn chán có thể rất tốt cho khả năng sáng tạo và giải quyết vấn đề của con."
+        ] },
+        { "t": "p", "text": "Dễ dàng dùng thời gian xem màn hình làm cách chuyển hướng. Nếu làm vậy, bạn nên rõ ràng về điều bạn cho phép con làm. Ví dụ, nói cụ thể con được chơi ứng dụng nào hoặc xem chương trình TV nào, và trong bao lâu." }
+      ]
+    },
+    {
+      "h": "Khi nào không nên chuyển hướng hành vi của trẻ",
+      "blocks": [
+        { "t": "p", "text": "Chuyển hướng hiệu quả nhất khi bạn thấy con sắp chán, buồn bực hoặc sắp cư xử theo cách khó khăn." },
+        { "t": "p", "text": "Chuyển hướng sẽ không giúp ích nếu con:" },
+        { "t": "ul", "items": [
+          "đã làm đau ai đó",
+          "đang ăn vạ",
+          "đang rất buồn bực."
+        ] },
+        { "t": "p", "text": "Trong những tình huống như thế này, tốt nhất là xử lý hành vi đó một cách trực tiếp." },
+        { "t": "p", "text": "Ví dụ, nếu con làm đau một bé khác, có thể bạn muốn đánh lạc hướng cả hai bằng đồ chơi hoặc hoạt động. Nhưng cách này không giúp con hiểu rằng làm đau người khác là không được. Sẽ tốt hơn nếu dùng thời gian yên lặng hoặc phạt cách ly, nếu con đã đủ lớn để hiểu những hệ quả này." },
+        { "t": "p", "text": "Ngoài ra, cố chuyển hướng hành vi của con khi con đang rất buồn bực hoặc đang ăn vạ có thể gửi đi thông điệp rằng những cảm xúc mạnh của con không quan trọng. Thay vào đó, bạn có thể dùng cách ở bên con để giúp trẻ tập đi bình tĩnh lại, hoặc áp dụng các bước giúp trẻ lớn hơn bình tĩnh lại." },
+        { "t": "p", "text": "Chuyển hướng đôi khi có thể vô tình thưởng cho hành vi khó khăn. Ví dụ, nếu mỗi lần con la hét lớn bạn lại đưa ra một hoạt động vui để đánh lạc hướng, con có thể sẽ la hét để được hoạt động vui. Chuyển hướng tốt nhất nên dùng khi bạn thấy con sắp cư xử theo cách khó khăn." }
+      ]
+    }
+  ]
+}

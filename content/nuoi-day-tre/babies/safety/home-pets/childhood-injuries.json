@@ -1,0 +1,73 @@
+{
+  "path": "safety/home-pets/childhood-injuries",
+  "title": "Chấn thương ở trẻ: những nguyên nhân thường gặp",
+  "subtitle": "Các nguyên nhân phổ biến gây chấn thương và tử vong do chấn thương ở trẻ, cách phòng ngừa chấn thương nghiêm trọng và việc cần làm khi con bị thương.",
+  "sections": [
+    {
+      "h": "Hiểu về chấn thương ở trẻ",
+      "blocks": [
+        { "t": "p", "text": "Những vết u sưng, bầm tím, trầy xước và té ngã thời thơ ấu thường là một phần của quá trình lớn lên." },
+        { "t": "p", "text": "Với một vài bước thực tế và sự chuẩn bị, bạn có thể làm tăng khả năng những sự cố này chỉ là kiểu mà một nụ hôn, một cái ôm hay một miếng băng cá nhân có thể xoa dịu, thay vì là những tai nạn nghiêm trọng." },
+        { "t": "p", "text": "Chấn thương, chứ không phải bệnh tật, là nguyên nhân tử vong hàng đầu ở trẻ em 1-14 tuổi tại Úc. Phần lớn các chấn thương này đều có thể phòng ngừa được." }
+      ]
+    },
+    {
+      "h": "Chấn thương và tai nạn thường gặp ở trẻ: nguyên nhân",
+      "blocks": [
+        { "t": "p", "text": "<strong>Nguyên nhân thường gặp nhất gây chấn thương cho trẻ ở Úc</strong>" },
+        { "t": "ul", "items": [
+          "Té ngã",
+          "Tai nạn giao thông – ví dụ, khi trẻ là người đi bộ, đi xe đạp hoặc hành khách trên xe",
+          "Đè ép và kẹt",
+          "Ngộ độc",
+          "Bỏng và phỏng nước"
+        ] },
+        { "t": "p", "text": "<strong>Nguyên nhân thường gặp nhất gây tử vong do chấn thương ở trẻ tại Úc</strong>" },
+        { "t": "ul", "items": [
+          "Tai nạn giao thông",
+          "Đuối nước"
+        ] },
+        { "t": "p", "text": "<strong>Các nguyên nhân thường gặp khác gây tử vong và chấn thương ở trẻ tại Úc</strong>" },
+        { "t": "ul", "items": [
+          "Hóc nghẹn, siết cổ và ngạt thở",
+          "Đè ép và kẹt",
+          "Khói, lửa và ngọn lửa",
+          "Ngộ độc"
+        ] },
+        { "t": "p", "text": "Hành hung cũng là một nguyên nhân thường gặp gây tử vong do chấn thương ở trẻ. Trẻ em có quyền lớn lên an toàn, không bị xâm hại. Bạn có thể nhận được hỗ trợ nếu cảm thấy mình có thể làm tổn thương con hoặc đang trải qua bạo lực gia đình. Nếu bạn cần hỗ trợ ngay lúc này, hãy gọi Lifeline theo số 131 114. Bạn cũng có thể liên hệ Dịch vụ Tư vấn Quốc gia về Bạo lực Gia đình và Tình dục bằng cách gọi 1800RESPECT (1800 737 732), nhắn tin 0458 737 732, dùng trò chuyện trực tuyến hoặc gọi video." }
+      ]
+    },
+    {
+      "h": "Bạn có thể làm gì để phòng ngừa chấn thương nghiêm trọng cho trẻ",
+      "blocks": [
+        { "t": "p", "text": "Trông chừng con sát sao trong những tình huống con dễ gặp khó khăn nhất. Điều này bao gồm khi con đang:" },
+        { "t": "ul", "items": [
+          "tắm – đọc thêm về phòng ngừa đuối nước trong bồn tắm và nhiệt độ nước tắm an toàn",
+          "trong bếp – đọc thêm về chất độc trong nhà, phòng ngừa bỏng và phòng ngừa phỏng nước",
+          "ở gần hoặc tiếp xúc với bất cứ thứ gì là mối nguy hóc nghẹn (nhỏ hơn đồng xu 20 xu), bao gồm thức ăn, đồ chơi và đồ gia dụng – đọc thêm về phòng ngừa hóc nghẹn",
+          "trong xe đẩy hoặc gần xích đu – đọc thêm về phòng ngừa siết cổ và ngạt thở",
+          "ở hồ bơi, bãi biển hoặc gần nước – đọc thêm về an toàn dưới nước",
+          "gần lối ra vào, bãi đỗ xe và đường sá – đọc thêm về an toàn cho người đi bộ và an toàn trong xe hơi",
+          "trong môi trường mới và bắt đầu di chuyển nhiều hơn – đọc thêm về phòng ngừa té ngã."
+        ] }
+      ]
+    },
+    {
+      "h": "Phải làm gì nếu con bị thương",
+      "blocks": [
+        { "t": "p", "text": "Bạn hoặc bất kỳ ai chăm sóc con nên tham gia một khóa sơ cứu. Điều này nghĩa là bạn sẽ sẵn sàng cho các chấn thương hay tai nạn. Nên tập huấn sơ cứu mỗi 3 năm và tập huấn CPR mỗi năm." },
+        { "t": "p", "text": "Luôn để sẵn một bộ sơ cứu trong nhà và trên xe. Bạn cũng có thể mang theo khi đi nghỉ." },
+        { "t": "p", "text": "Bạn cũng có thể tải về hoặc in các hướng dẫn sơ cứu bằng hình ảnh của chúng tôi:" },
+        { "t": "ul", "items": [
+          "Sơ cứu bỏng và phỏng nước",
+          "Sơ cứu hóc nghẹn cho trẻ dưới một tuổi",
+          "Sơ cứu hóc nghẹn cho trẻ trên một tuổi",
+          "CPR cho trẻ dưới một tuổi",
+          "CPR cho trẻ trên một tuổi",
+          "Sơ cứu RICER cho bong gân, căng cơ và gãy xương."
+        ] },
+        { "t": "p", "text": "Lưu sẵn danh sách số điện thoại khẩn cấp trong điện thoại. Danh sách này có thể gồm Trung tâm Thông tin Chất độc (131 126), bác sĩ gia đình hoặc bệnh viện địa phương." }
+      ]
+    }
+  ]
+}

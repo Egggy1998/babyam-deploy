@@ -1,0 +1,37 @@
+{
+  "path": "health-daily-care/dental-care/dental-care-newborns",
+  "title": "Chăm sóc răng và nướu cho trẻ sơ sinh",
+  "subtitle": "Cách chăm sóc răng sữa, ngừa sâu răng và xử lý các nốt nhỏ trên nướu bé",
+  "sections": [
+    {"h": "Sự phát triển của răng sữa", "blocks": [
+      {"t":"p","text":"Trẻ sinh ra đã có đủ một bộ 20 chiếc răng sữa ẩn trong nướu, 10 chiếc ở hàm trên và 10 chiếc ở hàm dưới. Khi mỗi chiếc răng sữa nhú lên bề mặt nướu, nướu sẽ mở ra để lộ chiếc răng."},
+      {"t":"p","text":"Với hầu hết các bé, răng bắt đầu mọc trong khoảng từ 6 đến 10 tháng tuổi. Nhưng ở một số trẻ, răng có thể mọc sớm từ 3 tháng tuổi. Ở những trẻ khác, răng có thể chưa mọc cho đến khoảng 12 tháng. Một số rất ít trẻ sinh ra đã có 1-2 chiếc răng. Hầu hết trẻ có đủ bộ răng sữa khi được 3 tuổi."},
+      {"t":"p","text":"Răng sữa có thể mọc theo bất kỳ thứ tự nào, nhưng các răng cửa hàm dưới thường mọc trước tiên."}
+    ]},
+    {"h": "Chăm sóc răng sữa", "blocks": [
+      {"t":"p","text":"Ngay khi chiếc răng đầu tiên xuất hiện, hãy nhẹ nhàng làm sạch răng bằng bàn chải mềm dành cho trẻ dưới 2 tuổi. Nếu bé không thích bàn chải trong miệng, bạn có thể dùng một chiếc khăn mặt sạch, ẩm hoặc gạc."},
+      {"t":"p","text":"Hãy chải răng chỉ với nước ít nhất hai lần một ngày, đặc biệt sau cữ bú đầu tiên và cữ bú cuối cùng. Đừng dùng kem đánh răng ở độ tuổi này, trừ khi nha sĩ khuyến nghị. Tìm hiểu cách chải răng sữa trong bài chăm sóc răng cho trẻ nhỏ."},
+      {"t":"p","text":"Điều quan trọng là đưa bé đi gặp nha sĩ nếu bé sinh ra đã có răng hoặc khi chiếc răng đầu tiên của bé mọc. Bạn có thể truy cập trang web của sở y tế tiểu bang/lãnh thổ hoặc trang Teeth.org.au để tìm các dịch vụ nha khoa công gần bạn. Bạn cũng có thể tìm trên mạng để tìm các dịch vụ nha khoa tư gần nhà."}
+    ]},
+    {"h": "Phòng ngừa sâu răng sớm", "blocks": [
+      {"t":"p","text":"Răng sữa có nguy cơ bị sâu ngay khi vừa mọc. Việc phòng ngừa sâu răng bắt đầu sớm với những biện pháp đơn giản."},
+      {"t":"p","text":"Chỉ cho bé bú sữa mẹ hoặc sữa công thức cho đến khi bạn bắt đầu cho bé ăn dặm vào lúc 4-6 tháng tuổi."},
+      {"t":"p","text":"Đừng cho bé đi ngủ với bình sữa. Điều này có thể dẫn đến sâu răng vì đường lactose trong sữa thúc đẩy sự phát triển của vi khuẩn gây sâu răng. Và khi bé ngủ, lượng nước bọt trong miệng ít hơn nên răng được bảo vệ kém hơn. Cũng lưu ý rằng cho bé ngủ với bình sữa là một nguy cơ gây sặc, nghẹn."},
+      {"t":"p","text":"Nếu bé thích ngậm ti giả, đừng nhúng ti giả vào thức ăn, đường hay những chất lỏng như mật ong. Và đừng làm sạch ti giả bằng cách ngậm vào miệng bạn. Thay vào đó, hãy rửa và tiệt trùng ti giả."}
+    ]},
+    {"h": "Các nốt trên nướu trẻ sơ sinh: nốt Bohn, hạt Epstein và răng sơ sinh", "blocks": [
+      {"t":"p","text":"Đôi khi bé xuất hiện những nốt nhỏ trên nướu. Những nốt này có thể là nốt Bohn hoặc hạt Epstein."},
+      {"t":"p","text":"Nốt Bohn hoặc hạt Epstein:"},
+      {"t":"ul","items":[
+        "thường rộng khoảng 1-3 mm",
+        "cứng",
+        "có màu trắng, xám hoặc vàng",
+        "có thể xuất hiện đơn lẻ hoặc thành cụm",
+        "được tạo thành từ một loại protein gọi là keratin."
+      ]},
+      {"t":"p","text":"Nếu bé có những nốt này trên nướu, bé vẫn có thể bú tốt và phát triển răng khỏe mạnh. Nốt Bohn hoặc hạt Epstein không gây đau và tự biến mất, thường trong vài tháng đầu sau khi sinh."},
+      {"t":"p","text":"Đôi khi, các nốt trên nướu trẻ sơ sinh có thể là răng sơ sinh, tức là những chiếc răng bé đã có khi chào đời. Răng sơ sinh có thể cần được điều trị."},
+      {"t":"p","text":"Nếu bạn thấy các nốt trên nướu của bé, tốt nhất luôn nên đến gặp nha sĩ, bác sĩ gia đình hoặc bác sĩ nhi khoa."}
+    ]}
+  ]
+}

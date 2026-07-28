@@ -1,0 +1,72 @@
+{
+  "path": "safety/home-pets/foreign-objects",
+  "title": "Dị vật trong mũi, tai và mắt: trẻ em",
+  "subtitle": "Vì sao trẻ nhét dị vật vào nơi không nên, những vật cần để mắt, cách phòng ngừa, và dấu hiệu cho thấy con có dị vật mắc kẹt ở mũi, tai hay mắt.",
+  "sections": [
+    {
+      "h": "Vì sao trẻ nhét dị vật vào những nơi không nên",
+      "blocks": [
+        { "t": "p", "text": "Một số bé, trẻ tập đi và trẻ nhỏ nhét những dị vật nhỏ vào tai, mũi, mắt hoặc miệng vì tò mò. Các con đang khám phá thế giới xung quanh và tìm hiểu xem điều gì xảy ra khi thử những thứ khác nhau." },
+        { "t": "p", "text": "Nếu bạn nghĩ con có thứ gì đó mắc kẹt trong mũi, mắt, tai hoặc lỗ cơ thể khác, hãy tìm tư vấn y tế. Đừng cố tự lấy dị vật ra vì điều này có thể gây thêm thương tích." }
+      ]
+    },
+    {
+      "h": "Những dị vật cần để mắt",
+      "blocks": [
+        { "t": "p", "text": "Trẻ dưới 4 tuổi có nguy cơ cao nhất nhét dị vật nhỏ vào tai, mũi, mắt hoặc miệng, vì vậy hãy để những thứ sau ngoài tầm nhìn và tầm với của con:" },
+        { "t": "ul", "items": [
+          "thức ăn như bắp rang, đậu khô, hạt dưa hấu, các loại hạt và sô cô la có hạt",
+          "viên bi, nút, hạt cườm và nắp bút",
+          "viên xốp polystyrene có trong túi đậu (bean bag) và thú nhồi bông – chúng có thể bị hít vào và không hiện trên phim X-quang",
+          "tiền xu",
+          "pin nhỏ, kể cả pin cúc áo hoặc sản phẩm có chứa chúng",
+          "đồ chơi có mắt hoặc mũi tháo rời được và đồ chơi có bộ phận nhỏ khác, như Lego",
+          "kim, ghim và kim băng",
+          "nam châm, kể cả nam châm nhỏ có lực hút mạnh."
+        ] }
+      ]
+    },
+    {
+      "h": "Phòng ngừa dị vật bị nhét vào hoặc nuốt phải",
+      "blocks": [
+        { "t": "p", "text": "Điều quan trọng là cố gắng nhận diện trước các tình huống rủi ro. Những mẹo sau có thể giúp ích:" },
+        { "t": "ul", "items": [
+          "Trông chừng trẻ tập đi và trẻ nhỏ khi chúng ăn. Cẩn thận thêm nếu chúng ăn các món nhỏ như rau củ cắt nhỏ, đậu Hà Lan, bắp rang, kẹo nhỏ và những thứ tương tự. Trẻ có thể thử nhét chúng vào tai hoặc mũi.",
+          "Tránh chơi với các hạt cườm nhỏ.",
+          "Dạy anh chị lớn rằng tai và mũi của em bé rất mỏng manh – không phải để nhét đồ vào.",
+          "Kiểm tra sàn nhà và bàn thấp xem có mảnh trang sức, mảnh ghép nhỏ như Lego, nắp bút và các vật nhỏ khác không.",
+          "Dùng kim băng có chốt an toàn, và giữ chúng đóng lại khi không dùng. Cũng tránh ngậm kim băng trong miệng, vì con có thể bắt chước bạn."
+        ] }
+      ]
+    },
+    {
+      "h": "Dấu hiệu con có dị vật mắc kẹt đâu đó",
+      "blocks": [
+        { "t": "p", "text": "Đôi khi con có thể nói với bạn rằng có dị vật mắc kẹt đâu đó. Những lúc khác thì khó mà biết được. Nên để ý các dấu hiệu dưới đây và đi khám bác sĩ gia đình, ngay cả khi bạn không chắc chắn." },
+        { "t": "p", "text": "<strong>Mũi.</strong> Con có thể bị:" },
+        { "t": "ul", "items": [
+          "đau hoặc ngứa quanh mũi",
+          "dịch chảy ra có mùi hôi từ một bên mũi",
+          "chảy máu mũi",
+          "hơi thở có mùi hôi."
+        ] },
+        { "t": "p", "text": "<strong>Tai.</strong> Con có thể bị:" },
+        { "t": "ul", "items": [
+          "đau tai (nhưng không phải dị vật mắc kẹt nào cũng gây đau tai)",
+          "đổi màu da trong hoặc quanh tai",
+          "dịch chảy ra từ tai",
+          "giảm thính lực."
+        ] },
+        { "t": "p", "text": "<strong>Mắt.</strong> Mặc dù trẻ hiếm khi cố ý nhét đồ vào mắt, chúng có thể vô tình chọc vào mắt mình hoặc dụi chất lạ vào mắt. Những vật mắc kẹt thường nằm ở kết mạc, giữa nhãn cầu và mí mắt." },
+        { "t": "p", "text": "Con có thể chớp mắt nhiều hoặc có biểu hiện:" },
+        { "t": "ul", "items": [
+          "có thứ gì đó trong mắt hoặc dụi mắt nhiều",
+          "đau mắt",
+          "mắt chảy nước, đỏ",
+          "đau khi nhìn vào ánh sáng."
+        ] },
+        { "t": "p", "text": "Nếu một dị vật hoặc mẩu thức ăn mắc kẹt trong cổ họng con, con có nguy cơ bị hóc nghẹn. Các hướng dẫn minh họa về sơ cứu hóc nghẹn cho trẻ sơ sinh và cho trẻ em và thanh thiếu niên sẽ giải thích phải làm gì trong tình huống này. Nếu con khó thở, hãy gọi 000 để gọi xe cứu thương." }
+      ]
+    }
+  ]
+}

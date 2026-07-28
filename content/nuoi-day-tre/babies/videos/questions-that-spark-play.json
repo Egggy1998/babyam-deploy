@@ -1,0 +1,29 @@
+{
+  "path": "videos/questions-that-spark-play",
+  "title": "Cách khơi gợi trò chơi của trẻ bằng câu hỏi mở",
+  "subtitle": "Những câu hỏi mở giúp trẻ kể về điều mình đang làm, mở ra hướng chơi mới và khuyến khích con suy nghĩ.",
+  "sections": [
+    {
+      "h": "Dùng câu hỏi mở để khơi gợi trò chơi",
+      "blocks": [
+        {"t": "p", "text": "Người lớn 1: Con sẽ làm cái đó như thế nào?"},
+        {"t": "p", "text": "Bé 1: Để làm nó thì mình gấp lại rồi..."},
+        {"t": "p", "text": "Người dẫn chuyện (Catherine Sewell, chuyên gia về vui chơi): Một cách đơn giản để hỗ trợ trò chơi là đặt những câu hỏi mở, chẳng hạn: \"Kể cho mẹ nghe con vừa vẽ gì nào\" hay \"Kể cho mẹ về trò chơi của con hôm nay đi\" hoặc \"Đây là thế giới gì mà con đã tạo nên ở đây vậy?\""},
+        {"t": "p", "text": "Bé 1: Con muốn dùng cái này cơ."},
+        {"t": "p", "text": "Người lớn 1: Con có thể dùng cái đó để làm gì nhỉ?"},
+        {"t": "p", "text": "Bé 1: Con sẽ tô màu chỗ này, mà có chỗ hơi cứng đấy ạ."},
+        {"t": "p", "text": "Người lớn 1: Hơi khó nhỉ, đúng không nào?"},
+        {"t": "p", "text": "Người dẫn chuyện: Vậy đó, những câu hỏi cho phép trẻ nói về cảm xúc của mình đối với một điều gì đó, để mô tả những gì con đang làm."},
+        {"t": "p", "text": "Người lớn 1: Ồ, con bỏ gì vào trong đó thế?"},
+        {"t": "p", "text": "Bé 1: Mấy thứ bé tí tì ti ạ."},
+        {"t": "p", "text": "Người lớn 1: Ồ, ồ."},
+        {"t": "p", "text": "Người dẫn chuyện: Và có thể giúp trẻ nghĩ ra một cách mới, một hướng đi mới mà con có thể đưa trò chơi của mình tới đó."},
+        {"t": "p", "text": "Người lớn 1: Con kể cho mẹ nghe con vừa làm gì được không?"},
+        {"t": "p", "text": "Bé 2: Chỗ này hơi rách một chút nên nước không tràn qua được ạ."},
+        {"t": "p", "text": "Người lớn 1: Tuyệt vời quá. Vậy là chỗ đó ngăn không cho nước vào hả con?"},
+        {"t": "p", "text": "Bé 2: Vâng ạ. Ở các bên cạnh ấy."},
+        {"t": "p", "text": "Người lớn 1: Con sẽ làm thế ở các cạnh à? Con sẽ làm như thế nào?"}
+      ]
+    }
+  ]
+}

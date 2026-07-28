@@ -1,0 +1,91 @@
+{
+  "path": "sleep/sleep-safety/baby-monitors",
+  "title": "Máy theo dõi nhịp thở của bé: câu hỏi thường gặp",
+  "subtitle": "Máy theo dõi nhịp thở là gì, có ngăn được SIDS không, và ai nên dùng.",
+  "sections": [
+    {
+      "h": "Máy theo dõi nhịp thở của bé là gì?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Máy theo dõi nhịp thở của bé là một thiết bị theo dõi nhịp thở của bé trong lúc bé ngủ. Nếu bé ngừng thở, một báo động sẽ kêu lên."
+        }
+      ]
+    },
+    {
+      "h": "Máy theo dõi nhịp thở có ngăn được SIDS và SUDI không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Không có bằng chứng nào cho thấy máy theo dõi nhịp thở bảo vệ bé khỏi đột tử bất ngờ ở trẻ nhỏ (SUDI), bao gồm hội chứng đột tử ở trẻ sơ sinh (SIDS) và các tai nạn giấc ngủ gây tử vong."
+        },
+        {
+          "t": "p",
+          "text": "Điều thiết yếu là luôn tuân theo các hướng dẫn về ngủ an toàn, ngay cả khi bạn dùng máy theo dõi nhịp thở."
+        }
+      ]
+    },
+    {
+      "h": "Bạn có cần máy theo dõi nhịp thở không?",
+      "blocks": []
+    },
+    {
+      "h": "Trẻ ốm hoặc sinh non",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bác sĩ có thể khuyên dùng máy theo dõi nhịp thở nếu bé sinh non hoặc có vấn đề về hô hấp."
+        },
+        {
+          "t": "p",
+          "text": "Đây là việc cần làm nếu bác sĩ đã khuyên dùng máy:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Làm theo hướng dẫn của bác sĩ về cách sử dụng.",
+            "Lưu thông tin về máy ở nơi bạn dễ tìm thấy."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Trẻ đủ tháng khỏe mạnh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bác sĩ thường không khuyên dùng máy theo dõi nhịp thở cho trẻ đủ tháng khỏe mạnh."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn chọn dùng máy theo dõi nhịp thở cho bé khỏe mạnh, điều quan trọng là biết rằng bé không thở theo nhịp đều đặn như trẻ lớn và người lớn. Đôi khi bé có những khoảng ngừng thở. Những khoảng ngừng này là bình thường và có thể rất thường xuyên hoặc sát nhau."
+        },
+        {
+          "t": "p",
+          "text": "Đôi khi những khoảng ngừng thở bình thường này có thể làm báo động trên máy theo dõi nhịp thở kêu lên."
+        },
+        {
+          "t": "p",
+          "text": "Báo động giả có thể gây rất nhiều căng thẳng nếu bạn nghĩ bé đã ngừng thở. Khi báo động giả xảy ra trong đêm, việc nghỉ ngơi cũng có thể trở nên khó khăn."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn cần trợ giúp để quyết định máy theo dõi nhịp thở có phù hợp với tình huống của mình hay không, hãy trao đổi với y tá sức khỏe trẻ em và gia đình, bác sĩ hoặc bác sĩ nhi khoa."
+        }
+      ]
+    },
+    {
+      "h": "Bạn nên làm gì nếu báo động trên máy kêu lên?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn có máy theo dõi nhịp thở hoặc định mua một cái, hãy đảm bảo bạn biết gọi ai và làm gì nếu báo động kêu lên."
+        },
+        {
+          "t": "p",
+          "text": "Ví dụ, bạn có thể muốn đảm bảo kỹ năng hồi sức tim phổi (CPR) của mình được cập nhật. Nếu có người khác trông bé, hãy đảm bảo họ cũng biết phải làm gì."
+        }
+      ]
+    }
+  ]
+}

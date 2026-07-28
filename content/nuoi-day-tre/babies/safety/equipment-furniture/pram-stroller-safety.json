@@ -1,0 +1,79 @@
+{
+  "path": "safety/equipment-furniture/pram-stroller-safety",
+  "title": "Xe đẩy: hướng dẫn an toàn",
+  "subtitle": "Cách chọn mua xe đẩy an toàn, giảm rủi ro khi sử dụng, di chuyển an toàn khi ra ngoài và các loại chấn thương thường gặp liên quan đến xe đẩy.",
+  "sections": [
+    {
+      "h": "Mua xe đẩy an toàn: mẹo nhỏ",
+      "blocks": [
+        { "t": "p", "text": "Nếu bạn mua xe đẩy mới, điều đầu tiên là kiểm tra xem nó có đạt Tiêu chuẩn Úc/New Zealand AS/NZS 2088:2013 hoặc AS 2088:2022 không. Nhãn Tiêu chuẩn Úc có thể nằm trên xe đẩy. Hoặc bạn có thể kiểm tra với nhà sản xuất hay nơi bán." },
+        { "t": "p", "text": "Sau đây là thêm các mẹo giúp bạn chắc chắn mua được xe đẩy an toàn:" },
+        { "t": "ul", "items": [
+          "Luôn tìm khung xe vững chắc, chắc chắn, có khóa khi gập lại và có chỗ để chân chắc và an toàn.",
+          "Đảm bảo không có khe hở nào có thể kẹt đầu, tay, chân hay ngón tay của con.",
+          "Đảm bảo xe đẩy có dây đai 5 điểm chạy quanh eo, qua vai và giữa hai chân của con.",
+          "Kiểm tra xem xe đẩy có một hoặc nhiều phanh đỗ khóa được chắc chắn và dễ dàng, với cần phanh đỗ màu đỏ.",
+          "Đảm bảo xe đẩy có dây buộc cổ tay.",
+          "Kiểm tra xem xe đẩy có phù hợp với độ tuổi và cân nặng của con không. Xe đẩy thẳng đứng, không ngả được thì không an toàn cho bé dưới 6 tháng tuổi."
+        ] },
+        { "t": "p", "text": "Ngoài các tính năng an toàn, nên cân nhắc xem xe đẩy có dễ sử dụng không. Ví dụ, bạn có thể nghĩ đến trọng lượng của xe và đảm bảo nó dễ đẩy đối với bạn." }
+      ]
+    },
+    {
+      "h": "Giảm rủi ro khi dùng xe đẩy: mẹo nhỏ",
+      "blocks": [
+        { "t": "p", "text": "Để giữ con an toàn, điều quan trọng là tuân theo hướng dẫn của nhà sản xuất một cách cẩn thận mỗi lần lắp đặt xe đẩy. Đặc biệt, hãy kiểm tra rằng cơ chế gập đã được khóa chắc chắn vào vị trí để xe đẩy không thể bị sập." },
+        { "t": "p", "text": "Những mẹo sau có thể giúp bạn giảm nguy cơ con rơi ra khỏi xe đẩy:" },
+        { "t": "ul", "items": [
+          "Luôn dùng dây đai an toàn 5 điểm để cố định con chắc chắn.",
+          "Cho con biết bạn sẽ không đẩy đi cho đến khi con được cài đai.",
+          "Khi con lớn lên và năng động hơn, hãy dạy con không đứng lên hay nhoài người ra khỏi xe đẩy."
+        ] },
+        { "t": "p", "text": "Sau đây là cách giảm nguy cơ xe đẩy bị lật và làm con bị thương:" },
+        { "t": "ul", "items": [
+          "Đặt túi vào giỏ phía dưới xe đẩy – đừng treo chúng lên tay cầm.",
+          "Đừng vượt quá giới hạn trọng lượng quy định của xe đẩy. Vượt quá giới hạn có thể gây mất ổn định. Nó cũng có thể làm gãy hỏng xe đẩy.",
+          "Để ý các anh chị lớn cố trèo lên xe đẩy. Dặn các con lớn rằng chỉ một người được ngồi trong xe đẩy."
+        ] },
+        { "t": "p", "text": "Và sau đây là cách giảm nguy cơ siết cổ và ngạt thở liên quan đến xe đẩy:" },
+        { "t": "ul", "items": [
+          "Nếu con dưới 6 tháng tuổi, hãy đảm bảo xe đẩy cho phép con nằm phẳng trên mặt phẳng nếu con ngủ thiếp đi. Điều này bảo vệ đường thở của con.",
+          "Đảm bảo không khí lưu thông được đến con. Ví dụ, đừng phủ vải hay chăn lên xe đẩy.",
+          "Đảm bảo dây đai được cố định chắc chắn và luôn cài lại khóa đai sau khi bế con ra khỏi xe đẩy.",
+          "Để gối và chăn ngoài xe đẩy."
+        ] },
+        { "t": "p", "text": "Nếu con ngủ thiếp đi trong xe đẩy, hãy trông chừng con hoặc chuyển con sang cũi hay mặt ngủ an toàn khác. Để con một mình trong xe đẩy là nguy hiểm, ngay cả khi con đang ngủ. Con có thể vặn vẹo và làm xe đẩy lật. Điều này có thể dẫn đến ngạt thở hoặc siết cổ trong các nếp gập hay khe hở của xe đẩy." }
+      ]
+    },
+    {
+      "h": "Di chuyển an toàn với xe đẩy: mẹo nhỏ",
+      "blocks": [
+        { "t": "p", "text": "Sau đây là cách giữ an toàn khi bạn ra ngoài cùng con trong xe đẩy:" },
+        { "t": "ul", "items": [
+          "Luôn quàng dây buộc cổ tay vào cổ tay khi dùng xe đẩy.",
+          "Tránh đẩy xe trên địa hình gồ ghề, qua lề đường và lên xuống cầu thang. Điều này làm tăng nguy cơ chấn thương và có thể làm hỏng xe đẩy.",
+          "Bóp phanh mỗi khi dừng lại, kể cả trên mặt phẳng, để một đứa trẻ đang vặn vẹo không thể làm bánh xe lăn đi.",
+          "Đỗ xe đẩy song song với đường hoặc đường ray để xe không thể lăn vào chỗ nguy hiểm.",
+          "Nhờ người giúp khi nâng xe đẩy lên xe buýt, tàu hỏa và tàu điện. Bạn cầm phần tay cầm, và nhờ người kia giữ phần chân của xe đẩy. Khi xuống xe, an toàn hơn nếu một người đi trước và giữ phần chân của xe đẩy trước."
+        ] },
+        { "t": "p", "text": "Hoạt động thể chất rất quan trọng cho sự tăng trưởng và phát triển khỏe mạnh của trẻ. Hãy cân đối thời gian con ở trong xe đẩy với thật nhiều thời gian nằm sấp (tummy time) và các hoạt động thể chất khác." }
+      ]
+    },
+    {
+      "h": "Chấn thương do xe đẩy",
+      "blocks": [
+        { "t": "p", "text": "Nhiều trẻ mỗi năm cần được điều trị tại bệnh viện vì chấn thương liên quan đến xe đẩy." },
+        { "t": "p", "text": "Lật xe là nguyên nhân phổ biến nhất gây chấn thương liên quan đến xe đẩy. Ngay cả chiếc xe đẩy chắc chắn nhất cũng có nguy cơ bị lật nếu bạn móc túi lên tay cầm." },
+        { "t": "p", "text": "Té ngã từ xe đẩy là một nguyên nhân khác. Ví dụ, điều này có thể xảy ra khi xe đẩy bị lật hoặc khi trẻ không được cố định đúng cách bằng dây đai 5 điểm." },
+        { "t": "p", "text": "Xe đẩy lăn đi mất kiểm soát cũng gây chấn thương. Đã có một số trẻ ở Úc tử vong sau khi chiếc xe đẩy mà các em đang ngồi bị lăn đi." },
+        { "t": "p", "text": "Các loại chấn thương từng xảy ra bao gồm:" },
+        { "t": "ul", "items": [
+          "u sưng, bầm tím và những chấn thương nghiêm trọng hơn sau khi té ngã từ xe đẩy",
+          "ngón tay hoặc chân tay bị kẹp hay kẹt",
+          "siết cổ, ngạt thở hoặc tử vong nếu bé bị kẹt vào các bộ phận của xe đẩy",
+          "tử vong và chấn thương nghiêm trọng nếu cha mẹ hoặc người chăm sóc mất kiểm soát xe đẩy hoặc để con ngủ một mình trong xe đẩy."
+        ] }
+      ]
+    }
+  ]
+}

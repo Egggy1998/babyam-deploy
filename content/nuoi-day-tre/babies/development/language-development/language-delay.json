@@ -1,0 +1,130 @@
+{
+ "path": "development/language-development/language-delay",
+ "title": "Chậm nói (chậm phát triển ngôn ngữ) ở trẻ",
+ "subtitle": "Chậm phát triển ngôn ngữ là khi trẻ gặp khó khăn bất thường so với độ tuổi trong việc hiểu hoặc sử dụng lời nói. Phát hiện và trợ giúp sớm rất quan trọng.",
+ "sections": [
+  {
+   "h": "Chậm phát triển ngôn ngữ là gì?",
+   "blocks": [
+    {"t": "p", "text": "Chậm phát triển ngôn ngữ là khi trẻ gặp khó khăn trong việc hiểu hoặc sử dụng lời nói. Những khó khăn này là bất thường so với độ tuổi của trẻ."},
+    {"t": "p", "text": "Khó khăn có thể nằm ở:"},
+    {"t": "ul", "items": [
+     "đáp lại ngôn ngữ",
+     "hiểu và sử dụng từ ngữ",
+     "nói những từ đầu tiên",
+     "hiểu câu",
+     "ghép các từ lại để nói thành câu."
+    ]},
+    {"t": "p", "text": "Chậm phát triển ngôn ngữ đôi khi liên quan đến tự kỷ, động kinh, điếc hoặc mất thính lực, các tình trạng di truyền và những bệnh lý khác. Nhưng nhiều trường hợp chậm phát triển ngôn ngữ không rõ nguyên nhân."}
+   ]
+  },
+  {
+   "h": "Chậm phát triển ngôn ngữ, rối loạn lời nói hay rối loạn phát triển ngôn ngữ?",
+   "blocks": [
+    {"t": "p", "text": "Chậm phát triển ngôn ngữ khác với rối loạn phát triển ngôn ngữ hay rối loạn lời nói."},
+    {"t": "p", "text": "Rối loạn phát triển ngôn ngữ là khi trẻ gặp khó khăn về ngôn ngữ sau độ tuổi 3-3,5 tuổi. Những khó khăn này ảnh hưởng đến cuộc sống thường ngày của trẻ và không tự biến mất. Chúng có thể bao gồm khó khăn trong việc hiểu hoặc nói."},
+    {"t": "p", "text": "Rối loạn lời nói là khi trẻ gặp khó khăn trong việc phát âm các âm trong từ. Điều này có thể khiến lời nói của trẻ khó hiểu."},
+    {"t": "p", "text": "Trẻ có thể:"},
+    {"t": "ul", "items": [
+     "chậm phát triển ngôn ngữ nhưng không có rối loạn phát triển ngôn ngữ hay rối loạn lời nói",
+     "có rối loạn lời nói nhưng không chậm phát triển ngôn ngữ hay rối loạn phát triển ngôn ngữ",
+     "vừa chậm phát triển ngôn ngữ vừa có rối loạn lời nói hoặc rối loạn phát triển ngôn ngữ."
+    ]},
+    {"t": "p", "text": "Trẻ lớn lên trong gia đình song ngữ hoặc đa ngữ có thể có vẻ học ngôn ngữ chậm hơn trẻ chỉ nói một thứ tiếng. Điều này không được coi là chậm phát triển ngôn ngữ. Trẻ song ngữ ở độ tuổi đi học có thể học đọc và viết tiếng Anh giỏi ngang bằng các bạn cùng trang lứa."}
+   ]
+  },
+  {
+   "h": "Dấu hiệu chậm phát triển ngôn ngữ ở các độ tuổi",
+   "blocks": [
+    {"t": "p", "text": "Trẻ phát triển ngôn ngữ với tốc độ khác nhau. Vì vậy, so sánh con bạn với những trẻ khác cùng tuổi có thể không giúp bạn biết liệu con mình có bị chậm phát triển ngôn ngữ hay không."},
+    {"t": "p", "text": "Đó là lý do tốt nhất nên tìm lời khuyên chuyên môn nếu bạn thấy bất kỳ dấu hiệu nào sau đây ở con mình tại các độ tuổi."},
+    {"t": "p", "text": "Đến 6 tháng, con bạn không:"},
+    {"t": "ul", "items": [
+     "cố giao tiếp bằng mắt",
+     "nhìn bạn khi bạn gọi tên",
+     "quay lại nhìn đồ vật khi bạn nói về chúng."
+    ]},
+    {"t": "p", "text": "Đến 12 tháng, con bạn không:"},
+    {"t": "ul", "items": [
+     "chơi các trò luân phiên như ú òa",
+     "cố giao tiếp với bạn bằng âm thanh, cử chỉ hay từ ngữ",
+     "cố giao tiếp với bạn khi cần giúp đỡ hay muốn điều gì đó."
+    ]},
+    {"t": "p", "text": "Đến 18 tháng, con bạn không:"},
+    {"t": "ul", "items": [
+     "đáp lại các chỉ dẫn và câu hỏi thường ngày như 'Vẫy tay tạm biệt', 'Bố đâu rồi?' hay 'Đưa cho mẹ quả bóng nào'",
+     "nói các từ đơn."
+    ]},
+    {"t": "p", "text": "Đến 2 tuổi, con bạn không:"},
+    {"t": "ul", "items": [
+     "nói được khoảng 50 từ khác nhau",
+     "ghép 2 từ trở lên với nhau – ví dụ, 'Uống thêm', 'Mẹ bế' hay 'Con đi cùng'",
+     "tự nói ra từ – tức là con chỉ bắt chước từ hoặc cụm từ của người khác",
+     "gọi tên được ít nhất một màu",
+     "đáp lại các chỉ dẫn và câu hỏi thường ngày như 'Lấy giày đi', 'Muốn uống nước không?' hay 'Bố đâu rồi?'"
+    ]},
+    {"t": "p", "text": "Chậm phát triển ngôn ngữ khá phổ biến ở độ tuổi này. Khoảng 1 trong 3 trẻ có dấu hiệu chậm phát triển ngôn ngữ và được xem là 'trẻ nói muộn'. Đến 4 tuổi, hầu hết các trẻ nói muộn đã bắt kịp những trẻ cùng tuổi."},
+    {"t": "p", "text": "Vào khoảng 3 tuổi, con bạn không:"},
+    {"t": "ul", "items": [
+     "ghép các từ thành cụm hay câu dài hơn – ví dụ, 'Giúp con với mẹ' hay 'Muốn uống thêm'",
+     "đáp lại các chỉ dẫn và câu hỏi dài hơn như 'Lấy giày rồi bỏ vào hộp' hay 'Hôm nay con muốn ăn gì cho bữa trưa?'",
+     "tỏ ra thích thú với sách",
+     "đặt câu hỏi."
+    ]},
+    {"t": "p", "text": "Từ 4-5 tuổi trở lên, một số trẻ vẫn gặp khó khăn về ngôn ngữ khi bắt đầu vào mẫu giáo hoặc đi học. Nếu những khó khăn này không thể giải thích bằng các nguyên nhân khác như tự kỷ hay mất thính lực, thì đó có thể là rối loạn phát triển ngôn ngữ."},
+    {"t": "p", "text": "Ở độ tuổi này, trẻ có rối loạn phát triển ngôn ngữ có thể:"},
+    {"t": "ul", "items": [
+     "chật vật học từ mới và trò chuyện",
+     "dùng câu ngắn, đơn giản và thường bỏ sót những từ quan trọng trong câu",
+     "chỉ đáp lại một phần của chỉ dẫn",
+     "khó dùng đúng thì quá khứ, hiện tại hay tương lai – ví dụ, nói 'nhảy' thay vì 'đã nhảy' khi kể về việc đã làm",
+     "khó tìm đúng từ và dùng những từ chung chung như 'cái đó' hay 'mấy thứ kia' thay thế",
+     "không hiểu nghĩa của từ, câu hay câu chuyện."
+    ]},
+    {"t": "p", "text": "Ở bất kỳ độ tuổi nào, con bạn:"},
+    {"t": "ul", "items": [
+     "đã được chẩn đoán mất thính lực, chậm phát triển, tự kỷ, động kinh hay một tình trạng di truyền có thể ảnh hưởng đến ngôn ngữ",
+     "ngừng làm những việc trước đây từng làm – ví dụ, ngừng nói."
+    ]},
+    {"t": "p", "text": "Trẻ gặp khó khăn về ngôn ngữ cần được giúp đỡ càng sớm càng tốt. Nếu lo lắng, hãy trao đổi với bác sĩ gia đình, y tá chăm sóc sức khỏe trẻ em và gia đình, giáo viên của con hoặc chuyên gia ngôn ngữ trị liệu. Nếu chuyên gia này không thấy lo ngại về con bạn nhưng bạn vẫn lo, bạn nên tìm thêm một ý kiến khác."}
+   ]
+  },
+  {
+   "h": "Tìm sự trợ giúp về chậm phát triển ngôn ngữ ở đâu",
+   "blocks": [
+    {"t": "p", "text": "Nếu bạn nghĩ con mình đang gặp khó khăn về ngôn ngữ, hãy trao đổi với một chuyên gia. Ví dụ, bạn có thể nói chuyện với:"},
+    {"t": "ul", "items": [
+     "giáo viên hoặc người dạy tại trung tâm giáo dục sớm, trường mẫu giáo hay trường học của con",
+     "một chuyên gia ngôn ngữ trị liệu",
+     "một chuyên gia thính học",
+     "một bác sĩ gia đình hoặc bác sĩ nhi khoa",
+     "một y tá chăm sóc sức khỏe trẻ em và gia đình",
+     "một nhà tâm lý học."
+    ]},
+    {"t": "p", "text": "Nếu bạn nghĩ khó khăn chính của con là hiểu và sử dụng ngôn ngữ, bạn có thể muốn gặp chuyên gia ngôn ngữ trị liệu. Họ có thể dùng các bài kiểm tra ngôn ngữ để đánh giá cách con bạn sử dụng từ và đáp lại các yêu cầu, chỉ dẫn hay câu hỏi."},
+    {"t": "p", "text": "Nếu bạn nghĩ con mình có thể nghe kém hoặc mất thính lực, tốt nhất nên cho con kiểm tra thính lực bởi một chuyên gia thính học. Mất thính lực có thể cản trở sự phát triển ngôn ngữ và giao tiếp của con."}
+   ]
+  },
+  {
+   "h": "Hỗ trợ cho trẻ chậm phát triển ngôn ngữ",
+   "blocks": [
+    {"t": "p", "text": "Nếu con bạn được chẩn đoán chậm phát triển ngôn ngữ, chuyên gia y tế bạn đang phối hợp có thể đề xuất các chương trình theo nhóm giúp xây dựng kỹ năng ngôn ngữ. Chuyên gia cũng có thể giúp con học cách giao tiếp theo những cách khác – ví dụ, dùng ngôn ngữ ký hiệu, sách hay thiết bị tạo lời nói."},
+    {"t": "p", "text": "Chuyên gia có thể hướng dẫn bạn những chiến lược áp dụng tại nhà để giúp con giao tiếp. Điều này có thể bao gồm cho con nhiều thời gian để bắt đầu một cuộc trò chuyện. Bạn cũng có thể giúp con bằng cách đáp lại và mở rộng những nỗ lực giao tiếp của con, dù là bằng từ ngữ, hành động hay âm thanh."}
+   ]
+  },
+  {
+   "h": "Nguyên nhân gây chậm phát triển ngôn ngữ",
+   "blocks": [
+    {"t": "p", "text": "Trong hầu hết các trường hợp, chúng ta không biết nguyên nhân gây chậm phát triển ngôn ngữ. Nhưng chúng ta biết rằng chậm phát triển ngôn ngữ có xu hướng di truyền trong gia đình."},
+    {"t": "p", "text": "Chậm phát triển ngôn ngữ dễ xảy ra hơn ở:"},
+    {"t": "ul", "items": [
+     "bé trai",
+     "trẻ có người thân trong gia đình từng bị chậm phát triển ngôn ngữ hoặc rối loạn giao tiếp",
+     "trẻ mắc một tình trạng phát triển hoặc di truyền",
+     "trẻ có vấn đề thính lực kéo dài và nhiễm trùng tai."
+    ]},
+    {"t": "p", "text": "Đôi khi, chậm phát triển ngôn ngữ có thể là dấu hiệu của điếc hoặc mất thính lực, chậm phát triển, khuyết tật trí tuệ, tự kỷ hay một tình trạng di truyền. Bạn hiểu con mình hơn ai hết. Nếu bạn lo lắng rằng con đang có dấu hiệu của một trong những tình trạng này, hãy trao đổi với bác sĩ gia đình hoặc một chuyên gia y tế khác."}
+   ]
+  }
+ ]
+}

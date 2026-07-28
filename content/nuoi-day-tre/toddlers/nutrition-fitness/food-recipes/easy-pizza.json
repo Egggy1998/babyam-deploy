@@ -1,0 +1,62 @@
+{
+ "path": "nutrition-fitness/food-recipes/easy-pizza",
+ "title": "Công thức cho bé: pizza lành mạnh dễ làm",
+ "subtitle": "Món pizza đơn giản, tốt cho sức khỏe mà cả nhà đều thích.",
+ "sections": [
+  {
+   "h": "Giới thiệu",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khẩu phần: 2 người lớn (mỗi người 1 chiếc) và 2 trẻ em (mỗi bé ½ chiếc). Thời gian chuẩn bị: 5 phút. Thời gian nấu: 10 phút."
+    }
+   ]
+  },
+  {
+   "h": "Nguyên liệu",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "3 chiếc bánh pita nguyên cám đường kính 20 cm",
+      "¼ cốc tương cà chua đặc (loại không thêm muối là tốt nhất)",
+      "½ cốc đậu thận đóng hộp, để ráo và rửa sạch",
+      "½ quả ớt chuông đỏ, thái lát mỏng",
+      "6 cây nấm mỡ, thái lát mỏng",
+      "½ cốc dứa tươi hoặc dứa đóng hộp, cắt hạt lựu",
+      "1 quả cà chua, thái lát mỏng",
+      "½ cốc phô mai mozzarella, bào sợi",
+      "1 nắm lá húng quế tươi để trang trí"
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Cách làm",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Làm nóng lò ở 200°C (180°C nếu dùng quạt đối lưu).",
+      "Đặt bánh lên khay nướng và phết tương cà chua đặc lên. Xếp tất cả các nguyên liệu còn lại lên bánh. Rắc phô mai lên trên cùng.",
+      "Nướng trong lò đã làm nóng khoảng 10 phút hoặc đến khi vàng.",
+      "Lấy ra khỏi lò và để nguội bớt. Rắc lá húng quế tươi lên trên. Cắt thành miếng và dọn ăn."
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Mẹo nhỏ",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Dùng bất kỳ loại nhân nào bạn thích để làm món này.",
+      "Dùng bất kỳ loại bánh dẹt nào, hoặc thử dùng bánh muffin kiểu Anh nguyên cám cắt đôi. Chỉ cần đảm bảo phần đế đủ dày để đỡ được phần nhân bên trên.",
+      "Nếu cả nhà yêu thích món pizza dễ làm này, lần sau hãy tăng lượng nguyên liệu lên. Như vậy bạn sẽ có phần dư để dùng cho bữa trưa hôm sau."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+  "path": "safety/burns-scalds-fire/burns-prevention",
+  "title": "Phòng ngừa bỏng cho trẻ",
+  "subtitle": "Giám sát là cách đáng tin cậy duy nhất để phòng ngừa bỏng. Bài viết hướng dẫn cách nhận biết và tránh các nguy cơ gây bỏng trong nhà và ngoài trời.",
+  "sections": [
+    {
+      "h": "Bỏng và những điều cơ bản về phòng ngừa bỏng",
+      "blocks": [
+        {"t": "p", "text": "Bỏng là tổn thương da xảy ra do chạm vào vật nóng."},
+        {"t": "p", "text": "Giám sát là cách đáng tin cậy duy nhất để phòng ngừa bỏng."},
+        {"t": "p", "text": "Luôn giám sát con:"},
+        {"t": "ul", "items": [
+          "trong bếp",
+          "gần các bề mặt nóng trong nhà, như bếp lò, lò nướng, lò vi sóng, máy sưởi, bàn ủi và các thiết bị khác",
+          "gần các nguy cơ gây bỏng ngoài trời, như lò nướng BBQ, lửa trại và ống xả."
+        ]},
+        {"t": "p", "text": "Sơ cứu bỏng thiết yếu bao gồm làm mát vết bỏng dưới vòi nước mát chảy trong 20 phút. Hãy tìm trợ giúp y tế ngay nếu vết bỏng của trẻ to bằng đồng xu 20 cent trở lên, nếu vùng da bỏng trông đỏ rát, tấy hoặc phồng rộp, hoặc nếu cơn đau kéo dài hay dữ dội. Gọi 000 để gọi xe cứu thương nếu vết bỏng nghiêm trọng, ở đường thở, mặt, tay hoặc bộ phận sinh dục, hoặc bao phủ một phần lớn cơ thể. Xem thêm trong hướng dẫn minh họa về sơ cứu bỏng."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa bỏng trong nhà",
+      "blocks": [
+        {"t": "p", "text": "Bạn có thể phòng ngừa bỏng trong nhà bằng cách nhận biết và tránh các nguy cơ thường gặp."},
+        {"t": "p", "text": "<strong>Phòng ngủ</strong>"},
+        {"t": "ul", "items": [
+          "Cho con mặc đồ ngủ và áo choàng ngủ ôm sát người, có nhãn 'ít nguy cơ cháy' (low fire danger).",
+          "Để đèn ngủ và bóng đèn ngoài tầm với, hoặc rút phích cắm, cho đến khi con đủ lớn để hiểu rằng chúng gây bỏng.",
+          "Nếu bạn dùng máy sưởi trong phòng ngủ của con, hãy tắt máy sưởi sau khi con đã lên giường. Khi con đủ lớn để tự ra khỏi giường, hãy mang máy sưởi ra khỏi phòng ngủ. Nếu trời lạnh, bạn có thể cho con mặc thêm lớp áo hoặc đắp thêm chăn để giữ ấm.",
+          "Đừng dùng chăn điện cho trẻ dưới 2 tuổi hoặc trẻ còn đái dầm. Trẻ sơ sinh và trẻ nhỏ có thể bị quá nóng, và chăn điện có thể bốc cháy nếu được đặt nhiệt độ quá cao hoặc người lớn quên tắt. Trẻ cũng có thể có nguy cơ bị điện giật nếu đái dầm.",
+          "Đừng đưa túi chườm nước nóng hoặc túi giữ nhiệt cho trẻ sơ sinh và trẻ nhỏ. Nếu bạn dùng các sản phẩm này để làm ấm giường, hãy luôn lấy chúng ra trước khi con lên giường."
+        ]},
+        {"t": "p", "text": "<strong>Nhà bếp</strong>"},
+        {"t": "ul", "items": [
+          "Tránh rời khỏi bếp khi đang dùng nồi, chảo, ấm đun nước, máy nướng bánh, máy ép bánh, nồi nấu chậm, nồi cơm điện và các thiết bị khác.",
+          "Giữ khu vực chơi của con tránh xa nhà bếp.",
+          "Dùng các bếp phía sau trước. Xoay tay cầm nồi và chảo hướng về phía sau bếp.",
+          "Lắp lò nướng có bề mặt mát khi chạm vào (cool-to-touch) nếu có thể.",
+          "Lắp tấm chắn quanh các vùng đun nóng trên bếp lò.",
+          "Đảm bảo dây điện của thiết bị không thõng xuống trong tầm với của con. Dùng thiết bị có dây ngắn."
+        ]},
+        {"t": "p", "text": "<strong>Phòng khách và khu sinh hoạt gia đình</strong>"},
+        {"t": "ul", "items": [
+          "Gắn chắc chắn tấm chắn quanh máy sưởi điện hoặc gas để con không tới quá gần.",
+          "Gắn chắc chắn một tấm chắn lửa cố định quanh bất kỳ bếp lửa hở nào hoặc tro đang âm ỉ.",
+          "Lắp máy sưởi có bề mặt mát khi chạm vào (cool-to-touch) nếu có thể.",
+          "Giữ quần áo, đồ chơi, rèm và các vật dễ cháy khác cách máy sưởi ít nhất 1 m.",
+          "Dùng tấm lót bàn riêng lẻ thay vì khăn trải bàn. Nếu con kéo khăn trải bàn, đồ ăn thức uống nóng có thể đổ ụp xuống người con.",
+          "Đặt và sử dụng máy chạy bộ ở nơi tránh xa con. Rút phích cắm máy chạy bộ khi không dùng. Máy chạy bộ có thể gây bỏng ma sát nghiêm trọng."
+        ]},
+        {"t": "p", "text": "<strong>Chung</strong>"},
+        {"t": "ul", "items": [
+          "Giữ các thiết bị điện và dây của chúng ngoài tầm với của con.",
+          "Tắt thiết bị điện ngay tại ổ cắm nếu chúng nằm ở vị trí thấp.",
+          "Luôn giám sát con cẩn thận khi gần ngọn lửa trần, như bếp lửa hở, đầu đốt gas, lư hương và nến.",
+          "Khóa diêm, bật lửa và các chất lỏng dễ cháy như cồn methylated lên cao và ngoài tầm với.",
+          "Luôn hút thuốc ngoài nhà và tránh xa trẻ. Điều này cũng giảm việc con tiếp xúc với khói thuốc thụ động và khói thuốc bám lại có hại."
+        ]},
+        {"t": "p", "text": "Cháy nhà có thể bắt nguồn từ tai nạn khi nấu nướng, tàn thuốc âm ỉ, lỗi điện, nến, lư hương và trẻ chơi với bật lửa và diêm. Hãy tìm hiểu những gì bạn có thể làm để phòng ngừa cháy nhà. Bạn cũng có thể lập và thường xuyên luyện tập một kế hoạch thoát hiểm khi cháy, phòng trường hợp có hỏa hoạn trong nhà."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa bỏng ngoài trời",
+      "blocks": [
+        {"t": "p", "text": "Bạn có thể phòng ngừa bỏng ngoài trời bằng cách nhận biết và tránh các nguy cơ thường gặp."},
+        {"t": "p", "text": "<strong>Nấu nướng và sưởi ấm ngoài trời</strong>"},
+        {"t": "ul", "items": [
+          "Chống đỡ hoặc cố định máy sưởi gas trên sân hiên để chúng không bị đổ.",
+          "Trông chừng con sát sao khi lò nướng BBQ đang nóng lên, đang được dùng hoặc đang nguội dần. Một số lò nướng BBQ có thể giữ nhiệt trong nhiều giờ.",
+          "Giám sát con quanh lửa trại, và đừng để con đi chân trần quanh khu cắm trại.",
+          "Đừng dùng chất kích cháy như xăng và dầu hỏa để nhóm hoặc nhóm lại lửa.",
+          "Chỉ dùng nước để dập lửa BBQ và lửa trại, và cào tro ra để chúng mất nhiệt nhanh hơn. Than hồng, than và tro có thể giữ nóng tới 8 giờ sau khi lửa đã được vùi dưới đất hoặc cát."
+        ]},
+        {"t": "p", "text": "<strong>Các nguy cơ gây bỏng ngoài trời khác</strong>"},
+        {"t": "ul", "items": [
+          "Giữ con tránh xa ống xả của ô tô và xe máy. Ống xả dễ với tới và có thể gây bỏng nghiêm trọng.",
+          "Kiểm tra xem khóa dây an toàn có nóng lên không khi thời tiết nóng.",
+          "Khóa cất các dụng cụ như đèn khò và mỏ hàn.",
+          "Giữ máy cắt cỏ tránh xa trẻ trong và sau khi sử dụng. Máy cắt cỏ giữ nhiệt trong vài phút sau khi bạn dùng xong.",
+          "Khi trời nóng, kiểm tra các thiết bị sân chơi bằng kim loại, đặc biệt là cầu trượt. Chúng có thể nóng đến mức gây bỏng cho con."
+        ]},
+        {"t": "p", "text": "Một số trẻ nghịch diêm, bật lửa và chất lỏng dễ cháy, dẫn đến bị bỏng lửa nghiêm trọng. Đây là lý do vì sao việc khóa diêm, bật lửa và các chất lỏng dễ cháy như cồn methylated lên cao và ngoài tầm với rất quan trọng. Và nếu bạn lo ngại rằng con đang có hành vi liều lĩnh với lửa, việc tìm trợ giúp là rất quan trọng. Hãy bắt đầu bằng cách gọi cho cơ quan cứu hỏa của bang hoặc vùng lãnh thổ nơi bạn ở."}
+      ]
+    }
+  ]
+}

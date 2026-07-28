@@ -1,0 +1,107 @@
+{
+  "path": "sleep/where-your-baby-sleeps/light-noise",
+  "title": "Ánh sáng, tiếng ồn và giấc ngủ của bé: câu hỏi thường gặp",
+  "subtitle": "Giải đáp các thắc mắc về ánh sáng và tiếng ồn để giúp bé dỗ ngủ và ngủ ngon hơn.",
+  "sections": [
+    {
+      "h": "Bé có ngủ ngon hơn trong bóng tối không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Môi trường mờ tối thường giúp bé và trẻ mới biết đi dễ dỗ ngủ hơn. Đó là vì phòng mờ hoặc tối hơn nghĩa là ít kích thích hơn, giúp con cảm thấy bình tĩnh và báo cho con biết đã đến giờ nghỉ ngơi."
+        }
+      ]
+    },
+    {
+      "h": "Bé có ngủ được nếu quá sáng không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bé và trẻ mới biết đi vẫn có thể ngủ khi trời sáng. Nhưng một khi con đã vào giường, con có thể ngủ ngon hơn nếu lượng ánh sáng trong phòng được giữ nguyên trong suốt thời gian con ngủ."
+        },
+        {
+          "t": "p",
+          "text": "Hãy thử giảm độ sáng đèn khi bạn chuẩn bị cho con đi ngủ. Vào ban ngày, việc hạ mành hoặc kéo rèm có thể giúp ích."
+        }
+      ]
+    },
+    {
+      "h": "Có nên dùng đèn ngủ không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con sợ đi ngủ hoặc sợ bóng tối, con có thể cảm thấy bình tĩnh hơn và dễ dỗ ngủ hơn khi có đèn ngủ."
+        },
+        {
+          "t": "p",
+          "text": "Một chiếc đèn ngủ mờ cũng hữu ích nếu bạn cần cho con bú hoặc dỗ con vào ban đêm. Nó giúp bạn nhìn rõ việc mình đang làm mà không kích thích con."
+        }
+      ]
+    },
+    {
+      "h": "Còn ánh sáng đỏ cho bé thì sao?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Hiện chưa có bằng chứng chất lượng tốt nào cho thấy ánh sáng đỏ giúp bé ngủ."
+        }
+      ]
+    },
+    {
+      "h": "Phải làm gì nếu buổi sáng quá sáng để ngủ?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn có thể giúp con ngủ lâu hơn vào buổi sáng bằng cách chặn ánh sáng buổi sáng với cửa sổ và cửa ra vào đóng kín, rèm che cửa sổ, v.v."
+        },
+        {
+          "t": "p",
+          "text": "Điều này cũng có thể giúp giảm bớt tiếng xe cộ hoặc tiếng của những người dậy sớm."
+        }
+      ]
+    },
+    {
+      "h": "Bé có ngủ được khi ồn ào không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Một số trẻ có thể dỗ ngủ và ngủ yên với một chút tiếng ồn nền. Một số khác lại thích môi trường yên tĩnh. Và trẻ thường dễ thức giấc bởi những tiếng động đột ngột hoặc khi mức tiếng ồn nền thay đổi."
+        },
+        {
+          "t": "p",
+          "text": "Điều này có nghĩa con có thể dễ ngủ và ngủ yên hơn khi bạn giữ mức tiếng ồn nhất quán. Để chặn những tiếng động đột ngột, bạn có thể thử:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "đóng cửa sổ và cửa ra vào",
+            "treo rèm dày hơn hoặc một tấm chăn lên cửa sổ",
+            "đặt vật chặn khe hở dưới cửa."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Nhạc có giúp bé ngủ không?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nhạc nhẹ, tiếng mưa và các âm thanh êm dịu khác có thể giúp một số trẻ ngủ. Chúng cũng có thể chặn những tiếng động đột ngột và giúp trẻ ngủ yên hoặc xoa dịu trẻ nếu thức giấc."
+        }
+      ]
+    },
+    {
+      "h": "Còn tiếng ồn trắng cho bé thì sao?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tiếng ồn trắng có thể xoa dịu con nếu con dễ thức giấc. Tiếng ồn trắng cũng có thể chặn những tiếng động đột ngột."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn dùng thiết bị phát nhạc nhẹ, tiếng ồn trắng hoặc tiếng mưa, hãy đặt nó cách xa tai bé và giữ âm lượng thấp. Điều này bảo vệ thính giác của con. Và hãy lưu ý rằng con có thể trở nên phụ thuộc vào những âm thanh này để ngủ và ngủ yên. Bạn có thể tìm hiểu cách loại bỏ dần thói quen ngủ nếu điều này trở thành vấn đề."
+        }
+      ]
+    }
+  ]
+}

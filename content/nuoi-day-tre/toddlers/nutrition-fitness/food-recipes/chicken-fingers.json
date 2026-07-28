@@ -1,0 +1,61 @@
+{
+ "path": "nutrition-fitness/food-recipes/chicken-fingers",
+ "title": "Công thức gia đình: gà que chiên giòn và rau củ",
+ "subtitle": "Món gà que giòn rụm ăn kèm rau củ, dễ làm và phù hợp cho cả nhà.",
+ "sections": [
+  {
+   "h": "Giới thiệu",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Khẩu phần: 4 người. Thời gian chuẩn bị: 15 phút. Thời gian nấu: 30 phút."
+    }
+   ]
+  },
+  {
+   "h": "Nguyên liệu",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "2 miếng ức gà, cắt thành que dài",
+      "¼ cốc (40 g) bột mì thường",
+      "1 quả trứng, đánh tan nhẹ",
+      "1½ cốc (135 g) vụn bánh mì, bóp vụn nhẹ",
+      "2 củ khoai tây, gọt vỏ và cắt múi cau",
+      "1 lòng trắng trứng, đánh tan nhẹ",
+      "4 bắp ngô, cắt đôi",
+      "2 cốc đậu Hà Lan",
+      "2 cốc bông cải xanh",
+      "Tương cà để ăn kèm"
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Cách làm",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Làm nóng lò ở 220°C (220°C nếu dùng quạt đối lưu). Lót giấy nến vào 2 khay nướng. Lăn các que gà qua bột mì rồi giũ bỏ bột thừa. Trong một bát vừa, trộn trứng với gà cho áo đều. Cho vụn bánh mì vào và đảo cho gà phủ kín vụn bánh. Xếp lên một trong hai khay đã chuẩn bị, đậy lại và để trong tủ lạnh 10 phút.",
+      "Cho khoai tây cắt múi vào một bát vừa và nêm gia vị. Trộn với lòng trắng trứng cho áo đều. Xếp lên khay nướng còn lại. Nướng trong 20 phút, sau đó giảm nhiệt xuống 190°C (170°C nếu dùng quạt đối lưu). Cho gà que vào lò và nướng 10-12 phút hoặc đến khi vàng giòn.",
+      "Luộc, hấp hoặc quay lò vi sóng bông cải xanh, đậu Hà Lan và ngô. Dọn ăn kèm với gà que giòn và khoai tây múi cau."
+     ]
+    }
+   ]
+  },
+  {
+   "h": "Mẹo nhỏ",
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Để làm <strong>cá que giòn</strong>, dùng 250 g cá thịt trắng chắc, không xương, cắt thành que dài. Cá que có thể nướng lò (cách ít béo hơn) hoặc chiên áp chảo nhẹ.",
+      "Cắt khoai tây thành miếng nhỏ hơn để rút ngắn thời gian nấu."
+     ]
+    }
+   ]
+  }
+ ]
+}

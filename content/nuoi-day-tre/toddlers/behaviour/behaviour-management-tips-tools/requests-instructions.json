@@ -1,0 +1,106 @@
+{
+  "path": "behaviour/behaviour-management-tips-tools/requests-instructions",
+  "title": "Mẹo giúp trẻ làm theo hướng dẫn và hợp tác",
+  "subtitle": "Phân biệt yêu cầu và mệnh lệnh, cùng các mẹo đưa ra hướng dẫn rõ ràng để khuyến khích trẻ hợp tác.",
+  "sections": [
+    {
+      "h": "Yêu cầu là gì và mệnh lệnh là gì?",
+      "blocks": [
+        { "t": "p", "text": "Yêu cầu là khi bạn nhờ con làm một việc gì đó. Con có thể chọn đồng ý hoặc từ chối yêu cầu." },
+        { "t": "p", "text": "Ví dụ: ‘Con giúp mẹ gấp đống quần áo này nhé?’ Hoặc ‘Con mặc áo khoác vào được không? Hôm nay trời lạnh đấy’." },
+        { "t": "p", "text": "Mệnh lệnh là khi bạn bảo con làm một việc gì đó. Mệnh lệnh cho biết bạn muốn con làm gì và khi nào. Nó không cho con quyền từ chối." },
+        { "t": "p", "text": "Ví dụ: ‘Con giúp mẹ gấp đống quần áo này ngay nhé’ hoặc ‘Con mặc áo khoác vào khi mình đi ra ngoài nhé’." },
+        { "t": "p", "text": "Điều quan trọng là phải rõ ràng về việc bạn đang nhờ hay đang bảo con làm một việc gì đó. Nếu bạn nói điều gì đó như ‘Sao không ai chịu giúp mẹ dọn dẹp ở đây vậy?’ thì con sẽ khó biết phải làm gì. Con có thể không biết bạn đang nhờ giúp đỡ, đang bảo con phải làm gì, hay đang phàn nàn rằng không ai chịu giúp." }
+      ]
+    },
+    {
+      "h": "Bạn nên dùng mệnh lệnh hay yêu cầu?",
+      "blocks": [
+        { "t": "p", "text": "Cả mệnh lệnh và yêu cầu đều quan trọng, và tốt nhất là dùng kết hợp cả mệnh lệnh và yêu cầu." },
+        { "t": "p", "text": "Mệnh lệnh thường quan trọng đối với sự an toàn – ví dụ, ‘Nắm tay mẹ trong khi mình qua đường’. Và học cách làm theo mệnh lệnh giúp con chuẩn bị cho mẫu giáo và trường học. Nhưng trẻ có thể cảm thấy quá tải nếu có quá nhiều mệnh lệnh. Con cũng có thể dễ chống đối mệnh lệnh hơn nếu có quá nhiều." },
+        { "t": "p", "text": "Yêu cầu cho con sự lựa chọn và cảm giác làm chủ." }
+      ]
+    },
+    {
+      "h": "Cách đưa ra mệnh lệnh hiệu quả: mẹo",
+      "blocks": [
+        { "t": "p", "text": "Dưới đây là những mẹo đưa ra mệnh lệnh theo cách khuyến khích con hợp tác." }
+      ]
+    },
+    {
+      "h": "Hãy chắc chắn rằng con đang chú ý đến bạn",
+      "blocks": [
+        { "t": "p", "text": "Nếu thu hút được sự chú ý của con, bạn có thể chắc chắn rằng con đang lắng nghe mệnh lệnh. Bạn có thể làm điều này bằng cách:" },
+        { "t": "ul", "items": [
+          "lại gần con – trong vòng 2 mét là lý tưởng",
+          "hạ người xuống ngang tầm mắt con",
+          "gọi tên con",
+          "dùng giọng trầm và nhẹ nhàng."
+        ] }
+      ]
+    },
+    {
+      "h": "Dùng ngôn ngữ rõ ràng",
+      "blocks": [
+        { "t": "p", "text": "Mệnh lệnh nên rõ ràng, ngắn gọn và phù hợp với độ tuổi của con. Ví dụ, với trẻ tập đi bạn có thể nói ‘Con bỏ các khối xếp hình vào hộp nhé’. Nhưng với trẻ 5 tuổi bạn có thể nói ‘Con bỏ các khối xếp hình vào hộp, rồi đặt hộp lên kệ nhé’." },
+        { "t": "p", "text": "Chỉ đưa ra một mệnh lệnh mỗi lần, đặc biệt với trẻ nhỏ hơn." }
+      ]
+    },
+    {
+      "h": "Hãy nói theo hướng tích cực",
+      "blocks": [
+        { "t": "p", "text": "Mệnh lệnh tích cực giúp con thành công vì chúng cho con biết chính xác bạn muốn con làm gì. Ví dụ, hãy nói ‘Con nhai và ngậm miệng lại nhé’ thay vì ‘Đừng ăn kiểu đó’." }
+      ]
+    },
+    {
+      "h": "Đưa ra lựa chọn",
+      "blocks": [
+        { "t": "p", "text": "Cách này có thể làm tăng khả năng con làm điều bạn yêu cầu, vì nó cho con quyền lựa chọn. Ví dụ: ‘Con chuẩn bị đi tắm nhé. Con muốn có bọt xà phòng hay không có bọt?’ Hoặc ‘Đến giờ thay đồ rồi. Con muốn mặc quần đỏ hay quần xanh?’" }
+      ]
+    },
+    {
+      "h": "Yêu cầu con nhắc lại mệnh lệnh",
+      "blocks": [
+        { "t": "p", "text": "Khi lần đầu đưa ra một mệnh lệnh cho con, bạn nên yêu cầu con nói lại với bạn. Điều này cho bạn cơ hội kiểm tra xem con đã nghe và hiểu điều bạn muốn con làm chưa." },
+        { "t": "p", "text": "Theo thời gian, khi con học được cách phản hồi với các mệnh lệnh, bạn có lẽ sẽ không cần yêu cầu con nhắc lại mệnh lệnh nữa, trừ khi con ngừng làm theo." }
+      ]
+    },
+    {
+      "h": "Sẵn sàng nhắc lại",
+      "blocks": [
+        { "t": "p", "text": "Nếu con không làm theo mệnh lệnh, con có thể cần được nhắc nhở. Trong trường hợp này, hãy nhắc lại mệnh lệnh một cách bình tĩnh. Ví dụ: ‘Sam, con mang giày vào ngay bây giờ nhé’." },
+        { "t": "p", "text": "Nếu có thể, bạn cũng có thể thử thêm một động lực hoặc lý do để con làm theo lời bạn. Ví dụ: ‘Nếu con mang giày vào nhanh, mình sẽ có nhiều thời gian ở công viên hơn’. Với trẻ nhỏ hơn, bạn có thể nói ‘Mang giày trước, rồi đi công viên’." }
+      ]
+    },
+    {
+      "h": "Dùng hệ quả với trẻ trên 3 tuổi",
+      "blocks": [
+        { "t": "p", "text": "Nếu con trên 3 tuổi không chịu làm theo mệnh lệnh, bạn có thể dùng hệ quả. Ví dụ: ‘Con cất các đồ chơi khác đi trước khi mẹ lấy màu vẽ ra’. Hệ quả có thể là không được vẽ – chán lắm! – cho đến khi con dọn dẹp xong." },
+        { "t": "p", "text": "Nếu bạn kiên quyết và nhất quán, con sẽ học được rằng đôi khi con cần làm những việc con không thích để giúp đỡ gia đình, nhận được lời khen, tránh sự khó chịu hoặc đạt được điều con muốn. Đây là một bước quan trọng trong việc phát triển khả năng tự điều chỉnh và tính tự lập." }
+      ]
+    },
+    {
+      "h": "Cách giúp con hợp tác với mệnh lệnh và yêu cầu",
+      "blocks": [
+        { "t": "p", "text": "Trẻ có thể cần thời gian để học cách hợp tác với mệnh lệnh và yêu cầu. Những ý tưởng sau có thể giúp mọi việc thuận lợi hơn:" },
+        { "t": "ul", "items": [
+          "Tiếp tục dùng những từ ngữ quen thuộc, giống nhau – ví dụ, ‘Nghe này Jamie’, ‘Con cần’ và ‘Bây giờ nhé’. Những từ này đóng vai trò như tín hiệu, và dần dần con sẽ hiểu.",
+          "Khen ngợi, động viên và dành sự chú ý tích cực cho con khi con chịu hợp tác – ví dụ, ‘Con gấp quần áo giỏi quá, ngay lần đầu mẹ nhờ luôn. Không có con mẹ làm không xong đâu’.",
+          "Thiết lập nếp sinh hoạt hằng ngày. Một nếp sinh hoạt có thể giúp con vượt qua những việc lặp đi lặp lại mỗi ngày. Nếp sinh hoạt đặc biệt hữu ích với trẻ nhỏ và trẻ có nhu cầu đặc biệt.",
+          "Thử thu hút con vào các công việc bằng cách biến chúng thành niềm vui hoặc một phần của trò chơi. Ví dụ, ‘Thi với chuông báo’ là một trò chơi có thể giúp trẻ chuẩn bị xong và ra khỏi nhà vào buổi sáng.",
+          "Cho con biết một mệnh lệnh sắp đến. Điều này quan trọng nếu con đang làm một việc và bạn muốn con làm việc khác. Ví dụ, ‘5 phút nữa là đến giờ cất đồ chơi đấy’."
+        ] }
+      ]
+    },
+    {
+      "h": "Vì sao con có thể không hợp tác",
+      "blocks": [
+        { "t": "p", "text": "Nếu con không hợp tác, có thể là vì bạn đang kỳ vọng nhiều hơn khả năng của con. Bạn có thể cần giúp con học kỹ năng hoặc chỉ cho con cách làm để con có thể hợp tác." },
+        { "t": "p", "text": "Có thể có một lý do chính đáng khiến con không làm điều bạn yêu cầu – ví dụ, vì con thấy mệt, khó chịu trong người hoặc sợ hãi. Yêu cầu một đứa trẻ quá mệt và đói dọn dẹp phòng của mình thì có lẽ sẽ không hiệu quả. Nếu con không hợp tác vì một lý do chính đáng, bạn có thể cần thay đổi mệnh lệnh để con có nhiều khả năng hợp tác hơn. Ví dụ, ‘Sau bữa tối, mẹ muốn con dọn dẹp phòng của mình’." },
+        { "t": "p", "text": "Đôi khi trẻ trải qua những giai đoạn hoàn toàn không chịu hợp tác. Điều này là bình thường. Hành vi của con sẽ thay đổi khi con phát triển. Hãy cố giữ sự nhất quán, kiên quyết và yêu thương, đồng thời tập trung vào việc khiến con hợp tác trong những điều quan trọng, như sự an toàn." },
+        { "t": "p", "text": "Nếu con có nhu cầu đặc biệt, sẽ hữu ích nếu bạn hướng dẫn những người khác – ví dụ, anh chị lớn hơn, người thân trong họ hàng và hàng xóm – để họ biết cách đưa ra yêu cầu và mệnh lệnh hiệu quả với con." },
+        { "t": "p", "text": "Có nhiều yếu tố ảnh hưởng đến hành vi của trẻ. Bạn nên luôn suy nghĩ về lý do vì sao con cư xử theo một cách nào đó. Khi hiểu được nguyên nhân đằng sau hành vi của con, bạn sẽ dễ dàng chọn được cách phản ứng phù hợp hơn." }
+      ]
+    }
+  ]
+}

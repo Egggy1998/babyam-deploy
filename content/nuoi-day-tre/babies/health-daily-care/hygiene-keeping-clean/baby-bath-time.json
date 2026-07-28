@@ -1,0 +1,275 @@
+{
+  "path": "health-daily-care/hygiene-keeping-clean/baby-bath-time",
+  "title": "Giờ tắm cho bé: các bước tắm cho bé",
+  "subtitle": "Tắm cho bé bao lâu một lần, ở đâu, cách thiết lập chỗ tắm an toàn và các bước tắm, lau khô, mặc đồ.",
+  "sections": [
+    {
+      "h": "Bao lâu nên tắm cho bé một lần?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tắm 2-3 lần một tuần là đủ để giữ bé sạch sẽ. Nhưng nếu cả bạn và bé đều thích giờ tắm, bé có thể tắm mỗi ngày một lần. Tắm nhiều hơn mức này có thể làm khô da bé."
+        },
+        {
+          "t": "p",
+          "text": "Khoảng 5-10 phút là đủ cho một lần tắm bé. Điều này đặc biệt quan trọng nếu da bé khô hoặc nhạy cảm."
+        }
+      ]
+    },
+    {
+      "h": "Nên tắm cho bé khi nào?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn có thể tắm cho bé vào bất kỳ thời điểm nào trong ngày, nhưng hãy cố chọn lúc bạn thư giãn và ít có khả năng bị gián đoạn."
+        },
+        {
+          "t": "p",
+          "text": "Nếu việc tắm giúp bé thư giãn, bạn có thể dùng nó như một cách dỗ ngủ cho bé vào buổi tối. Một số bé có thể dễ ngủ hơn hoặc ngủ lâu hơn sau khi tắm tối."
+        }
+      ]
+    },
+    {
+      "h": "Nên tắm cho bé ở đâu?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn có thể tắm cho bé trong chậu tắm dành cho bé cho đến khi bé không còn nằm vừa thoải mái. Sau đó, có thể sẽ dễ hơn nếu tắm cho bé trong bồn tắm lớn, nếu nhà bạn có."
+        },
+        {
+          "t": "p",
+          "text": "Nếu tắm cho bé trong bồn lớn, bạn có thể cùng tắm với bé, nếu đó là điều bạn thích. Bạn có thể giữ an toàn bằng cách có thêm một người ở bên giúp đỡ."
+        },
+        {
+          "t": "p",
+          "text": "Một lựa chọn khác là tắm vòi sen cùng bé. Hãy giữ mặt bé tránh xa dòng nước chảy và đảm bảo nước không quá nóng."
+        },
+        {
+          "t": "p",
+          "text": "Nhiều bé thích chơi với đồ chơi trong bồn tắm, như những chiếc cốc nhựa đơn giản. Nếu mua đồ chơi tắm, hãy đảm bảo chúng đạt tiêu chuẩn an toàn của Úc và phù hợp lứa tuổi. Hãy chọn loại không giữ nước bên trong và dễ vệ sinh. Ngoài ra, tránh đồ chơi tắm bằng xốp, vì chúng không được khuyến nghị cho trẻ dưới 3 tuổi."
+        }
+      ]
+    },
+    {
+      "h": "Cách thiết lập một chỗ tắm an toàn cho bé",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Đuối nước và bỏng là những rủi ro chính trong giờ tắm. Với những mẹo này, bạn có thể tránh các rủi ro đó và giữ cho giờ tắm vui vẻ, an toàn cho bé."
+        }
+      ]
+    },
+    {
+      "h": "1. Chuẩn bị những thứ bạn cần",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Đảm bảo bạn có mọi thứ cần dùng trong tầm với – ví dụ khăn tắm, khăn lau, sữa tắm dịu nhẹ cho bé, kem hoặc thuốc mỡ, quần áo sạch và bỉm sạch. Như vậy bạn có thể luôn để mắt và để tay lên bé.",
+            "Chuyển điện thoại sang chế độ im lặng để nó không làm bạn xao nhãng khi tắm cho bé."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "2. Đảm bảo môi trường an toàn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Đảm bảo mọi loại dung dịch tắm và thiết bị điện đều ngoài tầm với của bé.",
+            "Tháo đồng hồ và trang sức của bạn.",
+            "Rửa tay.",
+            "Đặt một tấm thảm chống trượt trên sàn phòng tắm và một tấm trong bồn tắm."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "3. Cho nước vào bồn",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Cho vừa đủ nước ấm để tắm cho bé.",
+            "Với bé đã ngồi được, cho nước đến độ sâu ngang rốn bé.",
+            "Nếu dùng bồn lớn, hãy xả nước lạnh qua vòi trước khi khóa vòi."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "4. Kiểm tra nhiệt độ nước",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Kiểm tra nước ở nhiệt độ an toàn – 37-38°C.",
+            "Dùng cổ tay hoặc khuỷu tay để thử nhiệt độ nếu bạn không có nhiệt kế. Nước phải ấm vừa phải một cách thoải mái, nhưng không nóng."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trẻ có thể đuối nước chỉ trong vài giây ngay cả ở vùng nước rất nông. Đừng bao giờ để bé một mình trong bồn tắm, ngay cả khi bạn dùng ghế tắm hoặc nôi tắm. Đừng bao giờ để trẻ lớn hơn hay anh chị em trông giúp. Nếu bạn bị điện thoại hay một việc khác làm gián đoạn, hãy bế bé ra khỏi bồn tắm."
+        }
+      ]
+    },
+    {
+      "h": "Cách tắm cho bé",
+      "blocks": []
+    },
+    {
+      "h": "1. Đặt bé vào bồn tắm",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Nhẹ nhàng hạ bé vào bồn tắm, luôn giữ một tay lên người bé.",
+            "Nếu tắm cho bé trong bồn lớn, hãy quỳ hoặc ngồi trên ghế thấp để không bị đau lưng."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "2. Tắm cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Bắt đầu bằng việc dùng khăn lau mềm và nước để nhẹ nhàng lau mặt bé.",
+            "Tiếp theo, dùng một khăn lau sạch và thêm sữa tắm dịu nhẹ cho bé nếu cần để rửa cổ và thân bé.",
+            "Rửa bộ phận sinh dục và mông của bé sau cùng, luôn lau từ trước ra sau.",
+            "Tránh xà phòng và bồn tắm bọt, và cố hạn chế dùng dầu gội – tất cả đều có thể gây kích ứng da và gây hăm bỉm."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Tùy chọn: gội đầu cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Gội đầu cho bé một hoặc hai lần một tuần, hoặc khi tóc trông bẩn.",
+            "Trong khi đỡ bé trong bồn tắm, nhẹ nhàng vốc nước lên đầu bé và lau đầu bằng một khăn lau sạch.",
+            "Gội đầu cho bé vào cuối giờ tắm. Điều này giúp bé giữ ấm trong bồn tắm."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Khi bé lớn hơn, bé sẽ cố tự kéo người dậy hoặc đứng lên trong bồn tắm, nên hãy đảm bảo bạn đang giữ bé. Một tấm thảm hoặc bề mặt chống trượt trong bồn tắm cũng sẽ giúp giữ bé an toàn. Bạn cũng có thể nhẹ nhàng cho bé ngồi xuống hoặc khuyến khích bé ngồi."
+        }
+      ]
+    },
+    {
+      "h": "Cách lau khô và mặc đồ cho bé sau khi tắm",
+      "blocks": []
+    },
+    {
+      "h": "1. Bế bé ra khỏi bồn tắm",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Nhẹ nhàng nhấc bé ra khỏi bồn tắm rồi đặt bé nằm ngửa trên một chiếc khăn mềm, sạch và khô.",
+            "Nếu có thể, hãy lau khô cho bé dưới sàn để bé không thể bị ngã.",
+            "Nếu bạn thay đồ cho bé trên bề mặt cao như bàn, hãy luôn giữ một tay lên người bé."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "2. Lau khô cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Quấn bé trong một chiếc khăn mềm và thấm khô cho bé.",
+            "Lau khô các nếp gấp da của bé, bao gồm nách, bẹn, dưới cằm, quanh cổ và sau tai."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "3. Dùng kem khi cần và mặc đồ cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Nếu da bé khô, hãy thoa kem dưỡng ẩm không mùi lên da bé.",
+            "Thoa một lớp kem chống hăm dày như kẽm oxit lên vùng quấn bỉm.",
+            "Đừng dùng phấn rôm hoặc phấn em bé gốc tinh bột bắp lên da bé.",
+            "Mặc đồ cho bé, mặc bỉm trước tiên."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "4. Hoàn tất",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Đặt bé ở một nơi an toàn, như cũi hoặc nôi.",
+            "Đổ hết nước tắm và rút nút bồn tắm ra khỏi bồn."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Cách giữ bé sạch giữa các lần tắm: tắm “top and tail”",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Vào những ngày bé không tắm, bạn có thể tắm “top and tail” (lau phần đầu và phần dưới) cho bé."
+        },
+        {
+          "t": "p",
+          "text": "Tắm “top and tail” là khi bạn chỉ rửa cho bé:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "mắt và mặt",
+            "tay",
+            "bộ phận sinh dục."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bạn có thể để bé mặc gần như hết quần áo khi tắm “top and tail”. Hoặc bạn có thể cởi quần áo bé và quấn bé trong một chiếc khăn mềm."
+        }
+      ]
+    },
+    {
+      "h": "Vệ sinh mắt và mặt cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Bắt đầu bằng việc lau mí mắt bé (từ khóe trong ra khóe ngoài) bằng bông gòn hoặc khăn lau mềm nhúng nước ấm. Dùng một miếng bông gòn mới hoặc phần khăn sạch cho mỗi lần lau.",
+            "Rửa toàn bộ mặt bé.",
+            "Đừng đưa bất cứ thứ gì vào tai hoặc mũi bé."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Vệ sinh tay, mông và bộ phận sinh dục cho bé",
+      "blocks": [
+        {
+          "t": "ul",
+          "items": [
+            "Dùng bông gòn mới hoặc một khăn lau khác cùng nước ấm.",
+            "Dùng sữa tắm dịu nhẹ cho bé nếu cần.",
+            "Rửa bộ phận sinh dục và mông của bé sau cùng. Luôn lau từ trước ra sau, giống như khi thay bỉm."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tắm “top and tail” nghĩa là bạn có thể tập trung vào những vùng thực sự cần rửa, còn bé thì vẫn giữ ấm trong quần áo hoặc trong khăn quấn khi bạn làm việc đó."
+        }
+      ]
+    }
+  ]
+}

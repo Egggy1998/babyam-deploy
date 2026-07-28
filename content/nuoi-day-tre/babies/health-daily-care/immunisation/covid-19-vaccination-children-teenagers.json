@@ -1,0 +1,243 @@
+{
+  "path": "health-daily-care/immunisation/covid-19-vaccination-children-teenagers",
+  "title": "Tiêm vắc xin COVID-19: trẻ em và thanh thiếu niên",
+  "subtitle": "Khi nào con bạn cần tiêm vắc xin COVID-19, cùng thông tin về độ an toàn, hiệu quả và tác dụng phụ.",
+  "sections": [
+    {
+      "h": "Tiêm chủng và vắc xin COVID-19 cho trẻ em và thanh thiếu niên",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tiêm vắc xin COVID-19 giúp bảo vệ khỏi bệnh COVID nặng và là an toàn."
+        },
+        {
+          "t": "p",
+          "text": "Hướng dẫn này giải thích con bạn có cần tiêm vắc xin COVID-19 hay không."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ có hệ miễn dịch rất yếu: 6 tháng đến dưới 5 tuổi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con bạn từ 6 tháng đến 5 tuổi có hệ miễn dịch rất yếu, hãy trao đổi với bác sĩ đa khoa, bác sĩ chuyên khoa của con, điều dưỡng hoặc một đơn vị tiêm chủng đáng tin cậy khác về việc con có cần tiêm vắc xin COVID-19 hay không."
+        }
+      ]
+    },
+    {
+      "h": "Liệu trình cơ bản",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đã trao đổi với đơn vị tiêm chủng và quyết định rằng tốt nhất nên cho con tiêm, con sẽ được tiêm một liệu trình cơ bản gồm 2-3 liều vắc xin, mỗi liều cách nhau 8 tuần."
+        }
+      ]
+    },
+    {
+      "h": "Liều nhắc lại",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Con bạn không cần liều nhắc lại."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ có hệ miễn dịch rất yếu: 5-17 tuổi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con bạn từ 5-17 tuổi có hệ miễn dịch rất yếu, hãy trao đổi với bác sĩ đa khoa, bác sĩ chuyên khoa của con, điều dưỡng hoặc một đơn vị tiêm chủng đáng tin cậy khác về việc con có cần tiêm vắc xin COVID-19 hay không."
+        }
+      ]
+    },
+    {
+      "h": "Liệu trình cơ bản",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đã trao đổi với đơn vị tiêm chủng và quyết định rằng tốt nhất nên cho con tiêm, con sẽ được tiêm một liệu trình cơ bản gồm 1-2 liều vắc xin, với liều thứ hai tiêm sau liều đầu 8 tuần."
+        }
+      ]
+    },
+    {
+      "h": "Liều nhắc lại",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bạn và đơn vị tiêm chủng có thể bàn về một liều nhắc lại cho con nếu đã 12 tháng kể từ liều cuối cùng của con."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ có bệnh lý nền: 6 tháng đến dưới 5 tuổi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con bạn từ 6 tháng đến 5 tuổi có một bệnh lý nền làm tăng nguy cơ mắc COVID nặng, hãy trao đổi với bác sĩ đa khoa, bác sĩ chuyên khoa của con, điều dưỡng hoặc một đơn vị tiêm chủng đáng tin cậy khác về việc con có cần tiêm vắc xin COVID-19 hay không."
+        }
+      ]
+    },
+    {
+      "h": "Liệu trình cơ bản",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đã trao đổi với đơn vị tiêm chủng và quyết định rằng tốt nhất nên cho con tiêm, con sẽ được tiêm một liệu trình cơ bản gồm 2 liều vắc xin cách nhau 8 tuần."
+        }
+      ]
+    },
+    {
+      "h": "Liều nhắc lại",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Con bạn không cần liều nhắc lại."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ có bệnh lý nền: 5-17 tuổi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con bạn từ 5-17 tuổi có một bệnh lý nền làm tăng nguy cơ mắc COVID nặng, hãy trao đổi với bác sĩ đa khoa, bác sĩ chuyên khoa của con, điều dưỡng hoặc một đơn vị tiêm chủng đáng tin cậy khác về việc con có cần tiêm vắc xin COVID-19 hay không."
+        }
+      ]
+    },
+    {
+      "h": "Liệu trình cơ bản",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn đã trao đổi với đơn vị tiêm chủng và quyết định rằng tốt nhất nên cho con tiêm, con sẽ được tiêm một liệu trình cơ bản gồm một liều vắc xin."
+        }
+      ]
+    },
+    {
+      "h": "Liều nhắc lại",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Con bạn không cần liều nhắc lại."
+        },
+        {
+          "t": "p",
+          "text": "Tiêm vắc xin COVID-19 giúp những trẻ em và thanh thiếu niên dễ bị tổn thương tránh bị bệnh nặng, phải vào khoa hồi sức tích cực, hoặc tử vong vì COVID-19. Nó cũng giảm nguy cơ các em bị COVID kéo dài (long COVID)."
+        }
+      ]
+    },
+    {
+      "h": "Trẻ khỏe mạnh: 6 tháng đến 17 tuổi",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Trẻ khỏe mạnh từ 6 tháng đến 17 tuổi không cần liệu trình cơ bản và liều nhắc lại."
+        },
+        {
+          "t": "p",
+          "text": "Để biết nơi có thể đưa con đi tiêm, hãy dùng công cụ tìm dịch vụ của Healthdirect. Bạn cũng có thể kiểm tra trang web của chính quyền hoặc cơ quan y tế bang/lãnh thổ của mình."
+        }
+      ]
+    },
+    {
+      "h": "Độ an toàn và hiệu quả của vắc xin COVID-19 cho trẻ em và thanh thiếu niên",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Cơ quan Quản lý Sản phẩm Trị liệu (TGA) liên tục kiểm tra rằng tất cả các vắc xin đều an toàn và phát huy đúng tác dụng cho trẻ em và thanh thiếu niên trên khắp thế giới."
+        },
+        {
+          "t": "p",
+          "text": "Các thử nghiệm lâm sàng toàn cầu và việc giám sát thường quy cho thấy vắc xin COVID-19 hiệu quả – tức là chúng ngăn ngừa bệnh COVID nặng ở trẻ em và thanh thiếu niên. Các thử nghiệm và giám sát thường quy cũng cho thấy vắc xin an toàn cho trẻ em và thanh thiếu niên."
+        },
+        {
+          "t": "p",
+          "text": "Liều vắc xin COVID-19 cho trẻ dưới 12 tuổi nhỏ hơn liều khuyến nghị cho thanh thiếu niên và người lớn. Đó là vì các thử nghiệm lâm sàng và giám sát thường quy đã phát hiện rằng liều nhỏ hơn vẫn an toàn và hiệu quả, nên không cần dùng liều lớn hơn."
+        }
+      ]
+    },
+    {
+      "h": "Tác dụng phụ của vắc xin COVID-19",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Vắc xin COVID-19 an toàn. Như mọi loại thuốc, chúng vẫn có thể có tác dụng phụ."
+        }
+      ]
+    },
+    {
+      "h": "Tác dụng phụ nhẹ, thường gặp",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Đau hoặc sưng tại chỗ tiêm, mệt mỏi, đau đầu, đau cơ, sốt và ớn lạnh là những tác dụng phụ thường gặp nhất ở trẻ tiêm vắc xin COVID-19. Những tác dụng này nhìn chung nhẹ và chỉ kéo dài 1-2 ngày."
+        },
+        {
+          "t": "p",
+          "text": "Trẻ dưới 5 tuổi có nhiều khả năng bị sốt hơn, đặc biệt nếu trước đó các bé đã từng mắc COVID-19."
+        }
+      ]
+    },
+    {
+      "h": "Tác dụng phụ hiếm gặp",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sốc phản vệ là một tác dụng phụ có thể xảy ra nhưng rất hiếm của bất kỳ loại thuốc hay vắc xin nào, kể cả vắc xin COVID-19. Đơn vị tiêm chủng theo dõi mọi người trong 15 phút sau khi tiêm để phát hiện dấu hiệu sốc phản vệ."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con bạn có tiền sử sốc phản vệ hoặc phản ứng phản vệ với vắc xin, hãy trao đổi với bác sĩ đa khoa, bác sĩ chuyên khoa dị ứng và miễn dịch, hoặc bác sĩ chuyên khoa tiêm chủng trước khi tiêm."
+        },
+        {
+          "t": "p",
+          "text": "Viêm cơ tim và viêm màng ngoài tim là những tác dụng phụ khác có thể xảy ra nhưng hiếm gặp của việc tiêm vắc xin COVID-19. Chúng cũng có thể xảy ra sau khi mắc bệnh COVID. Những tình trạng này thường nhẹ, và người bệnh thường hồi phục tốt. Trẻ nhỏ ít có khả năng mắc các tình trạng này hơn thanh thiếu niên."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con bạn bị viêm cơ tim, viêm màng ngoài tim, suy tim cấp, thấp tim cấp hoặc bệnh tim do thấp, hoặc gần đây đã từng mắc một trong các tình trạng này, hãy trao đổi với bác sĩ chuyên khoa của con trước khi tiêm."
+        },
+        {
+          "t": "p",
+          "text": "Trong những tuần sau khi con tiêm, bạn nên tìm kiếm chăm sóc y tế khẩn cấp nếu con có bất kỳ biểu hiện nào sau đây – đau ngực, khó thở, cảm nhận rõ nhịp tim của mình, hoặc cảm giác choáng váng. Hãy đưa con đến bác sĩ đa khoa hoặc khoa cấp cứu bệnh viện càng sớm càng tốt."
+        }
+      ]
+    },
+    {
+      "h": "Có thắc mắc về việc tiêm vắc xin COVID-19: nên làm gì",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Việc bạn thận trọng về chuyện tiêm vắc xin cho con là điều bình thường. Nếu bạn có thắc mắc về tác dụng phụ hoặc độ an toàn của vắc xin COVID-19, hãy trao đổi với một nhân viên y tế như bác sĩ đa khoa hoặc đơn vị tiêm chủng. Những người này là nguồn thông tin đáng tin cậy và có thể giải đáp các lo lắng của bạn."
+        },
+        {
+          "t": "p",
+          "text": "Các khuyến nghị trong bài viết này đáng tin cậy vì chúng đến từ Nhóm Cố vấn Kỹ thuật về Tiêm chủng của Úc (ATAGI)."
+        },
+        {
+          "t": "p",
+          "text": "Điều thiết yếu là lấy thông tin tiêm chủng từ các nguồn trực tuyến đáng tin cậy, như trang web của chính phủ hoặc Tổ chức Y tế Thế giới. Những nguồn này có thông tin dựa trên nghiên cứu khoa học, nghĩa là bạn có thể tin tưởng vào những gì họ nói."
+        }
+      ]
+    },
+    {
+      "h": "Các biện pháp bảo vệ khác chống COVID-19",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tất cả trẻ em và thanh thiếu niên nên thực hiện những biện pháp bảo vệ đơn giản chống COVID-19, bất kể đã tiêm vắc xin hay chưa:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Rửa tay và giữ vệ sinh cá nhân.",
+            "Tránh xa những người đang bị ốm, hoặc đeo khẩu trang nếu đến nơi có thể có người mắc COVID.",
+            "Tránh xa người khác hoặc đeo khẩu trang nếu bản thân đang mắc COVID."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "path": "safety/choking-strangulation/strangulation-suffocation",
+  "title": "Phòng ngừa siết cổ và ngạt thở",
+  "subtitle": "Cách giữ con an toàn khỏi nguy cơ siết cổ và ngạt thở: từ đồ dùng cho bé, túi và hộp, giường ngủ, rèm cửa cho đến quần áo và đồ nội thất.",
+  "sections": [
+    {
+      "h": "Siết cổ và ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Siết cổ là khi có thứ gì đó quấn quanh cổ một người và khiến họ không thở được." },
+        { "t": "p", "text": "Ngạt thở là khi có thứ gì đó bịt mũi, miệng, họng hoặc khí quản, hay đè ép lồng ngực, khiến người đó không thở được." },
+        { "t": "p", "text": "Có những việc bạn có thể làm để giữ con an toàn khỏi nguy cơ ngạt thở và siết cổ." }
+      ]
+    },
+    {
+      "h": "Đồ dùng cho bé: phòng ngừa siết cổ và ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo sau có thể giúp giữ con an toàn khỏi siết cổ và ngạt thở liên quan đến đồ dùng cho bé." },
+        { "t": "p", "text": "<strong>Ti giả và bình sữa</strong>" },
+        { "t": "ul", "items": [
+          "Đừng dùng bất cứ thứ gì để giữ ti giả trong miệng bé nhỏ. Nếu bé không thể nhả ti giả ra khi muốn, bé có thể có nguy cơ bị ngạt thở.",
+          "Đừng dùng ruy băng, dây hoặc dải buộc để gắn ti giả vào quần áo, tay, cổ hay cũi của con. Những thứ này có thể siết cổ con.",
+          "Nếu bạn dùng dây kẹp ti giả, hãy kiểm tra rằng nó đạt Tiêu chuẩn Úc AS 2432:2015.",
+          "Bế con khi con bú bình. Đừng chèn bình sữa vào miệng con, vì con sẽ không thể nhả bình ra nếu không thở được."
+        ] },
+        { "t": "p", "text": "<strong>Xe đẩy, ghế ngồi ô tô và ghế nằm rung</strong>" },
+        { "t": "ul", "items": [
+          "Luôn trông chừng con khi con ngồi trong xe đẩy. Một số xe đẩy có thể bị gập lại đôi chút ngay cả khi đang có trẻ bên trong. Nếu đầu trẻ bị che kín khi xe gập lại, đó là nguy cơ ngạt thở.",
+          "Nếu bé dưới 6 tháng, hãy chọn xe đẩy cho phép bé nằm phẳng trên mặt phẳng nếu bé ngủ thiếp đi. Xe đẩy thẳng đứng, không ngả được thì không an toàn cho bé dưới 6 tháng.",
+          "Với mọi bé và trẻ tập đi, hãy đảm bảo không khí lưu thông được đến con trong xe đẩy. Ví dụ, đừng phủ vải hay chăn lên xe đẩy.",
+          "Dùng dây đai 5 điểm để cố định con chắc chắn vào xe đẩy, ghế ô tô hay ghế nằm rung. Điều này giúp ngăn con tuột xuống và bị dây đai quấn quanh cổ.",
+          "Đừng bao giờ dùng ghế nằm rung hoặc ghế ô tô làm nơi cho con ngủ. Con có thể rơi vào tư thế ngủ không an toàn ở những chỗ này."
+        ] }
+      ]
+    },
+    {
+      "h": "Túi, hộp và bao bì: phòng ngừa ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo sau có thể giảm nguy cơ ngạt thở từ túi, hộp và bao bì quanh nhà:" },
+        { "t": "ul", "items": [
+          "Đảm bảo các hộp lớn có nắp khít, không dễ bật ra. Hoặc lắp khóa chống mở dành cho trẻ lên hộp và các thùng chứa lớn khác, như tủ lạnh hay tủ đông cũ. Điều này có thể ngăn con mở các thùng chứa này, trèo vào và bị kẹt bên trong.",
+          "Đảm bảo các hộp và thùng chứa lớn có lỗ thông khí. Nếu con trèo vào và bị kẹt, lỗ thông khí có thể giúp ngăn ngừa ngạt thở.",
+          "Cất túi ni lông, màng bọc thực phẩm và túi của tiệm giặt khô ngoài tầm với. Luôn buộc nút chúng trước khi cất hoặc vứt đi. Con có thể bị ngạt nếu kéo chúng trùm qua đầu.",
+          "Gỡ bỏ tất cả lớp nhựa khỏi nệm cũi và nệm nôi, rồi vứt đi. Không thể dùng bao bì nhựa thay cho tấm lót nệm chống thấm.",
+          "Chọn bóng bay làm bằng giấy bạc – bóng cao su và bóng latex chưa thổi hoặc đã vỡ có thể bị hít vào. Và đừng bao giờ đưa bóng bay chưa thổi cho trẻ nhỏ.",
+          "Đảm bảo dây ruy băng buộc bóng bay không dài quá 22 cm. Dây dài có thể quấn quanh cổ trẻ."
+        ] }
+      ]
+    },
+    {
+      "h": "Giường và đồ giường: phòng ngừa siết cổ và ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Với bé, cách tốt nhất để giảm nguy cơ siết cổ hoặc ngạt thở liên quan đến giường và đồ giường là cho bé ngủ trong môi trường ngủ an toàn." },
+        { "t": "p", "text": "Trong môi trường ngủ an toàn, bé ngủ:" },
+        { "t": "ul", "items": [
+          "nằm ngửa, với đầu và mặt không bị che",
+          "trên một mặt phẳng chắc, phẳng và bằng, với đồ giường an toàn",
+          "trong không gian thông thoáng, không quá nóng và không có khói thuốc."
+        ] },
+        { "t": "p", "text": "Môi trường ngủ an toàn giúp giữ đường thở của bé thông thoáng và giảm nguy cơ đột tử ở trẻ sơ sinh (SUDI), bao gồm SIDS và các tai nạn tử vong khi ngủ." },
+        { "t": "p", "text": "Ngủ chung giường có liên quan đến nguy cơ SUDI cao hơn trong một số trường hợp. Nếu bạn dự định ngủ chung giường với con, có những cách để giảm rủi ro và làm cho việc này an toàn hơn." },
+        { "t": "p", "text": "Chiếc giường an toàn nhất cho bé là một tấm nệm vừa khít, chắc và sạch trong một chiếc cũi, cũi gấp hoặc lựa chọn thay thế cũi được bảo dưỡng tốt và đạt Tiêu chuẩn Úc. Đồ giường an toàn nhất là một tấm ga vừa khít phủ trên một tấm lót nệm chống thấm vừa vặn. Cách an toàn nhất để mặc đồ ngủ cho bé là mặc nhiều lớp quần áo vừa vặn. Bạn có thể dùng các lớp đắp mỏng, nhẹ hoặc một túi ngủ hay bộ đồ ngủ an toàn cho bé để giữ ấm cho bé." }
+      ]
+    },
+    {
+      "h": "Rèm, dây rèm và dây thừng: phòng ngừa siết cổ",
+      "blocks": [
+        { "t": "p", "text": "Những biện pháp đơn giản có thể giảm nguy cơ siết cổ từ rèm, dây rèm và dây thừng quanh nhà, đặc biệt là trong phòng của trẻ:" },
+        { "t": "ul", "items": [
+          "Để tất cả dây rèm ngoài tầm với của con, và dời ghế ra xa rèm để con không trèo lên với tới dây. Bạn có thể lắp rèm không dây và dùng rèm có thanh treo thay vì dây.",
+          "Giữ cho dây xích và dây kéo trên rèm cửa ngắn dưới 5 cm.",
+          "Cuốn dây rèm vào một móc gài hoặc thiết bị an toàn dây rèm (có bán ở cửa hàng đồ kim khí) gắn lên tường cao ít nhất 1,6 m so với sàn. Đảm bảo phần dây còn lại được cuốn quanh móc gài hoặc giấu trong thiết bị an toàn.",
+          "Khi trẻ nhỏ chơi ngoài trời, hãy trông chừng nếu con dùng xích đu dây thừng vì chúng có thể là mối nguy siết cổ."
+        ] },
+        { "t": "p", "text": "Nếu bạn có ô tô với cửa kính tự động, hãy dặn con không nghịch chúng. Con có thể bị kẹt trong cửa kính tự động, khiến con không thở được. Nếu có thể, bạn nên khóa cửa kính tự động ở vị trí đóng." }
+      ]
+    },
+    {
+      "h": "Quần áo: phòng ngừa siết cổ và ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Những mẹo chung sau có thể giúp giảm nguy cơ siết cổ và ngạt thở từ quần áo của con:" },
+        { "t": "ul", "items": [
+          "Luôn cởi yếm hoặc bất kỳ quần áo có mũ trùm nào trước khi đặt con xuống ngủ.",
+          "Lưu ý các dây và dây rút trên áo khoác và áo có mũ. Cũng cẩn thận với khăn quàng cổ. Chúng có thể mắc vào thiết bị chơi rồi siết chặt và làm con nghẹt thở.",
+          "Tránh đeo dây chuyền và các loại trang sức khác cho con.",
+          "Đảm bảo con luôn tháo mũ bảo hiểm sau khi đạp xe hoặc trượt. Dây mũ bảo hiểm có thể mắc vào thiết bị sân chơi."
+        ] }
+      ]
+    },
+    {
+      "h": "Đồ nội thất: phòng ngừa ngạt thở",
+      "blocks": [
+        { "t": "p", "text": "Hãy chọn đồ nội thất chắc chắn. Đồng thời, cố định đồ nội thất chắc chắn vào tường hoặc sàn. Điều này giảm nguy cơ đồ nội thất đổ đè lên con, vốn vừa là nguy cơ ngạt thở vừa là nguy cơ chấn thương." },
+        { "t": "p", "text": "Trông chừng con khi con chơi ngoài trời. Các mối nguy ngạt thở ngoài trời bao gồm đống củi và đường hầm trong cát." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "safety/bath-water-safety/bath-temperature",
+  "title": "Nhiệt độ nước tắm an toàn",
+  "subtitle": "Nhiệt độ nước tắm an toàn cho trẻ là từ 37°C đến 38°C. Nước quá nóng có thể gây bỏng cho trẻ rất nhanh, vì vậy cần các biện pháp phòng ngừa bỏng trong phòng tắm.",
+  "sections": [
+    {
+      "h": "Nhiệt độ nước tắm an toàn cho trẻ: những điều cần biết",
+      "blocks": [
+        {"t": "p", "text": "Nhiệt độ nước tắm an toàn cho trẻ sơ sinh và trẻ nhỏ là từ <strong>37°C đến 38°C</strong>."},
+        {"t": "p", "text": "Nước tắm quá nóng có thể gây bỏng cho trẻ rất nhanh hoặc thậm chí ngay lập tức. Ví dụ, trẻ có thể bị bỏng nặng trong chưa đầy một giây khi nhiệt độ nước máy ở khoảng 60°C."},
+        {"t": "p", "text": "Bỏng nước nóng (scald) xảy ra trong phòng tắm khi trẻ:"},
+        {"t": "ul", "items": [
+          "bị đặt vào bồn tắm nóng đến mức nguy hiểm",
+          "bị đặt vào bồn tắm có những vùng nước nóng và lạnh xen kẽ",
+          "đang ở trong nước và đưa tay hoặc chân vào dòng nước nóng đang chảy",
+          "tự mình vặn vòi nước."
+        ]},
+        {"t": "p", "text": "Sơ cứu cơ bản cho bỏng nước nóng là giữ vùng da bị bỏng dưới vòi nước mát chảy trong 20 phút. Bạn có thể in ra hướng dẫn minh họa về sơ cứu bỏng nước nóng để tham khảo nhanh và dễ dàng trong tình huống khẩn cấp."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa bỏng nước nóng trong phòng tắm",
+      "blocks": [
+        {"t": "p", "text": "Cách tốt nhất để phòng ngừa bỏng nước nóng trong phòng tắm là đảm bảo nước nóng chảy đến vòi của bồn rửa, bồn tắm và vòi sen ở nhiệt độ tối đa 50°C."},
+        {"t": "p", "text": "Nhiệt độ 50°C là mức nhiệt ít nguy cơ gây bỏng. Ở nhiệt độ này, phải mất 5 phút mới gây bỏng nặng cho trẻ. Nhưng 50°C không phải là nhiệt độ để tắm. Bạn vẫn cần pha nước lạnh với nước nóng để đạt nhiệt độ tắm phù hợp."},
+        {"t": "p", "text": "Dưới đây là thêm những lời khuyên giúp bạn phòng ngừa bỏng nước nóng khi tắm:"},
+        {"t": "p", "text": "<strong>Làm cho phòng tắm an toàn</strong>"},
+        {"t": "ul", "items": [
+          "Kiểm tra xem hệ thống nước nóng của bạn có thiết bị kiểm soát nhiệt độ đảm bảo nước chảy đến vòi ở mức tối đa 50°C hay không. Theo luật, mọi ngôi nhà xây từ ngày 5 tháng 8 năm 1998 phải có thiết bị này.",
+          "Nếu hệ thống nước nóng của bạn được lắp đặt trước ngày 5 tháng 8 năm 1998, hãy trao đổi với nhà sản xuất máy nước nóng, nhà cung cấp gas địa phương, thợ ống nước hoặc thợ lắp đặt gas về việc lắp thiết bị kiểm soát nhiệt độ cho hệ thống nước nóng.",
+          "Lắp các thiết bị chống bỏng (anti-scald) trên vòi nước và đầu vòi sen. Những thiết bị này có bán tại các cửa hàng đồ kim khí và sản phẩm an toàn.",
+          "Cân nhắc dùng vòi chống trẻ em hoặc nắp bảo vệ vòi trong bồn tắm.",
+          "Đóng cửa phòng tắm và phòng giặt khi không sử dụng. Điều này ngăn trẻ nhỏ tự tiếp cận vòi nước."
+        ]},
+        {"t": "p", "text": "<strong>Xả nước tắm an toàn</strong>"},
+        {"t": "ul", "items": [
+          "Mở nước lạnh trước, sau đó mới mở nước nóng. Khuấy nước trong bồn để không có chỗ nóng hay chỗ lạnh.",
+          "Đảm bảo vòi nước nóng đã được vặn tắt thật chặt. Khi bồn tắm đã sẵn sàng, hãy xả nhanh một chút nước lạnh qua vòi để nước còn trong vòi không làm bỏng ai.",
+          "Nếu bạn dùng vòi pha trộn (mixer tap), hãy mở nước nóng và lạnh cùng lúc. Tăng nhiệt độ bằng cách thêm nước ấm, không phải nước nóng nguyên chất. Nếu xả riêng nước nóng, con có thể đưa tay hoặc chân vào dòng nước và bị bỏng.",
+          "Nếu bạn dùng vòi pha trộn, hãy gạt cần về phía nước lạnh khi xả nước xong. Đảm bảo con không với tới được cần vòi.",
+          "Kiểm tra nhiệt độ nước tắm bằng nhiệt kế nước hoặc bằng cổ tay hay khuỷu tay của bạn. Nếu da bạn ửng đỏ khi nhúng cổ tay hoặc khuỷu tay vào, nước quá nóng đối với con. Và nếu cảm thấy nóng, thì nghĩa là quá nóng."
+        ]},
+        {"t": "p", "text": "<strong>Giám sát con để đảm bảo an toàn</strong>"},
+        {"t": "ul", "items": [
+          "Giữ con tránh xa bồn tắm cho đến khi nước đạt nhiệt độ an toàn.",
+          "Đừng bao giờ giao con cho một trẻ lớn hơn trông chừng, vì trẻ đó có thể vặn vòi nước nóng.",
+          "Đừng bao giờ để con một mình trong bồn tắm hoặc phòng tắm. Con có thể dễ dàng vặn vòi nước nóng mà không thể vặn tắt lại."
+        ]},
+        {"t": "p", "text": "Nước nóng cần được lưu trữ ở nhiệt độ trên 60°C để ngăn vi khuẩn Legionella hình thành. Đây là lý do phải lắp một thiết bị kiểm soát nhiệt độ để hạ nhiệt độ của nước chảy ra từ vòi."}
+      ]
+    }
+  ]
+}

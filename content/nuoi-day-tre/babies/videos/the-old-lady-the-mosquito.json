@@ -1,0 +1,18 @@
+{
+  "path": "videos/the-old-lady-the-mosquito",
+  "title": "Bà lão và con muỗi: video kể chuyện",
+  "subtitle": "Một câu chuyện ngắn vui nhộn về một bà lão đang ngồi kéo sợi và tìm cách bắt con muỗi cứ vo ve quanh phòng.",
+  "sections": [
+    {
+      "h": "Câu chuyện Bà lão và con muỗi",
+      "blocks": [
+        {"t": "p", "text": "Anne E. Stewart (người kể chuyện): Đây là câu chuyện về một bà lão, bà đang ngồi kéo sợi, bà xoay sợi vòng vòng rồi xuống và ngang qua, và trong lúc kéo sợi, bà nghe thấy có thứ gì đó vo ve quanh phòng. Có ai đoán được cái gì có thể vo ve quanh phòng không nào?"},
+        {"t": "p", "text": "Bé trai: Con muỗi ạ."},
+        {"t": "p", "text": "Anne E. Stewart: Ồ, con đúng rồi. Đó là một con muỗi, bà nghe thấy tiếng nó nhưng không nhìn thấy nó, và bà nói: \"Ôi trời, ta phải kéo sợi tiếp thôi không thì chẳng bao giờ xong mất\"."},
+        {"t": "p", "text": "Rồi bà lại bắt đầu. Xuống, vòng vòng và ngang qua, và lần sau khi ngẩng lên, kìa lại là con muỗi đó. Con muỗi bay vù tới định cắn vào mũi bà rồi cắn vào má bà, và bà lão nói: \"Ôi không, con muỗi này làm ta phát điên mất, ta phải làm sao đây?"},
+        {"t": "p", "text": "À ta biết rồi, cách duy nhất để bắt một con muỗi là phải thật im lặng, bởi đúng lúc nó sắp bay lên cắn ta, đúng lúc nó sắp đậu xuống mũi ta, nếu ta thật yên lặng thì ta sẽ tóm được nó. Và thế là con muỗi đã biến mất\"."},
+        {"t": "p", "text": "Các con thấy chuyện đó thế nào?"}
+      ]
+    }
+  ]
+}

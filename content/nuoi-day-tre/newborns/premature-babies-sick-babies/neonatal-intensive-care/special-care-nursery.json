@@ -1,0 +1,43 @@
+{
+  "path": "premature-babies-sick-babies/neonatal-intensive-care/special-care-nursery",
+  "title": "Phòng chăm sóc đặc biệt: những điều cần biết",
+  "subtitle": "Phòng chăm sóc đặc biệt là gì và bạn có thể mong đợi điều gì",
+  "sections": [
+    {"h": "Phòng chăm sóc đặc biệt là gì?", "blocks": [
+      {"t":"p","text":"Phòng chăm sóc đặc biệt là nơi dành cho những em bé bị bệnh hoặc sinh non cần được chăm sóc chuyên biệt sau khi sinh. Đây cũng là nơi dành cho những bé cần hỗ trợ để bú, phát triển và lớn lên."},
+      {"t":"p","text":"Phòng chăm sóc đặc biệt có các bác sĩ, điều dưỡng, chuyên gia y tế và trang thiết bị chuyên biệt để chăm sóc cho những em bé này."}
+    ]},
+    {"h": "Phòng chăm sóc đặc biệt khác gì với khoa hồi sức sơ sinh?", "blocks": [
+      {"t":"p","text":"Khoa hồi sức sơ sinh (NICU) là nơi dành cho trẻ sơ sinh bị bệnh hoặc sinh non cần được chăm sóc tích cực chuyên sâu sau khi sinh. Các bé ở NICU thường được chuyển sang phòng chăm sóc đặc biệt khi khỏe hơn và cứng cáp hơn."},
+      {"t":"p","text":"Nếu bé của bạn ở NICU đã sẵn sàng chuyển sang phòng chăm sóc đặc biệt, điều đó có nghĩa là:"},
+      {"t":"ul","items":[
+        "nhịp tim, nhịp thở, huyết áp và thân nhiệt của bé đã ổn định và nằm trong mức mong đợi",
+        "bé có thể tự thở hoặc cần ít hỗ trợ hơn",
+        "bé đã đủ lớn để chuyển sang mức chăm sóc thấp hơn này."
+      ]},
+      {"t":"p","text":"Phòng chăm sóc đặc biệt đôi khi còn được gọi là đơn vị chăm sóc đặc biệt cho trẻ sơ sinh."}
+    ]},
+    {"h": "Những điều cần biết ở phòng chăm sóc đặc biệt", "blocks": [
+      {"t":"p","text":"Trong phòng chăm sóc đặc biệt, bác sĩ sơ sinh hoặc bác sĩ nhi khoa sẽ chăm sóc bé. Bé sẽ được các bác sĩ chuyên khoa khác thăm khám nếu cần."},
+      {"t":"p","text":"Điều dưỡng theo dõi bé nhưng ít thường xuyên hơn so với ở NICU. Mỗi điều dưỡng trong phòng chăm sóc đặc biệt chăm sóc cho nhiều bé."},
+      {"t":"p","text":"Nếu bé chuyển từ NICU sang, có thể bé sẽ không còn cần hầu hết các thiết bị y tế từng được dùng để chăm sóc bé ở đó nữa."},
+      {"t":"p","text":"Trong phòng chăm sóc đặc biệt, bạn và bạn đời có thể làm nhiều việc hơn cho bé. Bạn có thể ôm bé lâu hơn nhiều và làm nhiều việc chăm sóc bé hơn, như thay tã."},
+      {"t":"p","text":"Bé cũng có thể bắt đầu bú mẹ hoặc bú bình thay vì ăn qua ống."},
+      {"t":"p","text":"Khi bé đủ lớn, bé có thể ra khỏi lồng ấp và ngủ trong một chiếc nôi hở, nơi bạn dễ dàng chăm sóc bé hơn."},
+      {"t":"p","text":"Có thể bạn đã cảm thấy quen thuộc, gần gũi với nhân viên và nề nếp ở NICU. Việc làm quen với nhân viên trong phòng chăm sóc đặc biệt sẽ giúp bạn cảm thấy thoải mái ở đó. Một cách để làm quen là có mặt trong giờ đi buồng, trò chuyện với nhân viên về tiến triển của bé, và chia sẻ những gì bạn đã biết về điều bé thích và không thích."}
+    ]},
+    {"h": "Chuyển sang phòng chăm sóc đặc biệt ở một bệnh viện khác", "blocks": [
+      {"t":"p","text":"Các bệnh viện có NICU thường ở những thành phố lớn. Bạn có thể đã đến một bệnh viện ở thành phố lớn để sinh, hoặc bé có thể đã được chuyển đến đó sau khi sinh."},
+      {"t":"p","text":"Nếu bạn sống xa bệnh viện có NICU đang chăm sóc bé, nhiều khả năng bé sẽ được chuyển sang một phòng chăm sóc đặc biệt ở bệnh viện gần nhà hơn. Đó luôn là bệnh viện được trang bị để đáp ứng nhu cầu riêng của bé."},
+      {"t":"p","text":"Bé có thể được vận chuyển bằng xe cứu thương hoặc máy bay được trang bị đặc biệt, có lồng ấp và các thiết bị cần thiết cho chuyến đi."}
+    ]},
+    {"h": "Làm quen với phòng chăm sóc đặc biệt", "blocks": [
+      {"t":"p","text":"Bạn có thể có những cảm xúc lẫn lộn về việc bé chuyển sang phòng chăm sóc đặc biệt."},
+      {"t":"p","text":"Bạn có thể thấy phấn khởi vì bé đang đến gần ngày về nhà hơn. Cũng thường thấy lo lắng vì bạn phải gánh nhiều trách nhiệm chăm sóc bé hơn. Cảm giác lo rằng bé sẽ nhận được ít sự chăm sóc chuyên biệt, cá thể hóa từ điều dưỡng hơn cũng là điều tự nhiên."},
+      {"t":"p","text":"Đội ngũ y bác sĩ và điều dưỡng trong phòng chăm sóc đặc biệt có trình độ cao và giàu kinh nghiệm trong việc chăm sóc trẻ bị bệnh và sinh non. Họ có thể giúp bạn và bạn đời học cách trở thành những cha mẹ trực tiếp chăm con, bao gồm cho bé bú và tắm cho bé. Cứ nhờ họ giúp đỡ và tư vấn nếu bạn cần. Bạn cũng có thể chia sẻ với họ về những nỗi sợ hay lo lắng của mình."},
+      {"t":"p","text":"Phòng mới có thể có những hướng dẫn và chính sách khác với NICU, ngay cả khi cùng trong một bệnh viện. Bạn vẫn có thể mong đợi được chăm sóc lấy gia đình làm trung tâm như ở NICU. Bạn cũng có thể mong đợi được xem là một thành viên trong đội ngũ chăm sóc bé. Những thành viên khác trong gia đình, kể cả anh chị và ông bà, cũng có thể tham gia nhiều hơn."},
+      {"t":"p","text":"Nếu có điều gì bạn chưa chắc chắn, cứ hỏi nhân viên là điều hoàn toàn ổn."},
+      {"t":"p","text":"Khi bé chuyển sang phòng chăm sóc đặc biệt, đó là thời điểm tốt để bắt đầu lên kế hoạch cho ngày bé về nhà."}
+    ]}
+  ]
+}

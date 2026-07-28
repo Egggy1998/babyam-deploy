@@ -1,0 +1,31 @@
+{
+  "path": "safety/home-pets/indoor-safety",
+  "title": "An toàn cho trẻ trong nhà: bằng hình ảnh",
+  "subtitle": "Các biện pháp an toàn trong nhà theo hình ảnh: phòng cháy, chất độc và nước; an toàn cửa, cửa sổ và cầu thang; cùng các mối nguy gia dụng khác.",
+  "sections": [
+    {
+      "h": "An toàn cho trẻ tại nhà: lửa, chất độc và nước",
+      "blocks": [
+        { "t": "p", "text": "Lắp đầu báo khói, cầu dao an toàn và nắp che ổ điện. Đảm bảo nước chảy ra từ vòi phòng tắm không nóng quá 50ºC." },
+        { "t": "p", "text": "Cất giữ chất độc trong nhà một cách an toàn trong tủ cao ít nhất 1,5 m và có khóa chống mở dành cho trẻ." },
+        { "t": "p", "text": "Đừng bao giờ để trẻ một mình trong bồn tắm hoặc gần nước. Luôn ở trong tầm với và tầm nhìn của trẻ." }
+      ]
+    },
+    {
+      "h": "An toàn cửa, cửa sổ và cầu thang",
+      "blocks": [
+        { "t": "p", "text": "Lắp kính an toàn cho cửa sổ và cửa ra vào, hoặc dán phim chống vỡ lên kính. Dán nhãn lên kính ở tầm mắt." },
+        { "t": "p", "text": "Khóa cửa sổ. Dời ghế và các vật khác ra xa cửa sổ. Cố định TV và đồ nội thất nặng khác vào tường hoặc sàn để chúng không thể đổ đè lên con." },
+        { "t": "p", "text": "Lắp cổng an toàn ở đầu và chân cầu thang cũng như ở lối vào ban công." }
+      ]
+    },
+    {
+      "h": "Các mối nguy gia dụng",
+      "blocks": [
+        { "t": "p", "text": "Cất vật sắc nhọn ngoài tầm với của trẻ. Để ý những vật nhỏ có thể là mối nguy hóc nghẹn hoặc mà con có thể nhét vào mũi, tai hay mắt." },
+        { "t": "p", "text": "Phòng ngừa siết cổ. Giữ cho dây xích và dây kéo trên rèm cửa ngắn dưới 5 cm, hoặc cuốn chúng quanh móc gài cao ít nhất 1,6 m so với sàn." },
+        { "t": "p", "text": "Dán số điện thoại khẩn cấp và các đầu mối liên hệ an toàn lên tủ lạnh hoặc lưu trong điện thoại. Tìm thêm các mẹo về an toàn cho trẻ tại nhà." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "path": "safety/burns-scalds-fire/scalds-prevention",
+  "title": "Bỏng nước nóng: cách phòng ngừa",
+  "subtitle": "Bỏng nước nóng là bỏng do chất lỏng nóng hoặc hơi nước. Bài viết hướng dẫn cách phòng ngừa bỏng nước nóng trong phòng tắm và khu vực bếp, ăn uống.",
+  "sections": [
+    {
+      "h": "Nguy cơ bỏng nước nóng: những điều cần biết",
+      "blocks": [
+        {"t": "p", "text": "Bỏng nước nóng (scald) là bỏng do chất lỏng nóng hoặc hơi nước gây ra."},
+        {"t": "p", "text": "Đồ uống nóng là nguyên nhân chính gây bỏng nước nóng. Một ly đồ uống nóng vừa rót có thể làm bỏng trẻ ngay lập tức."},
+        {"t": "p", "text": "Các nguyên nhân phổ biến khác gây bỏng nước nóng bao gồm nước sôi, nước máy nóng và bồn tắm nóng, cũng như thức ăn, súp và nước sốt nóng. Nước nóng có thể gây bỏng tới nửa giờ sau khi đun sôi."},
+        {"t": "p", "text": "Trẻ dưới 2 tuổi có nguy cơ cao nhất bị bỏng do chất lỏng nóng trong ấm đun nước, ấm trà, nồi và cốc."},
+        {"t": "p", "text": "Nhiệt độ nước tắm an toàn cho trẻ là từ 37°C đến 38°C. Người lớn thường tắm với nước từ 41°C đến 42°C."},
+        {"t": "p", "text": "Bạn có biết cách xử lý vết bỏng nước nóng hay vết bỏng không? Bài viết về sơ cứu bỏng nước nóng và bỏng cùng hướng dẫn minh họa về sơ cứu bỏng sẽ hướng dẫn bạn từng bước."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa bỏng nước nóng trong phòng tắm",
+      "blocks": [
+        {"t": "p", "text": "Cách tốt nhất để phòng ngừa bỏng nước nóng trong phòng tắm là đảm bảo nước nóng chảy đến vòi của bồn rửa, bồn tắm và vòi sen ở mức tối đa <strong>50°C</strong>. Theo luật, mọi ngôi nhà xây từ ngày 5 tháng 8 năm 1998 phải có thiết bị kiểm soát nhiệt độ đảm bảo nước chảy đến vòi ở mức tối đa 50°C."},
+        {"t": "p", "text": "Nhiệt độ 50°C là mức nhiệt ít nguy cơ gây bỏng. Ở nhiệt độ này, phải mất 5 phút mới gây bỏng nặng cho trẻ. Nhưng 50°C không phải là nhiệt độ để tắm. Bạn vẫn cần pha nước lạnh với nước nóng để đạt nhiệt độ tắm phù hợp."},
+        {"t": "p", "text": "Nếu hệ thống nước nóng của bạn được lắp đặt trước ngày 5 tháng 8 năm 1998, hãy trao đổi với nhà sản xuất máy nước nóng, nhà cung cấp gas, hoặc thợ ống nước hay thợ lắp đặt gas có giấy phép về việc lắp thiết bị kiểm soát nhiệt độ cho hệ thống nước nóng."},
+        {"t": "p", "text": "Dưới đây là thêm những lời khuyên giúp giảm nguy cơ bỏng nước nóng trong phòng tắm:"},
+        {"t": "ul", "items": [
+          "Luôn mở nước lạnh trước. Tắt nước lạnh sau cùng để làm nguội vòi.",
+          "Luôn kiểm tra nước tắm trước khi cho con vào.",
+          "Đừng bao giờ giao con cho một trẻ lớn hơn trông chừng trong bồn tắm hoặc phòng tắm.",
+          "Đừng bao giờ để con một mình trong phòng tắm.",
+          "Đóng cửa phòng tắm khi phòng không được sử dụng.",
+          "Dùng nắp che vòi hoặc khóa vòi để ngăn con tự vặn vòi nước nóng."
+        ]},
+        {"t": "p", "text": "Mỗi năm, nước máy nóng gây bỏng nghiêm trọng cho rất nhiều trẻ nhỏ trên khắp nước Úc. Hơn 90% các vết bỏng này xảy ra trong phòng tắm. Ở 60°C, chỉ cần một giây để gây bỏng toàn bộ độ dày da. Ở 50°C, mất 5 phút. Đọc thêm về nhiệt độ nước tắm an toàn."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa bỏng nước nóng trong khu vực bếp và ăn uống",
+      "blocks": [
+        {"t": "p", "text": "Những biện pháp an toàn sau sẽ giúp bảo vệ con khỏi bỏng nước nóng trong khu vực nấu nướng và ăn uống."},
+        {"t": "p", "text": "<strong>Nấu nướng</strong>"},
+        {"t": "ul", "items": [
+          "Luôn giám sát cẩn thận khi con ở trong bếp.",
+          "Tránh rời khỏi bếp khi đang dùng nồi, chảo hoặc ấm đun nước.",
+          "Dùng các bếp phía sau. Xoay tay cầm chảo hướng về phía sau bếp. Lắp tấm chắn bếp.",
+          "Mang đĩa đến chỗ nồi chảo trên bếp, thay vì bê nồi chảo chứa chất lỏng nóng băng qua bếp đến chỗ đĩa.",
+          "Đừng nấu ăn khi đang bế hoặc cho con bú. Hãy cố gắng lên kế hoạch cho việc nấu nướng. Ví dụ, nấu ăn khi con đang ngủ hoặc đang ngồi trong cũi quây hay ghế ăn.",
+          "Kiểm tra nhiệt độ của súp, món hầm, mì gói và các món lỏng khác trước khi dọn ra. Khuấy thức ăn hâm bằng lò vi sóng để làm đều các chỗ nóng, và kiểm tra nhiệt độ trước khi dọn ra."
+        ]},
+        {"t": "p", "text": "<strong>Ăn và uống</strong>"},
+        {"t": "ul", "items": [
+          "Đặt con vào cũi quây hoặc ghế ăn khi bạn đang ăn hoặc uống thứ gì đó nóng.",
+          "Chỉ đun vừa đủ nước nóng cho đồ uống của bạn. Như vậy sẽ không còn nước nóng dư trong ấm để bị đổ và gây bỏng.",
+          "Đừng uống đồ uống nóng khi đang bế hoặc cho con bú.",
+          "Dùng cốc có đáy rộng và miệng hẹp. Điều này giảm nguy cơ đổ và bỏng.",
+          "Ăn và uống đồ nóng như mì tại bàn. Điều này giảm nguy cơ đổ và bỏng.",
+          "Dùng tấm lót bàn thay vì khăn trải bàn để ngăn đồ ăn thức uống nóng đổ lên người con. Trẻ đôi khi kéo khăn trải bàn, làm mọi thứ đổ ụp xuống người."
+        ]},
+        {"t": "p", "text": "<strong>Dụng cụ và thiết bị</strong>"},
+        {"t": "ul", "items": [
+          "Để ấm đun nước, ấm trà và đồ ăn thức uống nóng ở phía trong của mặt bàn bếp hoặc giữa bàn ăn để con không với tới được.",
+          "Đảm bảo dây ấm đun nước không thõng xuống trong tầm với của con. Dùng thiết bị có dây ngắn để con không thể dùng dây kéo thiết bị lại gần.",
+          "Cố định bếp lò đứng độc lập vào tường hoặc sàn bằng thiết bị chống lật. Những thiết bị này ngăn bếp lò bị lật và làm đổ chất lỏng và thức ăn nóng."
+        ]},
+        {"t": "p", "text": "<strong>Lời khuyên chung</strong>"},
+        {"t": "ul", "items": [
+          "Để nước nóng chảy đến vòi bếp ở mức tối đa 50°C nhằm phòng ngừa bỏng nghiêm trọng.",
+          "Dạy con về sự nguy hiểm của những vật nóng."
+        ]},
+        {"t": "p", "text": "Cách tốt nhất để phòng ngừa bỏng nước nóng trong bếp là giữ khu vực chơi của con tránh xa nhà bếp hoặc dùng cổng chắn an toàn để ngăn con vào bếp."}
+      ]
+    }
+  ]
+}

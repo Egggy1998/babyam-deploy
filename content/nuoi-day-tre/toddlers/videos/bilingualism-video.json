@@ -1,0 +1,24 @@
+{
+  "path": "videos/bilingualism-video",
+  "title": "Nuôi dạy con song ngữ: chia sẻ từ các bậc cha mẹ",
+  "subtitle": "Các bậc cha mẹ nhập cư chia sẻ kinh nghiệm nuôi dạy con nói hai ngôn ngữ — vừa giữ gìn tiếng mẹ đẻ, vừa giúp con hòa nhập với cộng đồng nơi mình sinh sống.",
+  "sections": [
+    {
+      "h": "Nuôi dạy con song ngữ: chia sẻ từ các bậc cha mẹ",
+      "blocks": [
+        {"t": "p", "text": "<strong>Halime Duzen (nhân viên hỗ trợ người nhập cư, mẹ của 2 con):</strong> Điều rất quan trọng là cha mẹ phải giữ ngôn ngữ của mình, bởi vì cha mẹ cảm thấy thoải mái nhất với tiếng mẹ đẻ, và có thể dễ dàng bày tỏ cảm xúc, tình cảm của mình qua ngôn ngữ đó."},
+        {"t": "p", "text": "<strong>Naime (mẹ của 2 con):</strong> Ở nhà tôi nói tiếng Thổ Nhĩ Kỳ nhiều hơn, vì tôi nghĩ ngôn ngữ đầu tiên rất quan trọng."},
+        {"t": "p", "text": "<strong>Halime:</strong> Tôi nghĩ điều rất quan trọng là để trẻ nhỏ lớn lên và học ngôn ngữ của chính mình, để gắn kết với cộng đồng khi các con đến câu lạc bộ bóng đá hay tham dự các lễ hội của cộng đồng."},
+        {"t": "p", "text": "<strong>Tagrid (mẹ của 4 con):</strong> Nếu một ngày nào đó tôi muốn về Lebanon, tôi muốn các con nói tiếng Ả Rập như mọi người ở đó, chứ không phải ngồi nhìn rồi nói 'Ồ, con không hiểu gì cả, Mẹ ơi đưa con về đi'."},
+        {"t": "p", "text": "<strong>Tajma (mẹ của 2 con):</strong> Khi đến trường các con cần nói tiếng Anh thật giỏi, nhưng trong cộng đồng của chúng tôi và khi giao tiếp với cha mẹ, các con đặc biệt cần ngôn ngữ của mình."},
+        {"t": "p", "text": "<strong>Halime:</strong> Điều rất quan trọng là để các con học tiếng mẹ đẻ của mình. Và tất nhiên, nói tiếng Anh cũng quan trọng, đọc sách tiếng Anh, đọc sách bằng tiếng của gia đình. Hoàn toàn không có vấn đề gì — trẻ em rất thông minh, rất nhạy bén. Chỉ cần tìm nguồn tài liệu phù hợp là các con sẽ học được rất nhiều."},
+        {"t": "p", "text": "<strong>Naime:</strong> Sau này con sẽ cần học tiếng Anh, vì ở Úc người ta nói tiếng Anh. Ở nhà, ở đâu cũng nói tiếng Anh."},
+        {"t": "p", "text": "<strong>Tagrid:</strong> Tôi có thể giúp con tôi với tiếng Ả Rập, nhưng tôi không thể giúp được tiếng Anh. Nên bây giờ tôi muốn đi học một khóa tiếng Anh, để giúp được các con và giúp cả bản thân tôi nữa."},
+        {"t": "p", "text": "<strong>Halime:</strong> Rất quan trọng khi cha mẹ học tiếng Anh — mẹ hay bố học tiếng Anh — để có thể đọc sách cùng con ở nhà và hát cùng con. Tôi nghĩ điều đó giúp trẻ hòa nhập với văn hóa bên ngoài gia đình."},
+        {"t": "p", "text": "<strong>Naime:</strong> Tôi đang cố gắng, nhưng chỉ vài từ nhỏ thôi, nói tiếng Anh. Còn lại thì vẫn nói tiếng Thổ Nhĩ Kỳ."},
+        {"t": "p", "text": "<strong>Halime:</strong> Cha mẹ có thể nói tiếng Anh với con, hoặc ngồi xem Play School cùng con, hoặc đưa con đến nhà trẻ và chơi cùng các bạn. Đọc sách tiếng Anh cùng nhau và hát một bài hát bằng tiếng Anh."},
+        {"t": "p", "text": "<strong>Tajma:</strong> Chương trình Play School trên ABC rất hay, vì các con có thể nghe cách phát âm. Con bé học được, và tôi cũng hỗ trợ thêm cho con."}
+      ]
+    }
+  ]
+}

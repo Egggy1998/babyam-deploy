@@ -1,0 +1,251 @@
+{
+  "path": "health-daily-care/health-concerns/serious-child-illnesses",
+  "title": "Bệnh nặng ở trẻ nhỏ: 0-3 tuổi",
+  "subtitle": "Những dấu hiệu cảnh báo cần gọi cấp cứu hoặc đến khoa cấp cứu ngay để bảo vệ con.",
+  "sections": [
+    {
+      "h": "Bệnh nặng ở trẻ nhỏ: cần làm gì",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Em bé và trẻ nhỏ có các dấu hiệu và triệu chứng được liệt kê trong bài viết này đang có nguy cơ mắc bệnh nặng."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn nhận thấy bất kỳ vấn đề nào được liệt kê dưới đây, hãy tìm kiếm chăm sóc y tế càng sớm càng tốt."
+        },
+        {
+          "t": "p",
+          "text": "Bạn là người hiểu con mình nhất. Nếu con có vẻ không khỏe, hãy tìm kiếm chăm sóc y tế."
+        },
+        {
+          "t": "p",
+          "text": "Cách nhanh nhất để được chăm sóc y tế ngay lập tức là gọi 000 (số cấp cứu tại Úc) và yêu cầu xe cứu thương, hoặc đưa con đến khoa cấp cứu của bệnh viện gần nhất."
+        }
+      ]
+    },
+    {
+      "h": "Khi nào cần gọi xe cứu thương cho bệnh ở trẻ nhỏ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn nhận thấy bất kỳ dấu hiệu và triệu chứng nào sau đây, hãy gọi 000 và yêu cầu xe cứu thương:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "lơ mơ nặng hoặc không phản ứng",
+            "khó thở hoặc thở bất thường",
+            "tay chân lạnh, hoặc da xanh xao, nổi vằn hay tím tái",
+            "co giật",
+            "phát ban không mờ đi khi bạn ấn lên da con."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Có thêm thông tin về các dấu hiệu và triệu chứng này ở phần dưới."
+        }
+      ]
+    },
+    {
+      "h": "Lơ mơ và không phản ứng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Việc con đôi khi buồn ngủ là bình thường – ví dụ sau khi bú. Nhưng nếu con có vẻ buồn ngủ hơn bình thường, đây có thể là dấu hiệu của bệnh nặng ở trẻ nhỏ."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn không thể đánh thức con dù đã cố gắng thật nhiều lần, hãy tìm trợ giúp ngay lập tức."
+        },
+        {
+          "t": "p",
+          "text": "Tình trạng không phản ứng có thể là dấu hiệu của một số bệnh và tình trạng nặng ở trẻ nhỏ, bao gồm hạ đường huyết (lượng đường trong máu thấp) hoặc nhiễm trùng não đe dọa tính mạng (viêm màng não)."
+        }
+      ]
+    },
+    {
+      "h": "Khó thở hoặc thở bất thường",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con đang khó thở, bạn có thể nhận thấy con:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "phải thở gắng sức hơn nhiều để đưa không khí vào phổi",
+            "ho hoặc thở khò khè dai dẳng",
+            "thở mà các cơ giữa các xương sườn bị rút lõm vào",
+            "không thể nói chuyện hoặc phát ra âm thanh."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trong trường hợp nặng, con có thể trông rất mệt và tím tái. Con có thể im lặng hoặc phát ra tiếng rên với mỗi nhịp thở."
+        },
+        {
+          "t": "p",
+          "text": "Những triệu chứng hô hấp này có thể do các tình trạng như nhiễm trùng ngực (viêm phổi) hoặc hen suyễn nặng gây ra."
+        }
+      ]
+    },
+    {
+      "h": "Tay chân lạnh, hoặc da xanh xao, nổi vằn hay tím tái",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tay chân lạnh hoặc da xanh xao, nổi vằn hay tím tái có thể do tuần hoàn máu kém hoặc nồng độ oxy trong cơ thể thấp, cả hai đều có thể xảy ra trong các bệnh nặng ở trẻ nhỏ như nhiễm khuẩn hoặc viêm phổi."
+        }
+      ]
+    },
+    {
+      "h": "Co giật",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con đang lên cơn co giật, mắt con có thể trợn ngược lên. Con có thể không phản ứng, run giật mạnh ở tất cả các chi trong một thời gian ngắn, và thở nông hoặc thở bất thường."
+        },
+        {
+          "t": "p",
+          "text": "Ở độ tuổi này, một cơn co giật rất có thể là sốt co giật. Sốt co giật xảy ra khi trẻ bị sốt. Trẻ thường hồi phục hoàn toàn sau cơn sốt co giật."
+        }
+      ]
+    },
+    {
+      "h": "Phát ban (kết quả thử nghiệm bằng ly thủy tinh dương tính)",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Những đốm hoặc mảng trên da không mờ đi khi bạn ấn một chiếc ly thủy tinh thật chặt lên da con có thể là dấu hiệu sớm của nhiễm trùng não mô cầu (meningococcal) đe dọa tính mạng."
+        }
+      ]
+    },
+    {
+      "h": "Khi nào cần đưa con đến khoa cấp cứu bệnh viện cho bệnh ở trẻ nhỏ",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu bạn nhận thấy bất kỳ dấu hiệu và triệu chứng nào sau đây, hãy đưa con thẳng đến khoa cấp cứu gần nhất:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "cáu kỉnh dai dẳng hoặc khóc bất thường, khóc liên tục",
+            "đi tiểu ít hơn bình thường",
+            "bú/ăn kém",
+            "nôn thường xuyên, hoặc nôn ra dịch lẫn máu hay màu xanh lá"
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Có thêm thông tin về các dấu hiệu và triệu chứng này ở phần dưới."
+        }
+      ]
+    },
+    {
+      "h": "Cáu kỉnh hoặc khóc bất thường, khóc liên tục",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mọi em bé và trẻ nhỏ đều khóc. Nhưng con có thể đang mắc bệnh nặng hoặc đang đau nếu con:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "cáu kỉnh dai dẳng",
+            "khóc the thé, yếu ớt hoặc theo cách bất thường khác",
+            "khóc liên tục không ngừng",
+            "rất khó dỗ."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Đi tiểu ít hơn bình thường",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con có số bỉm ướt mỗi ngày ít hơn một nửa so với bình thường, con có thể đang bị mất nước."
+        }
+      ]
+    },
+    {
+      "h": "Bú/ăn kém",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu con bú/ăn không tốt hoặc không có hứng thú bú/ăn, đây có thể là dấu hiệu sớm của bệnh ở trẻ nhỏ."
+        }
+      ]
+    },
+    {
+      "h": "Nôn thường xuyên, hoặc nôn ra dịch lẫn máu hay màu xanh lá",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nôn là cách bình thường để cơ thể loại bỏ thứ gì đó nó không muốn. Nó cũng có thể là dấu hiệu của bệnh tật, nhiễm trùng hoặc tắc nghẽn."
+        },
+        {
+          "t": "p",
+          "text": "Nôn không ngừng có thể gây mất nước và mất cân bằng nguy hiểm trong hệ thống hóa học của cơ thể."
+        },
+        {
+          "t": "p",
+          "text": "Hãy đến khoa cấp cứu nếu con:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "nôn ra dịch lẫn máu hoặc màu xanh lá",
+            "đau bụng dai dẳng hoặc dữ dội kèm nôn",
+            "không ăn uống được gì và vẫn nôn sau 12 giờ (trẻ dưới 5 tuổi) hoặc 24 giờ (trẻ trên 5 tuổi)."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Sốt: khi nào cần lo lắng về bệnh nặng",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sốt là khi nhiệt độ cao hơn 38°C. Hầu hết trẻ bị sốt không mắc bệnh nặng."
+        },
+        {
+          "t": "p",
+          "text": "Nhưng trong một số trường hợp, sốt có thể là dấu hiệu của một bệnh nghiêm trọng hơn."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con ở bất kỳ độ tuổi nào có hệ miễn dịch yếu và bị sốt, hãy tìm kiếm chăm sóc y tế ngay lập tức. Ví dụ, đưa con đến bác sĩ đa khoa hoặc khoa cấp cứu bệnh viện."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con từ 0-3 tháng tuổi bị sốt, hãy tìm kiếm chăm sóc y tế ngay lập tức. Ví dụ, đưa con đến bác sĩ đa khoa hoặc khoa cấp cứu bệnh viện."
+        },
+        {
+          "t": "p",
+          "text": "Nếu con trên 3 tháng tuổi bị sốt, hãy đưa con đến bác sĩ đa khoa nếu con:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "đã sốt từ 2 ngày trở lên",
+            "khó thở",
+            "lơ mơ",
+            "có vẻ mất nước nhẹ, không chịu uống hoặc đi tiểu ít hơn",
+            "cứng cổ, hoặc đau đầu nhẹ, hoặc bị chói mắt khi gặp ánh sáng",
+            "nôn",
+            "phát ban",
+            "lên cơn sốt co giật",
+            "đau hoặc khó chịu nhẹ mà không đỡ khi dùng thuốc giảm đau."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cũng hãy đến gặp bác sĩ đa khoa nếu con cứ có vẻ không khỏe hoặc dường như ngày càng nặng hơn và bạn lo lắng."
+        }
+      ]
+    }
+  ]
+}

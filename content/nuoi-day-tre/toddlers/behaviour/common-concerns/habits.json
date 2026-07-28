@@ -1,0 +1,75 @@
+{
+  "path": "behaviour/common-concerns/habits",
+  "title": "Thói quen của trẻ và cách xử lý",
+  "subtitle": "Tìm hiểu nguyên nhân hình thành thói quen ở trẻ và những cách hiệu quả để giúp con thay đổi.",
+  "sections": [
+    {
+      "h": "Thói quen là gì?",
+      "blocks": [
+        {"t": "p", "text": "Thói quen là những hành vi trẻ lặp đi lặp lại gần như vô thức."},
+        {"t": "p", "text": "Thói quen của trẻ thường liên quan đến việc chạm vào hoặc nghịch các bộ phận trên mặt hay cơ thể. Đôi khi trẻ nhận ra mình đang làm vậy, đôi khi lại hoàn toàn không hay biết."}
+      ]
+    },
+    {
+      "h": "Những thói quen phổ biến ở trẻ",
+      "blocks": [
+        {"t": "p", "text": "Một số thói quen thường gặp ở trẻ:"},
+        {"t": "ul", "items": [
+          "Mút ngón tay, ngón cái hoặc ti giả",
+          "Đưa ngón tay hoặc cả bàn tay vào miệng",
+          "Cắn hoặc cạy móng tay",
+          "Xoắn hoặc giật tóc",
+          "Ngoáy mũi hoặc cậy vết thương",
+          "Cắn môi hoặc cắn vào bên trong má",
+          "Nhai các đồ vật như bút chì hay quần áo",
+          "Nghiến răng"
+        ]}
+      ]
+    },
+    {
+      "h": "Vì sao trẻ hình thành thói quen?",
+      "blocks": [
+        {"t": "p", "text": "Thói quen có thể mang lại cảm giác an ủi cho trẻ. Mút tay là một ví dụ điển hình. Khi trẻ tập đi dần thoát khỏi giai đoạn sơ sinh, những thói quen như mút ngón cái có thể là cách trẻ tự xoa dịu căng thẳng hay lo âu."},
+        {"t": "p", "text": "Đôi khi thói quen xuất hiện đơn giản vì trẻ buồn chán — đó chỉ là cách trẻ tự giải trí. Chẳng hạn, trẻ dễ cắn móng tay hơn khi đang xem TV hay không có việc gì làm, chứ không hẳn vì lo lắng."},
+        {"t": "p", "text": "Một số thói quen bắt đầu từ lý do thực tế nhưng vẫn tồn tại lâu sau khi lý do đó không còn nữa. Ví dụ, trẻ nhỏ hay ngoáy mũi khi bị cảm để thông mũi. Nhưng nếu trẻ vẫn ngoáy mũi dù đã biết xì mũi rồi, thì đó có thể đã thành thói quen."},
+        {"t": "p", "text": "Bố mẹ chính là tấm gương của con. Nếu thấy con bắt đầu có thói quen nào đó, hãy tự hỏi xem đó có phải là thói quen của mình không. Chẳng hạn, tật cắn móng tay thường có thể \"di truyền\" trong gia đình."},
+        {"t": "p", "text": "Một số hành vi trông giống thói quen nhưng thực ra có nguyên nhân bệnh lý. Ví dụ, nếu trẻ đột nhiên kéo hoặc đập vào tai và có vẻ khó chịu, có thể trẻ đang bị viêm tai hoặc mọc răng. Việc giật tóc, lông mày hay lông mi có thể là dấu hiệu của lo âu hoặc các vấn đề cảm xúc khác."}
+      ]
+    },
+    {
+      "h": "Cách giúp trẻ bỏ thói quen",
+      "blocks": [
+        {"t": "p", "text": "Hầu hết các thói quen sẽ tự mất đi theo thời gian. Nhưng nếu thói quen của con đang ảnh hưởng đến sinh hoạt hàng ngày hoặc gây hại cho bé, bố mẹ nên can thiệp."},
+        {"t": "p", "text": "Ví dụ, mút ngón tay là chuyện bình thường và thường không gây vấn đề gì. Nhưng nếu con mút tay liên tục đến mức cản trở việc nói chuyện hay ăn uống, hoặc bị bạn bè trêu chọc vì vậy, thì đã đến lúc giúp con bỏ thói quen đó."},
+        {"t": "p", "text": "<strong>Mẹo để giúp trẻ bỏ thói quen</strong>"},
+        {"t": "ul", "items": [
+          "Giúp con hiểu về hành vi của mình và cùng con nghĩ ra giải pháp. Ví dụ: 'Con nghĩ thay vì ngoáy mũi, con có thể làm gì để không lây vi khuẩn cho người khác?'",
+          "Nhắc nhở con nhẹ nhàng mỗi khi thấy con đang có thói quen đó.",
+          "Đánh lạc hướng hoặc khuyến khích con làm việc khác. Chẳng hạn, gợi ý con chơi với đồ chơi có nhiều bộ phận cử động trong khi xem TV, hoặc chơi trò chơi bàn tay như 'con nhện trèo tường'.",
+          "Nếu con có hai thói quen đi kèm nhau — ví dụ vừa mút ngón cái vừa giật tóc — hãy tập trung bỏ một thói quen trước. Bỏ được thói quen này có thể kéo theo thói quen kia cũng dần biến mất."
+        ]},
+        {"t": "p", "text": "Khen ngợi đúng lúc rất có tác dụng. Bố mẹ có thể nói: 'Con giỏi quá, con nhớ lấy đồ chơi rồi đấy. Mẹ nghe rõ lời con hơn khi tay con không ở trong miệng'."}
+      ]
+    },
+    {
+      "h": "Khi nào cần tìm sự hỗ trợ?",
+      "blocks": [
+        {"t": "p", "text": "Nếu trẻ mút ngón tay trong nhiều năm, thói quen này có thể ảnh hưởng đến sự phát triển răng. Nếu con vẫn còn mút ngón tay sau 4 tuổi, hãy hỏi dược sĩ về các giải pháp như dung dịch bôi lên ngón tay. Nếu lo ngại thói quen đang gây hại cho răng, hãy đến gặp nha sĩ."},
+        {"t": "p", "text": "Nếu lo âu có thể là nguyên nhân đằng sau thói quen của con, bố mẹ cần tìm hiểu và xử lý nguồn gốc của sự lo âu đó. Hãy trao đổi với bác sĩ gia đình để được giới thiệu đến chuyên gia phù hợp. Chẳng hạn, chuyên gia tâm lý có thể giúp trẻ học các bước đơn giản để bỏ thói quen."}
+      ]
+    },
+    {
+      "h": "Thói quen ở trẻ khuyết tật, tự kỷ hoặc có nhu cầu đặc biệt",
+      "blocks": [
+        {"t": "p", "text": "Trẻ khuyết tật, trẻ tự kỷ hoặc trẻ có nhu cầu đặc biệt có thể có nhiều thói quen hơn so với trẻ phát triển bình thường, hoặc các thói quen đó có thể biểu hiện rõ rệt hơn. Nếu bố mẹ lo lắng về thói quen của con, hãy tìm đến chuyên gia tâm lý hoặc chuyên gia có kinh nghiệm làm việc với trẻ có nhu cầu đặc biệt để được hỗ trợ."}
+      ]
+    },
+    {
+      "h": "Thói quen hay tic thần kinh?",
+      "blocks": [
+        {"t": "p", "text": "Tic thần kinh không phải là thói quen. Tic là những cử động hoặc âm thanh đột ngột, lặp đi lặp lại và không thể kiểm soát được. Ví dụ như chớp mắt liên tục, co giật mặt, giật tay hay phát ra tiếng ực."},
+        {"t": "p", "text": "Trẻ có thể cố nhịn tic trong một khoảng thời gian ngắn, nhưng ngay khi trẻ không còn tập trung vào việc nhịn nữa, tic sẽ xuất hiện trở lại. Nếu thấy tic đang khiến con khó chịu, tốt nhất hãy tìm đến chuyên gia y tế. Bác sĩ gia đình luôn là điểm khởi đầu tốt."}
+      ]
+    }
+  ]
+}

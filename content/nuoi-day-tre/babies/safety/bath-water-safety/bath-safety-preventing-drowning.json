@@ -1,0 +1,44 @@
+{
+  "path": "safety/bath-water-safety/bath-safety-preventing-drowning",
+  "title": "Phòng ngừa đuối nước khi tắm",
+  "subtitle": "Trẻ nhỏ có thể đuối nước chỉ trong vài centimet nước và chỉ trong 20 giây. Giám sát thường xuyên của người lớn là chìa khóa để phòng ngừa đuối nước khi tắm.",
+  "sections": [
+    {
+      "h": "Về đuối nước và an toàn khi tắm",
+      "blocks": [
+        {"t": "p", "text": "Đuối nước là một trong những nguyên nhân tử vong hàng đầu ở trẻ dưới 5 tuổi."},
+        {"t": "p", "text": "Trẻ rất nhỏ có nguy cơ đuối nước cao hơn trẻ lớn hơn. Đó là vì trẻ nhỏ nặng phần đầu, chưa nhận thức được những nguy hiểm của nước và không biết cách tự thoát khỏi tình huống nguy hiểm."},
+        {"t": "p", "text": "Trẻ nhỏ có thể trượt vào bồn tắm hoặc chìm xuống nước rất bất ngờ, và chúng có thể đuối nước chỉ trong vài centimet nước. Hơn nữa, đuối nước có thể xảy ra rất nhanh – chỉ cần 20 giây. Và trẻ nhỏ có thể đuối nước trong im lặng, không ho hay vùng vẫy, nên bạn thậm chí có thể không nhận ra bé đang gặp nguy hiểm."},
+        {"t": "p", "text": "Giờ tắm có thể gây căng thẳng vì thường diễn ra vào cuối ngày khi bạn có rất nhiều việc phải làm. Khi quá nhiều việc xảy ra cùng lúc, nguy cơ tai nạn có thể tăng lên. Nếu điều này giống tình huống của bạn, bạn có thể cân nhắc thay đổi nề nếp sinh hoạt để mọi thứ dễ dàng hơn."}
+      ]
+    },
+    {
+      "h": "Phòng ngừa đuối nước khi tắm: những lời khuyên",
+      "blocks": [
+        {"t": "p", "text": "Giám sát thường xuyên của người lớn là chìa khóa để phòng ngừa đuối nước. Đừng bao giờ để con một mình gần nước, dù chỉ một phút."},
+        {"t": "p", "text": "<strong>Giám sát</strong>"},
+        {"t": "ul", "items": [
+          "Khi bạn và con ở trong phòng tắm, hãy đảm bảo con luôn trong tầm tay với và tầm mắt của bạn mọi lúc.",
+          "Nếu bạn được gọi ra để nghe điện thoại hoặc mở cửa, hãy quấn con trong khăn và mang con theo cùng.",
+          "Luôn trông chừng con, kể cả khi bạn dùng ghế tắm hoặc nôi tắm. Ghế tắm không phải là thiết bị an toàn. Nếu không có sự giám sát của bạn, ghế tắm không thể giữ an toàn cho con.",
+          "Đừng bao giờ giao cho anh chị lớn trông chừng em nhỏ trong bồn tắm. Các bé chưa có kỹ năng để nhận ra và xử lý tình huống khẩn cấp."
+        ]},
+        {"t": "p", "text": "<strong>Yếu tố gây xao nhãng</strong>"},
+        {"t": "ul", "items": [
+          "Chuẩn bị sẵn mọi thứ từ trước để bạn có thể ở bên con suốt giờ tắm – khăn tắm, khăn lau mặt, bông gòn, tã sạch và quần áo sạch.",
+          "Cân nhắc chuyển điện thoại sang chế độ im lặng và để bên ngoài phòng tắm nếu bạn nghĩ nó có thể làm bạn xao nhãng.",
+          "Lưu ý đến bất kỳ yếu tố gây xao nhãng nào khác có thể khiến bạn rời khỏi bồn tắm hoặc mất kiểm soát thời gian."
+        ]},
+        {"t": "p", "text": "<strong>An toàn bồn tắm và phòng tắm</strong>"},
+        {"t": "ul", "items": [
+          "Chỉ xả vừa đủ nước để tắm và chơi. Mực nước ngang rốn là quá đủ với một bé đã có thể tự ngồi.",
+          "Dùng thảm chống trượt trong bồn tắm nếu bồn của bạn không có bề mặt chống trượt.",
+          "Xả hết nước ngay khi giờ tắm kết thúc.",
+          "Đóng cửa phòng tắm và phòng giặt khi không sử dụng. Điều này ngăn trẻ nhỏ tự tiếp cận vòi nước hoặc nguồn nước.",
+          "Để nút bịt cống ngoài tầm với để trẻ không thể tự làm đầy bồn tắm hoặc bồn rửa."
+        ]},
+        {"t": "p", "text": "Học sơ cứu là điều quan trọng. Bạn cũng nên tham gia một khóa sơ cứu mỗi 3 năm và cập nhật kỹ năng hồi sức tim phổi (CPR) mỗi năm. Bạn có thể in ra hướng dẫn minh họa về CPR cho trẻ sơ sinh và hướng dẫn minh họa về CPR cho trẻ em để dán trong hoặc gần phòng tắm."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "path": "health-daily-care/health-concerns/pool-hygiene",
+  "title": "Vệ sinh hồ bơi cho gia đình",
+  "subtitle": "Vi khuẩn trong hồ bơi có thể gây bệnh; đây là cách giữ vệ sinh cho mọi loại hồ bơi.",
+  "sections": [
+    {
+      "h": "Nước hồ bơi và bệnh tật",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Hầu hết các hồ bơi đều sạch. Nhưng đôi khi vẫn có thể có vi khuẩn, đặc biệt nếu hồ bơi quá đông hoặc chưa được xử lý đúng cách bằng hóa chất hồ bơi."
+        },
+        {
+          "t": "p",
+          "text": "Vi khuẩn trong hồ bơi có thể gây các bệnh như nhiễm trùng tai, mắt, da và ngực, cũng như viêm dạ dày ruột. Ngoài ra, hóa chất mạnh trong nước hồ bơi đôi khi có thể gây kích ứng mắt và da."
+        },
+        {
+          "t": "p",
+          "text": "Trong bài viết này, “hồ bơi” bao gồm hồ bơi công cộng hoặc tư nhân, hồ thủy trị liệu, bồn tắm nóng và spa, hồ phao và hồ lội nông, cùng công viên nước."
+        }
+      ]
+    },
+    {
+      "h": "Vi khuẩn xâm nhập vào hồ bơi như thế nào?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Vi khuẩn có thể xâm nhập vào nước hồ bơi qua:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "da, mồ hôi, nước tiểu, phân, nước bọt và các vết loét hở",
+            "đất, thức ăn và các vật rắn khác rơi vào hồ bơi."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Điều này có thể xảy ra khá dễ dàng. Ví dụ, nếu bạn từng bị tiêu chảy, vi khuẩn vẫn có thể còn trên da bạn ngay cả khi bạn đã lau rửa mông và tay thật sạch. Nên khi bạn xuống hồ bơi, vi khuẩn có thể từ da bạn lan vào nước."
+        },
+        {
+          "t": "p",
+          "text": "Ngoài ra, em bé hoặc trẻ chưa được tập đi vệ sinh rất dễ đi tiêu trong nước khi đang bơi. Nếu bé đi phân lỏng, vi khuẩn từ phân có thể lọt vào nước, ngay cả khi bé đang mặc bỉm bơi. Hoặc nếu bạn thay bỉm cho một bé đang ốm gần hồ bơi, vi khuẩn từ bỉm có thể lọt vào nước ngay cả khi bé thì không."
+        }
+      ]
+    },
+    {
+      "h": "Tất cả các hồ bơi: thông tin và mẹo vệ sinh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Dành cho tất cả người bơi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Đừng xuống hồ bơi nếu bạn đang bị tiêu chảy hoặc đã bị tiêu chảy trong vòng 2 tuần qua.",
+            "Cố gắng không để nước vào miệng, và đừng nuốt nước hồ bơi.",
+            "Rửa tay bằng xà phòng và nước sau khi đi vệ sinh hoặc thay bỉm.",
+            "Tắm tráng trước khi xuống hồ và sau khi lên khỏi hồ."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dành cho cha mẹ có con nhỏ"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Đảm bảo con có mông sạch trước khi xuống hồ bơi.",
+            "Dùng bỉm bơi ôm vừa cho con, nhưng lưu ý loại bỉm này không chống rò rỉ. Chúng có thể trì hoãn chứ không ngăn được phân và vi khuẩn lọt vào nước.",
+            "Thay bỉm bơi thường xuyên để ngăn phân và vi khuẩn lọt vào nước.",
+            "Thay bỉm ở xa khu vực hồ bơi. Với nhiều nước bắn tung tóe xung quanh, vi khuẩn rất dễ lọt vào hồ.",
+            "Nếu con đã được tập đi vệ sinh, hãy cố ngăn ngừa tai nạn đi vệ sinh trong hồ bằng cách cho con đi vệ sinh đều đặn."
+          ]
+        }
+      ]
+    },
+    {
+      "h": "Hồ bơi và hồ lội nông tại nhà: thông tin và mẹo vệ sinh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Hồ lội nông tại nhà chủ yếu được em bé và trẻ nhỏ sử dụng. Điều này nghĩa là chúng rất dễ có vi khuẩn từ phân. Hơn nữa, nước hồ lội nông thường không được xử lý bằng hóa chất hồ bơi."
+        },
+        {
+          "t": "p",
+          "text": "Đây là cách giảm nguy cơ con nhỏ bị ốm khi dùng hồ lội nông:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Cố gắng không để nước hồ vào miệng con.",
+            "Luôn đổ hết nước trong hồ lội nông sau khi dùng xong."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Để nước trong hồ lội nông là nguy cơ đuối nước cũng như nguy cơ nhiễm khuẩn."
+        },
+        {
+          "t": "p",
+          "text": "Hồ bơi tại nhà cần được xử lý và theo dõi thường xuyên để luôn sạch và an toàn cho việc bơi:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Dùng hóa chất hồ bơi tuân thủ nghiêm ngặt theo hướng dẫn của nhà sản xuất.",
+            "Kiểm tra độ pH và nồng độ clo của nước thường xuyên.",
+            "Kiểm tra xem nước có trong và bạn có nhìn thấy đáy hồ hay không."
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bạn có thể nhận tư vấn về vệ sinh hồ bơi từ các nhà cung cấp hóa chất hồ bơi hoặc các công ty bảo trì hồ bơi, cũng như từ Cán bộ Y tế Môi trường tại hội đồng địa phương."
+        },
+        {
+          "t": "p",
+          "text": "Nếu có sự cố phân trong hồ bơi, hãy cho mọi người lên khỏi nước ngay lập tức. Nếu là hồ lội nông, hãy đổ hết nước và cọ rửa hồ bằng chất khử trùng. Rửa lại hồ rồi phơi khô dưới nắng ít nhất 4 giờ trước khi dùng lại. Nếu là hồ bơi, hãy làm theo hướng dẫn vệ sinh và xử lý đi kèm với hóa chất hồ bơi của bạn."
+        }
+      ]
+    },
+    {
+      "h": "Hồ bơi công cộng: thông tin và mẹo vệ sinh",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nếu một hồ bơi công cộng đã được xử lý đúng cách bằng hóa chất hồ bơi, hầu hết vi khuẩn trong hồ sẽ bị tiêu diệt."
+        },
+        {
+          "t": "p",
+          "text": "Nhưng khi hồ bơi công cộng quá đông – ví dụ vào một ngày hè nóng nực – vi khuẩn vẫn có thể lọt vào ngay cả hồ bơi sạch nhất. Càng nhiều người thì càng nhiều vi khuẩn và bụi bẩn trong nước."
+        },
+        {
+          "t": "p",
+          "text": "Nếu bạn muốn biết một hồ bơi sạch và an toàn đến mức nào khi đông người, hãy hỏi nhân viên hồ bơi về kết quả đo pH mới nhất. Họ sẽ có thể giải thích cho bạn."
+        },
+        {
+          "t": "p",
+          "text": "Nếu có sự cố phân trong hồ bơi công cộng, hãy lên khỏi nước và báo cho nhân viên hồ bơi ngay lập tức. Nếu bạn hoặc con bị ốm sau khi dùng hồ bơi công cộng, hãy liên hệ nhân viên hồ bơi để họ có thể theo dõi nguy cơ bùng phát dịch bệnh."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+ "path": "development/language-development/speech-disorders",
+ "title": "Rối loạn lời nói ở trẻ 1-8 tuổi",
+ "subtitle": "Rối loạn lời nói là khi trẻ khó phát âm các âm trong từ, khiến lời nói khó hiểu hơn so với trẻ cùng tuổi. Phát hiện và trợ giúp sớm rất quan trọng.",
+ "sections": [
+  {
+   "h": "Về lời nói và sự phát triển lời nói",
+   "blocks": [
+    {"t": "p", "text": "Lời nói là khả năng dùng môi, lưỡi và các bộ phận khác của miệng để tạo ra âm thanh."},
+    {"t": "p", "text": "Để nói được, trẻ cần hiểu các âm khác nhau và quy tắc ghép những âm đó lại với nhau trong ngôn ngữ của mình."},
+    {"t": "p", "text": "Hầu hết trẻ học các âm sau đây ở những độ tuổi sau (đây là các âm trong tiếng Anh):"},
+    {"t": "ul", "items": [
+     "khoảng 3 tuổi – b, p, m, n, h, d, k, g, ng (như trong từ 'sing'), t, w, f, y",
+     "khoảng 4-5 tuổi – sh, zh, ch, j, s và các âm ghép như tw, kw, gl, bl",
+     "khoảng 6 tuổi – l, r, v và các âm ghép như pl, kl, kr, fl, tr, st, dr, br, fr, gr, sn, sk, sw, sp, str, spl",
+     "khoảng 7-8 tuổi – th, z và các âm ghép sm, sl, thr, skw, spr, skr."
+    ]}
+   ]
+  },
+  {
+   "h": "Về rối loạn lời nói",
+   "blocks": [
+    {"t": "p", "text": "Hầu hết trẻ đều mắc một số lỗi trong lời nói trong vài năm đầu phát triển lời nói. Nhưng đến khoảng 3 tuổi, hầu hết trẻ đã có thể được cha mẹ, anh chị em và bạn bè hiểu được."},
+    {"t": "p", "text": "Rối loạn lời nói là khi trẻ gặp khó khăn trong việc phát các âm trong từ và điều này khiến lời nói của trẻ khó hiểu hơn so với những trẻ khác cùng tuổi."},
+    {"t": "p", "text": "Rối loạn lời nói khác với chậm phát triển ngôn ngữ. Trẻ chậm phát triển ngôn ngữ gặp khó khăn trong việc hiểu hoặc sử dụng lời nói."}
+   ]
+  },
+  {
+   "h": "Nhận biết rối loạn lời nói",
+   "blocks": [
+    {"t": "p", "text": "Nếu bạn lo lắng rằng con mình có thể bị rối loạn lời nói, hãy nghĩ xem những người không quen biết con bạn thường gặp khó khăn trong việc hiểu lời con đến mức nào."},
+    {"t": "p", "text": "Khi trẻ 2,5 tuổi, một người lạ nên hiểu được khoảng một nửa những gì trẻ nói."},
+    {"t": "p", "text": "Khi trẻ 4-5 tuổi, một người lạ nên hiểu được khoảng ba phần tư những gì trẻ nói. Trẻ có lẽ vẫn phát một số âm và từ khác với người lớn."},
+    {"t": "p", "text": "Khi trẻ 6-7 tuổi, một người lạ nên hiểu được gần như mọi điều trẻ nói. Trẻ có thể mắc vài lỗi với âm 'th' trong các từ như 'this' hay 'that'. Trẻ cũng có thể khó nói những từ dài hơn như 'hippopotamus' (con hà mã)."}
+   ]
+  },
+  {
+   "h": "Khi nào cần tìm sự trợ giúp về rối loạn lời nói",
+   "blocks": [
+    {"t": "p", "text": "Nếu con bạn bị rối loạn lời nói, bạn có lẽ sẽ cần sự trợ giúp từ một chuyên gia."},
+    {"t": "p", "text": "Tốt nhất nên cân nhắc tìm trợ giúp nếu con bạn:"},
+    {"t": "ul", "items": [
+     "chỉ dùng một vài âm lời nói khi 2 tuổi",
+     "không phát âm các từ theo cách bạn mong đợi ở độ tuổi của con",
+     "mắc rất nhiều lỗi trong lời nói và bạn không hiểu được con",
+     "tỏ ra bực bội hay buồn bã khi bạn không hiểu con, phải lặp lại các âm hoặc nói lắp",
+     "bị mất thính lực và nhiễm trùng tai giữa nhiều lần."
+    ]}
+   ]
+  },
+  {
+   "h": "Tìm sự trợ giúp về lời nói của trẻ ở đâu",
+   "blocks": [
+    {"t": "p", "text": "Nếu bạn có bất kỳ lo lắng nào về sự phát triển lời nói của con, hãy trao đổi với bác sĩ gia đình, bác sĩ nhi khoa hoặc y tá chăm sóc sức khỏe trẻ em và gia đình hay giáo viên của con."},
+    {"t": "p", "text": "Những chuyên gia này có thể giới thiệu bạn đến một chuyên gia ngôn ngữ trị liệu, hoặc bạn có thể tự đến gặp một chuyên gia ngôn ngữ trị liệu tư nhân."},
+    {"t": "p", "text": "Bạn có thể được giới thiệu đến một chuyên gia thính học nếu có khả năng vấn đề lời nói của con là do mất thính lực gây ra."}
+   ]
+  },
+  {
+   "h": "Cách hỗ trợ sự phát triển lời nói của trẻ",
+   "blocks": [
+    {"t": "p", "text": "Trẻ nhỏ thường phát âm các từ khác với người lớn. Không cần phải sửa con mỗi khi con nói một từ khác với cách bạn nói."},
+    {"t": "p", "text": "Nếu bạn muốn khuyến khích con nói từ cho đúng, những lời nhắc nhẹ nhàng có thể hữu ích. Ví dụ, nếu con nói 'Con thấy con mào' (thay vì 'con mèo'), bạn có thể đáp 'Con mèo ở đâu? Con mèo đang làm gì?' Cách này lặp lại âm bị thiếu hoặc bị nói sai – 'mèo' – với một chút nhấn mạnh."},
+    {"t": "p", "text": "Nếu lời nói của con rất khó hiểu, đây là những ý tưởng giúp con giao tiếp:"},
+    {"t": "ul", "items": [
+     "Nhờ con chỉ cho bạn thứ con đang nói tới. Ví dụ, nhờ con chỉ vào thứ con muốn.",
+     "Đặt câu hỏi để hiểu thêm về điều con đang cố nói. Ví dụ, 'Con đang kể cho mẹ chuyện gì xảy ra hôm nay à? Có phải ở lớp mẫu giáo không?' Rồi để con kể cho bạn phần còn lại của câu chuyện.",
+     "Khuyến khích con nói chậm rãi. Cho con biết bạn đang lắng nghe và con có thể dùng bao nhiêu thời gian tùy thích để kể cho bạn nghe."
+    ]}
+   ]
+  },
+  {
+   "h": "Những điều không cần lo lắng về phát triển lời nói",
+   "blocks": [
+    {"t": "p", "text": "Trong những năm đầu, trẻ có thể phát đúng các âm, nhưng không phải lúc nào cũng dùng những âm đó đúng trong từ. Khi đang học nói, trẻ đơn giản hóa lời nói của người lớn để dễ nói hơn."},
+    {"t": "p", "text": "Điều này có nghĩa là bạn có lẽ không cần lo lắng nếu con nhỏ của mình (đây là các ví dụ trong tiếng Anh):"},
+    {"t": "ul", "items": [
+     "thay thế một vài âm trong từ ('lellow' thay vì 'yellow')",
+     "đơn giản hóa những tổ hợp âm khó ('side' thay vì 'slide')",
+     "bỏ bớt âm tiết ('puter' thay vì 'computer')."
+    ]},
+    {"t": "p", "text": "Nếu bạn hiểu được con, thì có lẽ mọi chuyện vẫn ổn."}
+   ]
+  },
+  {
+   "h": "Nguyên nhân gây rối loạn lời nói",
+   "blocks": [
+    {"t": "p", "text": "Nhiều rối loạn lời nói không rõ nguyên nhân."},
+    {"t": "p", "text": "Một số rối loạn lời nói xảy ra khi trẻ có vấn đề về thể chất như hở hàm ếch, khiến trẻ khó tạo ra các âm của lời nói. Các rối loạn lời nói khác có thể xảy ra do điếc hoặc mất thính lực. Và một số rối loạn lời nói nặng là do các tình trạng di truyền gây ra."},
+    {"t": "p", "text": "Ngoài ra, một số rối loạn lời nói xảy ra cùng với tự kỷ, ADHD (rối loạn tăng động giảm chú ý) và các tình trạng khác."}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+  "path": "health-daily-care/health-concerns/newborn-screening",
+  "title": "Sàng lọc sơ sinh: những điều cần biết",
+  "subtitle": "Xét nghiệm máu gót chân giúp phát hiện sớm các bệnh hiếm gặp ở trẻ sơ sinh",
+  "sections": [
+    {"h": "Sàng lọc sơ sinh là gì?", "blocks": [
+      {"t":"p","text":"Sàng lọc sơ sinh là một xét nghiệm máu đơn giản."},
+      {"t":"p","text":"Xét nghiệm máu này có thể phát hiện dấu hiệu của ít nhất 25 bệnh lý hiếm gặp nhưng nghiêm trọng mà không thể phát hiện trước khi sinh. Nó cũng có thể phát hiện dấu hiệu trước khi các triệu chứng rõ ràng xuất hiện. Nếu những bệnh lý này được phát hiện sớm, việc điều trị cũng có thể bắt đầu sớm. Trong hầu hết trường hợp, điều trị sớm có thể ngăn ngừa hoặc giảm bớt tác động của những bệnh này, một số trong đó đe dọa tính mạng."},
+      {"t":"p","text":"Đây là lý do bạn sẽ được đề nghị thực hiện sàng lọc sơ sinh trong vòng 48-72 giờ đầu sau khi bé chào đời."},
+      {"t":"p","text":"Sàng lọc sơ sinh cho bạn biết liệu bé có nguy cơ cao mắc một bệnh lý nào đó hay không. Bạn sẽ cần xét nghiệm thêm để biết chắc chắn liệu bé có thực sự mắc một bệnh cụ thể hay không."},
+      {"t":"p","text":"Sàng lọc sơ sinh đôi khi được gọi là xét nghiệm vết máu khô sơ sinh. Bạn cũng có thể nghe gọi là xét nghiệm lấy máu gót chân."},
+      {"t":"p","text":"Gần như tất cả trẻ sơ sinh đều khỏe mạnh khi chào đời. Chưa đến 1% kết quả sàng lọc sơ sinh cho thấy bé có nguy cơ cao mắc một bệnh nghiêm trọng."}
+    ]},
+    {"h": "Sàng lọc sơ sinh kiểm tra những bệnh nào?", "blocks": [
+      {"t":"p","text":"Ở Úc, sàng lọc sơ sinh kiểm tra ít nhất 25 bệnh lý. Phổ biến nhất là:"},
+      {"t":"ul","items":[
+        "suy giáp bẩm sinh (CH)",
+        "xơ nang (CF)",
+        "rối loạn axit amin như phenylketon niệu (PKU)",
+        "rối loạn axit hữu cơ",
+        "rối loạn chuyển hóa axit béo."
+      ]},
+      {"t":"p","text":"Có những bệnh lý khác chỉ được xét nghiệm ở một số tiểu bang và lãnh thổ của Úc. Bao gồm bệnh galactose huyết (galactosaemia) và teo cơ tủy sống (SMA)."},
+      {"t":"p","text":"Bạn có thể hỏi nữ hộ sinh hoặc y tá sức khỏe trẻ em và gia đình về các bệnh lý được kiểm tra trong chương trình sàng lọc sơ sinh tại bệnh viện hoặc cộng đồng của bạn."},
+      {"t":"p","text":"Có một số bệnh lý và rối loạn mà sàng lọc sơ sinh không kiểm tra. Hãy báo cho bác sĩ hoặc y tá biết nếu gia đình bạn có tiền sử mắc bất kỳ rối loạn hoặc bệnh lý nào."},
+      {"t":"p","text":"Sàng lọc sơ sinh kiểm tra các rối loạn và bệnh lý hiếm gặp. Hầu hết trẻ mắc những rối loạn này đến từ những gia đình không có tiền sử mắc bệnh trước đó."}
+    ]},
+    {"h": "Trước khi xét nghiệm lấy máu gót chân, điều gì sẽ diễn ra?", "blocks": [
+      {"t":"p","text":"Bác sĩ hoặc nữ hộ sinh sẽ trao đổi với bạn về sàng lọc sơ sinh và xin sự đồng ý của bạn để làm xét nghiệm. Nếu bạn đồng ý, bạn sẽ được yêu cầu ký vào một mẫu đơn hoặc thẻ sàng lọc sơ sinh."},
+      {"t":"p","text":"Nếu bạn không đồng ý sàng lọc sơ sinh, bạn sẽ được yêu cầu ký vào mẫu Từ chối Sàng lọc. Nếu sau này bé bị ốm, điều quan trọng là báo cho y tá sức khỏe trẻ em và gia đình hoặc bác sĩ gia đình biết rằng bé chưa được sàng lọc sơ sinh."},
+      {"t":"p","text":"Bạn cũng có thể được hỏi liệu mẫu máu sàng lọc của bé có thể được dùng cho nghiên cứu trong tương lai hay không. Việc đồng ý điều này là lựa chọn của bạn. Bạn có thể từ chối. Nếu bạn đồng ý cho dùng máu của bé vào nghiên cứu, danh tính của bé sẽ được giữ bí mật với các nhà nghiên cứu."},
+      {"t":"p","text":"Sàng lọc sơ sinh là miễn phí. Bạn không phải trả tiền."}
+    ]},
+    {"h": "Trong khi lấy máu gót chân, điều gì diễn ra?", "blocks": [
+      {"t":"p","text":"Nữ hộ sinh sẽ bắt đầu bằng việc làm ấm gót chân của bé (thường dùng bàn tay hoặc một chiếc chăn). Nữ hộ sinh sẽ chích gót chân bé và lấy vài giọt máu lên giấy thấm chuyên dụng. Giấy thấm được phơi khô rồi gửi đến phòng xét nghiệm, nơi máu của bé được kiểm tra để tìm các bệnh lý khác nhau."},
+      {"t":"p","text":"Nếu bạn xuất viện sớm, y tá sức khỏe trẻ em và gia đình hoặc nữ hộ sinh tại địa phương có thể đến lấy mẫu máu của bé tại nhà. Nếu không thể, bạn sẽ phải đưa bé trở lại bệnh viện để lấy mẫu máu."},
+      {"t":"p","text":"Ngày thực hiện sàng lọc sơ sinh nên được ghi vào sổ theo dõi sức khỏe và phát triển của bé."},
+      {"t":"p","text":"Cho bé bú mẹ hoặc tiếp xúc da kề da có thể giúp bé dễ chịu và giảm đau khi lấy mẫu máu. Nếu bé không thể bú mẹ hoặc được bế da kề da, một lượng rất nhỏ đường sucrose dạng uống, một loại siro ngọt đặc biệt, có thể giúp giảm đau cho bé."}
+    ]},
+    {"h": "Làm thế nào để nhận kết quả sàng lọc sơ sinh?", "blocks": [
+      {"t":"p","text":"Kết quả thường có sau khoảng 2 tuần kể từ khi xét nghiệm, khi chúng được gửi đến nữ hộ sinh hoặc cơ sở nơi bé chào đời."},
+      {"t":"p","text":"Gần như tất cả các bé đều có kết quả bình thường. Thông thường bạn chỉ được thông báo về kết quả xét nghiệm của bé nếu có vấn đề."},
+      {"t":"p","text":"Nếu kết quả của bé không bình thường, bạn sẽ được liên hệ ngay lập tức và được giới thiệu đến bác sĩ chuyên khoa để xét nghiệm thêm nhằm chẩn đoán tình trạng của bé."},
+      {"t":"p","text":"Điều quan trọng là đưa bé đi làm vòng xét nghiệm thứ hai này mà không trì hoãn. Tình trạng của bé được chẩn đoán càng sớm thì bé càng có thể bắt đầu điều trị sớm hơn."}
+    ]},
+    {"h": "Khi nào cần làm lại sàng lọc sơ sinh", "blocks": [
+      {"t":"p","text":"Một số bé cần được làm lại xét nghiệm sàng lọc sơ sinh."},
+      {"t":"p","text":"Sàng lọc sơ sinh thường cần được làm lại vì những lý do sau:"},
+      {"t":"ul","items":[
+        "Không đủ lượng máu để thực hiện xét nghiệm sàng lọc.",
+        "Xét nghiệm sàng lọc lần đầu của bé không cho kết quả rõ ràng, hoặc kết quả chỉ nằm ngoài ngưỡng bình thường một chút.",
+        "Bé sinh non hoặc nhẹ cân.",
+        "Bé được truyền máu từ người hiến.",
+        "Bé được nuôi ăn qua đường tĩnh mạch trước khi bắt đầu bú sữa mẹ hoặc sữa công thức bình thường.",
+        "Bé là một trong cặp song sinh hoặc sinh ba cùng trứng."
+      ]},
+      {"t":"p","text":"Bệnh viện hoặc nữ hộ sinh sẽ liên hệ với bạn nếu bé cần được xét nghiệm lại. Nếu được yêu cầu đưa bé đi xét nghiệm lại, điều quan trọng là thực hiện càng sớm càng tốt."}
+    ]},
+    {"h": "Thông tin sàng lọc sơ sinh được lưu trữ như thế nào", "blocks": [
+      {"t":"p","text":"Ở Úc, Hội đồng Tư vấn Kiểm định Giải phẫu Bệnh Quốc gia yêu cầu tất cả thẻ sàng lọc phải được lưu trữ ở nơi an toàn trong tối thiểu 2 năm. Điều này để mẫu máu của bé có thể được tìm thấy dễ dàng nếu bé cần xét nghiệm thêm."},
+      {"t":"p","text":"Các tiểu bang và lãnh thổ khác nhau có những quy định khác nhau về việc xử lý thẻ sàng lọc sau 2 năm. Bạn có thể nộp đơn xin trả lại thẻ của bé sau 2 năm. Để làm điều này, bạn và người cha/mẹ còn lại của bé phải cùng đồng ý và nộp một mẫu đơn bằng văn bản cho phòng xét nghiệm."},
+      {"t":"p","text":"Nếu bạn có bất kỳ câu hỏi nào về xét nghiệm sàng lọc sơ sinh và kết quả, hãy trao đổi với nữ hộ sinh, bác sĩ sản khoa hoặc bác sĩ gia đình. Các lớp học tiền sản cũng là cơ hội tuyệt vời để đặt câu hỏi."}
+    ]},
+    {"h": "Có những xét nghiệm sơ sinh nào khác không?", "blocks": [
+      {"t":"p","text":"Bạn sẽ được đề nghị thực hiện các kiểm tra và xét nghiệm sơ sinh khác trong những ngày đầu đời của bé. Các kiểm tra chính là về:"},
+      {"t":"ul","items":[
+        "loạn sản khớp háng phát triển (DDH)",
+        "điếc và mất thính lực."
+      ]}
+    ]}
+  ]
+}

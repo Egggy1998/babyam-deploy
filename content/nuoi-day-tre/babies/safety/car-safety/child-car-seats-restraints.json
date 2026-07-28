@@ -1,0 +1,148 @@
+{
+  "path": "safety/car-safety/child-car-seats-restraints",
+  "title": "Ghế xe trẻ em: cách chọn, lắp đặt và sử dụng",
+  "subtitle": "Hướng dẫn về luật ghế xe trẻ em ở Úc, tiêu chuẩn an toàn, cách chọn ghế cũ, cách lắp đặt đúng và nơi đặt ghế xe an toàn cho trẻ.",
+  "sections": [
+    {
+      "h": "Luật ghế xe trẻ em ở Úc: những điều cơ bản",
+      "blocks": []
+    },
+    {
+      "h": "Trẻ đến 7 tuổi",
+      "blocks": [
+        {"t": "p", "text": "Theo luật, trẻ đến ít nhất 7 tuổi phải dùng ghế xe trẻ em quay mặt về phía sau, ghế quay mặt về phía trước hoặc ghế nâng (booster seat) khi di chuyển trên xe cơ giới."},
+        {"t": "p", "text": "Ghế xe phải đạt Tiêu chuẩn Úc/New Zealand AS/NZS 1754 và phải:"},
+        {"t": "ul", "items": [
+          "được dán nhãn tương ứng",
+          "phù hợp với kích cỡ và độ tuổi của con",
+          "được lắp đặt đúng trong xe theo hướng dẫn của nhà sản xuất",
+          "được điều chỉnh và cài đặt đúng cách để vừa với con",
+          "dưới 10 năm tuổi và còn trong tình trạng hoạt động tốt."
+        ]}
+      ]
+    },
+    {
+      "h": "Trẻ trên 7 tuổi",
+      "blocks": [
+        {"t": "p", "text": "Trẻ từ 7 tuổi trở lên phải tiếp tục dùng ghế xe phù hợp, đã được phê duyệt, cho đến khi vừa với dây an toàn người lớn loại có đai ngang đùi và đai chéo vai (lap-sash). Trẻ chỉ có thể dùng dây an toàn người lớn loại đai ngang đùi và đai chéo vai đã được điều chỉnh và cài đặt đúng cách khi:"},
+        {"t": "ul", "items": [
+          "đã lớn quá khổ so với ghế xe hiện tại",
+          "đủ lớn để dây an toàn vừa vặn đúng cách với trẻ."
+        ]},
+        {"t": "p", "text": "Bạn không chắc khi nào nên chuyển con từ loại ghế xe này sang loại khác? Hay cách làm bài kiểm tra 5 bước để xem con đã có thể dùng dây an toàn người lớn loại đai ngang đùi và đai chéo vai chưa? Hướng dẫn của chúng tôi về các loại ghế xe và thời điểm sử dụng sẽ giải thích cho bạn."}
+      ]
+    },
+    {
+      "h": "Tiêu chuẩn an toàn của Úc cho ghế xe trẻ em và phụ kiện",
+      "blocks": []
+    },
+    {
+      "h": "Ghế xe",
+      "blocks": [
+        {"t": "p", "text": "Theo luật, mọi ghế xe trẻ em được sử dụng, mua hoặc bán ở Úc phải đạt Tiêu chuẩn Úc/New Zealand AS/NZS 1754. Nhãn Tiêu chuẩn sẽ có trên bao bì của ghế xe mới và trên chính ghế xe."}
+      ]
+    },
+    {
+      "h": "Phụ kiện ghế xe",
+      "blocks": [
+        {"t": "p", "text": "Phụ kiện ghế xe bao gồm vỏ bọc, tấm lót, miếng đệm lót và đệm. Nếu bạn mua những phụ kiện như vậy, hãy luôn tìm Tiêu chuẩn Úc/New Zealand AS/NZS 8005."},
+        {"t": "p", "text": "Điều quan trọng là chỉ dùng những phụ kiện đi kèm ghế xe hoặc các phụ kiện đã được phê duyệt để dùng với ghế xe đó."},
+        {"t": "p", "text": "Bạn có thể kiểm tra hiệu quả an toàn của các ghế xe tại Child Car Seats."}
+      ]
+    },
+    {
+      "h": "Ghế xe trẻ em cũ (đã qua sử dụng)",
+      "blocks": [
+        {"t": "p", "text": "Nếu bạn chọn dùng ghế xe trẻ em cũ, hãy chắc chắn rằng bạn biết rõ lịch sử của nó."}
+      ]
+    },
+    {
+      "h": "Danh sách kiểm tra ghế xe cũ",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Đạt AS/NZS 1754 – tìm nhãn Tiêu chuẩn trên ghế xe",
+          "Dưới 10 năm tuổi – tìm ngày sản xuất trên nhãn dán hoặc dập nổi trên ghế xe",
+          "Còn trong tình trạng tốt và hoạt động tốt – đảm bảo không có vết nứt, vết rạn lớn hoặc nấm mốc",
+          "Có dây đai trong tình trạng tốt – kiểm tra dây không bị sờn, mòn hay hư hỏng",
+          "Chưa từng bị va chạm",
+          "Có khóa cài dây đai chắc chắn vào đúng vị trí và không bị kẹt",
+          "Đầy đủ mọi bộ phận, bao gồm cả sách hướng dẫn"
+        ]},
+        {"t": "p", "text": "Nếu bạn không chắc về lịch sử an toàn của một ghế xe cũ, tốt nhất là đừng nhận hay mua nó. Hãy cân nhắc chỉ mua ghế xe từ người bạn biết và tin tưởng."}
+      ]
+    },
+    {
+      "h": "Cách lắp đặt ghế xe trẻ em đúng cách",
+      "blocks": [
+        {"t": "p", "text": "Mọi ghế xe trẻ em đều phải được lắp đặt đúng cách để đảm bảo an toàn."},
+        {"t": "p", "text": "Khi mua ghế xe mới, bạn nên kiểm tra xem nó có vừa với xe của mình không trước khi mua. Bạn có thể nhờ cửa hàng cho thử lắp một mẫu trưng bày vào xe của bạn."},
+        {"t": "p", "text": "Sau khi đã mua ghế xe, bạn cũng nên nhờ lắp đặt hoặc kiểm tra ghế xe mới một cách chuyên nghiệp tại một dịch vụ lắp đặt được ủy quyền. Nếu bạn tự lắp ghế xe hoặc cần di chuyển nó sau này, hãy luôn làm theo hướng dẫn của nhà sản xuất."}
+      ]
+    },
+    {
+      "h": "Lời khuyên để lắp đặt ghế xe trẻ em an toàn",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Cấu hình – cấu hình ghế xe sao cho phù hợp với con. Ví dụ, bạn có thể cần cấu hình để quay mặt về phía trước hoặc phía sau.",
+          "Điểm neo (anchorage points) – kiểm tra sổ tay xe của bạn để biết các điểm neo đúng nằm ở đâu. Nếu bạn có ghế xe tương thích với ISOFIX, hãy kiểm tra xem xe của bạn có điểm neo dưới ISOFIX không. Nếu không có, bạn có thể dùng dây an toàn để neo ghế xe. Hãy kiểm tra sổ tay ghế xe.",
+          "Gắn cố định – đặt ghế xe ôm khít và gắn bằng dây an toàn hoặc dây ISOFIX (không dùng cả hai). Ấn xuống ghế xe trong khi kéo căng dây an toàn hoặc dây ISOFIX. Gắn dây neo trên đỉnh (top tether) vào điểm neo dây neo trên đỉnh và siết chặt.",
+          "Dây đai – kiểm tra dây đai của ghế xe nằm trong khe đai ngay phía trên vai con và không bị xoắn. Đảm bảo dây đai được điều chỉnh đúng chiều cao của con.",
+          "Điều chỉnh dây đai – thường xuyên kiểm tra và điều chỉnh dây đai và vị trí tựa đầu của ghế xe khi con lớn lên.",
+          "Vạch đánh dấu chiều cao vai – thường xuyên so sánh vai của con với các vạch đánh dấu chiều cao vai trên ghế xe. Điều này cho bạn biết khi nào con cần chuyển sang ghế xe tiếp theo.",
+          "An toàn cho hành khách khác – khi đã đặt và gắn ghế xe chắc chắn, hãy đảm bảo các hành khách vẫn dễ dàng với tới khóa dây an toàn của họ."
+        ]},
+        {"t": "p", "text": "Bạn có thể làm 'bài kiểm tra véo' (pinch test) để đảm bảo dây đai ghế xe vừa vặn đúng với con. Trước hết, kiểm tra các dây đai phẳng, không bị xoắn, áp sát thân con. Cài khóa và siết chặt dây. Rồi thử véo dây theo chiều ngang ở vai. Nếu bạn véo được dây, bạn cần siết dây đai chặt hơn."}
+      ]
+    },
+    {
+      "h": "Lắp ghế xe trẻ em ở đâu và cho trẻ ngồi ở đâu trong xe",
+      "blocks": [
+        {"t": "p", "text": "Khi chọn và lắp ghế xe trẻ em, điều quan trọng là phải biết các yêu cầu pháp lý tối thiểu về nơi trẻ có thể ngồi trong xe cơ giới. Điều này sẽ hướng dẫn bạn nên đặt ghế xe ở đâu trong xe của mình."}
+      ]
+    },
+    {
+      "h": "Yêu cầu pháp lý đối với xe cơ giới có từ 2 hàng ghế trở lên",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Từ sơ sinh đến 4 tuổi, trẻ phải ngồi ở bất kỳ hàng ghế sau nào, không được ngồi hàng ghế trước.",
+          "Từ 4 tuổi đến 7 tuổi, trẻ nên ngồi ở bất kỳ hàng ghế sau nào. Trẻ chỉ có thể ngồi hàng ghế trước nếu đủ kích cỡ để dùng ghế nâng không có dây neo (untethered booster seat) và chỉ khi tất cả các ghế sau khác đều đã có trẻ dưới 7 tuổi ngồi.",
+          "Khi trẻ từ 7 tuổi trở lên, trẻ có thể ngồi hàng ghế trước dùng ghế nâng không có dây neo hoặc dây an toàn người lớn loại đai ngang đùi và đai chéo vai đã được lắp và điều chỉnh đúng cách."
+        ]}
+      ]
+    },
+    {
+      "h": "Ngoại lệ đối với xe cơ giới chỉ có một hàng ghế",
+      "blocks": [
+        {"t": "ul", "items": [
+          "Trẻ có thể ngồi hàng ghế trước nếu dùng ghế xe phù hợp được lắp đặt đúng theo hướng dẫn của nhà sản xuất.",
+          "Nếu xe không có điểm neo dây neo trên đỉnh và bạn không thể lắp được, trẻ chỉ có thể ngồi hàng ghế trước nếu đủ kích cỡ để dùng ghế nâng không có dây neo.",
+          "Nếu xe có túi khí cho hành khách, trẻ chỉ có thể ngồi hàng ghế trước nếu đủ kích cỡ để dùng ghế xe quay mặt về phía trước. Bạn không được dùng ghế xe quay mặt về phía sau ở hàng ghế trước nếu có túi khí cho hành khách."
+        ]},
+        {"t": "p", "text": "Hàng ghế thứ hai là nơi an toàn nhất trong xe cho trẻ từ 12 tuổi trở xuống. Bạn nên cho con ngồi ở hàng ghế thứ hai bất cứ khi nào có thể. Nếu bắt buộc phải cho con ngồi hàng ghế trước, hãy đẩy ghế lùi về sau hết mức có thể để bảo vệ con khỏi chấn thương nếu túi khí bung. Đừng bao giờ vô hiệu hóa hoặc tháo bỏ túi khí của xe."}
+      ]
+    },
+    {
+      "h": "Có thể lắp bao nhiêu ghế xe trẻ em trong một xe?",
+      "blocks": [
+        {"t": "p", "text": "Số lượng ghế xe trẻ em bạn có thể lắp đúng cách trong xe sẽ phụ thuộc vào:"},
+        {"t": "ul", "items": [
+          "nhãn hiệu, mẫu xe và kích thước xe của bạn",
+          "loại và thương hiệu ghế xe bạn chọn",
+          "sự kết hợp các loại ghế xe bạn cần cho các con",
+          "những hành khách khác trong xe",
+          "số lượng điểm neo trong xe của bạn."
+        ]},
+        {"t": "p", "text": "Cách tốt nhất để biết bạn có thể lắp được bao nhiêu ghế xe là thử lắp đúng cách tất cả chúng cùng nhau trong xe trước khi mua."},
+        {"t": "p", "text": "Lắp đặt và sử dụng ghế xe đúng cách sẽ giảm thiểu nguy cơ chấn thương cho con nếu bạn gặp va chạm. Nếu xảy ra va chạm và ghế xe của con hoặc khung chính của xe bị hư hỏng, bạn nên thay ghế xe."}
+      ]
+    },
+    {
+      "h": "Trẻ khuyết tật, có bệnh lý hoặc nhu cầu khác",
+      "blocks": [
+        {"t": "p", "text": "Nếu con bạn bị khuyết tật, có bệnh lý hoặc nhu cầu khác, con có thể cần một ghế xe trẻ em được điều chỉnh hoặc dành riêng cho mục đích đặc biệt để đi xe an toàn và thoải mái."},
+        {"t": "p", "text": "Thiết bị di chuyển bằng xe phù hợp nhất cho con sẽ phụ thuộc vào nhu cầu của con. Một chuyên gia y tế được đào tạo có thể đánh giá nhu cầu của con và đề xuất hướng tiếp cận phù hợp."},
+        {"t": "p", "text": "Để biết thêm thông tin, hãy xem bài viết của chúng tôi về đi xe an toàn cho trẻ khuyết tật, có bệnh lý hoặc nhu cầu khác."}
+      ]
+    }
+  ]
+}

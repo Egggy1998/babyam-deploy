@@ -1,0 +1,43 @@
+{
+  "path": "videos/cooking-together-pancakes",
+  "title": "Vào bếp cùng con: làm bánh pancake",
+  "subtitle": "Một gia đình chia sẻ cách cùng nhau làm bánh pancake giúp con học chữ, học toán và gắn kết tình anh em.",
+  "sections": [
+    {
+      "h": "Nấu ăn cùng con giúp con học hỏi",
+      "blocks": [
+        {"t": "p", "text": "<strong>Gehan (bố của Sam, Isaac và Faith):</strong> Chúng tôi để các con nhỏ phụ chép công thức. Các bé có thể giúp ghi lại danh sách nguyên liệu, còn con trai lớn thì giúp những việc như cân đong và tính toán, chẳng hạn nếu nhân đôi công thức thì mỗi thứ phải cho bao nhiêu."},
+        {"t": "p", "text": "<strong>Sam:</strong> Isaac này, chúng ta sẽ nhân đôi công thức nhé. Con đọc giúp anh nguyên liệu đầu tiên được không?"},
+        {"t": "p", "text": "<strong>Gehan:</strong> Tất nhiên các bé nhỏ thì quan sát cả quá trình đó. Tôi nghĩ trong lúc cả nhà cùng làm một hoạt động vui vẻ, các con đang rèn được những kỹ năng hay về đọc viết và tính toán."},
+        {"t": "p", "text": "<strong>Sam:</strong> Con đọc giúp anh bước đầu tiên nhé?"},
+        {"t": "p", "text": "<strong>Isaac:</strong> Đánh trứng với một cốc rưỡi sữa trong một cái tô cỡ vừa cho đến khi hòa quyện."},
+        {"t": "p", "text": "<strong>Sam:</strong> Được rồi Isaac, con nhớ là công thức nói trộn với một cốc rưỡi sữa chứ? Nhưng chúng ta đang nhân đôi công thức. Vậy 2 lần một cốc rưỡi là bao nhiêu? Con biết không?"},
+        {"t": "p", "text": "<strong>Isaac:</strong> Hai cốc rưỡi ạ?"},
+        {"t": "p", "text": "<strong>Sam:</strong> Giỏi lắm. Đây là một cốc đầy. Một cốc nguyên, còn đây là một nửa cốc."},
+        {"t": "p", "text": "<strong>Amy (mẹ của Sam, Isaac và Faith):</strong> Faith vừa mới tập đọc. Bé mới vào lớp dự bị, còn Isaac thì đang học về cách đo lường và hai nửa hợp lại thành một cái nguyên."},
+        {"t": "p", "text": "<strong>Gehan:</strong> Tôi nghĩ điều thật sự quan trọng là các con học được rằng mình có thể tự lựa chọn và làm chủ thế giới của mình, nhưng cũng cần có sự hướng dẫn của bố mẹ về những lựa chọn nào là phù hợp."},
+        {"t": "p", "text": "<strong>Isaac:</strong> Mình cho việt quất vào được không ạ?"},
+        {"t": "p", "text": "<strong>Sam:</strong> Ồ được chứ, ý hay đấy. Ngon quá."},
+        {"t": "p", "text": "<strong>Isaac:</strong> Ngon, mmm."},
+        {"t": "p", "text": "<strong>Isaac:</strong> Mình dọn dẹp đồ đạc trước nhé?"},
+        {"t": "p", "text": "<strong>Amy:</strong> Các con rất thích phụ giúp, nên chỉ cần thấy các con hào hứng là tôi đã vui lắm rồi."},
+        {"t": "p", "text": "<strong>Gehan:</strong> Vâng, tôi nghĩ là, nhất là khi các con lớn hơn, các con đã có thể tham gia vào việc nghĩ xem mình muốn làm món gì rồi theo đến cùng, từ đầu đến cuối, chủ yếu là với con lớn nhất. Các bé nhỏ thì quan sát, và tôi nghĩ các bé hào hứng theo khi vừa xem vừa học."},
+        {"t": "p", "text": "<strong>Sam:</strong> A, ngon rồi."},
+        {"t": "p", "text": "<strong>Isaac:</strong> Mẻ bánh pancake này sẽ ngon lắm đây. Sam ơi, cho em cái đầu tiên nhé?"},
+        {"t": "p", "text": "<strong>Sam:</strong> Được."},
+        {"t": "p", "text": "<strong>Isaac:</strong> Ngon quá."},
+        {"t": "p", "text": "<strong>Sam:</strong> Được rồi, cái này dành cho em đấy."},
+        {"t": "p", "text": "<strong>Amy:</strong> Sam muốn trở thành thầy giáo và là tấm gương cho các em. Vì vậy được làm một hoạt động như thế này, nơi con giúp các em và đảm nhận vai trò dẫn dắt, là điều con rất thích."},
+        {"t": "p", "text": "<strong>Amy:</strong> Các con làm tốt lắm, mấy cái bánh này trông tuyệt quá. Ngon ghê."},
+        {"t": "p", "text": "<strong>Sam:</strong> Mình thêm chuối lên trên nhé?"},
+        {"t": "p", "text": "<strong>Amy:</strong> Được chứ. Hoặc nếu con thích, con có thể cắt vài quả dâu cho vào cũng được."},
+        {"t": "p", "text": "<strong>Sam:</strong> Ồ vâng, dâu tây."},
+        {"t": "p", "text": "<strong>Gehan:</strong> Điều này thật sự giúp các con gắn kết tình anh em. Một việc như thế này các con có thể tự mình làm, còn chúng tôi có thể lùi lại một bước và chỉ để mắt đến những vấn đề an toàn."},
+        {"t": "p", "text": "<strong>Amy:</strong> Các con có muốn mang bánh đi ăn trưa ở trường tuần sau không?"},
+        {"t": "p", "text": "<strong>Sam, Isaac và Faith:</strong> Có ạ!"},
+        {"t": "p", "text": "<strong>Amy:</strong> Mình có thể để một ít vào ngăn đá."},
+        {"t": "p", "text": "<strong>Gehan:</strong> Nhưng thật sự dễ thương khi thấy các con phối hợp như một đội. Đó thường là một trải nghiệm rất tích cực."}
+      ]
+    }
+  ]
+}

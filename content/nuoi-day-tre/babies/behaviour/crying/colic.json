@@ -1,0 +1,86 @@
+{
+ "path": "behaviour/crying/colic",
+ "title": "Colic ở trẻ sơ sinh: là gì và phải làm gì",
+ "subtitle": "Hiểu chứng colic, khi nào cần đi khám và cách tự chăm sóc bản thân",
+ "sections": [
+  {
+   "h": "Colic là gì?",
+   "blocks": [
+    {"t": "p", "text": "Colic là tình trạng khóc và quấy khóc:"},
+    {"t": "ul", "items": [
+     "kéo dài ít nhất 3 giờ mỗi ngày",
+     "xảy ra ít nhất 3 ngày trong khoảng thời gian 7 ngày",
+     "không phải do bệnh tật hay chấn thương gây ra."
+    ]},
+    {"t": "p", "text": "Trẻ bị colic dành nhiều khoảng thời gian dài bứt rứt hoặc rên rỉ, nhưng cũng có thể khóc rất to, đặc biệt vào buổi tối. Trẻ có thể co chân lên, vặn vẹo và rặn. Mặt trẻ có thể chuyển sang đỏ hoặc tím, dù điều này có thể khó thấy hơn ở trẻ có làn da sẫm màu. Trẻ trông như đang đau, nhưng kiểu khóc này không phải do đau."},
+    {"t": "p", "text": "Rất khó hoặc thậm chí không thể dỗ hay vỗ về trẻ khi trẻ ở trạng thái này. Việc bé khóc như vậy mà không thể dỗ được có thể khiến bạn rất buồn lòng."},
+    {"t": "p", "text": "Các chuyên gia cho rằng colic có thể có nhiều nguyên nhân. Nó xảy ra ở khoảng 20% trẻ sơ sinh và phổ biến hơn trong 6 tuần đầu đời. Nó còn được gọi là colic ở trẻ nhũ nhi."}
+   ]
+  },
+  {
+   "h": "Khi bạn nghĩ bé bị colic: phải làm gì",
+   "blocks": [
+    {"t": "p", "text": "Có nhiều điều bạn có thể làm để dỗ một bé đang quấy khóc. Nhưng nếu rất khó hoặc thậm chí không thể vỗ về bé, bạn rất nên tìm sự trợ giúp từ bác sĩ gia đình, bác sĩ nhi khoa hoặc y tá sức khỏe trẻ em và gia đình."},
+    {"t": "p", "text": "<strong>Đi khám với bác sĩ gia đình hoặc bác sĩ nhi khoa</strong> Bác sĩ gia đình hoặc bác sĩ nhi khoa có thể đánh giá bé và loại trừ các nguyên nhân y khoa gây khóc, bao gồm:"},
+    {"t": "ul", "items": [
+     "bệnh trào ngược dạ dày-thực quản, một nguyên nhân hiếm gặp nhưng có thể xảy ra của việc khóc",
+     "nhiễm trùng, ví dụ nhiễm trùng tai hoặc nhiễm trùng đường tiết niệu",
+     "thoát vị, ví dụ thoát vị bẹn hoặc thoát vị rốn",
+     "dị ứng, ví dụ dị ứng với đạm sữa bò hoặc đạm đậu nành, vốn có thể có trong sữa mẹ hoặc một số loại sữa công thức",
+     "hăm tã hoặc các nguồn gây kích ứng khác."
+    ]},
+    {"t": "p", "text": "Bạn nhất định nên đưa bé đi khám bác sĩ gia đình nếu bé:"},
+    {"t": "ul", "items": [
+     "có vẻ lờ đờ hoặc tái nhợt",
+     "bú không tốt hoặc không tăng cân nhiều",
+     "bị sốt",
+     "nôn ói hoặc tiêu chảy dai dẳng."
+    ]},
+    {"t": "p", "text": "Bạn cũng nên đi khám bác sĩ gia đình nếu bạn cảm thấy mình có thể làm tổn thương bé hoặc lo lắng vì bất kỳ lý do nào khác."},
+    {"t": "p", "text": "<strong>Xin tư vấn từ y tá sức khỏe trẻ em và gia đình</strong> Y tá sức khỏe trẻ em và gia đình có thể giúp bạn bằng cách:"},
+    {"t": "ul", "items": [
+     "kiểm tra kỹ thuật cho bú của bạn và cho bạn biết có điều gì bạn có thể điều chỉnh không",
+     "giới thiệu cho bạn về các chương trình dỗ ngủ và các trung tâm hỗ trợ làm cha mẹ giai đoạn đầu trong khu vực của bạn."
+    ]},
+    {"t": "p", "text": "<strong>Trao đổi với nhân viên y tế về việc bổ sung men vi sinh (probiotic)</strong> Men vi sinh có thể làm giảm việc khóc ở trẻ bị colic, đặc biệt là trẻ bú mẹ. Bạn nên trao đổi với bác sĩ gia đình, chuyên gia tư vấn cho con bú hoặc y tá sức khỏe trẻ em và gia đình nếu muốn thử men vi sinh."}
+   ]
+  },
+  {
+   "h": "Chăm sóc bản thân",
+   "blocks": [
+    {"t": "p", "text": "Nếu bé bị colic, việc chăm sóc bản thân là vô cùng quan trọng. Chỉ cần 5 phút đọc sách, đi dạo quanh khu nhà hoặc thiền cũng có thể cho bạn một khoảng nghỉ nếu bạn đang căng thẳng, lo lắng hoặc tức giận. Hoặc đôi khi sẽ hữu ích khi nhờ một người khác trông bé thay một lúc. Nếu được, hãy nhờ bạn đời, bạn bè hoặc người thân giúp đỡ."},
+    {"t": "p", "text": "Tìm kiếm sự hỗ trợ là một phần quan trọng của việc chăm sóc bản thân. Điều đó tốt cho bạn, và tốt cho gia đình bạn. Nếu cần hỗ trợ, bạn có thể gọi cho bác sĩ gia đình hoặc y tá sức khỏe trẻ em và gia đình. Họ có thể tư vấn qua điện thoại. Bạn cũng có thể gọi Lifeline theo số 131 114 hoặc Beyond Blue theo số 1300 224 636."},
+    {"t": "p", "text": "Bạn cũng nên đi khám bác sĩ gia đình hoặc y tá nếu bạn hoặc bạn đời xuất hiện các dấu hiệu trầm cảm sau sinh ở người mẹ sinh con hoặc trầm cảm sau sinh ở người cha mẹ không sinh con. Dấu hiệu trầm cảm sau sinh bao gồm cảm thấy buồn và khóc không rõ lý do, dễ cáu kỉnh, khó xoay xở và cảm thấy rất lo lắng."},
+    {"t": "p", "text": "Đừng bao giờ lắc một em bé. Điều đó có thể gây xuất huyết trong não và rất có thể gây tổn thương não vĩnh viễn. Nếu cảm thấy không thể chịu đựng nổi, hãy đặt bé vào một nơi an toàn như cũi. Hãy thử sang phòng khác để hít thở sâu hoặc gọi đường dây nóng hỗ trợ làm cha mẹ của bang hay vùng lãnh thổ của bạn để được giúp đỡ."}
+   ]
+  },
+  {
+   "h": "Những cách có lẽ không hiệu quả với colic",
+   "blocks": [
+    {"t": "p", "text": "<strong>Thuốc và hỗn hợp</strong> Các loại hỗn hợp trị colic bán không cần kê đơn tại hiệu thuốc không có cơ sở khoa học. Những hỗn hợp này không được khuyến nghị cho colic vì chúng không hiệu quả và/hoặc chưa được thử nghiệm kỹ trên trẻ nhỏ. Chúng có thể gây hại cho bé."},
+    {"t": "p", "text": "Và mặc dù nhiều trẻ bị colic cũng có triệu chứng trào ngược, không có bằng chứng nào cho thấy thuốc trị trào ngược làm giảm việc khóc và quấy khóc."},
+    {"t": "p", "text": "Bác sĩ không khuyến nghị các hỗn hợp theo phương pháp tự nhiên (naturopathic) hay vi lượng đồng căn (homeopathic) để trị colic, vì không có bằng chứng cho thấy chúng hiệu quả hoặc an toàn cho trẻ nhỏ."},
+    {"t": "p", "text": "<strong>Nắn chỉnh cột sống</strong> Nắn chỉnh cột sống không được khuyến nghị để điều trị colic. Nắn chỉnh cột sống có thể gây hại cho bé."},
+    {"t": "p", "text": "<strong>Thay đổi chế độ ăn của mẹ</strong> Nếu bạn là người mẹ đang cho con bú, việc thay đổi chế độ ăn khó có khả năng làm giảm việc khóc, trừ khi bé được chẩn đoán dị ứng với một thứ gì đó trong chế độ ăn của bạn, ví dụ sữa bò, trứng hoặc đậu nành."},
+    {"t": "p", "text": "Nếu dị ứng là nguyên nhân khiến bé khóc quá mức hoặc bị colic, bé thường sẽ có thêm các dấu hiệu khác ngoài colic. Những dấu hiệu này bao gồm:"},
+    {"t": "ul", "items": [
+     "tiêu chảy, đặc biệt có lẫn chất nhầy hoặc máu",
+     "tăng cân kém",
+     "la hét và khóc, chủ yếu quanh giờ bú",
+     "nôn ói nhiều hoặc nôn ra có lẫn máu",
+     "các dấu hiệu dị ứng khác như mề đay hoặc chàm."
+    ]},
+    {"t": "p", "text": "Nếu bác sĩ gia đình hoặc bác sĩ nhi khoa chẩn đoán bé bị dị ứng thực phẩm, bạn sẽ cần quản lý chế độ ăn của mình cẩn thận. Nếu bạn đang cho con bú và phải loại bỏ một số thực phẩm khỏi chế độ ăn, bạn có thể cần bổ sung dưỡng chất."},
+    {"t": "p", "text": "<strong>Đổi sữa công thức</strong> Dị ứng sữa thực sự không phổ biến ở trẻ bú bình. Nếu bé bị, bạn thường sẽ thấy một số dấu hiệu nêu trên. Nếu bé không có những dấu hiệu này và không được chẩn đoán dị ứng sữa, việc đổi sữa công thức có lẽ sẽ không giúp được gì với colic. Việc đổi sữa công thức cũng có thể tốn kém."},
+    {"t": "p", "text": "Nếu bé bị colic, hãy cố làm cho bé thoải mái và giúp bé dịu lại. Điều này không phải lúc nào cũng làm được, nhưng có khả năng hiệu quả hơn và ít gây hại hơn so với việc cho bé dùng thuốc."}
+   ]
+  },
+  {
+   "h": "Xét nghiệm cho colic",
+   "blocks": [
+    {"t": "p", "text": "Trẻ bị colic thường không cần xét nghiệm máu hay chụp X-quang."},
+    {"t": "p", "text": "Bé chỉ cần làm xét nghiệm để loại trừ một bệnh lý hoặc nhiễm trùng."}
+   ]
+  }
+ ]
+}

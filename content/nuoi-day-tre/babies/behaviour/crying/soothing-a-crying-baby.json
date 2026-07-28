@@ -1,0 +1,31 @@
+{
+ "path": "behaviour/crying/soothing-a-crying-baby",
+ "title": "Dỗ bé đang khóc: hướng dẫn bằng hình ảnh",
+ "subtitle": "Tìm hiểu vì sao bé khóc và cách dỗ bé an toàn",
+ "sections": [
+  {
+   "h": "Vì sao bé khóc: đói, buồn bực hay mệt?",
+   "blocks": [
+    {"t": "p", "text": "<strong>Bé có đói không?</strong> Hãy cho bé bú mẹ hoặc bú bình. Hoặc bé có thể chỉ muốn mút. Với trẻ sơ sinh, hãy đưa ti giả; với bé lớn hơn, giúp bé tìm ngón tay của mình."},
+    {"t": "p", "text": "<strong>Bé có đang buồn bực không?</strong> Hãy vỗ về bé bằng cách bế bé ở tư thế ru hoặc trong địu. Thử nhẹ nhàng đung đưa, đi lại, trò chuyện hoặc hát. Giảm bớt ánh sáng và tiếng ồn."},
+    {"t": "p", "text": "<strong>Bé có mệt không?</strong> Bé mệt cũng có thể ngáp hoặc giật chân. Hãy đặt bé ngủ ở một nơi an toàn. Quấn khăn có thể giúp ích. Bạn có thể quấn khăn cho bé cho đến khi bé có dấu hiệu lật người sang nằm sấp (khoảng 3-4 tháng tuổi)."}
+   ]
+  },
+  {
+   "h": "Vì sao bé khóc: thay tã, khó chịu hay ốm?",
+   "blocks": [
+    {"t": "p", "text": "<strong>Bé có cần thay tã không?</strong> Nếu bé bị hăm tã, hãy rửa mông bé bằng nước sạch, nhẹ nhàng thấm khô và thoa kem chống hăm."},
+    {"t": "p", "text": "<strong>Bé có khó chịu không?</strong> Bế bé thẳng người, vỗ hoặc xoa lưng cho bé. Cũng kiểm tra xem bé có quá nóng hay quá lạnh không. Đảm bảo bé mặc đồ thoải mái."},
+    {"t": "p", "text": "<strong>Bé có ốm không?</strong> Hãy đo nhiệt độ cho bé. Khoảng 37°C là bình thường. Đưa bé đi cấp cứu ngay nếu bé từ 0-3 tháng tuổi và bị sốt. Nếu bé lớn hơn, hãy đi khám bác sĩ gia đình nếu bé sốt kèm các dấu hiệu bệnh khác."}
+   ]
+  },
+  {
+   "h": "Giữ an toàn cho bé đang khóc",
+   "blocks": [
+    {"t": "p", "text": "Đừng bao giờ lắc một em bé. Điều đó có thể gây tổn thương não vĩnh viễn, khuyết tật hoặc tử vong."},
+    {"t": "p", "text": "<strong>Bạn có đang bực bội hay buồn bực không?</strong> Hãy nhẹ nhàng đặt bé vào một nơi an toàn và bước ra cho đến khi bạn thấy bình tĩnh hơn. Hoặc nhờ người khác bế bé giúp."},
+    {"t": "p", "text": "Việc nhờ giúp đỡ là điều bình thường. Nếu bạn khó chịu đựng nổi tiếng khóc của bé, hãy gọi đường dây Parentline tại địa phương hoặc trao đổi với bác sĩ gia đình hay y tá sức khỏe trẻ em và gia đình."}
+   ]
+  }
+ ]
+}
