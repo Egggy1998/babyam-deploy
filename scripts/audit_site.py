@@ -78,6 +78,7 @@ def main() -> int:
         "tel:+849" + "****" + "9539": "masked telephone URI",
         "Không GMO": "unsupported non-GMO claim",
         "báo giá sỉ tốt nhất": "unsupported best-price claim",
+        "future-organic-stage-": "broken Organic crop asset",
     }
     for needle, label in forbidden.items():
         if needle in index:
