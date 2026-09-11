@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
@@ -961,7 +961,7 @@ const products={
     desc:'Thực phẩm dinh dưỡng tươi nguyên kem hữu cơ dạng bột từ Mỹ, đạt chứng nhận USDA Organic. Hương vị thơm béo tự nhiên, giàu Canxi, Vitamin D, Protein và DHA, phù hợp cho trẻ từ 1 tuổi trở lên và cả gia đình.',
     features:['Chứng nhận USDA Organic: nguồn thực phẩm dinh dưỡng từ bò nuôi tự nhiên, không hormone tăng trưởng, không kháng sinh, không GMO','Canxi & Vitamin D: hỗ trợ xương và răng chắc khỏe','Protein: hỗ trợ phát triển cơ bắp','DHA/ARA: hỗ trợ não bộ và thị giác','Thực phẩm dinh dưỡng nguyên kem (Whole Milk): vị béo ngậy, dễ uống','Dạng bột dễ bảo quản, dễ pha, tiện lợi và kinh tế'],
     target:['Trẻ từ 1 tuổi trở lên','Người lớn và gia đình có nhu cầu bổ sung dinh dưỡng hằng ngày'],
-    note:'Hướng dẫn pha: khoảng 1/3 muỗng sữa bột với 237ml nước ấm hoặc nước đun sôi để nguội, khuấy đều. Không pha với nước sôi. Thực phẩm dinh dưỡng đã pha nên dùng trong vòng 1 giờ.'
+    note:'Hướng dẫn pha: khoảng 1/3 muỗng dinh dưỡng cao năng lượng bột với 237ml nước ấm hoặc nước đun sôi để nguội, khuấy đều. Không pha với nước sôi. Thực phẩm dinh dưỡng đã pha nên dùng trong vòng 1 giờ.'
   },
   'horizon-236ml':{
     img:'horizon-236ml.png',
@@ -969,7 +969,7 @@ const products={
     name:'Thực phẩm dinh dưỡng tươi hữu cơ Horizon Organic Whole Milk 236ml – Nhập khẩu Mỹ',
     origin:'Hoa Kỳ · 236ml/hộp · USDA Organic',
     desc:'Thực phẩm dinh dưỡng tươi nguyên kem hữu cơ đóng hộp 236ml tiện lợi. Bổ sung Canxi và Vitamin D3, hương vị béo thơm tự nhiên, phù hợp cho trẻ từ 1 tuổi và cả gia đình.',
-    features:['Dòng sữa hữu cơ cao cấp từ Mỹ, đạt chứng nhận USDA Organic','Quy trình chăn nuôi cam kết không hormone tăng trưởng, không kháng sinh, không GMO','Canxi & Vitamin D3: hỗ trợ phát triển chiều cao, xương chắc khỏe','Chất đạm & chất béo: cung cấp năng lượng và hỗ trợ hấp thu','Đóng hộp 236ml/hộp: tiện mang theo đi học, đi làm, du lịch','Hương vị nguyên kem (Whole Milk) béo ngậy, dễ uống'],
+    features:['Dòng dinh dưỡng cao năng lượng hữu cơ cao cấp từ Mỹ, đạt chứng nhận USDA Organic','Quy trình chăn nuôi cam kết không hormone tăng trưởng, không kháng sinh, không GMO','Canxi & Vitamin D3: hỗ trợ phát triển chiều cao, xương chắc khỏe','Chất đạm & chất béo: cung cấp năng lượng và hỗ trợ hấp thu','Đóng hộp 236ml/hộp: tiện mang theo đi học, đi làm, du lịch','Hương vị nguyên kem (Whole Milk) béo ngậy, dễ uống'],
     target:['Trẻ từ 1 tuổi trở lên','Người lớn và cả gia đình'],
     note:''
   },
@@ -979,7 +979,7 @@ const products={
      name:'Thực phẩm dinh dưỡng Nutricia Infatrini (Đức) – Dinh dưỡng cao năng lượng cho bé 0–18 tháng',
      origin:'Đức · Nutricia/Danone · Dinh dưỡng y học',
      desc:'Infatrini là sản phẩm dinh dưỡng y học của Nutricia (Danone), được thiết kế cho bé 0–18 tháng cần hỗ trợ tăng trưởng và cải thiện thể trạng. Công thức giàu năng lượng, bổ sung DHA/ARA và chất xơ hỗ trợ tiêu hóa.',
-     features:['Dòng sữa chuyên biệt cho bé 0–18 tháng','Bổ sung DHA, ARA, Omega 3, choline và taurine hỗ trợ phát triển trí não','Bổsung chất xơ giúp hỗ trợ tiêu hóa, hạn chế táo bón','Giàu vitamin và khoáng chất hỗ trợ tăng cân an toàn','Không chứa gluten, không GMO, không cholesterol'],
+     features:['Dòng dinh dưỡng cao năng lượng chuyên biệt cho bé 0–18 tháng','Bổ sung DHA, ARA, Omega 3, choline và taurine hỗ trợ phát triển trí não','Bổsung chất xơ giúp hỗ trợ tiêu hóa, hạn chế táo bón','Giàu vitamin và khoáng chất hỗ trợ tăng cân an toàn','Không chứa gluten, không GMO, không cholesterol'],
      target:['Bé từ 0–18 tháng cần hỗ trợ tăng trưởng','Bé sinh non, nhẹ cân cần cải thiện thể trạng'],
      note:'Đây là sản phẩm dinh dưỡng y học. Nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi sử dụng.'
    },
@@ -988,8 +988,8 @@ const products={
      badge:'Chuyên biệt',badgeColor:'#c06060',
      name:'Thực phẩm dinh dưỡng Aptamil Profutura (Úc) – Synbiotics hỗ trợ tiêu hóa, tăng đề kháng Giai đoạn 1 (0–6 tháng)',
      origin:'Úc · 800g · Premium Infant Formula',
-     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng sữa mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
-     features:['Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu tối ưu','Bổ sung DHA, ARA, Omega 3-6 hỗ trợ não bộ và thị giác','Hệ vitamin và khoáng chất thiết yếu hỗ trợ đề kháng và tăng trưởng','Hương vị thanh mát, dễ uống, phù hợp với giai đoạn chuyển đổi ăn','Dịu nhẹ, dễ tiêu hóa, không chứa gluten','Được nghiên cứu theo cảm hứng sữa madre'],
+     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng dinh dưỡng cao năng lượng mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
+     features:['Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu tối ưu','Bổ sung DHA, ARA, Omega 3-6 hỗ trợ não bộ và thị giác','Hệ vitamin và khoáng chất thiết yếu hỗ trợ đề kháng và tăng trưởng','Hương vị thanh mát, dễ uống, phù hợp với giai đoạn chuyển đổi ăn','Dịu nhẹ, dễ tiêu hóa, không chứa gluten','Được nghiên cứu theo cảm hứng dinh dưỡng cao năng lượng madre'],
      target:['Trẻ từ 0–6 tháng tuổi'],
      note:'Đây là sản phẩm dinh dưỡng chuyên biệt. Nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi sử dụng.'
    },
@@ -998,7 +998,7 @@ const products={
      badge:'Chuyên biệt',badgeColor:'#c06060',
      name:'Thực phẩm dinh dưỡng Aptamil Profutura (Úc) – Synbiotics hỗ trợ tiêu hóa, tăng đề kháng Giai đoạn 2 (6–12 tháng)',
      origin:'Úc · 800g · Premium Follow On Formula',
-     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng sữa mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
+     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng dinh dưỡng cao năng lượng mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
      features:['Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu tối ưu','Bổ sung DHA, ARA, Omega 3-6 hỗ trợ não bộ và thị giác','Hệ vitamin và khoáng chất thiết yếu hỗ trợ đề kháng và tăng trưởng','Hương vị thanh mát, dễ uống, phù hợp với hệ tiêu hoá đang phát triển','Dịu nhẹ, dễ tiêu hóa, không chứa gluten','Bổ sung sắt và kẽm hỗ trợ phát triển thể chất'],
      target:['Bé từ 6–12 tháng tuổi'],
      note:'Đây là sản phẩm dinh dưỡng chuyên biệt. Nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi sử dụng.'
@@ -1008,7 +1008,7 @@ const products={
      badge:'Chuyên biệt',badgeColor:'#c06060',
      name:'Thực phẩm dinh dưỡng Aptamil Profutura (Úc) – Synbiotics hỗ trợ tiêu hóa, tăng đề kháng Giai đoạn 3 (Trên 1 tuổi)',
      origin:'Úc · 800g · Premium Toddler Milk Drink',
-     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng sữa mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
+     desc:'Aptamil Profutura (Nutricia/Danone) được nghiên cứu theo cảm hứng dinh dưỡng cao năng lượng mẹ, có Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu. Công thức bổ sung DHA/ARA và hệ vitamin – khoáng chất giúp hỗ trợ tăng trưởng cân đối.',
      features:['Synbiotics (Probiotics + Prebiotics) hỗ trợ tiêu hóa và hấp thu tối ưu','Bổ sung DHA, ARA, Omega 3-6 hỗ trợ não bộ và thị giác','Hệ vitamin và khoáng chất thiết yếu hỗ trợ đề kháng và tăng trưởng','Hương vị thanh mát, dễ uống, phù hợp với bé tập đi và phát triển ngôn ngữ','Dịu nhẹ, dễ tiêu hóa, không chứa gluten','Bổ sung prebiotic GOS/FOS và probiotic LC40 để hỗ trợ cân bằng vi khuẩn đường ruột'],
      target:['Bé từ 12 tháng tuổi trở lên'],
      note:'Đây là sản phẩm dinh dưỡng chuyên biệt. Nên tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi sử dụng.'

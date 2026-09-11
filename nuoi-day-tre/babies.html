@@ -7,34 +7,33 @@
 <meta name="description" content="Cẩm nang nuôi dạy Em bé (3–12 tháng) cùng Baby A&M.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%237FAD8F'/%3E%3Ctext x='50%25' y='54%25' text-anchor='middle' font-family='Arial, sans-serif' font-size='28' fill='white'%3EBA%3C/text%3E%3C/svg%3E">
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Lora:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-:root{--green:#7FAD8F;--green-dark:#6a9a76;--green-light:#eaf2ec;--dark:#29303D;--text:#4a5568;--border:#e8eae6}
-body{font-family:'Be Vietnam Pro',sans-serif;color:var(--dark);background:#fff;line-height:1.7}
-.hero{background:linear-gradient(135deg,#eaf2ec,#dce9e0);padding:46px 20px;text-align:center}
-.hero .crumb{font-size:13px;margin-bottom:14px}
-.hero .crumb a{color:var(--green-dark);text-decoration:none;font-weight:600}
-.hero h1{font-family:'Lora',serif;font-size:clamp(28px,4vw,40px)}
-.hero p{color:var(--text);margin-top:8px}
-.container{max-width:1000px;margin:0 auto;padding:36px 20px 60px}
-.cat-h{font-family:'Lora',serif;font-size:21px;color:var(--green-dark);margin:36px 0 4px;border-bottom:2px solid var(--green-light);padding-bottom:8px}
-.cat-h span{font-size:13px;color:var(--text);font-family:'Be Vietnam Pro'}
-.pt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:16px}
-.pt-card{display:block;background:#fff;border:1px solid var(--border);border-radius:14px;padding:16px 18px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
-.pt-card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(127,173,143,.18)}
-.pt-card h3{font-size:15.5px;margin-bottom:6px;color:var(--dark);line-height:1.4}
-.pt-card p{font-size:13px;color:var(--text);line-height:1.55}
-footer{text-align:center;font-size:12px;color:#9aa3af;border-top:1px solid var(--border);margin-top:48px;padding-top:18px}
-footer a{color:var(--green)}
-</style>
+<link rel="stylesheet" href="/assets/site.css">
 </head>
-<body>
+<body class="bm-hub">
+<a class="bm-skip" href="#bm-main">Bỏ qua tới nội dung</a>
+<header class="bm-nav" id="bmNav">
+  <div class="bm-nav-inner">
+    <a class="bm-brand" href="/index.html" aria-label="Baby A&amp;M">
+      <span class="bm-brand-mark">A&amp;M</span>
+      <span class="bm-brand-text"><span class="bm-brand-title">Baby A&amp;M</span><span class="bm-brand-sub">Mỹ · Bỉ · Chính hãng</span></span>
+    </a>
+    <nav class="bm-nav-links" id="bmNavLinks" aria-label="Điều hướng chính">
+      <a href="/index.html">Trang chủ</a>
+      <a href="/index.html#products">Sản phẩm</a>
+      <a href="/cam-nang-thai-ky.html">Cẩm nang thai kỳ</a>
+      <a href="/nuoi-day-tre.html" aria-current="page">Nuôi dạy trẻ</a>
+      <a href="/index.html#news">Tin tức</a>
+      <a class="bm-nav-cta" href="https://zalo.me/0967339539">Liên hệ</a>
+    </nav>
+    <button class="bm-nav-toggle" id="bmNavToggle" aria-label="Mở menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</header>
 <header class="hero">
 <div class="crumb"><a href="/index.html">Baby A&M</a> › <a href="/nuoi-day-tre.html">Nuôi dạy trẻ</a></div>
 <h1>👶 Em bé (3–12 tháng)</h1>
 <p>178 bài viết · kiến thức nuôi dạy con theo độ tuổi</p>
 </header>
-<main class="container">
+<main id="bm-main" class="container">
     <h2 class="cat-h">Hành vi <span>(14)</span></h2>
     <div class="pt-grid">
       <a class="pt-card" href="/nuoi-day-tre/babies/behaviour/common-concerns/biting-pinching-hair-pulling.html">
@@ -69,7 +68,7 @@ footer a{color:var(--green)}
     <h2 class="cat-h">Bú mẹ, bú bình &amp; ăn dặm <span>(1)</span></h2>
     <div class="pt-grid">
       <a class="pt-card" href="/nuoi-day-tre/babies/breastfeeding-bottle-feeding-solids/weaning/weaning.html">
-        <h3>Cai sữa: ngừng cho con bú</h3><p>Cách cai sữa nhẹ nhàng cho cả bé và mẹ</p></a>
+        <h3>Cai dinh dưỡng cao năng lượng: ngừng cho con bú</h3><p>Cách cai dinh dưỡng cao năng lượng nhẹ nhàng cho cả bé và mẹ</p></a>
     </div>
     <h2 class="cat-h">Gắn kết &amp; giao tiếp <span>(8)</span></h2>
     <div class="pt-grid">
@@ -124,7 +123,7 @@ footer a{color:var(--green)}
     <h2 class="cat-h">Đời sống gia đình <span>(6)</span></h2>
     <div class="pt-grid">
       <a class="pt-card" href="/nuoi-day-tre/babies/family-life/holidays-travel/breastfeeding-travel.html">
-        <h3>Mẹo thực tế khi cho con bú và đi du lịch</h3><p>Cách cho con bú trên máy bay, ở nước ngoài, cùng những lưu ý về thuốc, tiêm chủng và giữ nguồn sữa khi đi xa.</p></a>
+        <h3>Mẹo thực tế khi cho con bú và đi du lịch</h3><p>Cách cho con bú trên máy bay, ở nước ngoài, cùng những lưu ý về thuốc, tiêm chủng và giữ nguồn dinh dưỡng cao năng lượng khi đi xa.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/family-life/holidays-travel/holidays.html">
         <h3>Cách có kỳ nghỉ tuyệt vời cùng con: mẹo cho cha mẹ</h3><p>Lên kế hoạch, hoạt động và lưu ý an toàn để cả nhà có một kỳ nghỉ vui vẻ và thoải mái bên con.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/family-life/holidays-travel/travel-checklist.html">
@@ -168,7 +167,7 @@ footer a{color:var(--green)}
     <h2 class="cat-h">Hướng dẫn bằng hình ảnh <span>(25)</span></h2>
     <div class="pt-grid">
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/baby-growing-well-aboriginal-parents.html">
-        <h3>Bé phát triển khỏe mạnh: dành cho cha mẹ người Thổ dân</h3><p>Giữ cho bé khỏe mạnh bằng sữa mẹ, khám sức khỏe định kỳ và chế độ ăn uống phù hợp theo độ tuổi.</p></a>
+        <h3>Bé phát triển khỏe mạnh: dành cho cha mẹ người Thổ dân</h3><p>Giữ cho bé khỏe mạnh bằng dinh dưỡng cao năng lượng mẹ, khám sức khỏe định kỳ và chế độ ăn uống phù hợp theo độ tuổi.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/baby-massage.html">
         <h3>Hướng dẫn mát-xa cho bé bằng hình ảnh</h3><p>Cách mát-xa nhẹ nhàng để xoa dịu bé, từ chân, thân trên đến mặt và lưng.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/baby-toddler-cues.html">
@@ -178,7 +177,7 @@ footer a{color:var(--green)}
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/bonding-pictures.html">
         <h3>Gắn kết với trẻ sơ sinh và em bé: qua hình ảnh</h3><p>Những ý tưởng ôm ấp, trò chuyện, đọc sách và chơi đùa để gắn kết với bé.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/bottle-feeding-aboriginal-parents.html">
-        <h3>Bú bình và sữa công thức: hướng dẫn cho cha mẹ người Thổ dân</h3><p>Cách dùng sữa công thức, pha chế, sử dụng và bảo quản an toàn.</p></a>
+        <h3>Bú bình và dinh dưỡng cao năng lượng công thức: hướng dẫn cho cha mẹ người Thổ dân</h3><p>Cách dùng dinh dưỡng cao năng lượng công thức, pha chế, sử dụng và bảo quản an toàn.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/breastfeeding-is-best-aboriginal-parents.html">
         <h3>Hướng dẫn cho con bú dành cho cha mẹ người Thổ dân</h3><p>Các tư thế cho con bú, cách ngậm bắt vú và lưu ý khi cho bú cả hai bên.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/breastfeeding-positions-pictures.html">
@@ -192,7 +191,7 @@ footer a{color:var(--green)}
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/cpr-for-babies-aboriginal-parents.html">
         <h3>Hồi sức tim phổi khi bé ngừng thở: dành cho cha mẹ người Thổ dân</h3><p>Các bước xử lý khẩn cấp khi bé không tỉnh dậy, cách kiểm tra hơi thở và thực hiện hồi sức tim phổi.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/formula-prep-pictures.html">
-        <h3>Pha sữa công thức cho bé: qua hình ảnh</h3><p>Các bước vệ sinh dụng cụ, pha sữa công thức và chuẩn bị bình cho bé một cách an toàn.</p></a>
+        <h3>Pha dinh dưỡng cao năng lượng công thức cho bé: qua hình ảnh</h3><p>Các bước vệ sinh dụng cụ, pha dinh dưỡng cao năng lượng công thức và chuẩn bị bình cho bé một cách an toàn.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/how-to-breastfeed.html">
         <h3>Cách cho con bú: qua hình ảnh</h3><p>Hướng dẫn cho con bú theo cách bé tự ngậm bắt vú và mẹ chủ động cho bé ngậm, cùng cách xử lý ngậm bắt vú chưa đúng.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/parenting-in-pictures/how-to-hold-your-newborn.html">
@@ -333,7 +332,7 @@ footer a{color:var(--green)}
       <a class="pt-card" href="/nuoi-day-tre/babies/sleep/settling-routines/helping-babies-sleep-settle-3-6-months.html">
         <h3>Cách giúp bé ngủ ở giai đoạn 3-6 tháng</h3><p>Những điều cần biết về giấc ngủ của bé 3-6 tháng và các mẹo giúp bé ngủ và dỗ ngủ.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/sleep/settling-routines/night-weaning.html">
-        <h3>Cai bú đêm và giảm dần các cữ bú đêm</h3><p>Khi nào và làm thế nào để giảm dần các cữ bú đêm cho trẻ bú mẹ và bú sữa công thức.</p></a>
+        <h3>Cai bú đêm và giảm dần các cữ bú đêm</h3><p>Khi nào và làm thế nào để giảm dần các cữ bú đêm cho trẻ bú mẹ và bú dinh dưỡng cao năng lượng công thức.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/sleep/settling-routines/patting-settling.html">
         <h3>Dỗ ngủ đáp ứng cho bé 0-6 tháng</h3><p>Cách vỗ về và dỗ bé 0-6 tháng vào giấc ngủ một cách nhẹ nhàng, đáp ứng nhu cầu của bé.</p></a>
       <a class="pt-card" href="/nuoi-day-tre/babies/sleep/settling-routines/responsive-settling-at-6-18-months-reducing-settling-help.html">
@@ -424,10 +423,42 @@ footer a{color:var(--green)}
       <a class="pt-card" href="/nuoi-day-tre/babies/videos/treasure-boxes-play-ideas.html">
         <h3>Ý tưởng chơi với hộp kho báu cho trẻ</h3><p>Một chiếc hộp kho báu đầy bất ngờ có thể khơi gợi trí tưởng tượng của trẻ và mở ra những cách chơi mới mẻ.</p></a>
     </div>
-<footer>
-<p>Nội dung dịch & biên tập từ <a href="https://raisingchildren.net.au/babies" target="_blank" rel="noopener">Raising Children Network</a>.</p>
-<p>Baby A&M — Chỉ mang tính tham khảo, không thay thế lời khuyên của chuyên gia y tế.</p>
-</footer>
+
 </main>
+<footer class="bm-footer">
+  <div class="bm-footer-inner">
+    <div class="bm-footer-brand">
+      <span class="bm-brand-mark">A&amp;M</span>
+      <p>Công ty TNHH Baby A&amp;M — nhập khẩu và phân phối dòng dinh dưỡng cao năng lượng chính hãng từ Mỹ, Úc, Đức và New Zealand.</p>
+      <a class="bm-footer-btn" href="https://zalo.me/0967339539">Chat Zalo tư vấn</a>
+    </div>
+    <div class="bm-footer-col">
+      <h4>Khám phá</h4>
+      <a href="/index.html">Trang chủ</a>
+      <a href="/index.html#products">Sản phẩm</a>
+      <a href="/cam-nang-thai-ky.html">Cẩm nang thai kỳ</a>
+      <a href="/nuoi-day-tre.html">Nuôi dạy trẻ</a>
+      <a href="/index.html#news">Tin tức</a>
+    </div>
+    <div class="bm-footer-col">
+      <h4>Danh mục</h4>
+      <a href="/index.html#products">Dinh dưỡng cao năng lượng</a>
+      <a href="/nuoi-day-tre/newborns.html">Trẻ sơ sinh</a>
+      <a href="/nuoi-day-tre/babies.html">Em bé</a>
+      <a href="/index.html#contact">Liên hệ</a>
+    </div>
+    <div class="bm-footer-col">
+      <h4>Liên hệ</h4>
+      <div class="bm-footer-contact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>0967 339 539</div>
+      <div class="bm-footer-contact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>ctyankhaiminh@gmail.com</div>
+      <div class="bm-footer-contact"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>5A Đoàn Thị Điểm, Di Linh, Lâm Đồng</div>
+    </div>
+  </div>
+  <div class="bm-footer-bottom">
+    <span>© 2025 Baby A&amp;M. Mọi quyền được bảo lưu.</span>
+    <span>Nội dung mang tính tham khảo, không thay thế tư vấn y tế.</span>
+  </div>
+</footer>
+<script>(function(){var n=document.getElementById('bmNav');var t=document.getElementById('bmNavToggle');var l=document.getElementById('bmNavLinks');if(t&&l){t.addEventListener('click',function(){var o=l.classList.toggle('open');t.setAttribute('aria-expanded',o?'true':'false');});}if(n){var s=function(){n.classList.toggle('bm-scrolled',window.scrollY>8)};s();window.addEventListener('scroll',s,{passive:true});}var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -40px 0px'});document.querySelectorAll('.reveal,.bm-reveal').forEach(function(el){io.observe(el);});})();</script>
 </body>
 </html>

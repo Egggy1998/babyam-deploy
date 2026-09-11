@@ -376,6 +376,30 @@ ul{list-style:none}
   .featured-intro h3{font-size:24px}
 }
 </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<style id="bm-tokens">
+:root{
+  --dark:#17201a;--green:#5f8f6f;--green-dark:#4c7860;--green-light:#e3efe6;
+  --white:#fff;--cream:#faf8f4;--cream-dark:#f4f1ea;--text:#4a544d;--text-light:#6b776f;--border:#e7e2d8;
+  --shadow-sm:0 1px 2px rgba(23,32,26,.05),0 2px 6px rgba(23,32,26,.04);
+  --shadow:0 12px 30px -16px rgba(23,32,26,.24),0 2px 8px rgba(23,32,26,.05);
+  --shadow-lg:0 36px 70px -30px rgba(23,32,26,.36);
+  --radius:10px;--radius-lg:18px;
+  --transition:all .28s cubic-bezier(.22,1,.36,1);
+}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:1;opacity:.45;
+  background-image:radial-gradient(rgba(23,32,26,.045) 1px,transparent 1px);background-size:24px 24px}
+.navbar{backdrop-filter:saturate(140%) blur(14px);-webkit-backdrop-filter:saturate(140%) blur(14px);background:rgba(250,248,244,.82)}
+.navbar.scrolled{box-shadow:0 10px 30px -22px rgba(23,32,26,.45)}
+.section{padding:clamp(64px,9vw,112px) 0}
+.section-title{font-size:clamp(28px,3.6vw,44px);letter-spacing:-.015em;line-height:1.14}
+.hero img{border-radius:0}
+.btn{border-radius:999px}
+.btn-primary{box-shadow:0 14px 30px -16px rgba(58,96,73,.9)}
+.product-card,.future-card,.news-card{border-radius:20px}
+.footer{background:#17201a;padding-top:clamp(56px,7vw,88px)}
+</style>
 </head>
 <body>
 
