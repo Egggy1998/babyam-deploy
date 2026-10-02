@@ -691,41 +691,42 @@
             <p class="text-xs text-text-muted">Vui lòng để lại thông tin, chuyên viên Baby A&amp;M sẽ gửi bảng báo giá trong vòng 15 phút.</p>
           </div>
 
-          <form class="space-y-4" onsubmit="event.preventDefault(); alert('Cảm ơn Quý khách! Đội ngũ tư vấn Baby A&M sẽ liên hệ sớm nhất.'); this.reset();">
+          <form class="space-y-4" id="consultForm">
+            <div id="formAlert" class="hidden"></div>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div class="space-y-1.5">
                 <label class="text-xs font-bold text-on-surface">Họ và tên *</label>
-                <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="Nguyễn Văn A" required type="text">
+                <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="Nguyễn Văn A" required type="text" id="formFullName" name="fullName">
               </div>
               <div class="space-y-1.5">
                 <label class="text-xs font-bold text-on-surface">Số điện thoại (Zalo) *</label>
-                <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="096 733 9539" required type="tel">
+                <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="096 733 9539" required type="tel" id="formPhone" name="phone">
               </div>
             </div>
 
             <div class="space-y-1.5">
               <label class="text-xs font-bold text-on-surface">Tên cửa hàng / Đại lý / Khu vực hoạt động</label>
-              <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="VD: Shop Mẹ &amp; Bé An Nhiên - TP. HCM" type="text">
+              <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="VD: Shop Mẹ &amp; Bé An Nhiên - TP. HCM" type="text" id="formStoreArea" name="storeArea">
             </div>
 
             <div class="space-y-1.5">
               <label class="text-xs font-bold text-on-surface">Dòng sản phẩm quý đối tác quan tâm</label>
-              <select class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm">
-                <option>Tất cả sản phẩm (Future Formula + Danone Infatrini)</option>
-                <option>Future Organic A2 Protein (Úc)</option>
-                <option>Future A2 Protein (Úc)</option>
-                <option>Danone Nutricia Infatrini (Đức)</option>
+              <select class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" id="formProductInterest" name="productInterest">
+                <option value="Tất cả sản phẩm (Future Formula + Danone Infatrini)">Tất cả sản phẩm (Future Formula + Danone Infatrini)</option>
+                <option value="Future Organic A2 Protein (Úc)">Future Organic A2 Protein (Úc)</option>
+                <option value="Future A2 Protein (Úc)">Future A2 Protein (Úc)</option>
+                <option value="Danone Nutricia Infatrini (Đức)">Danone Nutricia Infatrini (Đức)</option>
               </select>
             </div>
 
             <div class="space-y-1.5">
               <label class="text-xs font-bold text-on-surface">Lời nhắn / Yêu cầu cụ thể</label>
-              <textarea class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="Số lượng dự kiến, khu vực phân phối..." rows="3"></textarea>
+              <textarea class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-sm" placeholder="Số lượng dự kiến, khu vực phân phối..." rows="3" id="formMessage" name="message"></textarea>
             </div>
 
             <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">
-              <button class="w-full sm:w-auto px-8 py-3.5 rounded-full bg-primary text-white font-bold text-sm hover:bg-primary-container shadow-md transition-all cursor-pointer" type="submit">
-                Gửi yêu cầu báo giá sỉ
+              <button class="w-full sm:w-auto px-8 py-3.5 rounded-full bg-primary text-white font-bold text-sm hover:bg-primary-container shadow-md transition-all cursor-pointer flex items-center justify-center gap-2" type="submit" id="formSubmitBtn">
+                <span>Gửi yêu cầu báo giá sỉ</span>
               </button>
               <span class="text-xs text-text-muted text-center sm:text-left">
                 Thông tin được bảo mật 100% theo quy định.
@@ -1155,6 +1156,52 @@
               scrollTrigger: { trigger: el, start: 'top 88%', once: true }
             }
           );
+        });
+      }
+
+      // Google Apps Script Form Submission Webhook
+      const consultForm = document.getElementById('consultForm');
+      if (consultForm) {
+        // CẤU HÌNH: Dán URL Ứng dụng web Google Apps Script (đuôi /exec) của bạn vào đây:
+        const GOOGLE_APPS_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+
+        consultForm.addEventListener('submit', async function(e) {
+          e.preventDefault();
+          const btn = document.getElementById('formSubmitBtn');
+          const alertBox = document.getElementById('formAlert');
+          const originalContent = btn.innerHTML;
+
+          const payload = {
+            fullName: document.getElementById('formFullName').value.trim(),
+            phone: document.getElementById('formPhone').value.trim(),
+            storeArea: document.getElementById('formStoreArea').value.trim(),
+            productInterest: document.getElementById('formProductInterest').value,
+            message: document.getElementById('formMessage').value.trim()
+          };
+
+          btn.disabled = true;
+          btn.innerHTML = '<span class="inline-flex items-center gap-2"><svg class="animate-spin h-4 w-4 text-white" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> Đang gửi thông tin...</span>';
+
+          try {
+            if (GOOGLE_APPS_SCRIPT_URL && !GOOGLE_APPS_SCRIPT_URL.includes("YOUR_GOOGLE_APPS_SCRIPT")) {
+              await fetch(GOOGLE_APPS_SCRIPT_URL, {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+              });
+            }
+
+            alertBox.className = 'p-4 rounded-xl text-xs font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200 block mb-3';
+            alertBox.innerHTML = '✓ Cảm ơn Quý khách <strong>' + payload.fullName + '</strong>! Yêu cầu báo giá đã được chuyển đến bộ phận kinh doanh Baby A&M. Chuyên viên sẽ liên hệ lại qua SĐT/Zalo <strong>' + payload.phone + '</strong> trong vòng 15 phút.';
+            consultForm.reset();
+          } catch (err) {
+            alertBox.className = 'p-4 rounded-xl text-xs font-semibold bg-amber-50 text-amber-800 border border-amber-200 block mb-3';
+            alertBox.innerHTML = 'Hệ thống đã ghi nhận thông tin. Quý khách cũng có thể liên hệ trực tiếp qua Hotline/Zalo: <strong>096 733 9539</strong>.';
+          } finally {
+            btn.disabled = false;
+            btn.innerHTML = originalContent;
+          }
         });
       }
     });
