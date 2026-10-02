@@ -1162,8 +1162,8 @@
       // Google Apps Script Form Submission Webhook
       const consultForm = document.getElementById('consultForm');
       if (consultForm) {
-        // CẤU HÌNH: Dán URL Ứng dụng web Google Apps Script (đuôi /exec) của bạn vào đây:
-        const GOOGLE_APPS_SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+        // CẤU HÌNH: URL Ứng dụng web Google Apps Script tự động lưu đơn vào Sheet:
+        const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwML5MpnVrC0OYFrxawnganIjeNHQUoEtXouBZOEysoPzCn9lUb9re2tqMX1CZ6iQ5ULw/exec";
 
         consultForm.addEventListener('submit', async function(e) {
           e.preventDefault();
