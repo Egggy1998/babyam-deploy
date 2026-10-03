@@ -775,43 +775,84 @@
       </div>
 
       <!-- Bento Handbook & News Grid -->
+
+      <!-- Bento Handbook Grid with High-Res Editorial Thumbnails -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
-        <div class="bg-surface-cream rounded-2xl p-6 sm:p-8 border border-border-subtle shadow-sm flex flex-col justify-between hover:shadow-md transition-all" style="background: linear-gradient(135deg, #f4f8f5 0%, #eaf2ec 100%);">
-          <div class="space-y-3 sm:space-y-4">
-            <span class="inline-flex items-center gap-1.5 px-3 py-1 bg-white rounded-full text-xs font-bold text-primary border border-border-subtle">
-              <i class="ph-bold ph-heart"></i> 40 Tuần Thai Kỳ
-            </span>
-            <h3 class="text-xl sm:text-2xl font-bold font-display text-on-surface">Cẩm nang mang thai theo từng tuần</h3>
-            <p class="text-xs sm:text-sm text-text-muted leading-relaxed">
-              Hành trình 40 tuần thai kỳ chi tiết: Sự biến đổi của cơ thể mẹ, từng dấu mốc phát triển thần kinh - cân nặng của bé và chế độ dinh dưỡng tối ưu qua từng tuần.
-            </p>
+        <!-- Card 1: 40 Tuần Thai Kỳ -->
+        <article class="group bg-surface-cream rounded-3xl overflow-hidden border border-border-subtle shadow-sm flex flex-col justify-between hover:shadow-md transition-all">
+          <div>
+            <div class="h-48 sm:h-56 w-full overflow-hidden relative bg-surface-cream-subtle">
+              <img src="thumb-thai-ky.jpg" alt="Cẩm nang mang thai theo từng tuần" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+              <span class="absolute top-3.5 left-3.5 inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full text-xs font-bold bg-white/95 backdrop-blur-md text-primary shadow-sm border border-border-subtle">
+                <i class="ph-bold ph-heart"></i> 40 Tuần Thai Kỳ
+              </span>
+              <span class="absolute bottom-3.5 right-3.5 inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-dark-pine/70 backdrop-blur-md text-white">
+                <i class="ph-bold ph-calendar-check text-xs"></i>
+                <span>3 Tam cá nguyệt</span>
+              </span>
+            </div>
+
+            <div class="p-6 sm:p-7 space-y-3">
+              <div class="flex items-center gap-2 text-[11px] text-text-muted font-medium">
+                <span>Cẩm nang sản khoa</span>
+                <span>•</span>
+                <span>Kiến thức theo tuần</span>
+              </div>
+              <h3 class="text-xl sm:text-2xl font-bold font-display text-on-surface group-hover:text-primary transition-colors leading-snug">
+                <a href="cam-nang-thai-ky.html">Cẩm nang mang thai theo từng tuần</a>
+              </h3>
+              <p class="text-xs sm:text-sm text-text-muted leading-relaxed line-clamp-3">
+                Hành trình 40 tuần thai kỳ chi tiết: Sự biến đổi của cơ thể mẹ, từng dấu mốc phát triển thần kinh - cân nặng của bé và chế độ dinh dưỡng tối ưu qua từng tuần.
+              </p>
+            </div>
           </div>
-          <div class="pt-4 sm:pt-6">
-            <a class="inline-flex items-center gap-2 font-bold text-primary text-xs sm:text-sm hover:underline" href="/cam-nang-thai-ky.html">
+
+          <div class="px-6 sm:px-7 pb-6 sm:pb-7 pt-1">
+            <a href="cam-nang-thai-ky.html" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-primary text-white font-bold text-xs hover:bg-primary-container shadow-sm transition-all">
               <span>Khám phá 40 tuần thai kỳ</span>
               <i class="ph-bold ph-arrow-right"></i>
             </a>
           </div>
-        </div>
+        </article>
 
-        <div class="bg-surface-cream rounded-2xl p-6 sm:p-8 border border-border-subtle shadow-sm flex flex-col justify-between hover:shadow-md transition-all" style="background: linear-gradient(135deg, #f9f8f4 0%, #f0eee4 100%);">
-          <div class="space-y-3 sm:space-y-4">
-            <span class="inline-flex items-center gap-1.5 px-3 py-1 bg-white rounded-full text-xs font-bold text-amber-800 border border-border-subtle">
-              <i class="ph-bold ph-baby"></i> Sơ Sinh → Thiếu Niên
-            </span>
-            <h3 class="text-xl sm:text-2xl font-bold font-display text-on-surface">Cẩm nang nuôi dạy trẻ theo từng độ tuổi</h3>
-            <p class="text-xs sm:text-sm text-text-muted leading-relaxed">
-              Tổng hợp kiến thức khoa học về chăm sóc giấc ngủ, phát triển kỹ năng vận động, giao tiếp, ngôn ngữ, thực đơn dặm và cách xử lý các vấn đề thường gặp của trẻ.
-            </p>
+        <!-- Card 2: Nuôi Dạy Trẻ Theo Độ Tuổi -->
+        <article class="group bg-surface-cream rounded-3xl overflow-hidden border border-border-subtle shadow-sm flex flex-col justify-between hover:shadow-md transition-all">
+          <div>
+            <div class="h-48 sm:h-56 w-full overflow-hidden relative bg-surface-cream-subtle">
+              <img src="thumb-nuoi-day-tre.jpg" alt="Cẩm nang nuôi dạy trẻ theo từng độ tuổi" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+              <span class="absolute top-3.5 left-3.5 inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full text-xs font-bold bg-white/95 backdrop-blur-md text-amber-800 shadow-sm border border-border-subtle">
+                <i class="ph-bold ph-baby"></i> Sơ Sinh → Thiếu Niên
+              </span>
+              <span class="absolute bottom-3.5 right-3.5 inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] font-semibold bg-dark-pine/70 backdrop-blur-md text-white">
+                <i class="ph-bold ph-article text-xs"></i>
+                <span>242 bài viết</span>
+              </span>
+            </div>
+
+            <div class="p-6 sm:p-7 space-y-3">
+              <div class="flex items-center gap-2 text-[11px] text-text-muted font-medium">
+                <span>Y khoa nhi khoa</span>
+                <span>•</span>
+                <span>Raising Children Network</span>
+              </div>
+              <h3 class="text-xl sm:text-2xl font-bold font-display text-on-surface group-hover:text-amber-800 transition-colors leading-snug">
+                <a href="nuoi-day-tre.html">Cẩm nang nuôi dạy trẻ theo từng độ tuổi</a>
+              </h3>
+              <p class="text-xs sm:text-sm text-text-muted leading-relaxed line-clamp-3">
+                Tổng hợp kiến thức khoa học về chăm sóc giấc ngủ, phát triển kỹ năng vận động, giao tiếp, ngôn ngữ, thực đơn dặm và cách xử lý các vấn đề thường gặp của trẻ.
+              </p>
+            </div>
           </div>
-          <div class="pt-4 sm:pt-6">
-            <a class="inline-flex items-center gap-2 font-bold text-amber-800 text-xs sm:text-sm hover:underline" href="/nuoi-day-tre.html">
+
+          <div class="px-6 sm:px-7 pb-6 sm:pb-7 pt-1">
+            <a href="nuoi-day-tre.html" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-amber-800 text-white font-bold text-xs hover:bg-amber-900 shadow-sm transition-all">
               <span>Xem cẩm nang nuôi con</span>
               <i class="ph-bold ph-arrow-right"></i>
             </a>
           </div>
-        </div>
+        </article>
       </div>
+  
     </div>
   </section>
 
