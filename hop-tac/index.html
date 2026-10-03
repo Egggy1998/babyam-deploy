@@ -6,15 +6,21 @@
   <meta name="zalo-platform-site-verification" content="Ujk0EBxsDYLfmv8HkzCu66Bsd16EW4P7E30s" />
   <title>Chính Sách Đại Lý & Báo Giá Sỉ Sản Phẩm Dinh Dưỡng Mẹ & Bé | Baby A&amp;M</title>
   <meta name="description" content="Trở thành đại lý đối tác của Baby A&M. Nhận báo giá sỉ ưu đãi, hỗ trợ marketing, giao hàng toàn quốc nhanh chóng và bảo đảm pháp lý.">
-  <link rel="icon" href="https://i.ibb.co/ynxmDWRR/4d76e500-410a-4ffb-b379-38264d8c6908.png">
+  <link rel="icon" type="image/webp" href="logo.webp">
 
-  <!-- Google Fonts & Material Symbols -->
+  <!-- Resource Hints for Lightning Fast DNS & TLS -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
+  <link rel="dns-prefetch" href="https://unpkg.com">
+
+  
+
+  <!-- Google Fonts & Material Symbols -->
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
 
-  <!-- Phosphor Icons -->
+  <!-- Phosphor Icons (Deferred for non-blocking render) -->
   <script src="https://unpkg.com/@phosphor-icons/web" defer></script>
 
   <!-- Tailwind CSS CDN -->
@@ -78,7 +84,7 @@
 </head>
 <body class="bg-surface-cream text-on-surface antialiased selection:bg-primary/20 selection:text-primary flex flex-col min-h-screen">
   
-  <!-- Top Utilities Bar (Single line compact on mobile, expanded on desktop) -->
+  <!-- Top Utilities Bar -->
   <aside class="bg-surface-cream-subtle border-b border-border-subtle py-1.5 sm:py-2 px-3 sm:px-4 text-text-muted text-xs font-medium">
     <div class="max-w-7xl mx-auto flex justify-between items-center gap-2">
       <div class="flex items-center gap-4 sm:gap-6">
@@ -110,10 +116,10 @@
   <!-- Sticky TopNavBar -->
   <header class="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-border-subtle shadow-sm transition-all duration-200">
     <div class="max-w-7xl mx-auto px-3 sm:px-4 md:px-6 flex items-center justify-between h-16 sm:h-20">
-      <!-- Brand Logo -->
+      <!-- Brand Logo (Local WebP!) -->
       <a class="flex items-center gap-2.5 sm:gap-3 shrink-0 group" href="/">
         <div class="w-9 h-9 sm:w-11 sm:h-11 rounded-full overflow-hidden bg-white p-0.5 border border-border-subtle shadow-sm flex items-center justify-center transition-transform group-hover:scale-105 duration-200 shrink-0">
-          <img alt="Baby A&amp;M Logo" class="w-full h-full object-contain" src="https://i.ibb.co/ynxmDWRR/4d76e500-410a-4ffb-b379-38264d8c6908.png">
+          <img alt="Baby A&amp;M Logo" width="44" height="44" class="w-full h-full object-contain" src="logo.webp">
         </div>
         <div>
           <span class="text-base sm:text-lg font-bold font-display text-primary block leading-tight tracking-tight">Baby A&amp;M</span>
@@ -142,7 +148,7 @@
           <span>Báo giá sỉ</span>
         </a>
 
-        <!-- Mobile & Tablet Menu Toggle Button (< xl) -->
+        <!-- Mobile Menu Toggle Button (< xl) -->
         <button id="mobileMenuBtn" aria-label="Mở menu điều hướng" class="xl:hidden w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-surface-cream border border-border-subtle flex items-center justify-center text-on-surface hover:text-primary transition-colors cursor-pointer">
           <i class="ph-bold ph-list text-xl"></i>
         </button>
@@ -154,10 +160,9 @@
   <div id="mobileDrawerBackdrop" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 opacity-0 pointer-events-none transition-opacity duration-300"></div>
   <aside id="mobileDrawer" class="fixed top-0 right-0 w-[300px] max-w-[85vw] h-full bg-white z-50 shadow-2xl transform translate-x-full transition-transform duration-300 flex flex-col justify-between overflow-y-auto">
     <div class="p-5 sm:p-6 space-y-6">
-      <!-- Drawer Header -->
       <div class="flex items-center justify-between pb-4 border-b border-border-subtle">
         <div class="flex items-center gap-2.5">
-          <img src="https://i.ibb.co/ynxmDWRR/4d76e500-410a-4ffb-b379-38264d8c6908.png" alt="Baby A&M" class="w-9 h-9 object-contain">
+          <img src="logo.webp" alt="Baby A&M" width="36" height="36" class="w-9 h-9 object-contain">
           <div>
             <strong class="font-display font-bold text-primary block leading-tight text-base">Baby A&M</strong>
             <span class="text-[10px] text-text-muted uppercase tracking-wider block font-semibold">Mẹ & Bé Chính Hãng</span>
@@ -168,7 +173,6 @@
         </button>
       </div>
 
-      <!-- Drawer Nav Links -->
       <nav class="space-y-1.5 font-medium text-sm">
         
             <a href="/" class="flex items-center gap-3 px-3.5 py-3 rounded-xl transition-colors text-on-surface hover:bg-surface-cream text-text-muted hover:text-primary">
@@ -203,7 +207,6 @@
           
       </nav>
 
-      <!-- Quick Action Buttons inside drawer -->
       <div class="pt-4 border-t border-border-subtle space-y-2.5">
         <span class="text-[11px] font-bold uppercase tracking-wider text-text-muted block">Hỗ trợ đối tác 24/7</span>
         <a href="https://zalo.me/0967339539" target="_blank" class="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 text-white font-bold text-xs shadow-sm hover:bg-emerald-700 transition-colors">
@@ -217,7 +220,6 @@
       </div>
     </div>
 
-    <!-- Drawer Footer -->
     <div class="p-5 sm:p-6 bg-surface-cream-subtle border-t border-border-subtle text-xs text-text-muted space-y-2">
       <div class="flex items-center gap-2 text-primary font-semibold">
         <i class="ph-bold ph-seal-check text-base"></i>
@@ -376,7 +378,7 @@
 
   <!-- Wholesale Inquiry Form Block -->
   
-  <!-- Wholesale Inquiry Form Block (Optimized 16px inputs prevent iOS Safari auto-zoom) -->
+  <!-- Wholesale Inquiry Form Block -->
   <section class="py-12 sm:py-14 bg-surface-cream-subtle border-t border-border-subtle" id="form-tu-van">
     <div class="max-w-4xl mx-auto px-3 sm:px-4 md:px-6">
       <div class="bg-white p-6 sm:p-8 md:p-10 rounded-3xl border border-border-subtle shadow-sm space-y-6">
@@ -389,7 +391,6 @@
         <form class="space-y-5" id="consultForm">
           <div id="formAlert" class="hidden"></div>
           
-          <!-- Interactive Product Selection Chips -->
           <div class="space-y-2">
             <label class="text-xs font-bold text-on-surface block">1. Chọn nhanh dòng sản phẩm quý đối tác quan tâm:</label>
             <div class="flex flex-wrap gap-2" id="productChips">
@@ -412,7 +413,6 @@
             <input type="hidden" id="formProductInterest" name="productInterest" value="Tất cả sản phẩm">
           </div>
 
-          <!-- Input Fields (Font size 16px on mobile to avoid iOS Safari zoom, sm:text-sm) -->
           <div class="space-y-4 pt-1">
             <label class="text-xs font-bold text-on-surface block">2. Thông tin liên hệ của quý khách:</label>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 sm:gap-4">
@@ -474,21 +474,18 @@
   </main>
 
   
-  <!-- Floating Utilities: Zalo (With Pulse Ring) & Back-To-Top (Responsive mobile bottom offset) -->
+  <!-- Floating Utilities: Zalo & Back-To-Top -->
   <aside class="fixed bottom-4 sm:bottom-5 right-3 sm:right-5 z-40 flex flex-col items-end gap-2.5 sm:gap-3 pointer-events-none">
-    <!-- Back to top button -->
     <button id="backToTopBtn" aria-label="Lên đầu trang" class="pointer-events-auto w-10 h-10 sm:w-11 sm:h-11 rounded-full bg-white text-primary border border-border-subtle shadow-lg flex items-center justify-center opacity-0 translate-y-3 pointer-events-none transition-all duration-300 hover:bg-primary hover:text-white hover:scale-105 cursor-pointer">
       <i class="ph-bold ph-arrow-up text-lg"></i>
     </button>
 
-    <!-- Zalo floating button -->
     <a href="https://zalo.me/0967339539" target="_blank" class="pointer-events-auto relative group flex items-center gap-1.5 sm:gap-2 pl-3 sm:pl-3.5 pr-3.5 sm:pr-4 py-2 sm:py-2.5 rounded-full bg-emerald-600 text-white shadow-xl hover:bg-emerald-700 transition-all hover:scale-105">
       <span class="absolute -inset-1 rounded-full bg-emerald-500/30 animate-ping pointer-events-none"></span>
       <i class="ph-bold ph-chat-circle-dots text-lg sm:text-xl relative z-10"></i>
       <span class="text-xs font-bold relative z-10">Chat Zalo</span>
     </a>
 
-    <!-- Hotline floating button -->
     <a href="tel:0967339539" class="pointer-events-auto flex items-center gap-1.5 sm:gap-2 pl-3 sm:pl-3.5 pr-3.5 sm:pr-4 py-2 sm:py-2.5 rounded-full bg-primary text-white shadow-xl hover:bg-primary-container transition-all hover:scale-105">
       <i class="ph-bold ph-phone-call text-lg relative z-10"></i>
       <span class="text-xs font-bold relative z-10 hidden sm:inline">096 733 9539</span>
@@ -496,15 +493,14 @@
     </a>
   </aside>
 
-  <!-- Footer with Mobile Responsive Rhythm -->
+  <!-- Footer with Local WebP Logo -->
   <footer class="bg-surface-cream-subtle border-t border-border-subtle pb-16 sm:pb-0">
     <div class="max-w-7xl mx-auto px-4 md:px-6 py-12 sm:py-14 lg:py-16 space-y-10 sm:space-y-12">
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8">
-        <!-- Col 1: Brand Info -->
         <div class="sm:col-span-2 space-y-4">
           <div class="flex items-center gap-3">
             <div class="w-10 h-10 rounded-full overflow-hidden bg-white p-1 border border-border-subtle flex items-center justify-center">
-              <img alt="Baby A&amp;M" class="w-full h-full object-contain" src="https://i.ibb.co/ynxmDWRR/4d76e500-410a-4ffb-b379-38264d8c6908.png">
+              <img alt="Baby A&amp;M" loading="lazy" width="40" height="40" class="w-full h-full object-contain" src="logo.webp">
             </div>
             <div>
               <span class="text-lg font-bold font-display text-primary block leading-tight">Baby A&amp;M</span>
@@ -522,7 +518,6 @@
           </div>
         </div>
 
-        <!-- Col 2: Liên kết nhanh -->
         <div class="space-y-3">
           <h4 class="font-bold text-on-surface text-sm font-display">Liên kết nhanh</h4>
           <ul class="space-y-2 text-xs text-text-muted">
@@ -537,7 +532,6 @@
           </ul>
         </div>
 
-        <!-- Col 3: Dòng sản phẩm -->
         <div class="space-y-3">
           <h4 class="font-bold text-on-surface text-sm font-display">Sản phẩm phân phối</h4>
           <ul class="space-y-2 text-xs text-text-muted">
@@ -548,7 +542,6 @@
           </ul>
         </div>
 
-        <!-- Col 4: Liên hệ -->
         <div class="space-y-3">
           <h4 class="font-bold text-on-surface text-sm font-display">Liên hệ</h4>
           <ul class="space-y-2.5 text-xs text-text-muted">
@@ -572,7 +565,6 @@
         </div>
       </div>
 
-      <!-- Copyright Sub-bar -->
       <div class="border-t border-border-subtle pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-text-muted gap-4">
         <div>
           © 2025 Baby A&amp;M. Nhập khẩu &amp; phân phối dinh dưỡng hữu cơ và cao năng lượng chính hãng. Bảo lưu mọi quyền.
@@ -586,8 +578,8 @@
     </div>
   </footer>
 
-  <!-- Lenis Smooth Scrolling -->
-  <script src="https://unpkg.com/lenis@1.1.18/dist/lenis.min.js"></script>
+  <!-- Lenis Smooth Scrolling (Deferred) -->
+  <script src="https://unpkg.com/lenis@1.1.18/dist/lenis.min.js" defer></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       if (typeof Lenis !== 'undefined') {
