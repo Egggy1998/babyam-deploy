@@ -1171,13 +1171,13 @@
           const alertBox = document.getElementById('formAlert');
           const originalContent = btn.innerHTML;
 
-          const payload = {
+          const payload = new URLSearchParams({
             fullName: document.getElementById('formFullName').value.trim(),
             phone: document.getElementById('formPhone').value.trim(),
             storeArea: document.getElementById('formStoreArea').value.trim(),
             productInterest: document.getElementById('formProductInterest').value,
             message: document.getElementById('formMessage').value.trim()
-          };
+          });
 
           btn.disabled = true;
           btn.innerHTML = '<span class="inline-flex items-center gap-2"><svg class="animate-spin h-4 w-4 text-white" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg> Đang gửi thông tin...</span>';
@@ -1187,13 +1187,13 @@
               await fetch(GOOGLE_APPS_SCRIPT_URL, {
                 method: 'POST',
                 mode: 'no-cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(payload)
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: payload.toString()
               });
             }
 
             alertBox.className = 'p-4 rounded-xl text-xs font-semibold bg-emerald-50 text-emerald-800 border border-emerald-200 block mb-3';
-            alertBox.innerHTML = '✓ Cảm ơn Quý khách <strong>' + payload.fullName + '</strong>! Yêu cầu báo giá đã được chuyển đến bộ phận kinh doanh Baby A&M. Chuyên viên sẽ liên hệ lại qua SĐT/Zalo <strong>' + payload.phone + '</strong> trong vòng 15 phút.';
+            alertBox.innerHTML = '✓ Cảm ơn Quý khách <strong>' + payload.get('fullName') + '</strong>! Yêu cầu báo giá đã được chuyển đến bộ phận kinh doanh Baby A&M. Chuyên viên sẽ liên hệ lại qua SĐT/Zalo <strong>' + payload.get('phone') + '</strong> trong vòng 15 phút.';
             consultForm.reset();
           } catch (err) {
             alertBox.className = 'p-4 rounded-xl text-xs font-semibold bg-amber-50 text-amber-800 border border-amber-200 block mb-3';
