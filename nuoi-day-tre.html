@@ -10,11 +10,11 @@
 :root{--green:#7FAD8F;--green-dark:#6a9a76;--green-light:#eaf2ec;--dark:#29303D;--text:#4a5568;--border:#e8eae6}
 body{font-family:'Be Vietnam Pro',sans-serif;color:var(--dark);background:#fff;line-height:1.7}
 .hero{background:linear-gradient(135deg,#eaf2ec,#dce9e0);padding:50px 20px;text-align:center}
-.hero .crumb{font-size:13px;margin-bottom:14px}.hero .crumb a{color:var(--green-dark);text-decoration:none;font-weight:600}
+.hero.crumb{font-size:13px;margin-bottom:14px}.hero.crumb a{color:var(--green-dark);text-decoration:none;font-weight:600}
 .hero h1{font-family:'Lora',serif;font-size:clamp(30px,4vw,42px)}.hero p{color:var(--text);margin-top:8px}
 .container{max-width:1000px;margin:0 auto;padding:40px 20px 60px}
 .age-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}
-.age-card{display:flex;gap:16px;align-items:center;background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
+.age-card{display:flex;gap:16px;align-items:center;background:#fff;border:1px solid var(--border);border-radius:16px;padding:20px;text-decoration:none;color:inherit;transition:transform.15s,box-shadow.15s}
 .age-card:not(.disabled):hover{transform:translateY(-4px);box-shadow:0 12px 26px rgba(127,173,143,.2)}
 .age-card.disabled{opacity:.55}
 .age-emoji{font-size:40px;flex:0 0 auto}
@@ -26,51 +26,51 @@ footer a{color:var(--green)}
 </style></head>
 <body>
 <header class="hero relative overflow-hidden" style="background: linear-gradient(180deg, rgba(249,248,244,0.92) 0%, rgba(255,255,255,0.95) 100%); padding: 50px 20px 40px;">
-  <div style="max-width: 860px; margin: 0 auto; text-align: center;">
-    <div class="crumb" style="margin-bottom: 16px;">
-      <a href="/" style="color: #4B7860; font-weight: 700; text-decoration: none; font-size: 13px;">← Quay lại Baby A&amp;M</a>
-    </div>
-    <div style="max-width: 680px; margin: 0 auto 20px; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #e8eae6;">
-      <img src="/thumb-nuoi-day-tre.webp" alt="Nuôi dạy trẻ theo độ tuổi" style="width: 100%; max-height: 280px; object-fit: cover; display: block;">
-    </div>
-    <h1 style="font-family: 'Lora', serif; font-size: clamp(28px, 4vw, 42px); color: #161d18; font-weight: 700; margin-bottom: 8px;">Nuôi dạy trẻ theo độ tuổi</h1>
-    <p style="color: #5C6B61; font-size: 15px;">Kiến thức y khoa chăm sóc &amp; nuôi dạy con qua từng giai đoạn phát triển · 242 bài viết</p>
-  </div>
+ <div style="max-width: 860px; margin: 0 auto; text-align: center;">
+ <div class="crumb" style="margin-bottom: 16px;">
+ <a href="/" style="color: #4B7860; font-weight: 700; text-decoration: none; font-size: 13px;">← Quay lại Baby A&amp;M</a>
+ </div>
+ <div style="max-width: 680px; margin: 0 auto 20px; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #e8eae6;">
+ <img src="/thumb-nuoi-day-tre.webp" alt="Nuôi dạy trẻ theo độ tuổi" style="width: 100%; max-height: 280px; object-fit: cover; display: block;">
+ </div>
+ <h1 style="font-family: 'Lora', serif; font-size: clamp(28px, 4vw, 42px); color: #161d18; font-weight: 700; margin-bottom: 8px;">Nuôi dạy trẻ theo độ tuổi</h1>
+ <p style="color: #5C6B61; font-size: 15px;">Kiến thức y khoa chăm sóc &amp; nuôi dạy con qua từng giai đoạn phát triển · 242 bài viết</p>
+ </div>
 </header>
 <main class="container">
-    <div class="age-grid">
-      <a class="age-card" href="/nuoi-day-tre/newborns.html" style="padding: 0; overflow: hidden; display: flex; flex-direction: column; align-items: stretch;">
-        <div style="height: 140px; overflow: hidden; background: #eaf2ec;">
-          <img src="/nuoi-con-so-sinh.webp" alt="Trẻ sơ sinh 0-2 tháng" style="width: 100%; height: 100%; object-fit: cover;">
-        </div>
-        <div style="padding: 16px 20px;">
-          <h3 style="font-family: 'Lora', serif; font-size: 18px; margin: 2px 0 4px; color: #161d18;">Trẻ sơ sinh</h3>
-          <p style="font-size: 12.5px; color: #5C6B61;">Giấc ngủ, cho bú, nôn trớ, tắm bé · 64 bài viết</p>
-        </div></a>
-      <a class="age-card" href="/nuoi-day-tre/babies.html" style="padding: 0; overflow: hidden; display: flex; flex-direction: column; align-items: stretch;">
-        <div style="height: 140px; overflow: hidden; background: #FAF8F5;">
-          <img src="/nuoi-con-em-be.webp" alt="Em bé 3-12 tháng" style="width: 100%; height: 100%; object-fit: cover;">
-        </div>
-        <div style="padding: 16px 20px;">
-          <h3 style="font-family: 'Lora', serif; font-size: 18px; margin: 2px 0 4px; color: #161d18;">Em bé đang lớn</h3>
-          <p style="font-size: 12.5px; color: #5C6B61;">Tập bò, ăn dặm, mọc răng, vận động · 178 bài viết</p>
-        </div></a>
-      <div class="age-card disabled">
-        <div class="age-emoji">🧒</div>
-        <div class="age-body"><h3>Trẻ tập đi</h3><span class="age-range">1–3 tuổi</span><p>Sắp ra mắt</p></div></div>
-      <div class="age-card disabled">
-        <div class="age-emoji">🎨</div>
-        <div class="age-body"><h3>Tuổi mẫu giáo</h3><span class="age-range">3–5 tuổi</span><p>Sắp ra mắt</p></div></div>
-      <div class="age-card disabled">
-        <div class="age-emoji">🎒</div>
-        <div class="age-body"><h3>Tuổi đi học</h3><span class="age-range">5–8 tuổi</span><p>Sắp ra mắt</p></div></div>
-      <div class="age-card disabled">
-        <div class="age-emoji">🚲</div>
-        <div class="age-body"><h3>Tiền thiếu niên</h3><span class="age-range">9–11 tuổi</span><p>Sắp ra mắt</p></div></div>
-      <div class="age-card disabled">
-        <div class="age-emoji">🎓</div>
-        <div class="age-body"><h3>Thiếu niên</h3><span class="age-range">12–18 tuổi</span><p>Sắp ra mắt</p></div></div>
-    </div>
+ <div class="age-grid">
+ <a class="age-card" href="/nuoi-day-tre/newborns.html" style="padding: 0; overflow: hidden; display: flex; flex-direction: column; align-items: stretch;">
+ <div style="height: 140px; overflow: hidden; background: #eaf2ec;">
+ <img src="/nuoi-con-so-sinh.webp" alt="Trẻ sơ sinh 0-2 tháng" style="width: 100%; height: 100%; object-fit: cover;">
+ </div>
+ <div style="padding: 16px 20px;">
+ <h3 style="font-family: 'Lora', serif; font-size: 18px; margin: 2px 0 4px; color: #161d18;">Trẻ sơ sinh</h3>
+ <p style="font-size: 12.5px; color: #5C6B61;">Giấc ngủ, cho bú, nôn trớ, tắm bé · 64 bài viết</p>
+ </div></a>
+ <a class="age-card" href="/nuoi-day-tre/babies.html" style="padding: 0; overflow: hidden; display: flex; flex-direction: column; align-items: stretch;">
+ <div style="height: 140px; overflow: hidden; background: #FAF8F5;">
+ <img src="/nuoi-con-em-be.webp" alt="Em bé 3-12 tháng" style="width: 100%; height: 100%; object-fit: cover;">
+ </div>
+ <div style="padding: 16px 20px;">
+ <h3 style="font-family: 'Lora', serif; font-size: 18px; margin: 2px 0 4px; color: #161d18;">Em bé đang lớn</h3>
+ <p style="font-size: 12.5px; color: #5C6B61;">Tập bò, ăn dặm, mọc răng, vận động · 178 bài viết</p>
+ </div></a>
+ <div class="age-card disabled">
+ <div class="age-emoji">🧒</div>
+ <div class="age-body"><h3>Trẻ tập đi</h3><span class="age-range">1–3 tuổi</span><p>Sắp ra mắt</p></div></div>
+ <div class="age-card disabled">
+ <div class="age-emoji">🎨</div>
+ <div class="age-body"><h3>Tuổi mẫu giáo</h3><span class="age-range">3–5 tuổi</span><p>Sắp ra mắt</p></div></div>
+ <div class="age-card disabled">
+ <div class="age-emoji">🎒</div>
+ <div class="age-body"><h3>Tuổi đi học</h3><span class="age-range">5–8 tuổi</span><p>Sắp ra mắt</p></div></div>
+ <div class="age-card disabled">
+ <div class="age-emoji">🚲</div>
+ <div class="age-body"><h3>Tiền thiếu niên</h3><span class="age-range">9–11 tuổi</span><p>Sắp ra mắt</p></div></div>
+ <div class="age-card disabled">
+ <div class="age-emoji">🎓</div>
+ <div class="age-body"><h3>Thiếu niên</h3><span class="age-range">12–18 tuổi</span><p>Sắp ra mắt</p></div></div>
+ </div>
 <footer>
 <p>Nội dung dịch & biên tập từ <a href="https://raisingchildren.net.au" target="_blank" rel="noopener">Raising Children Network</a>.</p>
 <p>Baby A&M — Chỉ mang tính tham khảo, không thay thế lời khuyên của chuyên gia y tế.</p>
