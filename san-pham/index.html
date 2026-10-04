@@ -624,7 +624,7 @@
   <section class="py-12 sm:py-14 bg-surface-cream-subtle border-t border-b border-border-subtle" id="so-sanh">
     <div class="max-w-7xl mx-auto px-4 md:px-6 space-y-6 sm:space-y-8">
       <div class="text-center max-w-2xl mx-auto space-y-2">
-        <span class="text-xs font-bold text-organic-sage uppercase tracking-wider block">Bảng đối sánh khoa học</span>
+        <span class="inline-flex items-center gap-1.5 text-xs font-bold text-organic-sage uppercase tracking-wider"><span class="material-symbols-outlined text-[15px] leading-none">table_chart</span><span>Bảng đối sánh khoa học</span></span>
         <h2 class="text-2xl md:text-3xl font-bold font-display text-on-surface">Lựa Chọn Công Thức Phù Hợp Nhất</h2>
         <p class="text-xs text-text-muted">Bảng so sánh chi tiết giữa 3 dòng sản phẩm dinh dưỡng chiến lược do Baby A&M phân phối.</p>
       </div>
@@ -694,7 +694,7 @@
   <section class="py-14 sm:py-16 bg-white border-t border-border-subtle" id="faq">
     <div class="max-w-4xl mx-auto px-4 md:px-6 space-y-6 sm:space-y-8">
       <div class="text-center space-y-2">
-        <span class="text-xs font-bold text-organic-sage uppercase tracking-wider block">Giải đáp chuyên môn</span>
+        <span class="inline-flex items-center gap-1.5 text-xs font-bold text-organic-sage uppercase tracking-wider"><span class="material-symbols-outlined text-[15px] leading-none">help</span><span>Giải đáp chuyên môn</span></span>
         <h2 class="text-2xl md:text-3xl font-bold font-display text-on-surface">Câu Hỏi Thường Gặp Về Sản Phẩm &amp; Đại Lý</h2>
         <p class="text-xs text-text-muted">Những thông tin cần biết khi chọn sữa cho bé hoặc đăng ký làm đối tác phân phối của Baby A&M.</p>
       </div>
@@ -759,97 +759,237 @@
   <!-- Wholesale Inquiry Form Block -->
   
   <!-- Wholesale Inquiry Form Block -->
-  <section class="py-12 sm:py-14 bg-surface-cream-subtle border-t border-border-subtle" id="form-tu-van">
-    <div class="max-w-4xl mx-auto px-3 sm:px-4 md:px-6">
-      <div class="bg-white p-6 sm:p-8 md:p-10 rounded-3xl border border-border-subtle shadow-sm space-y-6">
-        <div class="text-center space-y-2 max-w-xl mx-auto">
-          <span class="text-xs font-bold text-organic-sage uppercase tracking-wider block">Báo giá sỉ đại lý 2026</span>
-          <h3 class="text-2xl md:text-3xl font-bold font-display text-on-surface">Đăng ký nhận báo giá &amp; tư vấn</h3>
-          <p class="text-xs text-text-muted">Chuyên viên Baby A&amp;M sẽ gửi bảng giá chiết khấu đại lý qua SĐT/Zalo trong vòng 15 phút.</p>
-        </div>
+  
+  <!-- Wholesale Inquiry Form Block -->
+  <section class="py-16 sm:py-20 lg:py-24 bg-surface-cream-subtle border-t border-border-subtle" id="form-tu-van">
+    <div class="max-w-6xl mx-auto px-4 md:px-6">
+      <div class="text-center space-y-3 max-w-2xl mx-auto mb-12 sm:mb-14">
+        <span class="inline-flex items-center gap-2 text-xs font-bold text-primary bg-organic-light border border-primary/15 px-3.5 py-1.5 rounded-full">
+          <i class="ph-bold ph-file-text text-sm"></i>
+          <span>Báo giá sỉ đại lý 2026</span>
+        </span>
+        <h2 class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-on-surface leading-tight">Đăng ký nhận báo giá &amp; tư vấn</h2>
+        <p class="text-sm text-text-muted leading-relaxed">
+          Chuyên viên Baby A&amp;M gửi bảng giá chiết khấu đại lý qua SĐT/Zalo trong vòng <strong class="text-primary font-semibold">15 phút</strong>.
+        </p>
+      </div>
 
-        <form class="space-y-5" id="consultForm">
-          <div id="formAlert" class="hidden"></div>
-          
-          <div class="space-y-2">
-            <label class="text-xs font-bold text-on-surface block">1. Chọn nhanh dòng sản phẩm quý đối tác quan tâm:</label>
-            <div class="flex flex-wrap gap-2" id="productChips">
-              <button type="button" data-val="Tất cả sản phẩm (Future Formula + Danone Infatrini)" class="chip-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all cursor-pointer bg-surface-cream text-on-surface border-border-subtle hover:border-primary">
-                Tất cả sản phẩm
-              </button>
-              <button type="button" data-val="Future Organic A2 Protein (Úc)" class="chip-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all cursor-pointer bg-surface-cream text-on-surface border-border-subtle hover:border-primary">
-                Future Organic A2 (Úc)
-              </button>
-              <button type="button" data-val="Future A2 Protein (Úc)" class="chip-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all cursor-pointer bg-surface-cream text-on-surface border-border-subtle hover:border-primary">
-                Future A2 Protein (Úc)
-              </button>
-              <button type="button" data-val="Danone Nutricia Infatrini (Đức)" class="chip-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all cursor-pointer bg-surface-cream text-on-surface border-border-subtle hover:border-primary">
-                Nutricia Infatrini (Đức)
-              </button>
-              <button type="button" data-val="Tư vấn mở Shop Mẹ & Bé mới" class="chip-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all cursor-pointer bg-surface-cream text-on-surface border-border-subtle hover:border-primary">
-                Tư vấn mở Shop mới
-              </button>
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 items-start">
+        <!-- LEFT: Form Card -->
+        <div class="lg:col-span-7 xl:col-span-8 bg-white rounded-3xl border border-border-subtle shadow-[0_4px_28px_-8px_rgba(51,95,73,0.10)] overflow-hidden">
+          <!-- Form Header -->
+          <div class="px-6 sm:px-8 py-5 sm:py-6 bg-surface-cream-subtle border-b border-border-subtle flex items-center gap-3">
+            <div class="w-9 h-9 rounded-xl bg-primary text-white flex items-center justify-center shrink-0">
+              <i class="ph-bold ph-note-pencil text-lg"></i>
             </div>
-            <input type="hidden" id="formProductInterest" name="productInterest" value="Tất cả sản phẩm">
+            <div>
+              <h3 class="font-bold font-display text-on-surface text-base sm:text-lg">Phiếu đăng ký đối tác</h3>
+              <p class="text-[11px] sm:text-xs text-text-muted">Các trường có dấu <span class="text-red-600 font-bold">*</span> là bắt buộc</p>
+            </div>
           </div>
 
-          <div class="space-y-4 pt-1">
-            <label class="text-xs font-bold text-on-surface block">2. Thông tin liên hệ của quý khách:</label>
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 sm:gap-4">
-              <div class="space-y-1.5">
-                <label class="text-xs font-semibold text-text-muted">Họ và tên *</label>
-                <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm" placeholder="Nguyễn Văn A" required type="text" id="formFullName" name="fullName">
+          <form class="p-6 sm:p-8 space-y-8" id="consultForm">
+            <div id="formAlert" class="hidden"></div>
+
+            <!-- STEP 1: Product Interest -->
+            <fieldset class="space-y-3.5">
+              <legend class="flex items-center gap-2.5 mb-1">
+                <span class="w-6 h-6 rounded-lg bg-organic-light text-primary text-[11px] font-bold flex items-center justify-center shrink-0 font-display">1</span>
+                <span class="text-sm font-bold text-on-surface">Quý đối tác quan tâm dòng sản phẩm nào?</span>
+              </legend>
+              <div class="flex items-center justify-between gap-3 pl-[38px] -mt-1 flex-wrap">
+                <p class="text-xs text-text-muted">Chọn một hoặc nhiều để chúng tôi gửi đúng bảng giá.</p>
+                <span id="productSelectCount" class="text-[11px] font-semibold text-primary bg-organic-light border border-primary/15 px-2.5 py-1 rounded-full whitespace-nowrap">Chưa chọn sản phẩm</span>
               </div>
-              <div class="space-y-1.5">
-                <label class="text-xs font-semibold text-text-muted">Số điện thoại (Zalo) *</label>
-                <div class="relative">
-                  <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm" placeholder="096 733 9539" required type="tel" id="formPhone" name="phone">
-                  <span id="phoneValidationIcon" class="absolute right-3.5 top-3.5 text-emerald-600 hidden">
-                    <i class="ph-bold ph-check-circle text-lg"></i>
+
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 pl-[38px] pt-1" id="productChips">
+                <button type="button" data-val="Tất cả sản phẩm (Future Formula + Danone Infatrini)" class="chip-btn group relative flex items-center gap-3 px-4 py-3.5 rounded-2xl border border-border-subtle bg-white text-left transition-all duration-200 hover:border-primary/50 hover:bg-organic-light/40 cursor-pointer">
+                  <span class="w-9 h-9 rounded-xl bg-organic-light text-primary flex items-center justify-center shrink-0 transition-colors group-aria-selected:bg-primary">
+                    <i class="ph-bold ph-squares-four text-lg"></i>
                   </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-[13px] font-bold text-on-surface leading-tight">Tất cả sản phẩm</span>
+                    <span class="block text-[11px] text-text-muted mt-0.5">Future Formula + Danone</span>
+                  </span>
+                  <i class="ph-bold ph-check-circle text-lg text-primary opacity-0 scale-75 transition-all chip-check shrink-0"></i>
+                </button>
+
+                <button type="button" data-val="Future Organic A2 Protein (Úc)" class="chip-btn group relative flex items-center gap-3 px-4 py-3.5 rounded-2xl border border-border-subtle bg-white text-left transition-all duration-200 hover:border-primary/50 hover:bg-organic-light/40 cursor-pointer">
+                  <span class="w-9 h-9 rounded-xl bg-organic-light text-primary flex items-center justify-center shrink-0">
+                    <i class="ph-bold ph-leaf text-lg"></i>
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-[13px] font-bold text-on-surface leading-tight">Future Organic A2</span>
+                    <span class="block text-[11px] text-text-muted mt-0.5">Đạm A2 hữu cơ &middot; Úc</span>
+                  </span>
+                  <i class="ph-bold ph-check-circle text-lg text-primary opacity-0 scale-75 transition-all chip-check shrink-0"></i>
+                </button>
+
+                <button type="button" data-val="Future A2 Protein (Úc)" class="chip-btn group relative flex items-center gap-3 px-4 py-3.5 rounded-2xl border border-border-subtle bg-white text-left transition-all duration-200 hover:border-primary/50 hover:bg-organic-light/40 cursor-pointer">
+                  <span class="w-9 h-9 rounded-xl bg-organic-light text-primary flex items-center justify-center shrink-0">
+                    <i class="ph-bold ph-shield-check text-lg"></i>
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-[13px] font-bold text-on-surface leading-tight">Future A2 Protein</span>
+                    <span class="block text-[11px] text-text-muted mt-0.5">7 Prebiotics &middot; Úc</span>
+                  </span>
+                  <i class="ph-bold ph-check-circle text-lg text-primary opacity-0 scale-75 transition-all chip-check shrink-0"></i>
+                </button>
+
+                <button type="button" data-val="Danone Nutricia Infatrini (Đức)" class="chip-btn group relative flex items-center gap-3 px-4 py-3.5 rounded-2xl border border-border-subtle bg-white text-left transition-all duration-200 hover:border-primary/50 hover:bg-organic-light/40 cursor-pointer">
+                  <span class="w-9 h-9 rounded-xl bg-red-50 text-red-700 flex items-center justify-center shrink-0">
+                    <i class="ph-bold ph-first-aid text-lg"></i>
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-[13px] font-bold text-on-surface leading-tight">Nutricia Infatrini</span>
+                    <span class="block text-[11px] text-text-muted mt-0.5">Dinh dưỡng y học &middot; Đức</span>
+                  </span>
+                  <i class="ph-bold ph-check-circle text-lg text-primary opacity-0 scale-75 transition-all chip-check shrink-0"></i>
+                </button>
+
+                <button type="button" data-val="Tư vấn mở Shop Mẹ & Bé mới" class="chip-btn group relative flex items-center gap-3 px-4 py-3.5 rounded-2xl border border-border-subtle bg-white text-left transition-all duration-200 hover:border-primary/50 hover:bg-organic-light/40 sm:col-span-2 cursor-pointer" data-single="true">
+                  <span class="w-9 h-9 rounded-xl bg-organic-light text-primary flex items-center justify-center shrink-0">
+                    <i class="ph-bold ph-storefront text-lg"></i>
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="block text-[13px] font-bold text-on-surface leading-tight">Tư vấn mở Shop Mẹ &amp; Bé mới</span>
+                    <span class="block text-[11px] text-text-muted mt-0.5">Nhận bảng giá khởi điểm &amp; chính sách hỗ trợ đại lý</span>
+                  </span>
+                  <i class="ph-bold ph-check-circle text-lg text-primary opacity-0 scale-75 transition-all chip-check shrink-0"></i>
+                </button>
+              </div>
+
+              <input type="hidden" id="formProductInterest" name="productInterest" value="Tất cả sản phẩm (Future Formula + Danone Infatrini)">
+            </fieldset>
+
+            <!-- STEP 2: Contact Info -->
+            <fieldset class="space-y-3.5">
+              <legend class="flex items-center gap-2.5 mb-1">
+                <span class="w-6 h-6 rounded-lg bg-organic-light text-primary text-[11px] font-bold flex items-center justify-center shrink-0 font-display">2</span>
+                <span class="text-sm font-bold text-on-surface">Thông tin liên hệ</span>
+              </legend>
+
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-3.5 sm:gap-4 pl-[38px] pt-1">
+                <div class="space-y-1.5">
+                  <label class="text-xs font-semibold text-text-muted flex items-center gap-1.5" for="formFullName">
+                    <i class="ph-bold ph-user text-sm text-primary"></i>
+                    <span>Họ và tên</span>
+                    <span class="text-red-600 font-bold">*</span>
+                  </label>
+                  <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm transition-all placeholder:text-text-muted/60" placeholder="Nguyễn Văn A" required type="text" id="formFullName" name="fullName">
+                </div>
+
+                <div class="space-y-1.5">
+                  <label class="text-xs font-semibold text-text-muted flex items-center gap-1.5" for="formPhone">
+                    <i class="ph-bold ph-phone text-sm text-primary"></i>
+                    <span>Số điện thoại (Zalo)</span>
+                    <span class="text-red-600 font-bold">*</span>
+                  </label>
+                  <div class="relative">
+                    <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm transition-all placeholder:text-text-muted/60" placeholder="096 733 9539" required type="tel" id="formPhone" name="phone">
+                    <span id="phoneValidationIcon" class="absolute right-3.5 top-3 text-emerald-600 hidden">
+                      <i class="ph-bold ph-check-circle text-lg"></i>
+                    </span>
+                  </div>
+                </div>
+
+                <div class="space-y-1.5 sm:col-span-2">
+                  <label class="text-xs font-semibold text-text-muted flex items-center gap-1.5" for="formStoreArea">
+                    <i class="ph-bold ph-map-pin text-sm text-primary"></i>
+                    <span>Tên cửa hàng / Đại lý / Khu vực phân phối</span>
+                  </label>
+                  <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm transition-all placeholder:text-text-muted/60" placeholder="VD: Shop Mẹ &amp; Bé An Nhiên - TP. HCM" type="text" id="formStoreArea" name="storeArea">
+                </div>
+
+                <div class="space-y-1.5 sm:col-span-2">
+                  <label class="text-xs font-semibold text-text-muted flex items-center gap-1.5" for="formMessage">
+                    <i class="ph-bold ph-chat-circle-dots text-sm text-primary"></i>
+                    <span>Lời nhắn / Yêu cầu cụ thể</span>
+                    <span class="text-[11px] text-text-muted/70 font-normal">(không bắt buộc)</span>
+                  </label>
+                  <textarea class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm transition-all placeholder:text-text-muted/60 resize-y min-h-[100px]" placeholder="Số lượng dự kiến, yêu cầu chính sách giao hàng, thông tin hợp tác..." rows="3" id="formMessage" name="message"></textarea>
                 </div>
               </div>
+            </fieldset>
+
+            <!-- STEP 3: Submit -->
+            <div class="pl-[38px] pt-1 flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
+              <button class="w-full sm:w-auto px-7 py-3.5 rounded-full bg-primary text-white font-bold text-sm hover:bg-primary-container shadow-[0_8px_20px_-6px_rgba(51,95,73,0.5)] transition-all active:scale-[0.98] cursor-pointer flex items-center justify-center gap-2.5 disabled:opacity-60 disabled:cursor-not-allowed" type="submit" id="formSubmitBtn">
+                <span>Gửi yêu cầu báo giá sỉ</span>
+                <i class="ph-bold ph-paper-plane-tilt text-base"></i>
+              </button>
+              <span class="text-[11px] sm:text-xs text-text-muted text-center sm:text-left leading-relaxed flex items-center gap-1.5">
+                <i class="ph-bold ph-lock-key text-sm shrink-0"></i>
+                <span>Thông tin được bảo mật theo quy định pháp luật.</span>
+              </span>
             </div>
-
-            <div class="space-y-1.5">
-              <label class="text-xs font-semibold text-text-muted">Tên cửa hàng / Đại lý / Khu vực phân phối</label>
-              <input class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm" placeholder="VD: Shop Mẹ &amp; Bé An Nhiên - TP. HCM" type="text" id="formStoreArea" name="storeArea">
-            </div>
-
-            <div class="space-y-1.5">
-              <label class="text-xs font-semibold text-text-muted">Lời nhắn / Yêu cầu cụ thể (nếu có)</label>
-              <textarea class="w-full px-4 py-3 rounded-xl border border-border-subtle bg-surface-cream focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary text-base sm:text-sm" placeholder="Số lượng dự kiến, yêu cầu chính sách giao hàng..." rows="3" id="formMessage" name="message"></textarea>
-            </div>
-          </div>
-
-          <div class="flex flex-col sm:flex-row items-center gap-3 sm:gap-4 pt-2">
-            <button class="w-full sm:w-auto px-8 py-3.5 rounded-full bg-primary text-white font-bold text-sm hover:bg-primary-container shadow-md transition-all cursor-pointer flex items-center justify-center gap-2" type="submit" id="formSubmitBtn">
-              <span>Gửi yêu cầu báo giá sỉ</span>
-              <i class="ph-bold ph-paper-plane-tilt"></i>
-            </button>
-            <span class="text-xs text-text-muted text-center sm:text-left">
-              Thông tin được bảo mật 100% theo quy định pháp luật.
-            </span>
-          </div>
-        </form>
-
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2.5 sm:gap-3 pt-4 border-t border-border-subtle">
-          <a class="flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-primary text-white text-xs font-bold hover:bg-primary-container transition-colors" href="https://zalo.me/0967339539" target="_blank">
-            <i class="ph-bold ph-chat-circle-dots text-base"></i>
-            <span>Chat Zalo ngay</span>
-          </a>
-          <a class="flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-organic-sage text-white text-xs font-bold hover:bg-primary transition-colors" href="tel:+84967339539">
-            <i class="ph-bold ph-phone-call text-base"></i>
-            <span>Gọi 096 733 9539</span>
-          </a>
-          <a class="flex items-center justify-center gap-2 py-3 px-4 rounded-xl border border-border-subtle text-on-surface text-xs font-bold hover:bg-surface-cream transition-colors" href="mailto:ctyankhaiminh@gmail.com">
-            <i class="ph-bold ph-envelope text-base"></i>
-            <span>Gửi email</span>
-          </a>
+          </form>
         </div>
+
+        <!-- RIGHT: Contact Sidebar -->
+        <aside class="lg:col-span-5 xl:col-span-4 space-y-4">
+          <div class="bg-primary text-white rounded-3xl p-6 sm:p-7 shadow-[0_12px_32px_-10px_rgba(51,95,73,0.45)]">
+            <div class="w-11 h-11 rounded-2xl bg-white/15 backdrop-blur flex items-center justify-center mb-4">
+              <i class="ph-bold ph-headset text-2xl"></i>
+            </div>
+            <h3 class="font-bold font-display text-lg mb-1.5">Liên hệ trực tiếp</h3>
+            <p class="text-xs text-white/75 leading-relaxed mb-5">Gọi hoặc nhắn Zalo để được tư vấn nhanh nhất &mdash; không cần điền form.</p>
+
+            <div class="space-y-2.5">
+              <a class="flex items-center gap-3 bg-white/10 hover:bg-white/20 border border-white/15 rounded-2xl px-4 py-3.5 transition-colors" href="tel:+84967339539">
+                <span class="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center shrink-0">
+                  <i class="ph-bold ph-phone-call text-lg"></i>
+                </span>
+                <span class="min-w-0">
+                  <span class="block text-[11px] text-white/65 font-medium">Hotline tư vấn</span>
+                  <span class="block text-sm font-bold">096 733 9539</span>
+                </span>
+              </a>
+
+              <a class="flex items-center gap-3 bg-white/10 hover:bg-white/20 border border-white/15 rounded-2xl px-4 py-3.5 transition-colors" href="https://zalo.me/0967339539" target="_blank" rel="noreferrer">
+                <span class="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center shrink-0">
+                  <i class="ph-bold ph-chat-circle-dots text-lg"></i>
+                </span>
+                <span class="min-w-0">
+                  <span class="block text-[11px] text-white/65 font-medium">Chat Zalo</span>
+                  <span class="block text-sm font-bold">Nhắn ngay &mdash; phản hồi tức thì</span>
+                </span>
+              </a>
+
+              <a class="flex items-center gap-3 bg-white/10 hover:bg-white/20 border border-white/15 rounded-2xl px-4 py-3.5 transition-colors" href="mailto:ctyankhaiminh@gmail.com">
+                <span class="w-9 h-9 rounded-xl bg-white/15 flex items-center justify-center shrink-0">
+                  <i class="ph-bold ph-envelope-simple text-lg"></i>
+                </span>
+                <span class="min-w-0">
+                  <span class="block text-[11px] text-white/65 font-medium">Email đối tác</span>
+                  <span class="block text-sm font-bold break-all">ctyankhaiminh@gmail.com</span>
+                </span>
+              </a>
+            </div>
+          </div>
+
+          <div class="bg-white rounded-3xl border border-border-subtle p-5 sm:p-6 shadow-sm space-y-3.5">
+            <span class="text-[11px] font-bold uppercase tracking-wider text-organic-sage block">Cam kết phản hồi</span>
+            <div class="space-y-3">
+              <div class="flex items-start gap-2.5">
+                <i class="ph-bold ph-check-circle text-primary text-base shrink-0 mt-0.5"></i>
+                <p class="text-xs text-text-muted leading-relaxed">Phản hồi trong <strong class="text-on-surface font-semibold">15 phút</strong> (8h&ndash;21h).</p>
+              </div>
+              <div class="flex items-start gap-2.5">
+                <i class="ph-bold ph-check-circle text-primary text-base shrink-0 mt-0.5"></i>
+                <p class="text-xs text-text-muted leading-relaxed">Bảng giá chiết khấu chi tiết theo số lượng.</p>
+              </div>
+              <div class="flex items-start gap-2.5">
+                <i class="ph-bold ph-check-circle text-primary text-base shrink-0 mt-0.5"></i>
+                <p class="text-xs text-text-muted leading-relaxed">Hỗ trợ mẫu thử &amp; tài liệu truyền thông.</p>
+              </div>
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   </section>
+
 
   </main>
 
@@ -1085,17 +1225,54 @@
 
         const chipButtons = document.querySelectorAll('#productChips .chip-btn');
         const hiddenInterest = document.getElementById('formProductInterest');
+        const productCounter = document.getElementById('productSelectCount');
+
+        function syncChips() {
+          const picked = Array.from(chipButtons).filter(b => b.getAttribute('aria-pressed') === 'true');
+          if (hiddenInterest) hiddenInterest.value = picked.length ? picked.map(b => b.getAttribute('data-val')).join(' | ') : '';
+          if (productCounter) {
+            productCounter.textContent = picked.length
+              ? picked.length + ' / ' + chipButtons.length + ' \u0111\u00e3 ch\u1ecdn'
+              : 'Ch\u01b0a ch\u1ecdn s\u1ea3n ph\u1e29m';
+          }
+        }
+
         chipButtons.forEach(btn => {
+          btn.setAttribute('aria-pressed', 'false');
           btn.addEventListener('click', () => {
-            chipButtons.forEach(b => {
-              b.classList.remove('bg-primary', 'text-white', 'border-primary');
-              b.classList.add('bg-surface-cream', 'text-on-surface', 'border-border-subtle');
-            });
-            btn.classList.add('bg-primary', 'text-white', 'border-primary');
-            btn.classList.remove('bg-surface-cream', 'text-on-surface', 'border-border-subtle');
-            if (hiddenInterest) hiddenInterest.value = btn.getAttribute('data-val');
+            const isSingle = btn.getAttribute('data-single') === 'true';
+            if (isSingle) {
+              const wasOn = btn.getAttribute('aria-pressed') === 'true';
+              chipButtons.forEach(b => {
+                b.setAttribute('aria-pressed', 'false');
+                b.classList.remove('border-primary', 'bg-organic-light/70', 'shadow-[0_0_0_1px_rgba(51,95,73,0.35)]');
+                const ci = b.querySelector('.chip-check');
+                if (ci) { ci.classList.add('opacity-0', 'scale-75'); ci.classList.remove('opacity-100', 'scale-100'); }
+              });
+              if (!wasOn) {
+                btn.setAttribute('aria-pressed', 'true');
+                btn.classList.add('border-primary', 'bg-organic-light/70', 'shadow-[0_0_0_1px_rgba(51,95,73,0.35)]');
+                const ci = btn.querySelector('.chip-check');
+                if (ci) { ci.classList.remove('opacity-0', 'scale-75'); ci.classList.add('opacity-100', 'scale-100'); }
+              }
+            } else {
+              const on = btn.getAttribute('aria-pressed') === 'true';
+              btn.setAttribute('aria-pressed', on ? 'false' : 'true');
+              btn.classList.toggle('border-primary', !on);
+              btn.classList.toggle('bg-organic-light/70', !on);
+              btn.classList.toggle('shadow-[0_0_0_1px_rgba(51,95,73,0.35)]', !on);
+              const ci = btn.querySelector('.chip-check');
+              if (ci) {
+                ci.classList.toggle('opacity-0', on);
+                ci.classList.toggle('scale-75', on);
+                ci.classList.toggle('opacity-100', !on);
+                ci.classList.toggle('scale-100', !on);
+              }
+            }
+            syncChips();
           });
         });
+        syncChips();
 
         const phoneInput = document.getElementById('formPhone');
         const validationIcon = document.getElementById('phoneValidationIcon');
