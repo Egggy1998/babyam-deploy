@@ -6,11 +6,22 @@
 const SPREADSHEET_ID = "1z8tGz1XTUGJr3AHXqxvs7ttSy8VASK4gDnfwBrVxGZo";
 const NOTIFY_EMAIL = "ctyankhaiminh@gmail.com";
 
+function escapeHtml(str) {
+  return String(str || '').replace(/[&<>"']/g, function(c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+
+function sanitizeCell(val) {
+  if (val === null || val === undefined) return '';
+  const s = String(val).trim();
+  return /^[\=\+\-\@\t\r]/.test(s) ? "'" + s : s;
+}
+
 function doGet(e) {
   return ContentService.createTextOutput(JSON.stringify({
     status: "success",
-    message: "Baby A&M Webhook đang hoạt động bình thường!",
-    spreadsheetId: SPREADSHEET_ID
+    message: "Baby A&M Webhook đang hoạt động bình thường!"
   })).setMimeType(ContentService.MimeType.JSON);
 }
 
@@ -69,39 +80,47 @@ function doPost(e) {
       }
     }
 
-    const timestamp = Utilities.formatDate(new Date(), "Asia/Ho_Chi_Minh", "dd/MM/yyyy HH:mm:ss");
-    const fullName = data.fullName || data.name || "Khách hàng";
-    const phone = data.phone || "";
-    const storeArea = data.storeArea || data.store || "";
-    const productInterest = data.productInterest || data.product || "";
-    const message = data.message || "";
+    // Chống bot spam qua honeypot
+    if (data._hp) {
+      return ContentService.createTextOutput(JSON.stringify({
+        status: "success",
+        message: "Request accepted"
+      })).setMimeType(ContentService.MimeType.JSON);
+    }
 
-    // 4. Thêm dòng mới vào Google Sheet
+    const timestamp = Utilities.formatDate(new Date(), "Asia/Ho_Chi_Minh", "dd/MM/yyyy HH:mm:ss");
+    const rawFullName = String(data.fullName || data.name || "Khách hàng").slice(0, 100);
+    const rawPhone = String(data.phone || "").replace(/[^\d+]/g, '').slice(0, 15);
+    const rawStoreArea = String(data.storeArea || data.store || "").slice(0, 200);
+    const rawProductInterest = String(data.productInterest || data.product || "").slice(0, 200);
+    const rawMessage = String(data.message || "").slice(0, 1000);
+
+    // 4. Thêm dòng mới vào Google Sheet (chống formula injection)
     sheet.appendRow([
       timestamp,
-      fullName,
-      "'" + phone, // Dấu nháy đơn giữ nguyên số 0 ở đầu SĐT
-      storeArea,
-      productInterest,
-      message,
+      sanitizeCell(rawFullName),
+      "'" + rawPhone,
+      sanitizeCell(rawStoreArea),
+      sanitizeCell(rawProductInterest),
+      sanitizeCell(rawMessage),
       "Mới tiếp nhận"
     ]);
 
-    // 5. Gửi email thông báo cho quản trị viên
-    if (NOTIFY_EMAIL && phone) {
+    // 5. Gửi email thông báo cho quản trị viên (chống HTML injection)
+    if (NOTIFY_EMAIL && rawPhone) {
       try {
         MailApp.sendEmail({
           to: NOTIFY_EMAIL,
-          subject: `[Baby A&M] Khách đăng ký báo giá sỉ: ${fullName} - ${phone}`,
+          subject: `[Baby A&M] Khách đăng ký báo giá sỉ: ${escapeHtml(rawFullName)} - ${escapeHtml(rawPhone)}`,
           htmlBody: `
             <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #161d18;">
               <h2 style="color: #335f49; border-bottom: 2px solid #335f49; padding-bottom: 8px;">Khách Đăng Ký Báo Giá Sỉ Mới</h2>
               <p><strong>Thời gian:</strong> ${timestamp}</p>
-              <p><strong>Họ và tên:</strong> ${fullName}</p>
-              <p><strong>Số điện thoại:</strong> <a href="tel:${phone}">${phone}</a> (Zalo: <a href="https://zalo.me/${phone}">${phone}</a>)</p>
-              <p><strong>Tên shop / Đại lý / Khu vực:</strong> ${storeArea}</p>
-              <p><strong>Dòng sữa quan tâm:</strong> ${productInterest}</p>
-              <p><strong>Lời nhắn:</strong> ${message}</p>
+              <p><strong>Họ và tên:</strong> ${escapeHtml(rawFullName)}</p>
+              <p><strong>Số điện thoại:</strong> <a href="tel:${escapeHtml(rawPhone)}">${escapeHtml(rawPhone)}</a> (Zalo: <a href="https://zalo.me/${escapeHtml(rawPhone)}">${escapeHtml(rawPhone)}</a>)</p>
+              <p><strong>Tên shop / Đại lý / Khu vực:</strong> ${escapeHtml(rawStoreArea)}</p>
+              <p><strong>Dòng sữa quan tâm:</strong> ${escapeHtml(rawProductInterest)}</p>
+              <p><strong>Lời nhắn:</strong> ${escapeHtml(rawMessage)}</p>
               <p><strong>Bảng tính lưu trữ:</strong> <a href="https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}">Xem trên Google Sheets</a></p>
             </div>
           `
