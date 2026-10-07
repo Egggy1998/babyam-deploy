@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://babyam.pages.dev/sitemap.xml
+Sitemap: https://babyam.vn/sitemap.xml
