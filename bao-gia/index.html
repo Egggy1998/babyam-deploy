@@ -403,10 +403,10 @@
         <div class="flex flex-col md:flex-row md:items-end justify-between mb-14 gap-5">
           <div>
             <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
-              Sản phẩm phân phối chủ lực
+              Sản phẩm phân phối sỉ
             </h2>
             <p data-reveal class="text-xs sm:text-sm text-text-muted mt-2">
-              Thương hiệu uy tín, vòng quay nhanh, nhu cầu mẹ bỉm tìm kiếm lớn.
+              Danone Infatrini Đức chủ lực cùng bộ đôi Future Formula Úc chính ngạch 100%.
             </p>
           </div>
 
@@ -418,17 +418,17 @@
           </div>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-7 items-stretch">
           
-          <!-- Product 1 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+          <!-- Product 1 (Left): Future Organic A2 -->
+          <div data-reveal class="lg:col-span-4 rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
             <div>
-              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
+              <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
                 <img src="/Future-Organic-A2-Protein-Stage-1-Front-Isolated.png" alt="Future Organic A2 Protein" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
               <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Future Organic A2 Protein (Úc)</h3>
               <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
-                Đạm A2 hữu cơ chuẩn NASAA Úc. Dịu nhẹ tiêu hóa, giảm táo bón, hấp thu tốt. 3 giai đoạn (lon 800g, thùng 6 lon).
+                Đạm A2 hữu cơ chuẩn NASAA Úc. Dịu nhẹ tiêu hóa, giảm nôn trớ, táo bón, hấp thu vi chất tốt. 3 giai đoạn (lon 800g, thùng 6 lon).
               </p>
             </div>
             <div class="pt-6 mt-6 border-t border-border-subtle flex items-center justify-between">
@@ -440,10 +440,55 @@
             </div>
           </div>
 
-          <!-- Product 2 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+          <!-- Product 2 (Center - TO NHẤT, NỔI BẬT): Danone Nutricia Infatrini -->
+          <div data-reveal class="lg:col-span-4 rounded-3xl border-2 border-primary bg-gradient-to-b from-[#F2F8F4] via-white to-white p-7 sm:p-9 shadow-2xl relative flex flex-col justify-between hover:shadow-2xl transition-all duration-300 lg:-translate-y-4 lg:scale-[1.03] z-10 group">
             <div>
-              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
+              <div class="flex items-center justify-between pb-3 mb-4 border-b border-primary/15">
+                <span class="text-xs font-bold text-primary uppercase tracking-wider">Dòng phân phối chủ lực</span>
+                <span class="text-[11px] font-bold text-red-700 bg-red-50 border border-red-200 px-2 py-0.5 rounded-md">Bán chạy nhất</span>
+              </div>
+
+              <div class="h-64 sm:h-72 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-primary/20 shadow-xs">
+                <img src="/infatrini.webp" alt="Danone Nutricia Infatrini Đức" class="max-h-full object-contain group-hover:scale-108 transition-transform duration-300">
+              </div>
+
+              <h3 class="text-xl sm:text-2xl font-bold font-display text-dark-pine">
+                Danone Nutricia Infatrini (Đức)
+              </h3>
+              
+              <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
+                Sữa dinh dưỡng y học cao năng lượng (100kcal/100ml) chuẩn châu Âu dành cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng).
+              </p>
+
+              <div class="my-4 py-3 border-y border-border-subtle/80 space-y-2 text-xs text-slate-800">
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-primary text-sm shrink-0"></i>
+                  <span>Năng lượng vượt trội 100 kcal / 100ml</span>
+                </p>
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-primary text-sm shrink-0"></i>
+                  <span>Dạng nước pha sẵn 125ml &amp; lon bột 400g</span>
+                </p>
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-primary text-sm shrink-0"></i>
+                  <span>Nguồn sỉ chính ngạch Đức, date dài nhất thị trường</span>
+                </p>
+              </div>
+            </div>
+
+            <div class="pt-4 mt-2">
+              <button type="button" onclick="openLeadModal('Danone Infatrini Đức')"
+                class="w-full py-3.5 px-6 rounded-2xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white text-xs sm:text-sm font-bold flex items-center justify-center gap-2 shadow-lg shadow-primary/25 transition-all cursor-pointer">
+                <span>Nhận bảng giá sỉ Infatrini</span>
+                <i class="ph-bold ph-arrow-right"></i>
+              </button>
+            </div>
+          </div>
+
+          <!-- Product 3 (Right): Future A2 Protein -->
+          <div data-reveal class="lg:col-span-4 rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+            <div>
+              <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
                 <img src="/future-a2-stage-1.webp" alt="Future A2 Protein Úc" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
               <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Future A2 Protein (Úc)</h3>
@@ -460,31 +505,10 @@
             </div>
           </div>
 
-          <!-- Product 3 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
-            <div>
-              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
-                <img src="/infatrini.webp" alt="Danone Nutricia Infatrini" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
-              </div>
-              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Danone Nutricia Infatrini (Đức)</h3>
-              <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
-                Sữa dinh dưỡng y học cao năng lượng (100kcal/100ml) đặc trị cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng). Dạng nước 125ml và bột 400g.
-              </p>
-            </div>
-            <div class="pt-6 mt-6 border-t border-border-subtle flex items-center justify-between">
-              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md">Sẵn kho nước &amp; bột</span>
-              <button type="button" onclick="openLeadModal('Danone Infatrini Đức')"
-                class="px-4 py-2 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
-                Báo giá sỉ
-              </button>
-            </div>
-          </div>
-
         </div>
 
       </div>
     </section>
-
     <!-- SECTION 5: WAREHOUSE & PROOF (BENTO GRID) -->
     <section class="py-20 sm:py-28 bg-surface-cream border-b border-border-subtle" id="warehouse">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
