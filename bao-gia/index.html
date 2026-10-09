@@ -994,8 +994,9 @@
         message: trackingInfo
       });
 
+      const origBtnText = btnTextEl ? btnTextEl.textContent : 'Gửi thông tin nhận báo giá';
       submitBtn.disabled = true;
-      btnTextEl.textContent = 'Đang gửi thông tin...';
+      if (btnTextEl) btnTextEl.textContent = 'Đang gửi thông tin...';
 
       try {
         await fetch(GOOGLE_APPS_SCRIPT_URL, {
@@ -1034,7 +1035,7 @@
         alertBox.textContent = 'Đã ghi nhận thông tin. Quý khách có thể kết nối ngay qua Zalo 096 733 9539.';
       } finally {
         submitBtn.disabled = false;
-        btnTextEl.textContent = 'Gửi thông tin nhận báo giá';
+        if (btnTextEl) btnTextEl.textContent = origBtnText;
       }
     }
 
