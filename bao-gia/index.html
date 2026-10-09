@@ -11,7 +11,7 @@
 
   <!-- Resource Hints -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="dns-prefetch" href="https://cdn.tailwindcss.com">
   <link rel="dns-prefetch" href="https://unpkg.com">
 
@@ -81,7 +81,7 @@
 </head>
 <body class="bg-surface-cream text-slate-900 antialiased selection:bg-primary/20 selection:text-primary min-h-screen pb-18 md:pb-0">
 
-  <!-- FLOATING NAVBAR (VNPT CLOUD WAF STYLE) -->
+  <!-- FLOATING NAVBAR -->
   <header class="sticky top-0 z-40 bg-white/90 backdrop-blur-md border-b border-border-subtle shadow-xs">
     <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8 h-18 sm:h-20 flex items-center justify-between">
       
@@ -123,14 +123,14 @@
 
   <main class="w-full overflow-x-hidden">
 
-    <!-- HERO SECTION WITH PARALLAX BACKGROUND & 12-COL LAYOUT -->
+    <!-- HERO SECTION (CLEAN - NO RECTANGLE BADGE OVER HEADLINE) -->
     <section class="relative overflow-hidden bg-gradient-to-br from-[#F4F8F5] via-[#FCFDFB] to-[#EDF5EF] pt-10 sm:pt-16 pb-14 sm:pb-20 border-b border-border-subtle" id="top">
       
       <!-- Ambient Brand Glows -->
       <div class="glow absolute -right-24 -top-24 h-[520px] w-[520px] rounded-full bg-primary/15"></div>
       <div class="glow absolute -left-24 top-44 h-[460px] w-[460px] rounded-full bg-gold-badge/15"></div>
 
-      <!-- Subtle Farm Illustration Background with Soft Mask -->
+      <!-- Farm Background Illustration -->
       <div class="absolute inset-0 overflow-hidden pointer-events-none opacity-20">
         <img src="/dong-co-victoria.webp" alt="Trang trại Úc" data-hero-bg class="w-full h-full object-cover object-center scale-105">
         <div class="absolute inset-0 bg-gradient-to-r from-white via-white/90 to-transparent lg:w-[65%]"></div>
@@ -140,15 +140,11 @@
       <div class="relative max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid items-center gap-10 lg:grid-cols-12 lg:gap-12">
           
-          <!-- LEFT: VALUE PROPOSITION (7 COLS) -->
+          <!-- LEFT: VALUE PROPOSITION -->
           <div class="lg:col-span-7 space-y-5">
-            
-            <div data-hero-line class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white border border-primary/25 text-primary text-xs font-bold shadow-xs">
-              <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-              <span>BẢNG GIÁ SỈ &amp; CHÍNH SÁCH ĐẠI LÝ 2026</span>
-            </div>
 
-            <h1 data-hero-line class="text-[clamp(1.75rem,2.7vw,2.65rem)] font-extrabold font-display text-dark-pine leading-[1.25] tracking-tight">
+            <!-- Clean Direct H1 - No rounded pill box above -->
+            <h1 data-hero-line class="text-[clamp(1.85rem,2.8vw,2.75rem)] font-extrabold font-display text-dark-pine leading-[1.25] tracking-tight">
               Lo ngại rủi ro hàng trôi nổi, đứt gãy nguồn khi kinh doanh sữa ngoại?
             </h1>
 
@@ -165,19 +161,19 @@
 
             <!-- 4 Quick Trust Badges -->
             <div data-hero-line class="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2">
-              <div class="p-3 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-primary font-bold text-sm">Chiết khấu cao</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Trực tiếp từ kho nhập</span>
               </div>
-              <div class="p-3 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-secondary font-bold text-sm">100% Hóa đơn VAT</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Đầy đủ tem phụ, CO/CQ</span>
               </div>
-              <div class="p-3 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-emerald-700 font-bold text-sm">Giao 24-48h</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Sẵn kho HN &amp; TP.HCM</span>
               </div>
-              <div class="p-3 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-amber-700 font-bold text-sm">Đổi mới 1 : 1</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Bảo hiểm lon móp méo</span>
               </div>
@@ -195,20 +191,15 @@
 
           </div>
 
-          <!-- RIGHT: HIGH-CONVERTING HERO FORM (5 COLS) -->
+          <!-- RIGHT: HIGH-CONVERTING HERO FORM -->
           <div data-hero-form class="lg:col-span-5 w-full" id="form-container">
             <div class="relative w-full rounded-3xl bg-white/98 p-6 sm:p-7 shadow-2xl border border-primary/25 backdrop-blur-md">
               
               <div class="mb-4">
-                <div class="flex items-center justify-between gap-2 mb-1">
-                  <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine">
-                    Nhận báo giá sỉ &amp; chính sách
-                  </h3>
-                  <span class="px-2 py-0.5 rounded-full bg-red-50 text-red-600 text-[10px] font-bold border border-red-200">
-                    Phản hồi 15p
-                  </span>
-                </div>
-                <p class="text-xs text-text-muted">Bảng chiết khấu và catalogue gửi riêng qua Zalo của Quý đối tác.</p>
+                <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine">
+                  Nhận báo giá sỉ &amp; chính sách đại lý
+                </h3>
+                <p class="text-xs text-text-muted mt-0.5">Bảng chiết khấu và catalogue gửi riêng qua Zalo trong 15 phút.</p>
               </div>
 
               <div id="heroFormAlert" class="hidden mb-3 p-3 rounded-xl text-xs font-medium"></div>
@@ -293,7 +284,7 @@
       </div>
     </section>
 
-    <!-- SECTION 2: STATS BANNER (DARK LUXURY RIBBON) -->
+    <!-- SECTION 2: STATS BANNER -->
     <section class="bg-gradient-to-r from-[#111813] via-[#1B291F] to-[#111813] py-14 sm:py-18 text-white border-b border-white/10" id="stats">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
@@ -329,7 +320,7 @@
       </div>
     </section>
 
-    <!-- SECTION 3: PROBLEMS VS SOLUTION (3 CARDS WITH ILLUSTRATIONS) -->
+    <!-- SECTION 3: PROBLEMS VS SOLUTION (CLEAN DIRECT TITLE - NO PILL OVER HEADLINE) -->
     <section class="py-16 sm:py-20 bg-gradient-to-b from-[#F2F6F3] via-white to-[#F2F6F3] border-b border-border-subtle" id="problems">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
@@ -347,9 +338,8 @@
           <!-- Card 1 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100 relative">
+              <div class="h-44 w-full overflow-hidden bg-slate-100">
                 <img src="/kiem-dinh-lab.webp" alt="Kiểm định hải quan" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-                <span class="absolute top-3 left-3 px-2.5 py-1 rounded-lg bg-red-600 text-white text-[11px] font-bold">Rủi ro hàng trôi nổi</span>
               </div>
               <div class="p-6">
                 <h3 class="text-base font-bold font-display text-dark-pine mb-2">Hàng không hóa đơn, nguy cơ phạt nặng</h3>
@@ -367,9 +357,8 @@
           <!-- Card 2 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100 relative">
+              <div class="h-44 w-full overflow-hidden bg-slate-100">
                 <img src="/showroom-me-be.webp" alt="Cửa hàng mẹ bé" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-                <span class="absolute top-3 left-3 px-2.5 py-1 rounded-lg bg-amber-600 text-white text-[11px] font-bold">Rủi ro đọng vốn</span>
               </div>
               <div class="p-6">
                 <h3 class="text-base font-bold font-display text-dark-pine mb-2">Giá sỉ bấp bênh, bị ép số lượng</h3>
@@ -387,9 +376,8 @@
           <!-- Card 3 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100 relative">
+              <div class="h-44 w-full overflow-hidden bg-slate-100">
                 <img src="/kho-lanh-gsp.webp" alt="Kho bãi GSP" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-                <span class="absolute top-3 left-3 px-2.5 py-1 rounded-lg bg-blue-600 text-white text-[11px] font-bold">Rủi ro vận chuyển</span>
               </div>
               <div class="p-6">
                 <h3 class="text-base font-bold font-display text-dark-pine mb-2">Date cận, móp méo lon sữa</h3>
@@ -409,19 +397,16 @@
       </div>
     </section>
 
-    <!-- SECTION 4: PRODUCT SHOWCASE -->
+    <!-- SECTION 4: PRODUCT SHOWCASE (DIRECT H2 - NO ROUNDED PILL OVER HEADLINE) -->
     <section class="py-16 sm:py-20 bg-white border-b border-border-subtle" id="products">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
         <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
           <div>
-            <span data-reveal class="text-xs font-bold uppercase tracking-wider text-primary bg-organic-light px-3 py-1 rounded-full">
+            <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
               Sản phẩm phân phối chủ lực
-            </span>
-            <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine mt-2">
-              Sản phẩm dinh dưỡng cao cấp
             </h2>
-            <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1">
+            <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1.5">
               Thương hiệu uy tín, vòng quay nhanh, nhu cầu mẹ bỉm tìm kiếm lớn.
             </p>
           </div>
@@ -442,10 +427,9 @@
               <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
                 <img src="/Future-Organic-A2-Protein-Stage-1-Front-Isolated.png" alt="Future Organic A2 Protein" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <span class="text-xs font-bold text-primary">Chứng nhận NASAA Hữu cơ Úc</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-1">Future Organic A2 Protein (Úc)</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Future Organic A2 Protein (Úc)</h3>
               <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
-                Đạm A2 hữu cơ từ đàn bò thuần chủng Úc. Dịu nhẹ tiêu hóa, giảm táo bón, hấp thu tốt. 3 giai đoạn (lon 800g, thùng 6 lon).
+                Đạm A2 hữu cơ chuẩn NASAA Úc. Dịu nhẹ tiêu hóa, giảm táo bón, hấp thu tốt. 3 giai đoạn (lon 800g, thùng 6 lon).
               </p>
             </div>
             <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
@@ -463,10 +447,9 @@
               <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
                 <img src="/future-a2-stage-1.webp" alt="Future A2 Protein Úc" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <span class="text-xs font-bold text-secondary">Hệ 7 Prebiotics độc quyền</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-1">Future A2 Protein (Úc)</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Future A2 Protein (Úc)</h3>
               <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
-                Nuôi dưỡng vi sinh đường ruột khỏe mạnh, bổ sung DHA và ARA phát triển trí não. 3 giai đoạn (lon 800g, thùng 6 lon).
+                Hệ 7 Prebiotics độc quyền nuôi dưỡng vi sinh đường ruột khỏe mạnh, bổ sung DHA và ARA phát triển trí não. 3 giai đoạn (lon 800g).
               </p>
             </div>
             <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
@@ -484,10 +467,9 @@
               <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
                 <img src="/infatrini.webp" alt="Danone Nutricia Infatrini" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <span class="text-xs font-bold text-red-600">Dinh dưỡng y học Đức</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-1">Danone Nutricia Infatrini</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Danone Nutricia Infatrini (Đức)</h3>
               <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
-                Sữa cao năng lượng (100kcal/100ml) đặc trị cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng). Dạng nước 125ml và dạng bột 400g.
+                Sữa dinh dưỡng y học cao năng lượng (100kcal/100ml) đặc trị cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng). Dạng nước 125ml và dạng bột 400g.
               </p>
             </div>
             <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
@@ -504,15 +486,12 @@
       </div>
     </section>
 
-    <!-- SECTION 5: WAREHOUSE & REAL-WORLD CAPABILITY (BENTO GRID WITH 4 PHOTOS) -->
+    <!-- SECTION 5: WAREHOUSE & PROOF (DIRECT H2 - NO PILL OVER HEADLINE) -->
     <section class="py-16 sm:py-20 bg-surface-cream border-b border-border-subtle" id="warehouse">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
         <div class="max-w-2xl mb-12">
-          <span data-reveal class="text-xs font-bold uppercase tracking-wider text-primary bg-organic-light px-3 py-1 rounded-full">
-            Năng lực kho bãi &amp; Nguồn gốc
-          </span>
-          <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine mt-2">
+          <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
             Hạ tầng kho GSP &amp; Kiểm định chất lượng
           </h2>
           <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1.5">
@@ -525,8 +504,7 @@
           <!-- Bento 1: Kho GSP (7 cols) -->
           <div data-reveal class="md:col-span-7 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
             <div class="p-6">
-              <span class="text-xs font-bold text-primary">Kiểm soát nhiệt ẩm 24/7</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-0.5">Kho lạnh tiêu chuẩn GSP</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Kho mát tiêu chuẩn GSP 24/7</h3>
               <p class="text-xs text-text-muted mt-1">Duy trì mát dưới 25°C, chống ẩm mốc vỏ lon và bảo vệ hạt sữa.</p>
             </div>
             <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
@@ -537,8 +515,7 @@
           <!-- Bento 2: Lab kiểm nghiệm (5 cols) -->
           <div data-reveal class="md:col-span-5 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
             <div class="p-6">
-              <span class="text-xs font-bold text-secondary">Chuẩn an toàn thực phẩm</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-0.5">Kiểm định từng lô nhập khẩu</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Kiểm định từng lô nhập khẩu</h3>
               <p class="text-xs text-text-muted mt-1">Đầy đủ hồ sơ kiểm nghiệm vi sinh và chứng từ hải quan.</p>
             </div>
             <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
@@ -549,9 +526,8 @@
           <!-- Bento 3: Trang trại Úc (5 cols) -->
           <div data-reveal class="md:col-span-5 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
             <div class="p-6">
-              <span class="text-xs font-bold text-emerald-700">Đồng cỏ Victoria, Úc</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-0.5">Nguồn sữa đạm A2 thuần chủng</h3>
-              <p class="text-xs text-text-muted mt-1">Đàn bò nuôi thả tự nhiên trên đồng cỏ sinh thái không biến đổi gen.</p>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Đồng cỏ Victoria, Úc</h3>
+              <p class="text-xs text-text-muted mt-1">Nguồn sữa đạm A2 thuần chủng từ đàn bò nuôi thả sinh thái tự nhiên.</p>
             </div>
             <div class="h-52 w-full overflow-hidden bg-slate-900">
               <img src="/dong-co-victoria.webp" alt="Đồng cỏ Victoria Úc" class="w-full h-full object-cover">
@@ -561,8 +537,7 @@
           <!-- Bento 4: Showroom đại lý (7 cols) -->
           <div data-reveal class="md:col-span-7 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
             <div class="p-6">
-              <span class="text-xs font-bold text-gold-badge">Đồng hành cùng cửa hàng</span>
-              <h3 class="text-lg font-bold font-display text-dark-pine mt-0.5">Hỗ trợ trưng bày POSM &amp; Mẫu thử</h3>
+              <h3 class="text-lg font-bold font-display text-dark-pine">Hỗ trợ POSM &amp; Mẫu thử</h3>
               <p class="text-xs text-text-muted mt-1">Cung cấp tài liệu đào tạo dinh dưỡng, hình ảnh marketing cho quầy kệ.</p>
             </div>
             <div class="h-52 w-full overflow-hidden bg-slate-900">
@@ -706,7 +681,7 @@
     </button>
   </aside>
 
-  <!-- QUICK LEAD MODAL (VNPT CLOUD WAF TRIALPOPUP STYLE) -->
+  <!-- QUICK LEAD MODAL -->
   <div id="leadModal" role="dialog" aria-modal="true" class="hidden fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/60 backdrop-blur-xs">
     <div class="relative w-full max-w-[460px] rounded-3xl bg-white p-6 sm:p-7 shadow-2xl text-slate-900" onclick="event.stopPropagation()">
       
@@ -716,8 +691,7 @@
       </button>
 
       <div class="mb-4 pr-6">
-        <span class="text-[10px] font-bold uppercase tracking-wider text-primary bg-organic-light px-2.5 py-0.5 rounded-full">Bảng giá đại lý</span>
-        <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine mt-1.5">
+        <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine">
           Nhận bảng giá sỉ chi tiết
         </h3>
         <p class="text-xs text-text-muted mt-0.5">Phản hồi qua Zalo trong 15 phút kèm file PDF/Excel.</p>
