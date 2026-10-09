@@ -56,7 +56,7 @@
   <script src="https://unpkg.com/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
   <!-- GPT Ads / OpenAI Pixel -->
-  <script data-openai-pixel="GhAL66Gcfg19iCY52n5q7s">!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");oaiq("init",{pixelId:"GhAL66Gcfg19iCY52n5q7s",debug:true});</script>
+  <script data-openai-pixel="GhAL66Gcfg19iCY52n5q7s">!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");oaiq("init",{pixelId:"GhAL66Gcfg19iCY52n5q7s",debug:false});</script>
 
   <link rel="canonical" href="https://babyam.vn/bao-gia/">
   <meta name="robots" content="index,follow">
@@ -967,8 +967,10 @@
       const utmSource = urlParams.get('utm_source') || 'gpt-ads';
       const utmMedium = urlParams.get('utm_medium') || '';
       const utmCampaign = urlParams.get('utm_campaign') || '';
+      const clickId = urlParams.get('click_id') || '';
+      const utmContent = urlParams.get('utm_content') || '';
 
-      const trackingInfo = `[Mô hình: ${model || 'Đại lý'}] [UTM: ${utmSource} / ${utmMedium} / ${utmCampaign}]`;
+      const trackingInfo = `[Mô hình: ${model || 'Đại lý'}] [UTM: ${utmSource} / ${utmMedium} / ${utmCampaign} / ${utmContent}] [click_id: ${clickId}]`;
 
       const payload = new URLSearchParams({
         fullName: fullName,
@@ -992,12 +994,7 @@
 
         if (window.oaiq) {
           try {
-            window.oaiq('event', 'Lead', {
-              value: 1,
-              currency: 'VND',
-              content_name: 'BaoGiaSiLanding',
-              content_category: productInterest
-            });
+            window.oaiq('measure', 'lead_created', { type: 'customer_action' }, { event_id: 'lead_' + cleanPhone + '_' + Date.now() });
           } catch(err) {}
         }
 
