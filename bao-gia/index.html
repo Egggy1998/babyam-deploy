@@ -97,7 +97,7 @@
       </a>
 
       <!-- Quick Nav Links -->
-      <nav class="hidden lg:flex items-center gap-7 text-[13.5px] font-semibold text-slate-700">
+      <nav class="hidden lg:flex items-center gap-8 text-[14px] font-semibold text-slate-700">
         <a href="#problems" class="hover:text-primary transition-colors">Thực trạng</a>
         <a href="#products" class="hover:text-primary transition-colors">Sản phẩm sỉ</a>
         <a href="#warehouse" class="hover:text-primary transition-colors">Kho GSP &amp; Kiểm định</a>
@@ -106,14 +106,14 @@
       </nav>
 
       <!-- Contact Actions -->
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-3.5">
         <a href="tel:0967339539" class="hidden sm:flex items-center gap-1.5 text-xs font-semibold text-text-muted hover:text-primary">
           <i class="ph-bold ph-phone text-primary text-base"></i>
-          <span>Hotline: <strong class="text-primary">096 733 9539</strong></span>
+          <span>Hotline: <strong class="text-primary font-bold">096 733 9539</strong></span>
         </a>
 
-        <button type="button" onclick="openLeadModal('Báo giá sỉ nhanh')"
-          class="px-4 py-2.5 rounded-xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white text-xs sm:text-sm font-bold shadow-md shadow-primary/20 transition-all cursor-pointer">
+        <button type="button" onclick="openLeadModal('Báo giá sỉ nhanh header')"
+          class="px-4.5 py-2.5 rounded-xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white text-xs sm:text-sm font-bold shadow-md shadow-primary/20 transition-all cursor-pointer">
           Nhận báo giá sỉ
         </button>
       </div>
@@ -123,8 +123,8 @@
 
   <main class="w-full overflow-x-hidden">
 
-    <!-- HERO SECTION (CLEAN - NO RECTANGLE BADGE OVER HEADLINE) -->
-    <section class="relative overflow-hidden bg-gradient-to-br from-[#F4F8F5] via-[#FCFDFB] to-[#EDF5EF] pt-10 sm:pt-16 pb-14 sm:pb-20 border-b border-border-subtle" id="top">
+    <!-- HERO SECTION WITH PARALLAX BACKGROUND -->
+    <section class="relative overflow-hidden bg-gradient-to-br from-[#F4F8F5] via-[#FCFDFB] to-[#EDF5EF] pt-12 sm:pt-20 pb-16 sm:pb-24 border-b border-border-subtle" id="top">
       
       <!-- Ambient Brand Glows -->
       <div class="glow absolute -right-24 -top-24 h-[520px] w-[520px] rounded-full bg-primary/15"></div>
@@ -138,73 +138,72 @@
       <div class="absolute inset-0 bg-grid opacity-60 pointer-events-none"></div>
 
       <div class="relative max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid items-center gap-10 lg:grid-cols-12 lg:gap-12">
+        <div class="grid items-center gap-10 lg:grid-cols-12 lg:gap-14">
           
-          <!-- LEFT: VALUE PROPOSITION -->
-          <div class="lg:col-span-7 space-y-5">
+          <!-- LEFT: VALUE PROPOSITION (7 COLS) -->
+          <div class="lg:col-span-7 space-y-6">
 
-            <!-- Clean Direct H1 - No rounded pill box above -->
-            <h1 data-hero-line class="text-[clamp(1.85rem,2.8vw,2.75rem)] font-extrabold font-display text-dark-pine leading-[1.25] tracking-tight">
+            <h1 data-hero-line class="text-[clamp(1.9rem,2.9vw,2.85rem)] font-extrabold font-display text-dark-pine leading-[1.25] tracking-tight">
               Lo ngại rủi ro hàng trôi nổi, đứt gãy nguồn khi kinh doanh sữa ngoại?
             </h1>
 
-            <div data-hero-line class="space-y-1.5 text-[clamp(0.95rem,1.15vw,1.05rem)] font-medium text-text-muted">
+            <div data-hero-line class="space-y-2 text-[clamp(0.95rem,1.15vw,1.1rem)] font-medium text-text-muted">
               <p>→ Giá sỉ biến động thất thường, cạnh tranh phá giá từ hàng xách tay.</p>
               <p>→ Thiếu hóa đơn VAT, tem phụ &amp; kiểm nghiệm an toàn thực phẩm.</p>
             </div>
 
-            <p data-hero-line class="text-[clamp(1.2rem,1.9vw,1.65rem)] font-extrabold leading-snug tracking-tight text-on-surface">
+            <p data-hero-line class="text-[clamp(1.25rem,2vw,1.75rem)] font-extrabold leading-snug tracking-tight text-on-surface">
               <span class="bg-gradient-to-r from-primary via-primary-container to-secondary bg-clip-text text-transparent">
                 Tiếp cận nguồn sỉ chính ngạch Future A2 Úc &amp; Danone Infatrini Đức sau 15 phút cùng Baby A&amp;M
               </span>
             </p>
 
             <!-- 4 Quick Trust Badges -->
-            <div data-hero-line class="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2">
-              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+            <div data-hero-line class="grid grid-cols-2 sm:grid-cols-4 gap-3.5 pt-2">
+              <div class="p-4 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-primary font-bold text-sm">Chiết khấu cao</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Trực tiếp từ kho nhập</span>
               </div>
-              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-4 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-secondary font-bold text-sm">100% Hóa đơn VAT</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Đầy đủ tem phụ, CO/CQ</span>
               </div>
-              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-4 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-emerald-700 font-bold text-sm">Giao 24-48h</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Sẵn kho HN &amp; TP.HCM</span>
               </div>
-              <div class="p-3.5 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
+              <div class="p-4 rounded-2xl bg-white/95 border border-border-subtle shadow-xs text-center">
                 <span class="block text-amber-700 font-bold text-sm">Đổi mới 1 : 1</span>
                 <span class="text-[11px] text-text-muted mt-0.5 block">Bảo hiểm lon móp méo</span>
               </div>
             </div>
 
             <!-- Social Proof -->
-            <div data-hero-line class="flex items-center gap-3 pt-2 text-xs text-text-muted">
+            <div data-hero-line class="flex items-center gap-3.5 pt-2 text-xs text-text-muted">
               <div class="flex -space-x-2">
-                <span class="inline-flex h-7 w-7 rounded-full bg-primary text-white text-[10px] font-bold items-center justify-center ring-2 ring-white">500+</span>
-                <span class="inline-flex h-7 w-7 rounded-full bg-organic-sage text-white text-[10px] font-bold items-center justify-center ring-2 ring-white">Shop</span>
-                <span class="inline-flex h-7 w-7 rounded-full bg-secondary text-white text-[10px] font-bold items-center justify-center ring-2 ring-white">NPP</span>
+                <span class="inline-flex h-8 w-8 rounded-full bg-primary text-white text-[11px] font-bold items-center justify-center ring-2 ring-white">500+</span>
+                <span class="inline-flex h-8 w-8 rounded-full bg-organic-sage text-white text-[10px] font-bold items-center justify-center ring-2 ring-white">Shop</span>
+                <span class="inline-flex h-8 w-8 rounded-full bg-secondary text-white text-[10px] font-bold items-center justify-center ring-2 ring-white">NPP</span>
               </div>
               <span>Hơn <strong>500+ đối tác shop mẹ &amp; bé và nhà thuốc</strong> trên 63 tỉnh thành đang tin cậy hợp tác.</span>
             </div>
 
           </div>
 
-          <!-- RIGHT: HIGH-CONVERTING HERO FORM -->
-          <div data-hero-form class="lg:col-span-5 w-full" id="form-container">
-            <div class="relative w-full rounded-3xl bg-white/98 p-6 sm:p-7 shadow-2xl border border-primary/25 backdrop-blur-md">
+          <!-- RIGHT: HERO LEAD FORM (5 COLS) -->
+          <div data-hero-form class="lg:col-span-5 w-full" id="hero-form-container">
+            <div class="relative w-full rounded-3xl bg-white/98 p-6 sm:p-8 shadow-2xl border border-primary/25 backdrop-blur-md">
               
-              <div class="mb-4">
+              <div class="mb-5">
                 <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine">
                   Nhận báo giá sỉ &amp; chính sách đại lý
                 </h3>
                 <p class="text-xs text-text-muted mt-0.5">Bảng chiết khấu và catalogue gửi riêng qua Zalo trong 15 phút.</p>
               </div>
 
-              <div id="heroFormAlert" class="hidden mb-3 p-3 rounded-xl text-xs font-medium"></div>
+              <div id="heroFormAlert" class="hidden mb-3.5 p-3.5 rounded-xl text-xs font-medium"></div>
 
-              <form id="heroLeadForm" class="space-y-3" novalidate>
+              <form id="heroLeadForm" class="space-y-3.5" novalidate>
                 <div>
                   <label for="heroName" class="block text-xs font-bold text-slate-800 mb-1">
                     Họ tên / Tên cửa hàng <span class="text-red-500">*</span>
@@ -221,7 +220,7 @@
                     class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-white focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all">
                 </div>
 
-                <div class="grid grid-cols-2 gap-2.5">
+                <div class="grid grid-cols-2 gap-3">
                   <div>
                     <label for="heroArea" class="block text-xs font-bold text-slate-800 mb-1">
                       Tỉnh / Thành phố <span class="text-red-500">*</span>
@@ -266,7 +265,7 @@
                 </div>
 
                 <button type="submit" id="heroSubmitBtn"
-                  class="w-full mt-2 py-3.5 px-5 rounded-2xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white font-bold text-sm shadow-md shadow-primary/25 transition-all transform active:scale-98 flex items-center justify-center gap-2 cursor-pointer">
+                  class="w-full mt-2.5 py-3.5 px-5 rounded-2xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white font-bold text-sm shadow-md shadow-primary/25 transition-all transform active:scale-98 flex items-center justify-center gap-2 cursor-pointer">
                   <i class="ph-bold ph-paper-plane-tilt text-lg"></i>
                   <span id="heroBtnText">Gửi thông tin nhận báo giá sỉ</span>
                 </button>
@@ -285,46 +284,46 @@
     </section>
 
     <!-- SECTION 2: STATS BANNER -->
-    <section class="bg-gradient-to-r from-[#111813] via-[#1B291F] to-[#111813] py-14 sm:py-18 text-white border-b border-white/10" id="stats">
+    <section class="bg-gradient-to-r from-[#111813] via-[#1B291F] to-[#111813] py-16 sm:py-24 text-white border-b border-white/10" id="stats">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="text-center max-w-xl mx-auto mb-10">
-          <h2 data-reveal class="text-2xl sm:text-3xl font-bold font-display text-white">
+        <div class="text-center max-w-xl mx-auto mb-12">
+          <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-white">
             Năng lực cung ứng của Baby A&amp;M
           </h2>
-          <p data-reveal class="text-xs sm:text-sm text-white/70 mt-1">Đảm bảo nguồn hàng ổn định cho hàng trăm đối tác kinh doanh.</p>
+          <p data-reveal class="text-xs sm:text-sm text-white/70 mt-1.5">Đảm bảo nguồn hàng ổn định cho hàng trăm đối tác kinh doanh.</p>
         </div>
 
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 text-center">
-          <div data-reveal class="p-5 sm:p-6 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
-            <div class="text-3xl sm:text-4xl font-extrabold font-display text-emerald-400">500+</div>
-            <div class="text-xs sm:text-sm text-white/80 mt-1.5 font-medium">Shop &amp; nhà thuốc đối tác</div>
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-7 text-center">
+          <div data-reveal class="p-6 sm:p-7 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
+            <div class="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-display text-emerald-400">500+</div>
+            <div class="text-xs sm:text-sm text-white/80 mt-2 font-medium">Shop &amp; nhà thuốc đối tác</div>
           </div>
 
-          <div data-reveal class="p-5 sm:p-6 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
-            <div class="text-3xl sm:text-4xl font-extrabold font-display text-emerald-400">100%</div>
-            <div class="text-xs sm:text-sm text-white/80 mt-1.5 font-medium">Hóa đơn VAT &amp; hải quan</div>
+          <div data-reveal class="p-6 sm:p-7 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
+            <div class="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-display text-emerald-400">100%</div>
+            <div class="text-xs sm:text-sm text-white/80 mt-2 font-medium">Hóa đơn VAT &amp; hải quan</div>
           </div>
 
-          <div data-reveal class="p-5 sm:p-6 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
-            <div class="text-3xl sm:text-4xl font-extrabold font-display text-emerald-400">24H</div>
-            <div class="text-xs sm:text-sm text-white/80 mt-1.5 font-medium">Giao hàng nhanh nội thành</div>
+          <div data-reveal class="p-6 sm:p-7 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
+            <div class="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-display text-emerald-400">24H</div>
+            <div class="text-xs sm:text-sm text-white/80 mt-2 font-medium">Giao hàng nhanh nội thành</div>
           </div>
 
-          <div data-reveal class="p-5 sm:p-6 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
-            <div class="text-3xl sm:text-4xl font-extrabold font-display text-emerald-400">1 : 1</div>
-            <div class="text-xs sm:text-sm text-white/80 mt-1.5 font-medium">Đổi mới nếu móp méo</div>
+          <div data-reveal class="p-6 sm:p-7 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur-xs hover:border-organic-sage transition-all">
+            <div class="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-display text-emerald-400">1 : 1</div>
+            <div class="text-xs sm:text-sm text-white/80 mt-2 font-medium">Đổi mới nếu móp méo</div>
           </div>
         </div>
 
       </div>
     </section>
 
-    <!-- SECTION 3: PROBLEMS VS SOLUTION (CLEAN DIRECT TITLE - NO PILL OVER HEADLINE) -->
-    <section class="py-16 sm:py-20 bg-gradient-to-b from-[#F2F6F3] via-white to-[#F2F6F3] border-b border-border-subtle" id="problems">
+    <!-- SECTION 3: PROBLEMS VS SOLUTION -->
+    <section class="py-20 sm:py-28 bg-gradient-to-b from-[#F2F6F3] via-white to-[#F2F6F3] border-b border-border-subtle" id="problems">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="text-center max-w-2xl mx-auto mb-12">
+        <div class="text-center max-w-2xl mx-auto mb-14">
           <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
             Thực trạng thị trường sữa ngoại &amp; Lời giải
           </h2>
@@ -333,22 +332,22 @@
           </p>
         </div>
 
-        <div class="grid gap-6 md:grid-cols-3">
+        <div class="grid gap-7 md:grid-cols-3">
           
           <!-- Card 1 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100">
+              <div class="h-48 w-full overflow-hidden bg-slate-100">
                 <img src="/kiem-dinh-lab.webp" alt="Kiểm định hải quan" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
               </div>
-              <div class="p-6">
-                <h3 class="text-base font-bold font-display text-dark-pine mb-2">Hàng không hóa đơn, nguy cơ phạt nặng</h3>
-                <p class="text-xs text-text-muted leading-relaxed">
+              <div class="p-6 sm:p-7">
+                <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine mb-2">Hàng không hóa đơn, nguy cơ phạt nặng</h3>
+                <p class="text-xs sm:text-sm text-text-muted leading-relaxed">
                   Hàng xách tay thiếu CO/CQ và tem phụ dễ bị quản lý thị trường xử lý và tịch thu.
                 </p>
               </div>
             </div>
-            <div class="p-6 pt-0 border-t border-border-subtle/80 text-xs font-semibold text-primary flex items-center gap-2">
+            <div class="p-6 sm:p-7 pt-0 border-t border-border-subtle/80 text-xs sm:text-sm font-semibold text-primary flex items-center gap-2">
               <i class="ph-bold ph-check-circle text-base text-emerald-600"></i>
               <span>Baby A&amp;M xuất VAT 100%, đủ tem phụ và hồ sơ công bố.</span>
             </div>
@@ -357,17 +356,17 @@
           <!-- Card 2 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100">
+              <div class="h-48 w-full overflow-hidden bg-slate-100">
                 <img src="/showroom-me-be.webp" alt="Cửa hàng mẹ bé" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
               </div>
-              <div class="p-6">
-                <h3 class="text-base font-bold font-display text-dark-pine mb-2">Giá sỉ bấp bênh, bị ép số lượng</h3>
-                <p class="text-xs text-text-muted leading-relaxed">
+              <div class="p-6 sm:p-7">
+                <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine mb-2">Giá sỉ bấp bênh, bị ép số lượng</h3>
+                <p class="text-xs sm:text-sm text-text-muted leading-relaxed">
                   Qua nhiều khâu trung gian khiến biên lãi bị ép mỏng, hoặc phải ôm số lượng lớn mới có giá tốt.
                 </p>
               </div>
             </div>
-            <div class="p-6 pt-0 border-t border-border-subtle/80 text-xs font-semibold text-primary flex items-center gap-2">
+            <div class="p-6 sm:p-7 pt-0 border-t border-border-subtle/80 text-xs sm:text-sm font-semibold text-primary flex items-center gap-2">
               <i class="ph-bold ph-check-circle text-base text-emerald-600"></i>
               <span>Giá sỉ trực tiếp từ kho nhập, hỗ trợ thử nghiệm từ 1 thùng.</span>
             </div>
@@ -376,17 +375,17 @@
           <!-- Card 3 -->
           <div data-reveal class="rounded-3xl border border-border-subtle bg-white overflow-hidden shadow-xs hover:-translate-y-1.5 hover:shadow-xl transition-all duration-300 flex flex-col justify-between group">
             <div>
-              <div class="h-44 w-full overflow-hidden bg-slate-100">
+              <div class="h-48 w-full overflow-hidden bg-slate-100">
                 <img src="/kho-lanh-gsp.webp" alt="Kho bãi GSP" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
               </div>
-              <div class="p-6">
-                <h3 class="text-base font-bold font-display text-dark-pine mb-2">Date cận, móp méo lon sữa</h3>
-                <p class="text-xs text-text-muted leading-relaxed">
+              <div class="p-6 sm:p-7">
+                <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine mb-2">Date cận, móp méo lon sữa</h3>
+                <p class="text-xs sm:text-sm text-text-muted leading-relaxed">
                   Lon sữa bị móp khi giao hàng không bán được cho khách quen, gây mất uy tín và hao hụt vốn.
                 </p>
               </div>
             </div>
-            <div class="p-6 pt-0 border-t border-border-subtle/80 text-xs font-semibold text-primary flex items-center gap-2">
+            <div class="p-6 sm:p-7 pt-0 border-t border-border-subtle/80 text-xs sm:text-sm font-semibold text-primary flex items-center gap-2">
               <i class="ph-bold ph-check-circle text-base text-emerald-600"></i>
               <span>Cam kết lô date mới nhất. Đổi mới 1:1 ngay nếu móp méo.</span>
             </div>
@@ -397,23 +396,23 @@
       </div>
     </section>
 
-    <!-- SECTION 4: PRODUCT SHOWCASE (DIRECT H2 - NO ROUNDED PILL OVER HEADLINE) -->
-    <section class="py-16 sm:py-20 bg-white border-b border-border-subtle" id="products">
+    <!-- SECTION 4: PRODUCT SHOWCASE -->
+    <section class="py-20 sm:py-28 bg-white border-b border-border-subtle" id="products">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
+        <div class="flex flex-col md:flex-row md:items-end justify-between mb-14 gap-5">
           <div>
             <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
               Sản phẩm phân phối chủ lực
             </h2>
-            <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1.5">
+            <p data-reveal class="text-xs sm:text-sm text-text-muted mt-2">
               Thương hiệu uy tín, vòng quay nhanh, nhu cầu mẹ bỉm tìm kiếm lớn.
             </p>
           </div>
 
           <div data-reveal>
             <button type="button" onclick="openLeadModal('Báo giá toàn bộ sản phẩm')"
-              class="px-4 py-2.5 rounded-xl bg-organic-light hover:bg-primary hover:text-white text-primary text-xs sm:text-sm font-bold transition-all cursor-pointer">
+              class="px-5 py-3 rounded-2xl bg-organic-light hover:bg-primary hover:text-white text-primary text-xs sm:text-sm font-bold transition-all cursor-pointer">
               Tải file bảng giá Excel/PDF
             </button>
           </div>
@@ -422,60 +421,60 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8">
           
           <!-- Product 1 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
             <div>
-              <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
+              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
                 <img src="/Future-Organic-A2-Protein-Stage-1-Front-Isolated.png" alt="Future Organic A2 Protein" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <h3 class="text-lg font-bold font-display text-dark-pine">Future Organic A2 Protein (Úc)</h3>
-              <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Future Organic A2 Protein (Úc)</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
                 Đạm A2 hữu cơ chuẩn NASAA Úc. Dịu nhẹ tiêu hóa, giảm táo bón, hấp thu tốt. 3 giai đoạn (lon 800g, thùng 6 lon).
               </p>
             </div>
-            <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
-              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md">Sẵn kho</span>
+            <div class="pt-6 mt-6 border-t border-border-subtle flex items-center justify-between">
+              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md">Sẵn kho</span>
               <button type="button" onclick="openLeadModal('Future Organic A2 (Úc)')"
-                class="px-3.5 py-1.5 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
+                class="px-4 py-2 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
                 Báo giá sỉ
               </button>
             </div>
           </div>
 
           <!-- Product 2 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
             <div>
-              <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
+              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
                 <img src="/future-a2-stage-1.webp" alt="Future A2 Protein Úc" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <h3 class="text-lg font-bold font-display text-dark-pine">Future A2 Protein (Úc)</h3>
-              <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Future A2 Protein (Úc)</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
                 Hệ 7 Prebiotics độc quyền nuôi dưỡng vi sinh đường ruột khỏe mạnh, bổ sung DHA và ARA phát triển trí não. 3 giai đoạn (lon 800g).
               </p>
             </div>
-            <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
-              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md">Sẵn kho</span>
+            <div class="pt-6 mt-6 border-t border-border-subtle flex items-center justify-between">
+              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md">Sẵn kho</span>
               <button type="button" onclick="openLeadModal('Future A2 Protein (Úc)')"
-                class="px-3.5 py-1.5 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
+                class="px-4 py-2 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
                 Báo giá sỉ
               </button>
             </div>
           </div>
 
           <!-- Product 3 -->
-          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
+          <div data-reveal class="rounded-3xl border border-border-subtle bg-surface-cream p-6 sm:p-7 flex flex-col justify-between hover:border-primary/50 hover:shadow-xl transition-all duration-300 group">
             <div>
-              <div class="h-52 w-full rounded-2xl bg-white p-4 flex items-center justify-center overflow-hidden mb-5 border border-border-subtle/60">
+              <div class="h-56 w-full rounded-2xl bg-white p-5 flex items-center justify-center overflow-hidden mb-6 border border-border-subtle/60">
                 <img src="/infatrini.webp" alt="Danone Nutricia Infatrini" class="max-h-full object-contain group-hover:scale-105 transition-transform duration-300">
               </div>
-              <h3 class="text-lg font-bold font-display text-dark-pine">Danone Nutricia Infatrini (Đức)</h3>
-              <p class="text-xs text-text-muted mt-1.5 leading-relaxed">
-                Sữa dinh dưỡng y học cao năng lượng (100kcal/100ml) đặc trị cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng). Dạng nước 125ml và dạng bột 400g.
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Danone Nutricia Infatrini (Đức)</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-2 leading-relaxed">
+                Sữa dinh dưỡng y học cao năng lượng (100kcal/100ml) đặc trị cho bé sinh non, nhẹ cân, suy dinh dưỡng (0-18 tháng). Dạng nước 125ml và bột 400g.
               </p>
             </div>
-            <div class="pt-5 mt-5 border-t border-border-subtle flex items-center justify-between">
-              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md">Sẵn kho nước &amp; bột</span>
+            <div class="pt-6 mt-6 border-t border-border-subtle flex items-center justify-between">
+              <span class="text-xs font-bold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md">Sẵn kho nước &amp; bột</span>
               <button type="button" onclick="openLeadModal('Danone Infatrini Đức')"
-                class="px-3.5 py-1.5 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
+                class="px-4 py-2 rounded-xl bg-primary hover:bg-primary-hover text-white text-xs font-bold cursor-pointer">
                 Báo giá sỉ
               </button>
             </div>
@@ -486,61 +485,61 @@
       </div>
     </section>
 
-    <!-- SECTION 5: WAREHOUSE & PROOF (DIRECT H2 - NO PILL OVER HEADLINE) -->
-    <section class="py-16 sm:py-20 bg-surface-cream border-b border-border-subtle" id="warehouse">
+    <!-- SECTION 5: WAREHOUSE & PROOF (BENTO GRID) -->
+    <section class="py-20 sm:py-28 bg-surface-cream border-b border-border-subtle" id="warehouse">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="max-w-2xl mb-12">
+        <div class="max-w-2xl mb-14">
           <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
             Hạ tầng kho GSP &amp; Kiểm định chất lượng
           </h2>
-          <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1.5">
+          <p data-reveal class="text-xs sm:text-sm text-text-muted mt-2">
             Quy trình bảo quản nhiệt độ mát nghiêm ngặt để giữ trọn vẹn hoạt tính vi chất sinh học.
           </p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-12 gap-5">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-6">
           
           <!-- Bento 1: Kho GSP (7 cols) -->
           <div data-reveal class="md:col-span-7 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
-            <div class="p-6">
-              <h3 class="text-lg font-bold font-display text-dark-pine">Kho mát tiêu chuẩn GSP 24/7</h3>
-              <p class="text-xs text-text-muted mt-1">Duy trì mát dưới 25°C, chống ẩm mốc vỏ lon và bảo vệ hạt sữa.</p>
+            <div class="p-7">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Kho mát tiêu chuẩn GSP 24/7</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-1.5">Duy trì mát dưới 25°C, chống ẩm mốc vỏ lon và bảo vệ hạt sữa.</p>
             </div>
-            <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
+            <div class="h-60 sm:h-72 w-full overflow-hidden bg-slate-900">
               <img src="/kho-lanh-gsp.webp" alt="Kho bãi Baby A&M" class="w-full h-full object-cover">
             </div>
           </div>
 
           <!-- Bento 2: Lab kiểm nghiệm (5 cols) -->
           <div data-reveal class="md:col-span-5 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
-            <div class="p-6">
-              <h3 class="text-lg font-bold font-display text-dark-pine">Kiểm định từng lô nhập khẩu</h3>
-              <p class="text-xs text-text-muted mt-1">Đầy đủ hồ sơ kiểm nghiệm vi sinh và chứng từ hải quan.</p>
+            <div class="p-7">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Kiểm định từng lô nhập khẩu</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-1.5">Đầy đủ hồ sơ kiểm nghiệm vi sinh và chứng từ hải quan.</p>
             </div>
-            <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
+            <div class="h-60 sm:h-72 w-full overflow-hidden bg-slate-900">
               <img src="/kiem-dinh-lab.webp" alt="Kiểm định chất lượng" class="w-full h-full object-cover">
             </div>
           </div>
 
           <!-- Bento 3: Trang trại Úc (5 cols) -->
           <div data-reveal class="md:col-span-5 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
-            <div class="p-6">
-              <h3 class="text-lg font-bold font-display text-dark-pine">Đồng cỏ Victoria, Úc</h3>
-              <p class="text-xs text-text-muted mt-1">Nguồn sữa đạm A2 thuần chủng từ đàn bò nuôi thả sinh thái tự nhiên.</p>
+            <div class="p-7">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Đồng cỏ Victoria, Úc</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-1.5">Nguồn sữa đạm A2 thuần chủng từ đàn bò nuôi thả sinh thái tự nhiên.</p>
             </div>
-            <div class="h-52 w-full overflow-hidden bg-slate-900">
+            <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
               <img src="/dong-co-victoria.webp" alt="Đồng cỏ Victoria Úc" class="w-full h-full object-cover">
             </div>
           </div>
 
           <!-- Bento 4: Showroom đại lý (7 cols) -->
           <div data-reveal class="md:col-span-7 rounded-3xl overflow-hidden bg-white border border-border-subtle shadow-xs flex flex-col justify-between">
-            <div class="p-6">
-              <h3 class="text-lg font-bold font-display text-dark-pine">Hỗ trợ POSM &amp; Mẫu thử</h3>
-              <p class="text-xs text-text-muted mt-1">Cung cấp tài liệu đào tạo dinh dưỡng, hình ảnh marketing cho quầy kệ.</p>
+            <div class="p-7">
+              <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">Hỗ trợ POSM &amp; Mẫu thử</h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-1.5">Cung cấp tài liệu đào tạo dinh dưỡng, hình ảnh marketing cho quầy kệ.</p>
             </div>
-            <div class="h-52 w-full overflow-hidden bg-slate-900">
+            <div class="h-56 sm:h-64 w-full overflow-hidden bg-slate-900">
               <img src="/showroom-me-be.webp" alt="Cửa hàng mẹ bé" class="w-full h-full object-cover">
             </div>
           </div>
@@ -551,33 +550,33 @@
     </section>
 
     <!-- SECTION 6: WORKFLOW (3 STEPS) -->
-    <section class="py-16 sm:py-20 bg-white border-b border-border-subtle" id="workflow">
+    <section class="py-20 sm:py-28 bg-white border-b border-border-subtle" id="workflow">
       <div class="max-w-[1360px] mx-auto px-4 sm:px-6 lg:px-8">
         
-        <div class="text-center max-w-xl mx-auto mb-12">
-          <h2 data-reveal class="text-2xl sm:text-3xl font-bold font-display text-dark-pine">
+        <div class="text-center max-w-xl mx-auto mb-14">
+          <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
             Quy trình nhập sỉ 3 bước
           </h2>
-          <p data-reveal class="text-xs sm:text-sm text-text-muted mt-1">Đơn giản, minh bạch và giao hàng thần tốc.</p>
+          <p data-reveal class="text-xs sm:text-sm text-text-muted mt-2">Đơn giản, minh bạch và giao hàng thần tốc.</p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
-          <div data-reveal class="p-7 rounded-3xl bg-surface-cream border border-border-subtle">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-7 text-center">
+          <div data-reveal class="p-8 rounded-3xl bg-surface-cream border border-border-subtle">
             <span class="w-12 h-12 rounded-2xl bg-primary text-white font-bold text-lg flex items-center justify-center mx-auto mb-4 font-display shadow-sm">1</span>
-            <h3 class="font-bold text-base text-dark-pine mb-1">Gửi thông tin cửa hàng</h3>
-            <p class="text-xs text-text-muted">Điền biểu mẫu hoặc nhắn Zalo Hotline <strong>096 733 9539</strong>.</p>
+            <h3 class="font-bold text-base sm:text-lg text-dark-pine mb-1.5">Gửi thông tin cửa hàng</h3>
+            <p class="text-xs sm:text-sm text-text-muted">Điền biểu mẫu hoặc nhắn Zalo Hotline <strong>096 733 9539</strong>.</p>
           </div>
 
-          <div data-reveal class="p-7 rounded-3xl bg-surface-cream border border-border-subtle">
+          <div data-reveal class="p-8 rounded-3xl bg-surface-cream border border-border-subtle">
             <span class="w-12 h-12 rounded-2xl bg-primary text-white font-bold text-lg flex items-center justify-center mx-auto mb-4 font-display shadow-sm">2</span>
-            <h3 class="font-bold text-base text-dark-pine mb-1">Nhận báo giá chi tiết</h3>
-            <p class="text-xs text-text-muted">Chuyên viên Baby A&amp;M gửi bảng chiết khấu sau 15 phút.</p>
+            <h3 class="font-bold text-base sm:text-lg text-dark-pine mb-1.5">Nhận báo giá chi tiết</h3>
+            <p class="text-xs sm:text-sm text-text-muted">Chuyên viên Baby A&amp;M gửi bảng chiết khấu sau 15 phút.</p>
           </div>
 
-          <div data-reveal class="p-7 rounded-3xl bg-surface-cream border border-border-subtle">
+          <div data-reveal class="p-8 rounded-3xl bg-surface-cream border border-border-subtle">
             <span class="w-12 h-12 rounded-2xl bg-primary text-white font-bold text-lg flex items-center justify-center mx-auto mb-4 font-display shadow-sm">3</span>
-            <h3 class="font-bold text-base text-dark-pine mb-1">Giao hàng &amp; Hóa đơn</h3>
-            <p class="text-xs text-text-muted">Xuất kho 24-48h tận nơi, xuất hóa đơn VAT điện tử.</p>
+            <h3 class="font-bold text-base sm:text-lg text-dark-pine mb-1.5">Giao hàng &amp; Hóa đơn</h3>
+            <p class="text-xs sm:text-sm text-text-muted">Xuất kho 24-48h tận nơi, xuất hóa đơn VAT điện tử.</p>
           </div>
         </div>
 
@@ -585,48 +584,48 @@
     </section>
 
     <!-- SECTION 7: FAQ -->
-    <section class="py-16 sm:py-20 bg-surface-cream border-b border-border-subtle" id="faq">
+    <section class="py-20 sm:py-28 bg-surface-cream border-b border-border-subtle" id="faq">
       <div class="max-w-3xl mx-auto px-4 sm:px-6">
         
-        <div class="text-center mb-10">
-          <h2 data-reveal class="text-2xl sm:text-3xl font-bold font-display text-dark-pine">
+        <div class="text-center mb-12">
+          <h2 data-reveal class="text-2xl sm:text-3xl lg:text-4xl font-bold font-display text-dark-pine">
             Câu hỏi thường gặp
           </h2>
         </div>
 
-        <div class="space-y-3.5">
-          <details class="bg-white rounded-2xl border border-border-subtle p-4 sm:p-5 cursor-pointer shadow-xs" open>
-            <summary class="font-bold text-xs sm:text-sm text-dark-pine">
+        <div class="space-y-4">
+          <details class="bg-white rounded-2xl border border-border-subtle p-5 sm:p-6 cursor-pointer shadow-xs" open>
+            <summary class="font-bold text-sm sm:text-base text-dark-pine">
               1. Đơn hàng đầu tiên lấy tối thiểu bao nhiêu?
             </summary>
-            <p class="text-xs text-text-muted mt-2 pt-2 border-t border-border-subtle leading-relaxed">
+            <p class="text-xs sm:text-sm text-text-muted mt-3 pt-3 border-t border-border-subtle leading-relaxed">
               Hỗ trợ đơn thử nghiệm chỉ từ 1 thùng để các cửa hàng, nhà thuốc thăm dò nhu cầu khách quen.
             </p>
           </details>
 
-          <details class="bg-white rounded-2xl border border-border-subtle p-4 sm:p-5 cursor-pointer shadow-xs">
-            <summary class="font-bold text-xs sm:text-sm text-dark-pine">
+          <details class="bg-white rounded-2xl border border-border-subtle p-5 sm:p-6 cursor-pointer shadow-xs">
+            <summary class="font-bold text-sm sm:text-base text-dark-pine">
               2. Có xuất hóa đơn VAT điện tử không?
             </summary>
-            <p class="text-xs text-text-muted mt-2 pt-2 border-t border-border-subtle leading-relaxed">
+            <p class="text-xs sm:text-sm text-text-muted mt-3 pt-3 border-t border-border-subtle leading-relaxed">
               100% đơn hàng xuất hóa đơn VAT điện tử kèm tem phụ tiếng Việt và phiếu kiểm nghiệm theo quy định.
             </p>
           </details>
 
-          <details class="bg-white rounded-2xl border border-border-subtle p-4 sm:p-5 cursor-pointer shadow-xs">
-            <summary class="font-bold text-xs sm:text-sm text-dark-pine">
+          <details class="bg-white rounded-2xl border border-border-subtle p-5 sm:p-6 cursor-pointer shadow-xs">
+            <summary class="font-bold text-sm sm:text-base text-dark-pine">
               3. Xử lý thế nào nếu lon sữa bị móp méo khi vận chuyển?
             </summary>
-            <p class="text-xs text-text-muted mt-2 pt-2 border-t border-border-subtle leading-relaxed">
+            <p class="text-xs sm:text-sm text-text-muted mt-3 pt-3 border-t border-border-subtle leading-relaxed">
               Baby A&amp;M đổi mới 1:1 miễn phí ngay khi nhận video khui kiện từ đại lý, không phát sinh chi phí.
             </p>
           </details>
 
-          <details class="bg-white rounded-2xl border border-border-subtle p-4 sm:p-5 cursor-pointer shadow-xs">
-            <summary class="font-bold text-xs sm:text-sm text-dark-pine">
+          <details class="bg-white rounded-2xl border border-border-subtle p-5 sm:p-6 cursor-pointer shadow-xs">
+            <summary class="font-bold text-sm sm:text-base text-dark-pine">
               4. Thời gian giao hàng bao lâu?
             </summary>
-            <p class="text-xs text-text-muted mt-2 pt-2 border-t border-border-subtle leading-relaxed">
+            <p class="text-xs sm:text-sm text-text-muted mt-3 pt-3 border-t border-border-subtle leading-relaxed">
               Nội thành Hà Nội và TP.HCM trong ngày. Các tỉnh thành khác từ 24 - 48h qua đối tác vận chuyển chuyên nghiệp.
             </p>
           </details>
@@ -635,63 +634,187 @@
       </div>
     </section>
 
-    <!-- SECTION 8: BOTTOM CTA -->
-    <section class="py-16 sm:py-20 bg-dark-pine text-white text-center">
-      <div class="max-w-xl mx-auto px-4 sm:px-6 space-y-4">
-        <h2 data-reveal class="text-2xl sm:text-3xl font-bold font-display">
-          Nhận bảng giá sỉ độc quyền hôm nay
-        </h2>
-        <p data-reveal class="text-xs sm:text-sm text-white/70">
-          Chuyên viên Baby A&amp;M tư vấn mức chiết khấu tốt nhất cho cửa hàng của bạn.
-        </p>
-        <div data-reveal class="flex flex-col sm:flex-row items-center justify-center gap-3 pt-2">
-          <button type="button" onclick="scrollToForm()" class="w-full sm:w-auto px-7 py-3.5 rounded-xl bg-white text-primary font-bold text-xs sm:text-sm hover:bg-slate-100 cursor-pointer shadow-sm">
-            Điền form nhận giá
-          </button>
-          <a href="https://zalo.me/0967339539" target="_blank" rel="noreferrer" class="w-full sm:w-auto px-7 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm flex items-center justify-center gap-1.5 shadow-sm">
-            <i class="ph-bold ph-chat-circle-dots text-lg"></i>
-            <span>Chat Zalo: 096 733 9539</span>
-          </a>
+    <!-- SECTION 8: BOTTOM LEAD FORM & CONVERSION HUB (FULL SECTION BEFORE FOOTER) -->
+    <section class="py-20 sm:py-28 bg-gradient-to-b from-[#F2F6F3] via-white to-[#EEF5F0] border-b border-border-subtle" id="bottom-form">
+      <div class="max-w-[1140px] mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="grid gap-8 lg:grid-cols-12 lg:items-stretch">
+          
+          <!-- LEFT (7 COLS): FULL EMBEDDED FORM -->
+          <div data-reveal class="lg:col-span-7 flex flex-col justify-center rounded-3xl bg-white p-7 sm:p-9 shadow-xl border border-primary/20">
+            <div class="mb-5">
+              <h3 class="text-xl sm:text-2xl font-bold font-display text-dark-pine">
+                Đăng ký nhận báo giá sỉ &amp; chính sách
+              </h3>
+              <p class="text-xs sm:text-sm text-text-muted mt-1">
+                Gửi thông tin để chuyên viên kinh doanh gửi bảng giá chiết khấu đại lý qua Zalo.
+              </p>
+            </div>
+
+            <div id="bottomFormAlert" class="hidden mb-4 p-3.5 rounded-xl text-xs font-medium"></div>
+
+            <form id="bottomLeadForm" class="space-y-3.5" novalidate>
+              <div>
+                <label for="bottomName" class="block text-xs font-bold text-slate-800 mb-1">
+                  Họ tên / Tên cửa hàng <span class="text-red-500">*</span>
+                </label>
+                <input type="text" id="bottomName" required placeholder="Ví dụ: Nguyễn Văn B (Shop Bé Yêu)"
+                  class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all">
+              </div>
+
+              <div>
+                <label for="bottomPhone" class="block text-xs font-bold text-slate-800 mb-1">
+                  Số điện thoại Zalo nhận báo giá <span class="text-red-500">*</span>
+                </label>
+                <input type="tel" id="bottomPhone" required placeholder="09xx xxx xxx"
+                  class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all">
+              </div>
+
+              <div class="grid grid-cols-2 gap-3">
+                <div>
+                  <label for="bottomArea" class="block text-xs font-bold text-slate-800 mb-1">
+                    Tỉnh / Thành phố <span class="text-red-500">*</span>
+                  </label>
+                  <input type="text" id="bottomArea" required placeholder="Hà Nội, TP.HCM..."
+                    class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary outline-none">
+                </div>
+                <div>
+                  <label for="bottomModel" class="block text-xs font-bold text-slate-800 mb-1">
+                    Mô hình
+                  </label>
+                  <select id="bottomModel"
+                    class="w-full text-xs sm:text-sm px-3 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary outline-none">
+                    <option value="Shop Mẹ & Bé">Shop Mẹ &amp; Bé</option>
+                    <option value="Nhà thuốc">Nhà thuốc</option>
+                    <option value="Đại lý phân phối">Đại lý phân phối</option>
+                    <option value="Bán online / CTV">Bán online / CTV</option>
+                  </select>
+                </div>
+              </div>
+
+              <div>
+                <label class="block text-xs font-bold text-slate-800 mb-1.5">Dòng sản phẩm quan tâm:</label>
+                <div class="grid grid-cols-2 gap-2 text-xs" id="bottomProductChips">
+                  <label class="flex items-center gap-1.5 p-2 rounded-xl border border-border-subtle bg-surface-cream-subtle/40 hover:border-primary/40 cursor-pointer">
+                    <input type="checkbox" name="bottomProd" value="Future Organic A2 (Úc)" checked class="rounded text-primary focus:ring-0">
+                    <span class="text-[11px] font-medium leading-tight">Future Organic A2</span>
+                  </label>
+                  <label class="flex items-center gap-1.5 p-2 rounded-xl border border-border-subtle bg-surface-cream-subtle/40 hover:border-primary/40 cursor-pointer">
+                    <input type="checkbox" name="bottomProd" value="Future A2 Protein (Úc)" checked class="rounded text-primary focus:ring-0">
+                    <span class="text-[11px] font-medium leading-tight">Future A2 Protein</span>
+                  </label>
+                  <label class="flex items-center gap-1.5 p-2 rounded-xl border border-border-subtle bg-surface-cream-subtle/40 hover:border-primary/40 cursor-pointer">
+                    <input type="checkbox" name="bottomProd" value="Danone Infatrini Đức" checked class="rounded text-primary focus:ring-0">
+                    <span class="text-[11px] font-medium leading-tight">Danone Infatrini</span>
+                  </label>
+                  <label class="flex items-center gap-1.5 p-2 rounded-xl border border-border-subtle bg-surface-cream-subtle/40 hover:border-primary/40 cursor-pointer">
+                    <input type="checkbox" name="bottomProd" value="Horizon Organic Mỹ" class="rounded text-primary focus:ring-0">
+                    <span class="text-[11px] font-medium leading-tight">Horizon Organic</span>
+                  </label>
+                </div>
+              </div>
+
+              <button type="submit" id="bottomSubmitBtn"
+                class="w-full mt-2.5 py-3.5 px-6 rounded-2xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white font-bold text-sm sm:text-base shadow-md shadow-primary/25 transition-all transform active:scale-98 flex items-center justify-center gap-2 cursor-pointer">
+                <i class="ph-bold ph-paper-plane-tilt text-lg"></i>
+                <span id="bottomBtnText">Gửi thông tin nhận báo giá sỉ</span>
+              </button>
+
+              <p class="text-[11px] text-center text-text-muted pt-1">
+                Bảo mật thông tin đối tác 100%. Phản hồi qua Zalo trong 15 phút.
+              </p>
+            </form>
+          </div>
+
+          <!-- RIGHT (5 COLS): TRUST BANNER & DIRECT CONNECT -->
+          <div data-reveal class="lg:col-span-5 flex flex-col justify-between rounded-3xl bg-dark-pine text-white p-7 sm:p-9 shadow-2xl relative overflow-hidden">
+            <div class="glow absolute -right-20 -bottom-20 h-72 w-72 rounded-full bg-primary/30"></div>
+
+            <div class="relative space-y-4">
+              <h3 class="text-xl sm:text-2xl font-bold font-display text-white">
+                Đồng hành bền vững cùng Baby A&amp;M
+              </h3>
+              <p class="text-xs sm:text-sm text-white/75 leading-relaxed">
+                Chúng tôi cung cấp giải pháp nguồn hàng trọn gói: chất lượng chuẩn y khoa, hóa đơn chứng từ đầy đủ và bảo hiểm hàng hóa 100%.
+              </p>
+
+              <div class="h-44 w-full rounded-2xl overflow-hidden my-3 border border-white/10">
+                <img src="/about-image.webp" alt="Mẹ và bé Baby A&M" class="w-full h-full object-cover">
+              </div>
+
+              <div class="space-y-2 text-xs sm:text-sm text-white/90">
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-emerald-400"></i>
+                  <span>Hỗ trợ đại lý mới từ 1 thùng thử nghiệm</span>
+                </p>
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-emerald-400"></i>
+                  <span>Hóa đơn điện tử VAT xuất đúng tên doanh nghiệp</span>
+                </p>
+                <p class="flex items-center gap-2">
+                  <i class="ph-bold ph-check text-emerald-400"></i>
+                  <span>Đổi mới 1:1 miễn phí nếu móp méo va đập</span>
+                </p>
+              </div>
+            </div>
+
+            <div class="relative pt-6 mt-6 border-t border-white/15 space-y-3">
+              <a href="tel:0967339539" class="w-full py-3 px-4 rounded-xl bg-white/10 hover:bg-white/20 text-white font-bold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all">
+                <i class="ph-bold ph-phone text-emerald-400 text-base"></i>
+                <span>Hotline trực tiếp: 096 733 9539</span>
+              </a>
+
+              <a href="https://zalo.me/0967339539" target="_blank" rel="noreferrer" class="w-full py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all">
+                <i class="ph-bold ph-chat-circle-dots text-base"></i>
+                <span>Nhắn tin Zalo nhận giá ngay</span>
+              </a>
+            </div>
+
+          </div>
+
         </div>
+
       </div>
     </section>
 
   </main>
 
   <!-- FOOTER -->
-  <footer class="bg-dark-pine text-white/60 py-8 border-t border-white/10 text-xs text-center">
-    <div class="max-w-[1360px] mx-auto px-4 space-y-1.5">
-      <p class="font-bold text-white">CÔNG TY TNHH BABY A&amp;M</p>
+  <footer class="bg-dark-pine text-white/60 py-10 border-t border-white/10 text-xs text-center">
+    <div class="max-w-[1360px] mx-auto px-4 space-y-2">
+      <p class="font-bold text-white text-sm">CÔNG TY TNHH BABY A&amp;M</p>
       <p>5a Đoàn Thị Điểm, Di Linh, Lâm Đồng | Hotline: 096 733 9539 | Email: ctyankhaiminh@gmail.com</p>
       <p class="text-[11px] text-white/40 pt-1">© 2026 Baby A&amp;M. Mọi quyền được bảo lưu.</p>
     </div>
   </footer>
 
   <!-- MOBILE STICKY BAR -->
-  <aside class="fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-border-subtle p-2.5 flex md:hidden items-center gap-2 shadow-xl">
-    <a href="tel:0967339539" class="w-11 h-11 rounded-xl bg-surface-cream border border-border-subtle text-primary flex items-center justify-center shrink-0">
-      <i class="ph-bold ph-phone text-lg"></i>
+  <aside class="fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-border-subtle p-2.5 flex md:hidden items-center gap-2.5 shadow-xl">
+    <a href="tel:0967339539" class="w-12 h-12 rounded-2xl bg-surface-cream border border-border-subtle text-primary flex items-center justify-center shrink-0 shadow-xs">
+      <i class="ph-bold ph-phone text-xl"></i>
     </a>
-    <a href="https://zalo.me/0967339539" target="_blank" rel="noreferrer" class="w-11 h-11 rounded-xl bg-emerald-50 text-emerald-700 border border-emerald-200 flex items-center justify-center shrink-0">
-      <i class="ph-bold ph-chat-circle-dots text-lg"></i>
+    <a href="https://zalo.me/0967339539" target="_blank" rel="noreferrer" class="w-12 h-12 rounded-2xl bg-emerald-50 text-emerald-700 border border-emerald-200 flex items-center justify-center shrink-0 shadow-xs">
+      <i class="ph-bold ph-chat-circle-dots text-xl"></i>
     </a>
     <button type="button" onclick="openLeadModal('Nút mobile sticky')"
-      class="flex-1 h-11 rounded-xl bg-primary text-white font-bold text-xs flex items-center justify-center gap-1 cursor-pointer">
+      class="flex-1 h-12 rounded-2xl bg-gradient-to-r from-primary to-primary-container text-white font-bold text-xs flex items-center justify-center gap-1.5 cursor-pointer shadow-md">
+      <i class="ph-bold ph-file-text text-base"></i>
       <span>Nhận báo giá sỉ</span>
     </button>
   </aside>
 
-  <!-- QUICK LEAD MODAL -->
-  <div id="leadModal" role="dialog" aria-modal="true" class="hidden fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/60 backdrop-blur-xs">
-    <div class="relative w-full max-w-[460px] rounded-3xl bg-white p-6 sm:p-7 shadow-2xl text-slate-900" onclick="event.stopPropagation()">
+  <!-- QUICK LEAD MODAL POPUP (AUTO POPUP + CLICK TRIGGER) -->
+  <div id="leadModal" role="dialog" aria-modal="true" class="hidden fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/65 backdrop-blur-xs transition-opacity duration-300">
+    <div class="relative w-full max-w-[480px] rounded-3xl bg-white p-6 sm:p-8 shadow-2xl text-slate-900 border border-slate-100" onclick="event.stopPropagation()">
       
+      <!-- Close Button -->
       <button type="button" onclick="closeLeadModal()" aria-label="Đóng"
-        class="absolute right-4 top-4 flex h-9 w-9 items-center justify-center rounded-full bg-slate-100 text-slate-600 hover:bg-slate-200 cursor-pointer">
+        class="absolute right-4 top-4 flex h-9 w-9 items-center justify-center rounded-full bg-slate-100 text-slate-600 hover:bg-slate-200 active:scale-90 transition-all cursor-pointer">
         <i class="ph-bold ph-x text-base"></i>
       </button>
 
       <div class="mb-4 pr-6">
-        <h3 class="text-base sm:text-lg font-bold font-display text-dark-pine">
+        <h3 class="text-lg sm:text-xl font-bold font-display text-dark-pine">
           Nhận bảng giá sỉ chi tiết
         </h3>
         <p class="text-xs text-text-muted mt-0.5">Phản hồi qua Zalo trong 15 phút kèm file PDF/Excel.</p>
@@ -699,31 +822,35 @@
 
       <div id="modalAlert" class="hidden mb-3 p-3 rounded-xl text-xs font-medium"></div>
 
-      <form id="modalLeadForm" class="space-y-3" novalidate>
+      <form id="modalLeadForm" class="space-y-3.5" novalidate>
         <input type="hidden" id="modalProductTarget" value="Tất cả sản phẩm">
 
         <div>
-          <label class="block text-xs font-bold text-slate-800 mb-1">Họ tên / Tên shop *</label>
+          <label class="block text-xs font-bold text-slate-800 mb-1">Họ tên / Tên shop <span class="text-red-500">*</span></label>
           <input type="text" id="modalName" required placeholder="Chị Mai (Shop Mẹ Bé)"
-            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-white focus:border-primary outline-none">
+            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary outline-none">
         </div>
 
         <div>
-          <label class="block text-xs font-bold text-slate-800 mb-1">Số điện thoại Zalo *</label>
+          <label class="block text-xs font-bold text-slate-800 mb-1">Số điện thoại Zalo <span class="text-red-500">*</span></label>
           <input type="tel" id="modalPhone" required placeholder="09xx xxx xxx"
-            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-white focus:border-primary outline-none">
+            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary outline-none">
         </div>
 
         <div>
-          <label class="block text-xs font-bold text-slate-800 mb-1">Tỉnh / Thành phố *</label>
+          <label class="block text-xs font-bold text-slate-800 mb-1">Tỉnh / Thành phố <span class="text-red-500">*</span></label>
           <input type="text" id="modalArea" required placeholder="Hà Nội, TP.HCM..."
-            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-white focus:border-primary outline-none">
+            class="w-full text-xs sm:text-sm px-3.5 py-2.5 rounded-xl border border-border-subtle bg-surface-cream-subtle/50 focus:border-primary outline-none">
         </div>
 
         <button type="submit" id="modalSubmitBtn"
-          class="w-full mt-2 py-3.5 px-5 rounded-2xl bg-primary hover:bg-primary-hover text-white font-bold text-xs sm:text-sm cursor-pointer shadow-sm">
+          class="w-full mt-2 py-3.5 px-5 rounded-2xl bg-gradient-to-r from-primary to-primary-container hover:from-primary-hover hover:to-primary text-white font-bold text-xs sm:text-sm cursor-pointer shadow-md shadow-primary/20 transition-all">
           <span id="modalBtnText">Gửi yêu cầu báo giá</span>
         </button>
+
+        <p class="text-[11px] text-center text-text-muted pt-1">
+          Bảo mật thông tin. Bảng giá sỉ gửi riêng qua Zalo.
+        </p>
       </form>
 
     </div>
@@ -732,7 +859,7 @@
   <script>
     const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzj3LAG3gzY8odpSpOXlUAFKMmimfqCPVrTkw-Pvg-VhwZgRkQgejH7zE7kjG7cnUNk/exec";
 
-    // Lenis Smooth Scroll & GSAP ScrollTrigger
+    // 1. Lenis Smooth Scroll & GSAP ScrollTrigger
     document.addEventListener('DOMContentLoaded', () => {
       if (typeof Lenis !== 'undefined' && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
         const lenis = new Lenis({
@@ -750,13 +877,13 @@
 
           // Hero reveal
           gsap.timeline({ defaults: { ease: 'power3.out' } })
-            .fromTo('[data-hero-line]', { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.65, stagger: 0.08 }, 0.1)
-            .fromTo('[data-hero-form]', { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.75 }, 0.25);
+            .fromTo('[data-hero-line]', { y: 22, opacity: 0 }, { y: 0, opacity: 1, duration: 0.65, stagger: 0.08 }, 0.1)
+            .fromTo('[data-hero-form]', { y: 22, opacity: 0 }, { y: 0, opacity: 1, duration: 0.75 }, 0.25);
 
           // Reveal on scroll
           document.querySelectorAll('[data-reveal]').forEach((el) => {
             gsap.fromTo(el, 
-              { y: 18, opacity: 0 },
+              { y: 20, opacity: 0 },
               {
                 y: 0,
                 opacity: 1,
@@ -772,17 +899,18 @@
           });
         }
       }
+
+      // 2. Auto Popup Modal After 8 Seconds (TrialPopup style)
+      if (sessionStorage.getItem('babyam_popup_dismissed') !== 'true') {
+        setTimeout(() => {
+          if (sessionStorage.getItem('babyam_popup_dismissed') !== 'true') {
+            openLeadModal('Tự động bật sau 8s');
+          }
+        }, 8000);
+      }
     });
 
-    function scrollToForm() {
-      const el = document.getElementById('form-container');
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        const nameInput = document.getElementById('heroName');
-        if (nameInput) setTimeout(() => nameInput.focus(), 350);
-      }
-    }
-
+    // 3. Modal Handlers
     function openLeadModal(productName = 'Tất cả sản phẩm') {
       const modal = document.getElementById('leadModal');
       const targetInput = document.getElementById('modalProductTarget');
@@ -791,7 +919,7 @@
         modal.classList.remove('hidden');
         modal.classList.add('flex');
         const nameInput = document.getElementById('modalName');
-        if (nameInput) setTimeout(() => nameInput.focus(), 200);
+        if (nameInput) setTimeout(() => nameInput.focus(), 250);
       }
     }
 
@@ -801,6 +929,7 @@
         modal.classList.add('hidden');
         modal.classList.remove('flex');
       }
+      sessionStorage.setItem('babyam_popup_dismissed', 'true');
     }
 
     document.getElementById('leadModal')?.addEventListener('click', (e) => {
@@ -811,16 +940,17 @@
       if (e.key === 'Escape') closeLeadModal();
     });
 
+    // 4. Shared Lead Submission Handler
     async function submitLeadData({ fullName, phone, area, model, productInterest, alertBox, submitBtn, btnTextEl, onSuccessCallback }) {
       if (!fullName || !phone || !area) {
-        alertBox.className = 'block mb-3 p-3 rounded-xl bg-amber-50 text-amber-900 border border-amber-200 text-xs font-semibold';
+        alertBox.className = 'block mb-3.5 p-3 rounded-xl bg-amber-50 text-amber-900 border border-amber-200 text-xs font-semibold';
         alertBox.textContent = 'Vui lòng điền đủ Họ tên, Số điện thoại và Tỉnh/Thành phố.';
         return;
       }
 
       const cleanPhone = phone.replace(/[\s\.\-\(\)]/g, '');
       if (!/^(0|\+84)[3|5|7|8|9][0-9]{8}$/.test(cleanPhone)) {
-        alertBox.className = 'block mb-3 p-3 rounded-xl bg-amber-50 text-amber-900 border border-amber-200 text-xs font-semibold';
+        alertBox.className = 'block mb-3.5 p-3 rounded-xl bg-amber-50 text-amber-900 border border-amber-200 text-xs font-semibold';
         alertBox.textContent = 'Số điện thoại không hợp lệ. Vui lòng nhập đúng 10 số để nhận bảng giá qua Zalo.';
         return;
       }
@@ -862,7 +992,7 @@
           } catch(err) {}
         }
 
-        alertBox.className = 'block mb-3 p-3.5 rounded-xl bg-emerald-50 text-emerald-950 border border-emerald-300 text-xs space-y-1.5';
+        alertBox.className = 'block mb-3.5 p-4 rounded-xl bg-emerald-50 text-emerald-950 border border-emerald-300 text-xs space-y-1.5';
         alertBox.replaceChildren();
 
         const msgP = document.createElement('p');
@@ -876,7 +1006,7 @@
 
         if (onSuccessCallback) onSuccessCallback();
       } catch (err) {
-        alertBox.className = 'block mb-3 p-3 rounded-xl bg-emerald-50 text-emerald-900 border border-emerald-200 text-xs';
+        alertBox.className = 'block mb-3.5 p-3 rounded-xl bg-emerald-50 text-emerald-900 border border-emerald-200 text-xs';
         alertBox.textContent = 'Đã ghi nhận thông tin. Quý khách có thể kết nối ngay qua Zalo 096 733 9539.';
       } finally {
         submitBtn.disabled = false;
@@ -884,6 +1014,7 @@
       }
     }
 
+    // 5. Hero Form Listener
     document.getElementById('heroLeadForm')?.addEventListener('submit', (e) => {
       e.preventDefault();
       const selectedProds = Array.from(document.querySelectorAll('input[name="heroProd"]:checked')).map(cb => cb.value);
@@ -900,6 +1031,24 @@
       });
     });
 
+    // 6. Bottom Form Listener
+    document.getElementById('bottomLeadForm')?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const selectedProds = Array.from(document.querySelectorAll('input[name="bottomProd"]:checked')).map(cb => cb.value);
+      submitLeadData({
+        fullName: document.getElementById('bottomName').value.trim(),
+        phone: document.getElementById('bottomPhone').value.trim(),
+        area: document.getElementById('bottomArea').value.trim(),
+        model: document.getElementById('bottomModel').value,
+        productInterest: selectedProds.length ? selectedProds.join(' | ') : 'Tất cả sản phẩm',
+        alertBox: document.getElementById('bottomFormAlert'),
+        submitBtn: document.getElementById('bottomSubmitBtn'),
+        btnTextEl: document.getElementById('bottomBtnText'),
+        onSuccessCallback: () => document.getElementById('bottomLeadForm').reset()
+      });
+    });
+
+    // 7. Modal Form Listener
     document.getElementById('modalLeadForm')?.addEventListener('submit', (e) => {
       e.preventDefault();
       submitLeadData({
@@ -913,7 +1062,7 @@
         btnTextEl: document.getElementById('modalBtnText'),
         onSuccessCallback: () => {
           document.getElementById('modalLeadForm').reset();
-          setTimeout(closeLeadModal, 3000);
+          setTimeout(closeLeadModal, 2500);
         }
       });
     });
